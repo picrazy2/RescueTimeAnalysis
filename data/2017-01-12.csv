@@ -1,0 +1,202 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2017-01-12T00:00:00,85,1,facebook.com,General Social Networking,-2
+2017-01-12T00:10:00,71,1,translate.google.com,Search,1
+2017-01-12T00:10:00,5,1,Safari,Browsers,2
+2017-01-12T00:10:00,1,1,usernotificationcenter,General Utilities,0
+2017-01-12T00:15:00,297,1,translate.google.com,Search,1
+2017-01-12T00:15:00,3,1,Mail,Email,2
+2017-01-12T00:20:00,300,1,translate.google.com,Search,1
+2017-01-12T00:25:00,32,1,translate.google.com,Search,1
+2017-01-12T00:25:00,15,1,facebook.com,General Social Networking,-2
+2017-01-12T00:30:00,300,1,facebook.com,General Social Networking,-2
+2017-01-12T00:35:00,262,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T00:35:00,4,1,facebook.com,General Social Networking,-2
+2017-01-12T00:35:00,2,1,Safari,Browsers,2
+2017-01-12T00:50:00,207,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T00:55:00,50,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T00:55:00,17,1,loginwindow,General Utilities,0
+2017-01-12T08:45:00,13,1,rescuetime.com,Intelligence,0
+2017-01-12T08:45:00,4,1,mathematica,Engineering & Technology,2
+2017-01-12T08:50:00,164,1,rescuetime.com,Intelligence,0
+2017-01-12T08:50:00,51,1,loginwindow,General Utilities,0
+2017-01-12T08:55:00,124,1,Finder,General Utilities,0
+2017-01-12T08:55:00,26,1,messages,General Social Networking,-2
+2017-01-12T08:55:00,5,1,rescuetime.com,Intelligence,0
+2017-01-12T09:00:00,190,1,rescuetime.com,Intelligence,0
+2017-01-12T09:00:00,84,1,Finder,General Utilities,0
+2017-01-12T09:00:00,19,1,loginwindow,General Utilities,0
+2017-01-12T09:00:00,6,1,messages,General Social Networking,-2
+2017-01-12T09:05:00,18,1,loginwindow,General Utilities,0
+2017-01-12T09:05:00,15,1,Finder,General Utilities,0
+2017-01-12T09:20:00,236,1,mathematica,Engineering & Technology,2
+2017-01-12T09:20:00,36,1,loginwindow,General Utilities,0
+2017-01-12T09:20:00,8,1,messages,General Social Networking,-2
+2017-01-12T09:20:00,3,1,Finder,General Utilities,0
+2017-01-12T09:30:00,85,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T09:30:00,22,1,google.com,Search,2
+2017-01-12T09:30:00,7,1,rescuetime.com,Intelligence,0
+2017-01-12T09:30:00,7,1,Safari,Browsers,2
+2017-01-12T09:30:00,6,1,messages,General Social Networking,-2
+2017-01-12T09:30:00,3,1,mathematica,Engineering & Technology,2
+2017-01-12T09:30:00,1,1,apcentral.collegeboard.com,General Reference & Learning,1
+2017-01-12T09:35:00,165,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T09:35:00,50,1,thebeijinger.com,General News & Opinion,-2
+2017-01-12T09:35:00,43,1,google.com,Search,2
+2017-01-12T09:35:00,32,1,baidu.com,Search,2
+2017-01-12T09:35:00,7,1,Safari,Browsers,2
+2017-01-12T09:40:00,122,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T09:40:00,17,1,loginwindow,General Utilities,0
+2017-01-12T11:05:00,8,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T11:10:00,212,1,youtube.com,Video,-2
+2017-01-12T11:10:00,38,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T11:10:00,20,1,System Preferences,General Utilities,0
+2017-01-12T11:10:00,18,1,thebeijinger.com,General News & Opinion,-2
+2017-01-12T11:10:00,7,1,Safari,Browsers,2
+2017-01-12T11:10:00,4,1,Mail,Email,2
+2017-01-12T11:10:00,1,1,translate.google.com,Search,1
+2017-01-12T11:15:00,203,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T11:15:00,90,1,youtube.com,Video,-2
+2017-01-12T11:15:00,5,1,Safari,Browsers,2
+2017-01-12T11:15:00,2,1,google.com,Search,2
+2017-01-12T11:20:00,115,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T11:20:00,1,1,usernotificationcenter,General Utilities,0
+2017-01-12T11:45:00,3,1,usernotificationcenter,General Utilities,0
+2017-01-12T11:45:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T12:00:00,71,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T12:00:00,3,1,youtube.com,Video,-2
+2017-01-12T12:00:00,1,1,usernotificationcenter,General Utilities,0
+2017-01-12T12:05:00,294,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T12:05:00,6,1,youtube.com,Video,-2
+2017-01-12T12:10:00,100,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T12:10:00,49,1,youtube.com,Video,-2
+2017-01-12T12:10:00,4,1,System Preferences,General Utilities,0
+2017-01-12T13:05:00,90,1,Google Documents,Writing,2
+2017-01-12T13:05:00,47,1,messages,General Social Networking,-2
+2017-01-12T13:05:00,35,1,facebook.com,General Social Networking,-2
+2017-01-12T13:05:00,14,1,icloud.com,General Software Development,2
+2017-01-12T13:05:00,12,1,System Preferences,General Utilities,0
+2017-01-12T13:05:00,5,1,Safari,Browsers,2
+2017-01-12T13:05:00,3,1,usernotificationcenter,General Utilities,0
+2017-01-12T13:05:00,3,1,Mail,Email,2
+2017-01-12T13:05:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T13:10:00,203,1,Skype,General Social Networking,-2
+2017-01-12T13:10:00,49,1,icloud.com,General Software Development,2
+2017-01-12T13:10:00,23,1,messages,General Social Networking,-2
+2017-01-12T13:10:00,21,1,facebook.com,General Social Networking,-2
+2017-01-12T13:10:00,3,1,Google Documents,Writing,2
+2017-01-12T13:15:00,181,1,Google Documents,Writing,2
+2017-01-12T13:15:00,117,1,Skype,General Social Networking,-2
+2017-01-12T13:15:00,2,1,facebook.com,General Social Networking,-2
+2017-01-12T13:20:00,205,1,Skype,General Social Networking,-2
+2017-01-12T13:20:00,85,1,Google Documents,Writing,2
+2017-01-12T13:20:00,10,1,desmos.com,General Reference & Learning,1
+2017-01-12T13:25:00,256,1,Skype,General Social Networking,-2
+2017-01-12T13:25:00,44,1,Google Documents,Writing,2
+2017-01-12T13:30:00,157,1,Skype,General Social Networking,-2
+2017-01-12T13:30:00,143,1,Google Documents,Writing,2
+2017-01-12T13:35:00,224,1,Mail,Email,2
+2017-01-12T13:35:00,62,1,Google Documents,Writing,2
+2017-01-12T13:35:00,7,1,Safari,Browsers,2
+2017-01-12T13:35:00,4,1,giphy.com,General Entertainment,-2
+2017-01-12T13:35:00,1,1,desmos.com,General Reference & Learning,1
+2017-01-12T13:40:00,154,1,Mail,Email,2
+2017-01-12T13:40:00,105,1,Skype,General Social Networking,-2
+2017-01-12T13:40:00,41,1,java updater,General Utilities,1
+2017-01-12T13:45:00,201,1,Skype,General Social Networking,-2
+2017-01-12T13:45:00,68,1,SecurityAgent,Systems Operations,0
+2017-01-12T13:45:00,17,1,loginwindow,General Utilities,0
+2017-01-12T13:45:00,5,1,Mail,Email,2
+2017-01-12T13:45:00,1,1,macjreinstaller,General Utilities,1
+2017-01-12T14:30:00,102,1,youtube.com,Video,-2
+2017-01-12T14:30:00,66,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T14:30:00,2,1,loginwindow,General Utilities,0
+2017-01-12T14:30:00,2,1,BBC,International,2
+2017-01-12T14:30:00,2,1,thebeijinger.com,General News & Opinion,-2
+2017-01-12T14:30:00,1,1,repair.nikonusa.com,Search,0
+2017-01-12T14:30:00,1,1,applications,General Business,2
+2017-01-12T14:35:00,131,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T14:35:00,2,1,usernotificationcenter,General Utilities,0
+2017-01-12T14:50:00,11,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T15:05:00,4,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T15:05:00,1,1,usernotificationcenter,General Utilities,0
+2017-01-12T17:55:00,3,1,loginwindow,General Utilities,0
+2017-01-12T17:55:00,3,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T18:00:00,79,1,youtube.com,Video,-2
+2017-01-12T18:00:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T20:00:00,173,1,united.com,Travel & Outdoors,-2
+2017-01-12T20:00:00,61,1,Mail,Email,2
+2017-01-12T20:00:00,11,1,Skype,General Social Networking,-2
+2017-01-12T20:00:00,8,1,desmos.com,General Reference & Learning,1
+2017-01-12T20:00:00,6,1,Safari,Browsers,2
+2017-01-12T20:00:00,5,1,Google Documents,Writing,2
+2017-01-12T20:00:00,1,1,macjreinstaller,General Utilities,1
+2017-01-12T20:05:00,162,1,united.com,Travel & Outdoors,-2
+2017-01-12T20:05:00,55,1,Mail,Email,2
+2017-01-12T20:05:00,43,1,MS Excel,General Business,2
+2017-01-12T20:05:00,28,1,delta.com,Travel & Outdoors,-2
+2017-01-12T20:05:00,6,1,Safari,Browsers,2
+2017-01-12T20:10:00,98,1,united.com,Travel & Outdoors,-2
+2017-01-12T20:10:00,65,1,youtube.com,Video,-2
+2017-01-12T20:10:00,65,1,delta.com,Travel & Outdoors,-2
+2017-01-12T20:10:00,55,1,Mail,Email,2
+2017-01-12T20:10:00,12,1,messages,General Social Networking,-2
+2017-01-12T20:10:00,3,1,Safari,Browsers,2
+2017-01-12T20:15:00,156,1,messages,General Social Networking,-2
+2017-01-12T20:15:00,129,1,delta.com,Travel & Outdoors,-2
+2017-01-12T20:15:00,7,1,google.com,Search,2
+2017-01-12T20:15:00,3,1,youtube.com,Video,-2
+2017-01-12T20:15:00,2,1,Safari,Browsers,2
+2017-01-12T20:20:00,112,1,ocw.mit.edu,General Reference & Learning,1
+2017-01-12T20:20:00,67,1,9to5mac.com,General News & Opinion,-2
+2017-01-12T20:20:00,25,1,Safari,Browsers,2
+2017-01-12T20:20:00,23,1,delta.com,Travel & Outdoors,-2
+2017-01-12T20:20:00,13,1,messages,General Social Networking,-2
+2017-01-12T20:20:00,12,1,secure-media.collegeboard.org,General Reference & Learning,1
+2017-01-12T20:20:00,9,1,united.com,Travel & Outdoors,-2
+2017-01-12T20:20:00,8,1,youtube.com,Video,-2
+2017-01-12T20:20:00,5,1,upload.wikimedia.org,Search,0
+2017-01-12T20:20:00,4,1,google.com,Search,2
+2017-01-12T20:20:00,4,1,baidu.com,Search,2
+2017-01-12T20:20:00,2,1,mbta.com,Search,0
+2017-01-12T20:20:00,2,1,imgsa.baidu.com,Search,0
+2017-01-12T20:20:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T20:20:00,1,1,Google Documents,Writing,2
+2017-01-12T20:25:00,229,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T20:25:00,58,1,ocw.mit.edu,General Reference & Learning,1
+2017-01-12T20:25:00,8,1,messages,General Social Networking,-2
+2017-01-12T20:25:00,3,1,youtube.com,Video,-2
+2017-01-12T20:25:00,1,1,delta.com,Travel & Outdoors,-2
+2017-01-12T20:30:00,19,1,loginwindow,General Utilities,0
+2017-01-12T20:30:00,18,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T20:30:00,12,1,ocw.mit.edu,General Reference & Learning,1
+2017-01-12T21:05:00,23,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T21:05:00,4,1,loginwindow,General Utilities,0
+2017-01-12T21:10:00,216,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T21:10:00,9,1,facebook.com,General Social Networking,-2
+2017-01-12T21:10:00,3,1,google.com,Search,2
+2017-01-12T21:10:00,3,1,Safari,Browsers,2
+2017-01-12T21:15:00,101,1,Finder,General Utilities,0
+2017-01-12T21:15:00,87,1,youtube.com,Video,-2
+2017-01-12T21:15:00,4,1,spotify,General Entertainment,-2
+2017-01-12T21:15:00,4,1,RescueTime,Intelligence,0
+2017-01-12T21:15:00,1,1,google drive,General Business,2
+2017-01-12T21:20:00,112,1,thebeijinger.com,General News & Opinion,-2
+2017-01-12T21:20:00,54,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T21:20:00,6,1,youtube.com,Video,-2
+2017-01-12T23:10:00,237,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T23:10:00,3,1,usernotificationcenter,General Utilities,0
+2017-01-12T23:10:00,3,1,loginwindow,General Utilities,0
+2017-01-12T23:10:00,2,1,Safari,Browsers,2
+2017-01-12T23:10:00,1,1,thebeijinger.com,General News & Opinion,-2
+2017-01-12T23:15:00,296,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T23:20:00,297,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T23:20:00,2,1,usernotificationcenter,General Utilities,0
+2017-01-12T23:25:00,299,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T23:30:00,292,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T23:30:00,3,1,google.com,Search,2
+2017-01-12T23:30:00,3,1,Safari,Browsers,2
+2017-01-12T23:35:00,297,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T23:35:00,2,1,usernotificationcenter,General Utilities,0
+2017-01-12T23:40:00,173,1,en.wikipedia.org,General Reference & Learning,1
+2017-01-12T23:40:00,37,1,rescuetime.com,Intelligence,0
+2017-01-12T23:40:00,12,1,Safari,Browsers,2

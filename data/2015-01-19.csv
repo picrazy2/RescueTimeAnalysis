@@ -1,0 +1,277 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2015-01-19T00:00:00,300,1,Mail,Email,2
+2015-01-19T00:05:00,107,1,facebook.com,General Social Networking,-2
+2015-01-19T00:05:00,88,1,Mail,Email,2
+2015-01-19T00:05:00,71,1,en.wikipedia.org,General Reference & Learning,1
+2015-01-19T00:05:00,19,1,Skype,General Social Networking,-2
+2015-01-19T00:05:00,5,1,dalearn.deerfield.edu,General Reference & Learning,2
+2015-01-19T00:05:00,3,1,iciba.com,Search,0
+2015-01-19T00:10:00,50,1,facebook.com,General Social Networking,-2
+2015-01-19T10:00:00,26,1,Safari,Browsers,2
+2015-01-19T10:00:00,16,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-01-19T10:00:00,5,1,Dropbox,File Sharing,-2
+2015-01-19T10:05:00,99,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-01-19T10:05:00,18,1,loginwindow,General Utilities,0
+2015-01-19T10:10:00,51,1,microsoft word,Writing,2
+2015-01-19T10:10:00,24,1,Mail,Email,2
+2015-01-19T10:10:00,10,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-01-19T10:10:00,6,1,Finder,General Utilities,0
+2015-01-19T10:10:00,3,1,MS Excel,General Business,2
+2015-01-19T10:15:00,103,1,microsoft word,Writing,2
+2015-01-19T10:20:00,185,1,microsoft word,Writing,2
+2015-01-19T10:25:00,174,1,microsoft word,Writing,2
+2015-01-19T10:25:00,18,1,loginwindow,General Utilities,0
+2015-01-19T11:50:00,134,1,artofproblemsolving.com,Engineering & Technology,2
+2015-01-19T11:50:00,21,1,Safari,Browsers,2
+2015-01-19T11:50:00,19,1,loginwindow,General Utilities,0
+2015-01-19T11:50:00,15,1,microsoft word,Writing,2
+2015-01-19T14:50:00,231,1,grapher,General Reference & Learning,1
+2015-01-19T14:50:00,4,1,artofproblemsolving.com,Engineering & Technology,2
+2015-01-19T14:55:00,129,1,grapher,General Reference & Learning,1
+2015-01-19T14:55:00,111,1,Finder,General Utilities,0
+2015-01-19T14:55:00,37,1,amazon.com,General Shopping,-1
+2015-01-19T14:55:00,17,1,artofproblemsolving.com,Engineering & Technology,2
+2015-01-19T14:55:00,5,1,Safari,Browsers,2
+2015-01-19T15:00:00,124,1,deerfield.edu,General Reference & Learning,1
+2015-01-19T15:00:00,75,1,keychain access,Systems Operations,2
+2015-01-19T15:00:00,71,1,Finder,General Utilities,0
+2015-01-19T15:00:00,10,1,Safari,Browsers,2
+2015-01-19T15:00:00,6,1,amazon.com,General Shopping,-1
+2015-01-19T15:00:00,3,1,SecurityAgent,Systems Operations,0
+2015-01-19T15:05:00,95,1,deerfield.edu,General Reference & Learning,1
+2015-01-19T15:05:00,22,1,mail.deerfield.edu,General Reference & Learning,1
+2015-01-19T15:05:00,18,1,loginwindow,General Utilities,0
+2015-01-19T15:05:00,14,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-01-19T15:05:00,2,1,Safari,Browsers,2
+2015-01-19T15:10:00,209,1,mail.deerfield.edu,General Reference & Learning,1
+2015-01-19T15:10:00,60,1,keychain access,Systems Operations,2
+2015-01-19T15:10:00,15,1,Safari,Browsers,2
+2015-01-19T15:10:00,6,1,microsoft word,Writing,2
+2015-01-19T15:10:00,3,1,Finder,General Utilities,0
+2015-01-19T15:15:00,188,1,mail.deerfield.edu,General Reference & Learning,1
+2015-01-19T15:15:00,86,1,dalearn.deerfield.edu,General Reference & Learning,2
+2015-01-19T15:15:00,11,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-01-19T15:15:00,9,1,Safari,Browsers,2
+2015-01-19T15:15:00,6,1,Mail,Email,2
+2015-01-19T15:20:00,65,1,mail.deerfield.edu,General Reference & Learning,1
+2015-01-19T15:20:00,27,1,dalearn.deerfield.edu,General Reference & Learning,2
+2015-01-19T15:20:00,19,1,Mail,Email,2
+2015-01-19T15:20:00,19,1,loginwindow,General Utilities,0
+2015-01-19T15:40:00,20,1,loginwindow,General Utilities,0
+2015-01-19T15:40:00,11,1,Finder,General Utilities,0
+2015-01-19T15:40:00,3,1,mail.deerfield.edu,General Reference & Learning,1
+2015-01-19T18:20:00,123,1,amazon.com,General Shopping,-1
+2015-01-19T18:20:00,94,1,tetrisfriends.com,Games,-2
+2015-01-19T18:20:00,22,1,Finder,General Utilities,0
+2015-01-19T18:20:00,9,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-01-19T18:20:00,7,1,microsoft word,Writing,2
+2015-01-19T18:25:00,93,1,tetrisfriends.com,Games,-2
+2015-01-19T18:25:00,19,1,loginwindow,General Utilities,0
+2015-01-19T18:25:00,17,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-01-19T18:35:00,55,1,final cut pro,Video Editing,2
+2015-01-19T18:35:00,39,1,Skype,General Social Networking,-2
+2015-01-19T18:35:00,4,1,instructables.com,Engineering & Technology,1
+2015-01-19T18:35:00,3,1,amazon.com,General Shopping,-1
+2015-01-19T18:35:00,1,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-01-19T18:40:00,171,1,dropbox.com,File Sharing,2
+2015-01-19T18:40:00,46,1,Mail,Email,2
+2015-01-19T18:40:00,36,1,Skype,General Social Networking,-2
+2015-01-19T18:40:00,23,1,amazon.com,General Shopping,-1
+2015-01-19T18:40:00,8,1,microsoft word,Writing,2
+2015-01-19T18:40:00,7,1,Finder,General Utilities,0
+2015-01-19T18:40:00,5,1,quicktime player,General Entertainment,-1
+2015-01-19T18:45:00,200,1,google.com,Search,2
+2015-01-19T18:45:00,88,1,microsoft word,Writing,2
+2015-01-19T18:45:00,9,1,Safari,Browsers,2
+2015-01-19T18:45:00,1,1,dropbox.com,File Sharing,2
+2015-01-19T18:50:00,233,1,microsoft word,Writing,2
+2015-01-19T18:50:00,67,1,google.com,Search,2
+2015-01-19T18:55:00,93,1,google.com,Search,2
+2015-01-19T18:55:00,8,1,microsoft word,Writing,2
+2015-01-19T18:55:00,5,1,Safari,Browsers,2
+2015-01-19T18:55:00,4,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-01-19T20:30:00,101,1,facebook.com,General Social Networking,-2
+2015-01-19T20:30:00,19,1,Mail,Email,2
+2015-01-19T20:30:00,4,1,Safari,Browsers,2
+2015-01-19T20:30:00,2,1,Finder,General Utilities,0
+2015-01-19T20:40:00,118,1,google.com,Search,2
+2015-01-19T20:40:00,24,1,Safari,Browsers,2
+2015-01-19T20:40:00,1,1,thumbs.dreamstime.com,General News & Opinion,-2
+2015-01-19T20:40:00,1,1,gvbcinc.com,Uncategorized,0
+2015-01-19T20:45:00,40,1,microsoft word,Writing,2
+2015-01-19T20:50:00,143,1,microsoft word,Writing,2
+2015-01-19T20:50:00,34,1,dropbox.com,File Sharing,2
+2015-01-19T20:50:00,23,1,accounts.google.com,General Communication & Scheduling,0
+2015-01-19T20:50:00,23,1,google.com,Search,2
+2015-01-19T20:50:00,23,1,drive.google.com,General Business,2
+2015-01-19T20:50:00,20,1,Skype,General Social Networking,-2
+2015-01-19T20:50:00,12,1,myaccount.google.com,Internet Utilities,1
+2015-01-19T20:50:00,8,1,Mail,Email,2
+2015-01-19T20:50:00,6,1,auth.deerfield.edu,General Reference & Learning,1
+2015-01-19T20:50:00,5,1,Safari,Browsers,2
+2015-01-19T20:50:00,2,1,thumbs.dreamstime.com,General News & Opinion,-2
+2015-01-19T20:55:00,167,1,google drive,General Business,2
+2015-01-19T20:55:00,75,1,Finder,General Utilities,0
+2015-01-19T20:55:00,33,1,drive.google.com,General Business,2
+2015-01-19T20:55:00,18,1,myaccount.google.com,Internet Utilities,1
+2015-01-19T20:55:00,3,1,google.com,Search,2
+2015-01-19T20:55:00,2,1,Safari,Browsers,2
+2015-01-19T21:00:00,260,1,Finder,General Utilities,0
+2015-01-19T21:00:00,15,1,Skype,General Social Networking,-2
+2015-01-19T21:00:00,4,1,google drive,General Business,2
+2015-01-19T21:00:00,1,1,myaccount.google.com,Internet Utilities,1
+2015-01-19T21:15:00,152,1,drive.google.com,General Business,2
+2015-01-19T21:15:00,11,1,myaccount.google.com,Internet Utilities,1
+2015-01-19T21:15:00,1,1,google.com,Search,2
+2015-01-19T21:20:00,184,1,drive.google.com,General Business,2
+2015-01-19T21:20:00,67,1,Mail,Email,2
+2015-01-19T21:20:00,40,1,en.wikipedia.org,General Reference & Learning,1
+2015-01-19T21:20:00,5,1,google.com,Search,2
+2015-01-19T21:20:00,4,1,Safari,Browsers,2
+2015-01-19T21:25:00,106,1,en.wikipedia.org,General Reference & Learning,1
+2015-01-19T21:30:00,21,1,en.wikipedia.org,General Reference & Learning,1
+2015-01-19T21:30:00,7,1,google.com,Search,2
+2015-01-19T21:45:00,49,1,Safari,Browsers,2
+2015-01-19T21:50:00,300,1,Safari,Browsers,2
+2015-01-19T21:55:00,121,1,facebook.com,General Social Networking,-2
+2015-01-19T21:55:00,97,1,Safari,Browsers,2
+2015-01-19T21:55:00,56,1,Finder,General Utilities,0
+2015-01-19T21:55:00,8,1,Skype,General Social Networking,-2
+2015-01-19T21:55:00,3,1,drive.google.com,General Business,2
+2015-01-19T22:00:00,294,1,Finder,General Utilities,0
+2015-01-19T22:05:00,298,1,Finder,General Utilities,0
+2015-01-19T22:10:00,300,1,Finder,General Utilities,0
+2015-01-19T22:15:00,236,1,Finder,General Utilities,0
+2015-01-19T22:15:00,50,1,Mail,Email,2
+2015-01-19T22:15:00,6,1,drive.google.com,General Business,2
+2015-01-19T22:20:00,214,1,Finder,General Utilities,0
+2015-01-19T22:20:00,77,1,facebook.com,General Social Networking,-2
+2015-01-19T22:20:00,3,1,Skype,General Social Networking,-2
+2015-01-19T22:20:00,1,1,drive.google.com,General Business,2
+2015-01-19T22:25:00,279,1,Finder,General Utilities,0
+2015-01-19T22:25:00,10,1,facebook.com,General Social Networking,-2
+2015-01-19T22:30:00,98,1,facebook.com,General Social Networking,-2
+2015-01-19T22:30:00,64,1,icloud.com,General Software Development,2
+2015-01-19T22:30:00,46,1,apple.com,Engineering & Technology,-1
+2015-01-19T22:30:00,35,1,Mail,Email,2
+2015-01-19T22:30:00,28,1,drive.google.com,General Business,2
+2015-01-19T22:30:00,15,1,Finder,General Utilities,0
+2015-01-19T22:30:00,10,1,google.com,Search,2
+2015-01-19T22:30:00,3,1,Safari,Browsers,2
+2015-01-19T22:35:00,70,1,Finder,General Utilities,0
+2015-01-19T22:35:00,65,1,cnet.com,Science & Technology,-1
+2015-01-19T22:35:00,60,1,Mail,Email,2
+2015-01-19T22:35:00,42,1,facebook.com,General Social Networking,-2
+2015-01-19T22:35:00,20,1,google.com,Search,2
+2015-01-19T22:35:00,16,1,icloud.com,General Software Development,2
+2015-01-19T22:35:00,13,1,arstechnica.com,Science & Technology,-1
+2015-01-19T22:35:00,8,1,Safari,Browsers,2
+2015-01-19T22:35:00,2,1,Dropbox,File Sharing,-2
+2015-01-19T22:40:00,128,1,businessinsider.com,General News & Opinion,-2
+2015-01-19T22:40:00,93,1,Finder,General Utilities,0
+2015-01-19T22:40:00,41,1,facebook.com,General Social Networking,-2
+2015-01-19T22:40:00,13,1,dropbox.com,File Sharing,2
+2015-01-19T22:40:00,9,1,google.com,Search,2
+2015-01-19T22:40:00,5,1,icloud.com,General Software Development,2
+2015-01-19T22:40:00,4,1,Safari,Browsers,2
+2015-01-19T22:40:00,1,1,grapher,General Reference & Learning,1
+2015-01-19T22:45:00,185,1,Finder,General Utilities,0
+2015-01-19T22:45:00,43,1,drive.google.com,General Business,2
+2015-01-19T22:45:00,33,1,accounts.google.com,General Communication & Scheduling,0
+2015-01-19T22:45:00,8,1,chrome-signin,Browsers,0
+2015-01-19T22:45:00,7,1,Mail,Email,2
+2015-01-19T22:45:00,7,1,auth.deerfield.edu,General Reference & Learning,1
+2015-01-19T22:45:00,6,1,businessinsider.com,General News & Opinion,-2
+2015-01-19T22:45:00,4,1,microsoft word,Writing,2
+2015-01-19T22:45:00,2,1,google.com,Search,2
+2015-01-19T22:45:00,1,1,chemwiki.ucdavis.edu,General Reference & Learning,1
+2015-01-19T22:50:00,257,1,facebook.com,General Social Networking,-2
+2015-01-19T22:50:00,17,1,drive.google.com,General Business,2
+2015-01-19T22:50:00,14,1,Finder,General Utilities,0
+2015-01-19T22:50:00,4,1,thumbs.dreamstime.com,General News & Opinion,-2
+2015-01-19T22:50:00,3,1,Mail,Email,2
+2015-01-19T22:50:00,2,1,dropbox.com,File Sharing,2
+2015-01-19T22:55:00,166,1,facebook.com,General Social Networking,-2
+2015-01-19T22:55:00,57,1,amazon.com,General Shopping,-1
+2015-01-19T22:55:00,38,1,google.com,Search,2
+2015-01-19T22:55:00,15,1,myaccount.google.com,Internet Utilities,1
+2015-01-19T22:55:00,14,1,drive.google.com,General Business,2
+2015-01-19T22:55:00,4,1,businessinsider.com,General News & Opinion,-2
+2015-01-19T22:55:00,1,1,dropbox.com,File Sharing,2
+2015-01-19T23:00:00,254,1,amazon.com,General Shopping,-1
+2015-01-19T23:00:00,39,1,facebook.com,General Social Networking,-2
+2015-01-19T23:00:00,3,1,l.facebook.com,General Social Networking,-2
+2015-01-19T23:05:00,140,1,amazon.com,General Shopping,-1
+2015-01-19T23:05:00,70,1,Mail,Email,2
+2015-01-19T23:05:00,48,1,businessinsider.com,General News & Opinion,-2
+2015-01-19T23:05:00,25,1,facebook.com,General Social Networking,-2
+2015-01-19T23:05:00,5,1,drive.google.com,General Business,2
+2015-01-19T23:05:00,4,1,google.com,Search,2
+2015-01-19T23:05:00,2,1,chemwiki.ucdavis.edu,General Reference & Learning,1
+2015-01-19T23:05:00,2,1,dropbox.com,File Sharing,2
+2015-01-19T23:10:00,87,1,microsoft word,Writing,2
+2015-01-19T23:10:00,82,1,drive.google.com,General Business,2
+2015-01-19T23:10:00,78,1,facebook.com,General Social Networking,-2
+2015-01-19T23:10:00,35,1,Finder,General Utilities,0
+2015-01-19T23:10:00,4,1,businessinsider.com,General News & Opinion,-2
+2015-01-19T23:10:00,4,1,icloud.com,General Software Development,2
+2015-01-19T23:10:00,3,1,mail.deerfield.edu,General Reference & Learning,1
+2015-01-19T23:10:00,2,1,amazon.com,General Shopping,-1
+2015-01-19T23:10:00,1,1,Mail,Email,2
+2015-01-19T23:10:00,1,1,dropbox.com,File Sharing,2
+2015-01-19T23:15:00,114,1,dropbox.com,File Sharing,2
+2015-01-19T23:15:00,68,1,Finder,General Utilities,0
+2015-01-19T23:15:00,49,1,drive.google.com,General Business,2
+2015-01-19T23:15:00,20,1,apple.stackexchange.com,Engineering & Technology,1
+2015-01-19T23:15:00,13,1,google.com,Search,2
+2015-01-19T23:15:00,13,1,Safari,Browsers,2
+2015-01-19T23:15:00,12,1,Dropbox,File Sharing,-2
+2015-01-19T23:15:00,5,1,businessinsider.com,General News & Opinion,-2
+2015-01-19T23:15:00,1,1,facebook.com,General Social Networking,-2
+2015-01-19T23:20:00,194,1,pcmag.com,Science & Technology,-1
+2015-01-19T23:20:00,72,1,microsoft word,Writing,2
+2015-01-19T23:20:00,22,1,businessinsider.com,General News & Opinion,-2
+2015-01-19T23:20:00,7,1,google.com,Search,2
+2015-01-19T23:20:00,5,1,Safari,Browsers,2
+2015-01-19T23:25:00,135,1,amazon.com,General Shopping,-1
+2015-01-19T23:25:00,68,1,Mail,Email,2
+2015-01-19T23:25:00,52,1,drive.google.com,General Business,2
+2015-01-19T23:25:00,30,1,microsoft word,Writing,2
+2015-01-19T23:25:00,6,1,Safari,Browsers,2
+2015-01-19T23:25:00,4,1,pcmag.com,Science & Technology,-1
+2015-01-19T23:25:00,2,1,icloud.com,General Software Development,2
+2015-01-19T23:30:00,151,1,microsoft word,Writing,2
+2015-01-19T23:30:00,75,1,amazon.com,General Shopping,-1
+2015-01-19T23:30:00,70,1,Mail,Email,2
+2015-01-19T23:35:00,168,1,amazon.com,General Shopping,-1
+2015-01-19T23:35:00,80,1,deerfield.edu,General Reference & Learning,1
+2015-01-19T23:35:00,25,1,Mail,Email,2
+2015-01-19T23:35:00,12,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-01-19T23:35:00,5,1,drive.google.com,General Business,2
+2015-01-19T23:35:00,2,1,mail.deerfield.edu,General Reference & Learning,1
+2015-01-19T23:35:00,1,1,facebook.com,General Social Networking,-2
+2015-01-19T23:35:00,1,1,chemwiki.ucdavis.edu,General Reference & Learning,1
+2015-01-19T23:40:00,143,1,facebook.com,General Social Networking,-2
+2015-01-19T23:40:00,90,1,Finder,General Utilities,0
+2015-01-19T23:40:00,46,1,deerfield.edu,General Reference & Learning,1
+2015-01-19T23:40:00,8,1,drive.google.com,General Business,2
+2015-01-19T23:40:00,4,1,amazon.com,General Shopping,-1
+2015-01-19T23:40:00,2,1,icloud.com,General Software Development,2
+2015-01-19T23:45:00,230,1,facebook.com,General Social Networking,-2
+2015-01-19T23:45:00,54,1,Mail,Email,2
+2015-01-19T23:45:00,10,1,Finder,General Utilities,0
+2015-01-19T23:50:00,207,1,facebook.com,General Social Networking,-2
+2015-01-19T23:50:00,35,1,deerfield.edu,General Reference & Learning,1
+2015-01-19T23:50:00,28,1,drive.google.com,General Business,2
+2015-01-19T23:50:00,14,1,Finder,General Utilities,0
+2015-01-19T23:50:00,10,1,amazon.com,General Shopping,-1
+2015-01-19T23:50:00,3,1,chemwiki.ucdavis.edu,General Reference & Learning,1
+2015-01-19T23:55:00,256,1,facebook.com,General Social Networking,-2
+2015-01-19T23:55:00,26,1,Mail,Email,2
+2015-01-19T23:55:00,5,1,drive.google.com,General Business,2
+2015-01-19T23:55:00,4,1,dropbox.com,File Sharing,2
+2015-01-19T23:55:00,3,1,businessinsider.com,General News & Opinion,-2
+2015-01-19T23:55:00,2,1,amazon.com,General Shopping,-1
+2015-01-19T23:55:00,2,1,chemwiki.ucdavis.edu,General Reference & Learning,1
+2015-01-19T23:55:00,1,1,Finder,General Utilities,0
+2015-01-19T23:55:00,1,1,pcmag.com,Science & Technology,-1

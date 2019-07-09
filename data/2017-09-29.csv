@@ -1,0 +1,357 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2017-09-29T00:00:00,102,1,Mail,Email,2
+2017-09-29T00:00:00,35,1,iTunes,Music,0
+2017-09-29T00:00:00,32,1,microsoft word,Writing,2
+2017-09-29T00:00:00,19,1,loginwindow,General Utilities,0
+2017-09-29T00:00:00,4,1,Finder,General Utilities,0
+2017-09-29T00:45:00,132,1,alum.mit.edu,General Reference & Learning,1
+2017-09-29T00:45:00,61,1,facetime,Voice Chat,-2
+2017-09-29T00:45:00,34,1,messenger.com,General Social Networking,-2
+2017-09-29T00:45:00,11,1,Mail,Email,2
+2017-09-29T00:45:00,10,1,Safari,Browsers,2
+2017-09-29T00:45:00,9,1,wechat,General Social Networking,-2
+2017-09-29T00:45:00,2,1,loginwindow,General Utilities,0
+2017-09-29T00:45:00,1,1,RescueTime,Intelligence,0
+2017-09-29T00:50:00,245,1,facetime,Voice Chat,-2
+2017-09-29T00:50:00,55,1,messenger.com,General Social Networking,-2
+2017-09-29T00:55:00,107,1,alum.mit.edu,General Reference & Learning,1
+2017-09-29T00:55:00,9,1,Mail,Email,2
+2017-09-29T00:55:00,4,1,messenger.com,General Social Networking,-2
+2017-09-29T00:55:00,3,1,facetime,Voice Chat,-2
+2017-09-29T01:10:00,91,1,facetime,Voice Chat,-2
+2017-09-29T01:10:00,36,1,alum.mit.edu,General Reference & Learning,1
+2017-09-29T01:10:00,15,1,Mail,Email,2
+2017-09-29T01:10:00,3,1,united.com,Travel & Outdoors,-2
+2017-09-29T01:10:00,2,1,tutorial.math.lamar.edu,General Reference & Learning,1
+2017-09-29T01:10:00,1,1,secure.bankofamerica.com,Accounting,2
+2017-09-29T01:15:00,111,1,Mail,Email,2
+2017-09-29T01:15:00,92,1,united.com,Travel & Outdoors,-2
+2017-09-29T01:15:00,56,1,rescuetime.com,Intelligence,0
+2017-09-29T01:15:00,18,1,Finder,General Utilities,0
+2017-09-29T01:15:00,10,1,Preview,General Reference & Learning,2
+2017-09-29T01:15:00,3,1,facetime,Voice Chat,-2
+2017-09-29T01:15:00,3,1,Dictionary,General Reference & Learning,1
+2017-09-29T01:15:00,2,1,microsoft word,Writing,2
+2017-09-29T01:15:00,2,1,secure.bankofamerica.com,Accounting,2
+2017-09-29T01:15:00,1,1,System Preferences,General Utilities,0
+2017-09-29T01:20:00,89,1,Mail,Email,2
+2017-09-29T01:20:00,68,1,facebook.com,General Social Networking,-2
+2017-09-29T01:20:00,60,1,youtube.com,Video,-2
+2017-09-29T01:20:00,57,1,Safari,Browsers,2
+2017-09-29T01:20:00,7,1,facetime,Voice Chat,-2
+2017-09-29T01:20:00,7,1,Finder,General Utilities,0
+2017-09-29T01:20:00,3,1,rescuetime.com,Intelligence,0
+2017-09-29T01:25:00,91,1,wechat,General Social Networking,-2
+2017-09-29T01:25:00,9,1,youtube.com,Video,-2
+2017-09-29T01:35:00,196,1,airchina.us,Travel & Outdoors,-2
+2017-09-29T01:35:00,47,1,calendar,Calendars,1
+2017-09-29T01:35:00,24,1,youtube.com,Video,-2
+2017-09-29T01:35:00,10,1,Mail,Email,2
+2017-09-29T01:35:00,2,1,Safari,Browsers,2
+2017-09-29T01:40:00,222,1,Mail,Email,2
+2017-09-29T01:40:00,78,1,calendar,Calendars,1
+2017-09-29T01:45:00,293,1,Mail,Email,2
+2017-09-29T01:45:00,3,1,Finder,General Utilities,0
+2017-09-29T01:45:00,2,1,facetime,Voice Chat,-2
+2017-09-29T01:45:00,2,1,airchina.us,Travel & Outdoors,-2
+2017-09-29T01:50:00,13,1,Mail,Email,2
+2017-09-29T01:50:00,2,1,facetime,Voice Chat,-2
+2017-09-29T01:50:00,2,1,Finder,General Utilities,0
+2017-09-29T02:00:00,5,1,microsoft word,Writing,2
+2017-09-29T13:25:00,53,1,facebook.com,General Social Networking,-2
+2017-09-29T13:25:00,17,1,google.com,Search,2
+2017-09-29T13:25:00,10,1,microsoft word,Writing,2
+2017-09-29T13:25:00,9,1,Safari,Browsers,2
+2017-09-29T13:25:00,2,1,airchina.us,Travel & Outdoors,-2
+2017-09-29T13:30:00,142,1,Mail,Email,2
+2017-09-29T13:30:00,63,1,Finder,General Utilities,0
+2017-09-29T13:30:00,28,1,applecorp.avature.net,Uncategorized,0
+2017-09-29T13:30:00,23,1,isbalumninetwork.com,Uncategorized,0
+2017-09-29T13:30:00,20,1,wechat,General Social Networking,-2
+2017-09-29T13:30:00,17,1,facebook.com,General Social Networking,-2
+2017-09-29T13:30:00,4,1,Safari,Browsers,2
+2017-09-29T13:35:00,223,1,isbalumninetwork.com,Uncategorized,0
+2017-09-29T13:35:00,77,1,Mail,Email,2
+2017-09-29T13:40:00,232,1,Mail,Email,2
+2017-09-29T15:00:00,32,1,facebook.com,General Social Networking,-2
+2017-09-29T15:00:00,26,1,wechat,General Social Networking,-2
+2017-09-29T15:00:00,10,1,Mail,Email,2
+2017-09-29T15:00:00,2,1,isbalumninetwork.com,Uncategorized,0
+2017-09-29T15:00:00,1,1,loginwindow,General Utilities,0
+2017-09-29T15:00:00,1,1,airchina.us,Travel & Outdoors,-2
+2017-09-29T15:05:00,274,1,facebook.com,General Social Networking,-2
+2017-09-29T15:05:00,15,1,Mail,Email,2
+2017-09-29T15:10:00,246,1,facebook.com,General Social Networking,-2
+2017-09-29T15:10:00,37,1,news.cgtn.com,Uncategorized,0
+2017-09-29T15:10:00,9,1,facetime,Voice Chat,-2
+2017-09-29T15:10:00,8,1,wechat,General Social Networking,-2
+2017-09-29T15:15:00,220,1,facebook.com,General Social Networking,-2
+2017-09-29T15:15:00,72,1,facetime,Voice Chat,-2
+2017-09-29T15:15:00,7,1,Mail,Email,2
+2017-09-29T15:20:00,2,1,facebook.com,General Social Networking,-2
+2017-09-29T15:25:00,22,1,google.com,Search,2
+2017-09-29T15:25:00,15,1,Safari,Browsers,2
+2017-09-29T15:35:00,178,1,facetime,Voice Chat,-2
+2017-09-29T15:40:00,295,1,facetime,Voice Chat,-2
+2017-09-29T16:10:00,1,1,google.com,Search,2
+2017-09-29T16:30:00,203,1,youtube.com,Video,-2
+2017-09-29T16:35:00,300,1,youtube.com,Video,-2
+2017-09-29T16:40:00,300,1,youtube.com,Video,-2
+2017-09-29T16:45:00,300,1,youtube.com,Video,-2
+2017-09-29T16:50:00,202,1,youtube.com,Video,-2
+2017-09-29T16:50:00,4,1,wechat,General Social Networking,-2
+2017-09-29T16:55:00,5,1,youtube.com,Video,-2
+2017-09-29T16:55:00,1,1,matlab,General Software Development,2
+2017-09-29T17:00:00,180,1,youtube.com,Video,-2
+2017-09-29T17:00:00,84,1,facetime,Voice Chat,-2
+2017-09-29T17:00:00,50,1,microsoft word,Writing,2
+2017-09-29T17:00:00,27,1,wechat,General Social Networking,-2
+2017-09-29T17:00:00,25,1,Mail,Email,2
+2017-09-29T17:00:00,2,1,app store,General Shopping,-2
+2017-09-29T17:00:00,2,1,adobe application manager,General Utilities,1
+2017-09-29T17:00:00,2,1,photoshop cc,General Design & Composition,2
+2017-09-29T17:05:00,226,1,matlab,General Software Development,2
+2017-09-29T17:05:00,74,1,facetime,Voice Chat,-2
+2017-09-29T17:05:00,43,1,microsoft word,Writing,2
+2017-09-29T17:05:00,31,1,loginwindow,General Utilities,0
+2017-09-29T17:05:00,1,1,Finder,General Utilities,0
+2017-09-29T17:10:00,278,1,matlab,General Software Development,2
+2017-09-29T17:10:00,17,1,Mail,Email,2
+2017-09-29T17:10:00,2,1,youtube.com,Video,-2
+2017-09-29T17:10:00,2,1,usernotificationcenter,General Utilities,0
+2017-09-29T17:15:00,294,1,matlab,General Software Development,2
+2017-09-29T17:20:00,220,1,matlab,General Software Development,2
+2017-09-29T17:20:00,51,1,facetime,Voice Chat,-2
+2017-09-29T17:20:00,17,1,Finder,General Utilities,0
+2017-09-29T17:20:00,12,1,wechat,General Social Networking,-2
+2017-09-29T17:25:00,283,1,wechat,General Social Networking,-2
+2017-09-29T17:25:00,8,1,facetime,Voice Chat,-2
+2017-09-29T17:25:00,6,1,Finder,General Utilities,0
+2017-09-29T17:25:00,3,1,matlab,General Software Development,2
+2017-09-29T17:30:00,212,1,matlab,General Software Development,2
+2017-09-29T17:30:00,30,1,facetime,Voice Chat,-2
+2017-09-29T17:30:00,25,1,youtube.com,Video,-2
+2017-09-29T17:30:00,17,1,wechat,General Social Networking,-2
+2017-09-29T17:30:00,11,1,Finder,General Utilities,0
+2017-09-29T17:30:00,2,1,Safari,Browsers,2
+2017-09-29T17:35:00,150,1,wechat,General Social Networking,-2
+2017-09-29T17:35:00,124,1,matlab,General Software Development,2
+2017-09-29T17:35:00,17,1,facetime,Voice Chat,-2
+2017-09-29T17:35:00,8,1,Finder,General Utilities,0
+2017-09-29T17:40:00,238,1,facetime,Voice Chat,-2
+2017-09-29T17:40:00,56,1,matlab,General Software Development,2
+2017-09-29T17:40:00,6,1,wechat,General Social Networking,-2
+2017-09-29T17:45:00,176,1,en.wikipedia.org,General Reference & Learning,1
+2017-09-29T17:45:00,68,1,facetime,Voice Chat,-2
+2017-09-29T17:45:00,37,1,wechat,General Social Networking,-2
+2017-09-29T17:45:00,10,1,google.com,Search,2
+2017-09-29T17:45:00,6,1,Safari,Browsers,2
+2017-09-29T17:45:00,3,1,youtube.com,Video,-2
+2017-09-29T17:50:00,213,1,en.wikipedia.org,General Reference & Learning,1
+2017-09-29T17:50:00,87,1,wechat,General Social Networking,-2
+2017-09-29T17:55:00,164,1,en.wikipedia.org,General Reference & Learning,1
+2017-09-29T17:55:00,135,1,facetime,Voice Chat,-2
+2017-09-29T18:00:00,300,1,facetime,Voice Chat,-2
+2017-09-29T18:05:00,300,1,facetime,Voice Chat,-2
+2017-09-29T18:10:00,300,1,facetime,Voice Chat,-2
+2017-09-29T18:15:00,300,1,facetime,Voice Chat,-2
+2017-09-29T18:20:00,300,1,facetime,Voice Chat,-2
+2017-09-29T18:25:00,300,1,facetime,Voice Chat,-2
+2017-09-29T18:30:00,300,1,facetime,Voice Chat,-2
+2017-09-29T18:35:00,300,1,facetime,Voice Chat,-2
+2017-09-29T18:40:00,300,1,facetime,Voice Chat,-2
+2017-09-29T18:45:00,300,1,facetime,Voice Chat,-2
+2017-09-29T18:50:00,167,1,facetime,Voice Chat,-2
+2017-09-29T20:05:00,18,1,Mail,Email,2
+2017-09-29T20:05:00,5,1,wechat,General Social Networking,-2
+2017-09-29T20:05:00,4,1,facetime,Voice Chat,-2
+2017-09-29T20:05:00,4,1,loginwindow,General Utilities,0
+2017-09-29T20:10:00,238,1,en.wikipedia.org,General Reference & Learning,1
+2017-09-29T20:10:00,30,1,Mail,Email,2
+2017-09-29T20:10:00,19,1,wechat,General Social Networking,-2
+2017-09-29T20:10:00,13,1,facetime,Voice Chat,-2
+2017-09-29T20:15:00,289,1,en.wikipedia.org,General Reference & Learning,1
+2017-09-29T20:15:00,10,1,wechat,General Social Networking,-2
+2017-09-29T20:15:00,1,1,Mail,Email,2
+2017-09-29T20:20:00,174,1,en.wikipedia.org,General Reference & Learning,1
+2017-09-29T20:20:00,110,1,matlab,General Software Development,2
+2017-09-29T20:20:00,15,1,wechat,General Social Networking,-2
+2017-09-29T20:25:00,299,1,en.wikipedia.org,General Reference & Learning,1
+2017-09-29T20:30:00,183,1,wechat,General Social Networking,-2
+2017-09-29T20:30:00,54,1,Mail,Email,2
+2017-09-29T20:30:00,39,1,facebook.com,General Social Networking,-2
+2017-09-29T20:30:00,15,1,en.wikipedia.org,General Reference & Learning,1
+2017-09-29T20:30:00,2,1,youtube.com,Video,-2
+2017-09-29T20:30:00,2,1,google.com,Search,2
+2017-09-29T20:30:00,1,1,applecorp.avature.net,Uncategorized,0
+2017-09-29T20:30:00,1,1,isbalumninetwork.com,Uncategorized,0
+2017-09-29T20:30:00,1,1,airchina.us,Travel & Outdoors,-2
+2017-09-29T20:30:00,1,1,istat menus updater,General Utilities,1
+2017-09-29T20:35:00,226,1,Mail,Email,2
+2017-09-29T20:35:00,73,1,facebook.com,General Social Networking,-2
+2017-09-29T20:40:00,135,1,facebook.com,General Social Networking,-2
+2017-09-29T20:40:00,65,1,34st.com,Uncategorized,0
+2017-09-29T20:40:00,50,1,united.com,Travel & Outdoors,-2
+2017-09-29T20:40:00,17,1,Mail,Email,2
+2017-09-29T20:40:00,10,1,wechat,General Social Networking,-2
+2017-09-29T20:40:00,9,1,Finder,General Utilities,0
+2017-09-29T20:40:00,7,1,airchina.us,Travel & Outdoors,-2
+2017-09-29T20:40:00,4,1,Safari,Browsers,2
+2017-09-29T20:40:00,1,1,applecorp.avature.net,Uncategorized,0
+2017-09-29T20:40:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2017-09-29T20:40:00,1,1,isbalumninetwork.com,Uncategorized,0
+2017-09-29T20:45:00,134,1,united.com,Travel & Outdoors,-2
+2017-09-29T20:45:00,70,1,facebook.com,General Social Networking,-2
+2017-09-29T20:45:00,42,1,Mail,Email,2
+2017-09-29T20:45:00,42,1,sixohone.mit.edu,Presentation,2
+2017-09-29T20:45:00,7,1,oidc.mit.edu,Presentation,2
+2017-09-29T20:45:00,4,1,Safari,Browsers,2
+2017-09-29T20:50:00,165,1,united.com,Travel & Outdoors,-2
+2017-09-29T20:50:00,65,1,google.com,Search,2
+2017-09-29T20:50:00,25,1,en.wikipedia.org,General Reference & Learning,1
+2017-09-29T20:50:00,19,1,facebook.com,General Social Networking,-2
+2017-09-29T20:50:00,17,1,34st.com,Uncategorized,0
+2017-09-29T20:50:00,7,1,isbalumninetwork.com,Uncategorized,0
+2017-09-29T20:50:00,1,1,applecorp.avature.net,Uncategorized,0
+2017-09-29T20:55:00,82,1,united.com,Travel & Outdoors,-2
+2017-09-29T20:55:00,65,1,expedia.com,Travel & Outdoors,-2
+2017-09-29T20:55:00,32,1,en.wikipedia.org,General Reference & Learning,1
+2017-09-29T20:55:00,21,1,google.com,Search,2
+2017-09-29T20:55:00,17,1,wechat,General Social Networking,-2
+2017-09-29T20:55:00,8,1,facebook.com,General Social Networking,-2
+2017-09-29T20:55:00,4,1,applecorp.avature.net,Uncategorized,0
+2017-09-29T20:55:00,3,1,Safari,Browsers,2
+2017-09-29T20:55:00,1,1,isbalumninetwork.com,Uncategorized,0
+2017-09-29T21:00:00,169,1,expedia.com,Travel & Outdoors,-2
+2017-09-29T21:00:00,127,1,united.com,Travel & Outdoors,-2
+2017-09-29T21:00:00,4,1,Safari,Browsers,2
+2017-09-29T21:05:00,300,1,united.com,Travel & Outdoors,-2
+2017-09-29T21:10:00,98,1,united.com,Travel & Outdoors,-2
+2017-09-29T21:10:00,31,1,sixohone.mit.edu,Presentation,2
+2017-09-29T21:10:00,22,1,facebook.com,General Social Networking,-2
+2017-09-29T21:10:00,9,1,wechat,General Social Networking,-2
+2017-09-29T21:10:00,6,1,expedia.com,Travel & Outdoors,-2
+2017-09-29T21:20:00,3,1,wechat,General Social Networking,-2
+2017-09-29T21:30:00,267,1,google.com,Search,2
+2017-09-29T21:30:00,14,1,Safari,Browsers,2
+2017-09-29T21:30:00,2,1,kichdam.com,Uncategorized,0
+2017-09-29T21:35:00,157,1,google.com,Search,2
+2017-09-29T21:35:00,96,1,wechat,General Social Networking,-2
+2017-09-29T21:35:00,26,1,Mail,Email,2
+2017-09-29T21:35:00,9,1,pixabay.com,Graphic Design,2
+2017-09-29T21:35:00,5,1,youtube.com,Video,-2
+2017-09-29T21:40:00,300,1,google.com,Search,2
+2017-09-29T21:45:00,213,1,sixohone.mit.edu,Presentation,2
+2017-09-29T21:45:00,41,1,google.com,Search,2
+2017-09-29T21:45:00,22,1,youtube.com,Video,-2
+2017-09-29T21:45:00,12,1,en.wikipedia.org,General Reference & Learning,1
+2017-09-29T21:45:00,10,1,expedia.com,Travel & Outdoors,-2
+2017-09-29T21:45:00,2,1,Mail,Email,2
+2017-09-29T21:50:00,293,1,sixohone.mit.edu,Presentation,2
+2017-09-29T21:50:00,6,1,Mail,Email,2
+2017-09-29T21:50:00,1,1,wechat,General Social Networking,-2
+2017-09-29T21:55:00,194,1,sixohone.mit.edu,Presentation,2
+2017-09-29T21:55:00,106,1,wechat,General Social Networking,-2
+2017-09-29T22:00:00,281,1,wechat,General Social Networking,-2
+2017-09-29T22:00:00,19,1,sixohone.mit.edu,Presentation,2
+2017-09-29T22:05:00,300,1,sixohone.mit.edu,Presentation,2
+2017-09-29T22:10:00,300,1,sixohone.mit.edu,Presentation,2
+2017-09-29T22:15:00,300,1,sixohone.mit.edu,Presentation,2
+2017-09-29T22:20:00,210,1,sixohone.mit.edu,Presentation,2
+2017-09-29T22:20:00,36,1,en.wikipedia.org,General Reference & Learning,1
+2017-09-29T22:20:00,35,1,Mail,Email,2
+2017-09-29T22:20:00,10,1,Safari,Browsers,2
+2017-09-29T22:20:00,6,1,matlab,General Software Development,2
+2017-09-29T22:20:00,3,1,expedia.com,Travel & Outdoors,-2
+2017-09-29T22:25:00,208,1,sixohone.mit.edu,Presentation,2
+2017-09-29T22:25:00,63,1,wechat,General Social Networking,-2
+2017-09-29T22:25:00,22,1,goertek.com,Uncategorized,0
+2017-09-29T22:25:00,4,1,Safari,Browsers,2
+2017-09-29T22:25:00,3,1,google.com,Search,2
+2017-09-29T22:30:00,226,1,goertek.com,Uncategorized,0
+2017-09-29T22:30:00,61,1,wechat,General Social Networking,-2
+2017-09-29T22:30:00,9,1,Mail,Email,2
+2017-09-29T22:30:00,2,1,expedia.com,Travel & Outdoors,-2
+2017-09-29T22:30:00,2,1,Safari,Browsers,2
+2017-09-29T22:35:00,271,1,sixohone.mit.edu,Presentation,2
+2017-09-29T22:35:00,28,1,goertek.com,Uncategorized,0
+2017-09-29T22:35:00,1,1,learning-modules.mit.edu,General Reference & Learning,1
+2017-09-29T22:40:00,300,1,sixohone.mit.edu,Presentation,2
+2017-09-29T22:45:00,220,1,sixohone.mit.edu,Presentation,2
+2017-09-29T22:45:00,80,1,Mail,Email,2
+2017-09-29T22:50:00,211,1,united.com,Travel & Outdoors,-2
+2017-09-29T22:50:00,63,1,sixohone.mit.edu,Presentation,2
+2017-09-29T22:50:00,13,1,Mail,Email,2
+2017-09-29T22:50:00,8,1,goertek.com,Uncategorized,0
+2017-09-29T22:50:00,1,1,learning-modules.mit.edu,General Reference & Learning,1
+2017-09-29T22:50:00,1,1,expedia.com,Travel & Outdoors,-2
+2017-09-29T22:50:00,1,1,applecorp.avature.net,Uncategorized,0
+2017-09-29T22:55:00,213,1,united.com,Travel & Outdoors,-2
+2017-09-29T22:55:00,43,1,google.com,Search,2
+2017-09-29T22:55:00,32,1,sixohone.mit.edu,Presentation,2
+2017-09-29T22:55:00,7,1,expedia.com,Travel & Outdoors,-2
+2017-09-29T22:55:00,5,1,goertek.com,Uncategorized,0
+2017-09-29T23:00:00,208,1,sixohone.mit.edu,Presentation,2
+2017-09-29T23:00:00,46,1,Mail,Email,2
+2017-09-29T23:00:00,43,1,united.com,Travel & Outdoors,-2
+2017-09-29T23:00:00,2,1,google.com,Search,2
+2017-09-29T23:00:00,1,1,expedia.com,Travel & Outdoors,-2
+2017-09-29T23:05:00,177,1,goertek.com,Uncategorized,0
+2017-09-29T23:05:00,59,1,Mail,Email,2
+2017-09-29T23:05:00,58,1,united.com,Travel & Outdoors,-2
+2017-09-29T23:05:00,6,1,facebook.com,General Social Networking,-2
+2017-09-29T23:10:00,95,1,united.com,Travel & Outdoors,-2
+2017-09-29T23:10:00,73,1,wechat,General Social Networking,-2
+2017-09-29T23:10:00,67,1,goertek.com,Uncategorized,0
+2017-09-29T23:10:00,63,1,Mail,Email,2
+2017-09-29T23:10:00,1,1,expedia.com,Travel & Outdoors,-2
+2017-09-29T23:15:00,217,1,united.com,Travel & Outdoors,-2
+2017-09-29T23:15:00,77,1,Mail,Email,2
+2017-09-29T23:15:00,3,1,expedia.com,Travel & Outdoors,-2
+2017-09-29T23:15:00,2,1,goertek.com,Uncategorized,0
+2017-09-29T23:15:00,1,1,google.com,Search,2
+2017-09-29T23:20:00,193,1,united.com,Travel & Outdoors,-2
+2017-09-29T23:20:00,69,1,wechat,General Social Networking,-2
+2017-09-29T23:20:00,12,1,facebook.com,General Social Networking,-2
+2017-09-29T23:20:00,10,1,Finder,General Utilities,0
+2017-09-29T23:20:00,8,1,Mail,Email,2
+2017-09-29T23:20:00,7,1,en.wikipedia.org,General Reference & Learning,1
+2017-09-29T23:20:00,1,1,expedia.com,Travel & Outdoors,-2
+2017-09-29T23:25:00,123,1,united.com,Travel & Outdoors,-2
+2017-09-29T23:25:00,84,1,facebook.com,General Social Networking,-2
+2017-09-29T23:25:00,43,1,wechat,General Social Networking,-2
+2017-09-29T23:25:00,23,1,expedia.com,Travel & Outdoors,-2
+2017-09-29T23:25:00,14,1,goertek.com,Uncategorized,0
+2017-09-29T23:25:00,5,1,Mail,Email,2
+2017-09-29T23:25:00,5,1,Finder,General Utilities,0
+2017-09-29T23:25:00,3,1,google.com,Search,2
+2017-09-29T23:30:00,147,1,united.com,Travel & Outdoors,-2
+2017-09-29T23:30:00,93,1,expedia.com,Travel & Outdoors,-2
+2017-09-29T23:30:00,46,1,facebook.com,General Social Networking,-2
+2017-09-29T23:30:00,9,1,facetime,Voice Chat,-2
+2017-09-29T23:30:00,4,1,Safari,Browsers,2
+2017-09-29T23:35:00,211,1,wechat,General Social Networking,-2
+2017-09-29T23:35:00,52,1,united.com,Travel & Outdoors,-2
+2017-09-29T23:35:00,21,1,Mail,Email,2
+2017-09-29T23:35:00,9,1,expedia.com,Travel & Outdoors,-2
+2017-09-29T23:35:00,2,1,isbalumninetwork.com,Uncategorized,0
+2017-09-29T23:35:00,2,1,aqicn.org,General Reference & Learning,1
+2017-09-29T23:35:00,2,1,applecorp.avature.net,Uncategorized,0
+2017-09-29T23:35:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2017-09-29T23:40:00,184,1,stateair.net,Uncategorized,0
+2017-09-29T23:40:00,38,1,wechat,General Social Networking,-2
+2017-09-29T23:40:00,32,1,aqicn.org,General Reference & Learning,1
+2017-09-29T23:40:00,31,1,united.com,Travel & Outdoors,-2
+2017-09-29T23:40:00,6,1,facebook.com,General Social Networking,-2
+2017-09-29T23:40:00,3,1,applecorp.avature.net,Uncategorized,0
+2017-09-29T23:40:00,3,1,Safari,Browsers,2
+2017-09-29T23:40:00,2,1,isbalumninetwork.com,Uncategorized,0
+2017-09-29T23:40:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2017-09-29T23:45:00,177,1,sixohone.mit.edu,Presentation,2
+2017-09-29T23:45:00,117,1,wechat,General Social Networking,-2
+2017-09-29T23:45:00,6,1,facebook.com,General Social Networking,-2
+2017-09-29T23:50:00,294,1,sixohone.mit.edu,Presentation,2
+2017-09-29T23:50:00,6,1,wechat,General Social Networking,-2
+2017-09-29T23:55:00,198,1,sixohone.mit.edu,Presentation,2
+2017-09-29T23:55:00,101,1,stateair.net,Uncategorized,0
+2017-09-29T23:55:00,1,1,united.com,Travel & Outdoors,-2

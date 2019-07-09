@@ -1,0 +1,312 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2016-08-05T00:10:00,62,1,matlab,General Software Development,2
+2016-08-05T00:15:00,223,1,matlab,General Software Development,2
+2016-08-05T00:15:00,16,1,loginwindow,General Utilities,0
+2016-08-05T09:55:00,10,1,matlab,General Software Development,2
+2016-08-05T10:00:00,152,1,shareourglobe.org,Uncategorized,0
+2016-08-05T10:00:00,127,1,matlab,General Software Development,2
+2016-08-05T10:00:00,11,1,bugbog.com,Uncategorized,0
+2016-08-05T10:00:00,6,1,Mail,Email,2
+2016-08-05T10:05:00,293,1,matlab,General Software Development,2
+2016-08-05T10:10:00,249,1,matlab,General Software Development,2
+2016-08-05T10:10:00,16,1,Mail,Email,2
+2016-08-05T10:10:00,13,1,mathworks.com,Engineering & Technology,1
+2016-08-05T10:10:00,11,1,shareourglobe.org,Uncategorized,0
+2016-08-05T10:10:00,3,1,google.com,Search,2
+2016-08-05T10:15:00,228,1,matlab,General Software Development,2
+2016-08-05T10:15:00,36,1,Mail,Email,2
+2016-08-05T10:15:00,17,1,Finder,General Utilities,0
+2016-08-05T10:15:00,16,1,microsoft word,Writing,2
+2016-08-05T10:20:00,262,1,Mail,Email,2
+2016-08-05T10:20:00,36,1,microsoft word,Writing,2
+2016-08-05T10:20:00,1,1,mathworks.com,Engineering & Technology,1
+2016-08-05T10:25:00,163,1,support.snapchat.com,General Social Networking,-2
+2016-08-05T10:25:00,63,1,youtube.com,Video,-2
+2016-08-05T10:25:00,45,1,google.com,Search,2
+2016-08-05T10:25:00,18,1,snapchat.com,General Social Networking,-2
+2016-08-05T10:25:00,6,1,mathworks.com,Engineering & Technology,1
+2016-08-05T10:25:00,3,1,Safari,Browsers,2
+2016-08-05T10:30:00,150,1,snapchat.com,General Social Networking,-2
+2016-08-05T10:30:00,149,1,support.snapchat.com,General Social Networking,-2
+2016-08-05T10:35:00,203,1,snapchat.com,General Social Networking,-2
+2016-08-05T10:35:00,53,1,google.com,Search,2
+2016-08-05T10:35:00,38,1,zolenda.com,Uncategorized,0
+2016-08-05T10:35:00,4,1,Safari,Browsers,2
+2016-08-05T10:35:00,2,1,youtube.com,Video,-2
+2016-08-05T10:40:00,214,1,snapchat.com,General Social Networking,-2
+2016-08-05T10:40:00,55,1,google.com,Search,2
+2016-08-05T10:40:00,13,1,photoshop cc,General Design & Composition,2
+2016-08-05T10:40:00,10,1,upload.wikimedia.org,Search,0
+2016-08-05T10:40:00,5,1,en.m.wikipedia.org,General Entertainment,-2
+2016-08-05T10:40:00,2,1,ncbi.nlm.nih.gov,Engineering & Technology,1
+2016-08-05T10:45:00,112,1,photoshop cc,General Design & Composition,2
+2016-08-05T10:45:00,80,1,google.com,Search,2
+2016-08-05T10:45:00,7,1,matlab,General Software Development,2
+2016-08-05T10:45:00,2,1,upload.wikimedia.org,Search,0
+2016-08-05T10:50:00,300,1,photoshop cc,General Design & Composition,2
+2016-08-05T10:55:00,299,1,photoshop cc,General Design & Composition,2
+2016-08-05T11:05:00,11,1,google.com,Search,2
+2016-08-05T11:05:00,6,1,photoshop cc,General Design & Composition,2
+2016-08-05T11:05:00,4,1,upload.wikimedia.org,Search,0
+2016-08-05T11:10:00,79,1,google.com,Search,2
+2016-08-05T11:10:00,36,1,photoshop cc,General Design & Composition,2
+2016-08-05T11:10:00,6,1,chinamaps.org,Uncategorized,0
+2016-08-05T11:10:00,5,1,upload.wikimedia.org,Search,0
+2016-08-05T11:10:00,2,1,snapchat.com,General Social Networking,-2
+2016-08-05T11:15:00,114,1,photoshop cc,General Design & Composition,2
+2016-08-05T11:20:00,232,1,photoshop cc,General Design & Composition,2
+2016-08-05T11:20:00,47,1,google.com,Search,2
+2016-08-05T11:20:00,12,1,upload.wikimedia.org,Search,0
+2016-08-05T11:20:00,4,1,previews.123rf.com,Presentation,2
+2016-08-05T11:25:00,163,1,photoshop cc,General Design & Composition,2
+2016-08-05T11:25:00,28,1,font book,Presentation,2
+2016-08-05T11:25:00,24,1,clearchinese.com,General Entertainment,-2
+2016-08-05T11:25:00,17,1,fonts2u.com,General Design & Composition,2
+2016-08-05T11:25:00,7,1,google.com,Search,2
+2016-08-05T11:25:00,3,1,previews.123rf.com,Presentation,2
+2016-08-05T11:30:00,65,1,pan.baidu.com,File Sharing,-2
+2016-08-05T11:30:00,37,1,photoshop cc,General Design & Composition,2
+2016-08-05T11:30:00,31,1,freechinesefont.com,Uncategorized,0
+2016-08-05T11:30:00,25,1,linotype.com,Search,0
+2016-08-05T11:30:00,20,1,Mail,Email,2
+2016-08-05T11:30:00,15,1,microsoft word,Writing,2
+2016-08-05T11:30:00,15,1,chinesefontdesign.com,Uncategorized,0
+2016-08-05T11:30:00,11,1,google.com,Search,2
+2016-08-05T11:30:00,11,1,clearchinese.com,General Entertainment,-2
+2016-08-05T11:35:00,185,1,pan.baidu.com,File Sharing,-2
+2016-08-05T11:35:00,62,1,freechinesefont.com,Uncategorized,0
+2016-08-05T11:35:00,22,1,font book,Presentation,2
+2016-08-05T11:35:00,18,1,photoshop cc,General Design & Composition,2
+2016-08-05T11:35:00,8,1,zcool.com.cn,General Design & Composition,2
+2016-08-05T11:35:00,4,1,Safari,Browsers,2
+2016-08-05T11:40:00,48,1,photoshop cc,General Design & Composition,2
+2016-08-05T11:40:00,28,1,font book,Presentation,2
+2016-08-05T11:40:00,14,1,google.com,Search,2
+2016-08-05T11:40:00,6,1,pan.baidu.com,File Sharing,-2
+2016-08-05T11:40:00,3,1,zcool.com.cn,General Design & Composition,2
+2016-08-05T11:40:00,3,1,photos,Photos,0
+2016-08-05T11:45:00,115,1,linyangchen.wordpress.com,General News & Opinion,-2
+2016-08-05T11:45:00,62,1,photoshop cc,General Design & Composition,2
+2016-08-05T11:45:00,25,1,purpleculture.net,General Reference & Learning,1
+2016-08-05T11:45:00,8,1,chineseetymology.org,General Reference & Learning,1
+2016-08-05T11:45:00,8,1,google.com,Search,2
+2016-08-05T11:45:00,6,1,chinesetools.eu,Uncategorized,0
+2016-08-05T11:45:00,4,1,pan.baidu.com,File Sharing,-2
+2016-08-05T11:50:00,209,1,photoshop cc,General Design & Composition,2
+2016-08-05T11:50:00,38,1,linyangchen.wordpress.com,General News & Opinion,-2
+2016-08-05T11:55:00,205,1,photoshop cc,General Design & Composition,2
+2016-08-05T11:55:00,1,1,linyangchen.wordpress.com,General News & Opinion,-2
+2016-08-05T12:00:00,175,1,Preview,General Reference & Learning,2
+2016-08-05T12:00:00,28,1,photoshop cc,General Design & Composition,2
+2016-08-05T12:00:00,14,1,Finder,General Utilities,0
+2016-08-05T12:05:00,202,1,photoshop cc,General Design & Composition,2
+2016-08-05T12:10:00,143,1,photoshop cc,General Design & Composition,2
+2016-08-05T12:10:00,93,1,google.com,Search,2
+2016-08-05T12:10:00,24,1,linyangchen.wordpress.com,General News & Opinion,-2
+2016-08-05T12:15:00,57,1,photoshop cc,General Design & Composition,2
+2016-08-05T12:20:00,64,1,en.wikipedia.org,General Reference & Learning,1
+2016-08-05T12:20:00,18,1,loginwindow,General Utilities,0
+2016-08-05T12:20:00,7,1,photoshop cc,General Design & Composition,2
+2016-08-05T12:20:00,7,1,linyangchen.wordpress.com,General News & Opinion,-2
+2016-08-05T12:20:00,2,1,google.com,Search,2
+2016-08-05T12:55:00,175,1,en.wikipedia.org,General Reference & Learning,1
+2016-08-05T12:55:00,5,1,eaptlstrust,General Utilities,1
+2016-08-05T13:05:00,79,1,snapchat.com,General Social Networking,-2
+2016-08-05T13:05:00,41,1,google.com,Search,2
+2016-08-05T13:05:00,6,1,Mail,Email,2
+2016-08-05T13:05:00,6,1,nbcolympics.com,Sports,-1
+2016-08-05T13:05:00,4,1,photoshop cc,General Design & Composition,2
+2016-08-05T13:05:00,3,1,chineseetymology.org,General Reference & Learning,1
+2016-08-05T13:05:00,2,1,pan.baidu.com,File Sharing,-2
+2016-08-05T13:05:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2016-08-05T13:05:00,2,1,besjournal.com,Uncategorized,0
+2016-08-05T13:05:00,1,1,freechinesefont.com,Uncategorized,0
+2016-08-05T13:05:00,1,1,sling.com,General News & Opinion,-2
+2016-08-05T13:10:00,77,1,photoshop cc,General Design & Composition,2
+2016-08-05T13:10:00,76,1,google.com,Search,2
+2016-08-05T13:10:00,36,1,snapchat.com,General Social Networking,-2
+2016-08-05T13:10:00,32,1,Finder,General Utilities,0
+2016-08-05T13:10:00,22,1,nbcolympics.com,Sports,-1
+2016-08-05T13:10:00,7,1,Mail,Email,2
+2016-08-05T13:10:00,7,1,Preview,General Reference & Learning,2
+2016-08-05T13:10:00,4,1,sling.com,General News & Opinion,-2
+2016-08-05T13:10:00,1,1,cbc.ca,General News & Opinion,-2
+2016-08-05T13:15:00,112,1,calendar,Calendars,1
+2016-08-05T13:15:00,88,1,snapchat.com,General Social Networking,-2
+2016-08-05T13:15:00,55,1,Mail,Email,2
+2016-08-05T13:15:00,30,1,Finder,General Utilities,0
+2016-08-05T13:15:00,15,1,photoshop cc,General Design & Composition,2
+2016-08-05T13:20:00,37,1,snapchat.com,General Social Networking,-2
+2016-08-05T13:20:00,29,1,Mail,Email,2
+2016-08-05T13:20:00,5,1,google.com,Search,2
+2016-08-05T13:25:00,160,1,snapchat.com,General Social Networking,-2
+2016-08-05T13:25:00,24,1,google.com,Search,2
+2016-08-05T13:30:00,259,1,photoshop cc,General Design & Composition,2
+2016-08-05T13:30:00,41,1,snapchat.com,General Social Networking,-2
+2016-08-05T13:35:00,199,1,photoshop cc,General Design & Composition,2
+2016-08-05T13:35:00,76,1,google.com,Search,2
+2016-08-05T13:35:00,13,1,sling.com,General News & Opinion,-2
+2016-08-05T13:35:00,4,1,images.mapsofworld.com,General News & Opinion,-2
+2016-08-05T13:35:00,1,1,snapchat.com,General Social Networking,-2
+2016-08-05T13:35:00,1,1,Safari,Browsers,2
+2016-08-05T13:40:00,15,1,google.com,Search,2
+2016-08-05T13:40:00,14,1,images.mapsofworld.com,General News & Opinion,-2
+2016-08-05T13:45:00,51,1,google.com,Search,2
+2016-08-05T14:00:00,100,1,google.com,Search,2
+2016-08-05T14:00:00,21,1,aia.org,General Business,2
+2016-08-05T14:00:00,16,1,en.wikipedia.org,General Reference & Learning,1
+2016-08-05T14:00:00,2,1,Safari,Browsers,2
+2016-08-05T14:05:00,70,1,google.com,Search,2
+2016-08-05T14:05:00,53,1,aia.org,General Business,2
+2016-08-05T14:05:00,53,1,freechinesefont.com,Uncategorized,0
+2016-08-05T14:05:00,39,1,photoshop cc,General Design & Composition,2
+2016-08-05T14:05:00,12,1,Finder,General Utilities,0
+2016-08-05T14:05:00,10,1,zcool.com.cn,General Design & Composition,2
+2016-08-05T14:05:00,9,1,VLC Media Player,Video,-2
+2016-08-05T14:05:00,8,1,chinesefontdesign.com,Uncategorized,0
+2016-08-05T14:05:00,8,1,font book,Presentation,2
+2016-08-05T14:05:00,7,1,webdesign.tutsplus.com,Engineering & Technology,1
+2016-08-05T14:05:00,6,1,pan.baidu.com,File Sharing,-2
+2016-08-05T14:05:00,5,1,nbcolympics.com,Sports,-1
+2016-08-05T14:05:00,5,1,cbc.ca,General News & Opinion,-2
+2016-08-05T14:05:00,3,1,linotype.com,Search,0
+2016-08-05T14:05:00,2,1,upload.wikimedia.org,Search,0
+2016-08-05T14:05:00,2,1,zolenda.com,Uncategorized,0
+2016-08-05T14:05:00,2,1,besjournal.com,Uncategorized,0
+2016-08-05T14:05:00,1,1,researchgate.net,Professional Networking,1
+2016-08-05T14:05:00,1,1,Safari,Browsers,2
+2016-08-05T14:05:00,1,1,snapchat.com,General Social Networking,-2
+2016-08-05T14:10:00,298,1,webdesign.tutsplus.com,Engineering & Technology,1
+2016-08-05T14:10:00,2,1,Safari,Browsers,2
+2016-08-05T14:15:00,130,1,webdesign.tutsplus.com,Engineering & Technology,1
+2016-08-05T14:15:00,75,1,makefont.com,Uncategorized,0
+2016-08-05T14:15:00,13,1,bluetoothuiserver,General Utilities,1
+2016-08-05T14:15:00,7,1,youziku.com,Uncategorized,0
+2016-08-05T14:15:00,7,1,pan.baidu.com,File Sharing,-2
+2016-08-05T14:20:00,73,1,webdesign.tutsplus.com,Engineering & Technology,1
+2016-08-05T14:25:00,136,1,photoshop cc,General Design & Composition,2
+2016-08-05T14:25:00,117,1,webdesign.tutsplus.com,Engineering & Technology,1
+2016-08-05T14:25:00,24,1,google.com,Search,2
+2016-08-05T14:25:00,15,1,img.photobucket.com,General Entertainment,-2
+2016-08-05T14:25:00,8,1,smg.photobucket.com,General News & Opinion,-2
+2016-08-05T14:30:00,243,1,photoshop cc,General Design & Composition,2
+2016-08-05T14:35:00,256,1,photoshop cc,General Design & Composition,2
+2016-08-05T14:35:00,13,1,snapchat.com,General Social Networking,-2
+2016-08-05T14:35:00,9,1,Finder,General Utilities,0
+2016-08-05T14:35:00,1,1,chinamaps.org,Uncategorized,0
+2016-08-05T14:35:00,1,1,img.photobucket.com,General Entertainment,-2
+2016-08-05T14:40:00,223,1,snapchat.com,General Social Networking,-2
+2016-08-05T14:40:00,52,1,photoshop cc,General Design & Composition,2
+2016-08-05T14:40:00,20,1,Mail,Email,2
+2016-08-05T14:40:00,3,1,Finder,General Utilities,0
+2016-08-05T14:45:00,178,1,snapchat.com,General Social Networking,-2
+2016-08-05T14:45:00,67,1,en.wikipedia.org,General Reference & Learning,1
+2016-08-05T14:45:00,26,1,Mail,Email,2
+2016-08-05T14:45:00,21,1,google.com,Search,2
+2016-08-05T14:45:00,5,1,youziku.com,Uncategorized,0
+2016-08-05T14:45:00,2,1,webdesign.tutsplus.com,Engineering & Technology,1
+2016-08-05T14:50:00,173,1,photoshop cc,General Design & Composition,2
+2016-08-05T14:50:00,84,1,google.com,Search,2
+2016-08-05T14:50:00,21,1,snapchat.com,General Social Networking,-2
+2016-08-05T14:50:00,9,1,media.gettyimages.com,Presentation,2
+2016-08-05T14:50:00,1,1,sling.com,General News & Opinion,-2
+2016-08-05T14:55:00,79,1,photoshop cc,General Design & Composition,2
+2016-08-05T14:55:00,42,1,google.com,Search,2
+2016-08-05T14:55:00,8,1,upload.wikimedia.org,Search,0
+2016-08-05T14:55:00,3,1,media.gettyimages.com,Presentation,2
+2016-08-05T15:00:00,111,1,photoshop cc,General Design & Composition,2
+2016-08-05T15:05:00,177,1,photoshop cc,General Design & Composition,2
+2016-08-05T15:05:00,35,1,google.com,Search,2
+2016-08-05T15:05:00,1,1,upload.wikimedia.org,Search,0
+2016-08-05T15:10:00,169,1,snapchat.com,General Social Networking,-2
+2016-08-05T15:10:00,89,1,Mail,Email,2
+2016-08-05T15:10:00,32,1,photoshop cc,General Design & Composition,2
+2016-08-05T15:10:00,4,1,google.com,Search,2
+2016-08-05T15:10:00,3,1,media.gettyimages.com,Presentation,2
+2016-08-05T15:10:00,1,1,sling.com,General News & Opinion,-2
+2016-08-05T15:10:00,1,1,nbcolympics.com,Sports,-1
+2016-08-05T15:15:00,14,1,Mail,Email,2
+2016-08-05T15:25:00,45,1,support.snapchat.com,General Social Networking,-2
+2016-08-05T15:25:00,8,1,snapchat.com,General Social Networking,-2
+2016-08-05T15:25:00,5,1,google.com,Search,2
+2016-08-05T15:25:00,2,1,MS Excel,General Business,2
+2016-08-05T15:30:00,160,1,support.snapchat.com,General Social Networking,-2
+2016-08-05T15:30:00,130,1,reddit.com,General News & Opinion,-2
+2016-08-05T15:30:00,6,1,google.com,Search,2
+2016-08-05T15:30:00,3,1,imgur.com,Photos,-2
+2016-08-05T15:30:00,1,1,snapchat.com,General Social Networking,-2
+2016-08-05T15:35:00,157,1,reddit.com,General News & Opinion,-2
+2016-08-05T15:35:00,126,1,photoshop cc,General Design & Composition,2
+2016-08-05T15:35:00,12,1,imgur.com,Photos,-2
+2016-08-05T15:35:00,5,1,i.reddituploads.com,General Entertainment,-2
+2016-08-05T15:40:00,300,1,photoshop cc,General Design & Composition,2
+2016-08-05T15:45:00,105,1,photoshop cc,General Design & Composition,2
+2016-08-05T15:50:00,158,1,snapchat.com,General Social Networking,-2
+2016-08-05T15:50:00,107,1,photoshop cc,General Design & Composition,2
+2016-08-05T15:50:00,7,1,Mail,Email,2
+2016-08-05T15:50:00,6,1,chinamaps.org,Uncategorized,0
+2016-08-05T15:50:00,4,1,microsoft word,Writing,2
+2016-08-05T15:50:00,4,1,reddit.com,General News & Opinion,-2
+2016-08-05T15:50:00,2,1,google.com,Search,2
+2016-08-05T15:50:00,1,1,besjournal.com,Uncategorized,0
+2016-08-05T15:50:00,1,1,upload.wikimedia.org,Search,0
+2016-08-05T15:55:00,159,1,photoshop cc,General Design & Composition,2
+2016-08-05T15:55:00,122,1,snapchat.com,General Social Networking,-2
+2016-08-05T15:55:00,19,1,google.com,Search,2
+2016-08-05T16:00:00,173,1,Finder,General Utilities,0
+2016-08-05T16:00:00,111,1,snapchat.com,General Social Networking,-2
+2016-08-05T16:00:00,11,1,photoshop cc,General Design & Composition,2
+2016-08-05T16:00:00,3,1,VLC Media Player,Video,-2
+2016-08-05T16:05:00,180,1,photoshop cc,General Design & Composition,2
+2016-08-05T16:05:00,77,1,Finder,General Utilities,0
+2016-08-05T16:05:00,12,1,Mail,Email,2
+2016-08-05T16:10:00,103,1,photoshop cc,General Design & Composition,2
+2016-08-05T16:10:00,59,1,snapchat.com,General Social Networking,-2
+2016-08-05T16:10:00,1,1,google.com,Search,2
+2016-08-05T16:15:00,250,1,photoshop cc,General Design & Composition,2
+2016-08-05T16:15:00,50,1,snapchat.com,General Social Networking,-2
+2016-08-05T16:20:00,300,1,photoshop cc,General Design & Composition,2
+2016-08-05T16:25:00,190,1,snapchat.com,General Social Networking,-2
+2016-08-05T16:25:00,74,1,photoshop cc,General Design & Composition,2
+2016-08-05T16:25:00,32,1,Finder,General Utilities,0
+2016-08-05T16:25:00,4,1,google.com,Search,2
+2016-08-05T16:30:00,128,1,photoshop cc,General Design & Composition,2
+2016-08-05T16:30:00,80,1,snapchat.com,General Social Networking,-2
+2016-08-05T16:30:00,50,1,google.com,Search,2
+2016-08-05T16:30:00,1,1,Finder,General Utilities,0
+2016-08-05T16:35:00,267,1,photoshop cc,General Design & Composition,2
+2016-08-05T16:40:00,24,1,photoshop cc,General Design & Composition,2
+2016-08-05T16:45:00,31,1,loginwindow,General Utilities,0
+2016-08-05T16:45:00,20,1,photoshop cc,General Design & Composition,2
+2016-08-05T16:55:00,44,1,loginwindow,General Utilities,0
+2016-08-05T21:10:00,73,1,microsoft word,Writing,2
+2016-08-05T21:10:00,32,1,photoshop cc,General Design & Composition,2
+2016-08-05T21:10:00,4,1,google.com,Search,2
+2016-08-05T21:15:00,300,1,microsoft word,Writing,2
+2016-08-05T21:20:00,300,1,microsoft word,Writing,2
+2016-08-05T21:25:00,300,1,microsoft word,Writing,2
+2016-08-05T21:30:00,300,1,microsoft word,Writing,2
+2016-08-05T21:35:00,300,1,microsoft word,Writing,2
+2016-08-05T21:40:00,300,1,microsoft word,Writing,2
+2016-08-05T21:45:00,220,1,microsoft word,Writing,2
+2016-08-05T21:55:00,9,1,google.com,Search,2
+2016-08-05T22:00:00,297,1,rio2016.com,General News & Opinion,-2
+2016-08-05T22:05:00,298,1,rio2016.com,General News & Opinion,-2
+2016-08-05T22:10:00,157,1,nbcolympics.com,Sports,-1
+2016-08-05T22:10:00,129,1,rio2016.com,General News & Opinion,-2
+2016-08-05T22:10:00,13,1,google.com,Search,2
+2016-08-05T22:15:00,187,1,rio2016.com,General News & Opinion,-2
+2016-08-05T22:15:00,63,1,nbcolympics.com,Sports,-1
+2016-08-05T22:15:00,21,1,results.nbcolympics.com,Sports,-1
+2016-08-05T22:15:00,6,1,microsoft word,Writing,2
+2016-08-05T22:20:00,191,1,microsoft word,Writing,2
+2016-08-05T22:20:00,81,1,en.wikipedia.org,General Reference & Learning,1
+2016-08-05T22:20:00,9,1,Safari,Browsers,2
+2016-08-05T22:20:00,9,1,google.com,Search,2
+2016-08-05T22:20:00,7,1,rio2016.com,General News & Opinion,-2
+2016-08-05T22:20:00,3,1,Finder,General Utilities,0
+2016-08-05T22:25:00,300,1,microsoft word,Writing,2
+2016-08-05T22:30:00,300,1,microsoft word,Writing,2
+2016-08-05T22:35:00,300,1,microsoft word,Writing,2
+2016-08-05T22:40:00,66,1,microsoft word,Writing,2
+2016-08-05T22:40:00,16,1,loginwindow,General Utilities,0

@@ -1,0 +1,277 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-10-25T00:00:00,135,1,9to5mac.com,General News & Opinion,-2
+2018-10-25T00:00:00,2,1,loginwindow,General Utilities,0
+2018-10-25T00:15:00,53,1,introml.mit.edu,Presentation,2
+2018-10-25T00:15:00,4,1,9to5mac.com,General News & Opinion,-2
+2018-10-25T00:15:00,2,1,loginwindow,General Utilities,0
+2018-10-25T00:20:00,300,1,introml.mit.edu,Presentation,2
+2018-10-25T00:25:00,127,1,messenger.com,General Social Networking,-2
+2018-10-25T00:25:00,102,1,introml.mit.edu,Presentation,2
+2018-10-25T00:25:00,46,1,youtube.com,Video,-2
+2018-10-25T00:25:00,15,1,wechat,General Social Networking,-2
+2018-10-25T00:25:00,7,1,wolframalpha.com,Search,1
+2018-10-25T00:25:00,1,1,rescuetime.com,Intelligence,0
+2018-10-25T00:25:00,1,1,idp.mit.edu,General Reference & Learning,1
+2018-10-25T00:25:00,1,1,osisoft.com,Engineering & Technology,1
+2018-10-25T00:30:00,233,1,youtube.com,Video,-2
+2018-10-25T00:30:00,55,1,wechat,General Social Networking,-2
+2018-10-25T00:30:00,11,1,Mail,Email,2
+2018-10-25T00:35:00,286,1,youtube.com,Video,-2
+2018-10-25T00:35:00,10,1,wechat,General Social Networking,-2
+2018-10-25T00:35:00,3,1,calendar,Calendars,1
+2018-10-25T00:40:00,242,1,youtube.com,Video,-2
+2018-10-25T00:40:00,54,1,wechat,General Social Networking,-2
+2018-10-25T00:40:00,4,1,9to5mac.com,General News & Opinion,-2
+2018-10-25T00:45:00,282,1,wechat,General Social Networking,-2
+2018-10-25T00:45:00,15,1,Mail,Email,2
+2018-10-25T00:45:00,2,1,youtube.com,Video,-2
+2018-10-25T00:45:00,1,1,9to5mac.com,General News & Opinion,-2
+2018-10-25T00:50:00,175,1,wechat,General Social Networking,-2
+2018-10-25T00:50:00,83,1,9to5mac.com,General News & Opinion,-2
+2018-10-25T00:50:00,28,1,youtube.com,Video,-2
+2018-10-25T00:50:00,12,1,google.com,Search,2
+2018-10-25T00:50:00,2,1,Mail,Email,2
+2018-10-25T00:55:00,136,1,wechat,General Social Networking,-2
+2018-10-25T00:55:00,100,1,messenger.com,General Social Networking,-2
+2018-10-25T00:55:00,20,1,google.com,Search,2
+2018-10-25T00:55:00,13,1,bbc.com,General News & Opinion,-2
+2018-10-25T00:55:00,2,1,Mail,Email,2
+2018-10-25T00:55:00,1,1,loginwindow,General Utilities,0
+2018-10-25T10:00:00,26,1,Preview,General Reference & Learning,2
+2018-10-25T10:00:00,23,1,wechat,General Social Networking,-2
+2018-10-25T10:00:00,20,1,messenger.com,General Social Networking,-2
+2018-10-25T10:00:00,9,1,storeuid,General Utilities,1
+2018-10-25T10:00:00,5,1,todoist,Project Management,2
+2018-10-25T10:05:00,289,1,introml.mit.edu,Presentation,2
+2018-10-25T10:05:00,9,1,Preview,General Reference & Learning,2
+2018-10-25T10:05:00,2,1,messenger.com,General Social Networking,-2
+2018-10-25T10:10:00,299,1,introml.mit.edu,Presentation,2
+2018-10-25T10:10:00,1,1,6004.mit.edu,Engineering & Technology,1
+2018-10-25T10:15:00,296,1,introml.mit.edu,Presentation,2
+2018-10-25T10:15:00,4,1,messenger.com,General Social Networking,-2
+2018-10-25T10:20:00,263,1,introml.mit.edu,Presentation,2
+2018-10-25T10:20:00,37,1,messenger.com,General Social Networking,-2
+2018-10-25T10:25:00,125,1,introml.mit.edu,Presentation,2
+2018-10-25T10:40:00,6,1,messenger.com,General Social Networking,-2
+2018-10-25T10:45:00,121,1,introml.mit.edu,Presentation,2
+2018-10-25T10:45:00,108,1,messenger.com,General Social Networking,-2
+2018-10-25T10:45:00,43,1,Mail,Email,2
+2018-10-25T10:45:00,27,1,calendar,Calendars,1
+2018-10-25T10:50:00,300,1,introml.mit.edu,Presentation,2
+2018-10-25T10:55:00,242,1,introml.mit.edu,Presentation,2
+2018-10-25T10:55:00,24,1,messenger.com,General Social Networking,-2
+2018-10-25T10:55:00,15,1,freetoursbyfoot.com,General Reference & Learning,1
+2018-10-25T10:55:00,10,1,google.com,Search,2
+2018-10-25T10:55:00,9,1,rescuetime.com,Intelligence,0
+2018-10-25T11:00:00,300,1,introml.mit.edu,Presentation,2
+2018-10-25T11:05:00,268,1,introml.mit.edu,Presentation,2
+2018-10-25T11:05:00,32,1,messenger.com,General Social Networking,-2
+2018-10-25T11:10:00,279,1,introml.mit.edu,Presentation,2
+2018-10-25T11:10:00,19,1,messenger.com,General Social Networking,-2
+2018-10-25T11:10:00,2,1,6004.mit.edu,Engineering & Technology,1
+2018-10-25T11:15:00,36,1,introml.mit.edu,Presentation,2
+2018-10-25T11:20:00,97,1,introml.mit.edu,Presentation,2
+2018-10-25T11:20:00,78,1,messenger.com,General Social Networking,-2
+2018-10-25T11:20:00,1,1,6004.mit.edu,Engineering & Technology,1
+2018-10-25T11:25:00,300,1,introml.mit.edu,Presentation,2
+2018-10-25T11:30:00,300,1,introml.mit.edu,Presentation,2
+2018-10-25T11:35:00,300,1,introml.mit.edu,Presentation,2
+2018-10-25T11:40:00,280,1,introml.mit.edu,Presentation,2
+2018-10-25T11:40:00,12,1,youtube.com,Video,-2
+2018-10-25T11:40:00,8,1,messenger.com,General Social Networking,-2
+2018-10-25T11:45:00,299,1,introml.mit.edu,Presentation,2
+2018-10-25T11:50:00,300,1,introml.mit.edu,Presentation,2
+2018-10-25T11:55:00,300,1,introml.mit.edu,Presentation,2
+2018-10-25T12:00:00,247,1,introml.mit.edu,Presentation,2
+2018-10-25T12:00:00,53,1,messenger.com,General Social Networking,-2
+2018-10-25T12:05:00,139,1,messenger.com,General Social Networking,-2
+2018-10-25T12:05:00,76,1,introml.mit.edu,Presentation,2
+2018-10-25T12:05:00,69,1,piazza.com,General Reference & Learning,2
+2018-10-25T12:05:00,14,1,Mail,Email,2
+2018-10-25T12:05:00,1,1,6004.mit.edu,Engineering & Technology,1
+2018-10-25T12:10:00,258,1,introml.mit.edu,Presentation,2
+2018-10-25T12:10:00,41,1,piazza.com,General Reference & Learning,2
+2018-10-25T12:15:00,213,1,introml.mit.edu,Presentation,2
+2018-10-25T12:15:00,78,1,piazza.com,General Reference & Learning,2
+2018-10-25T12:15:00,4,1,Mail,Email,2
+2018-10-25T12:15:00,2,1,6004.mit.edu,Engineering & Technology,1
+2018-10-25T12:15:00,1,1,idp.mit.edu,General Reference & Learning,1
+2018-10-25T12:15:00,1,1,messenger.com,General Social Networking,-2
+2018-10-25T12:15:00,1,1,youtube.com,Video,-2
+2018-10-25T12:20:00,273,1,introml.mit.edu,Presentation,2
+2018-10-25T12:20:00,27,1,piazza.com,General Reference & Learning,2
+2018-10-25T12:25:00,300,1,introml.mit.edu,Presentation,2
+2018-10-25T12:30:00,74,1,introml.mit.edu,Presentation,2
+2018-10-25T13:10:00,2,1,messenger.com,General Social Networking,-2
+2018-10-25T13:10:00,1,1,introml.mit.edu,Presentation,2
+2018-10-25T13:15:00,198,1,introml.mit.edu,Presentation,2
+2018-10-25T13:15:00,1,1,youtube.com,Video,-2
+2018-10-25T13:20:00,300,1,introml.mit.edu,Presentation,2
+2018-10-25T13:25:00,192,1,introml.mit.edu,Presentation,2
+2018-10-25T13:40:00,209,1,introml.mit.edu,Presentation,2
+2018-10-25T13:40:00,6,1,Mail,Email,2
+2018-10-25T13:45:00,300,1,introml.mit.edu,Presentation,2
+2018-10-25T13:50:00,263,1,introml.mit.edu,Presentation,2
+2018-10-25T13:50:00,35,1,Mail,Email,2
+2018-10-25T13:50:00,2,1,idp.mit.edu,General Reference & Learning,1
+2018-10-25T13:55:00,300,1,introml.mit.edu,Presentation,2
+2018-10-25T14:00:00,118,1,introml.mit.edu,Presentation,2
+2018-10-25T14:00:00,81,1,Mail,Email,2
+2018-10-25T14:00:00,77,1,app.greenhouse.io,Administration,2
+2018-10-25T14:00:00,18,1,calendar,Calendars,1
+2018-10-25T14:00:00,3,1,wechat,General Social Networking,-2
+2018-10-25T14:00:00,1,1,Safari,Browsers,2
+2018-10-25T14:00:00,1,1,Preview,General Reference & Learning,2
+2018-10-25T14:05:00,245,1,app.greenhouse.io,Administration,2
+2018-10-25T14:05:00,47,1,Mail,Email,2
+2018-10-25T14:05:00,8,1,calendar,Calendars,1
+2018-10-25T14:10:00,127,1,app.greenhouse.io,Administration,2
+2018-10-25T14:10:00,1,1,loginwindow,General Utilities,0
+2018-10-25T14:15:00,87,1,introml.mit.edu,Presentation,2
+2018-10-25T14:15:00,37,1,wechat,General Social Networking,-2
+2018-10-25T14:15:00,22,1,hr.mit.edu,Presentation,2
+2018-10-25T14:15:00,21,1,Mail,Email,2
+2018-10-25T14:15:00,17,1,en.wikipedia.org,General Reference & Learning,1
+2018-10-25T14:15:00,15,1,osisoft.com,Engineering & Technology,1
+2018-10-25T14:15:00,12,1,eduapps.mit.edu,Presentation,2
+2018-10-25T14:15:00,7,1,idp.mit.edu,General Reference & Learning,1
+2018-10-25T14:15:00,3,1,Safari,Browsers,2
+2018-10-25T14:15:00,3,1,google.com,Search,2
+2018-10-25T14:20:00,180,1,youtube.com,Video,-2
+2018-10-25T14:20:00,71,1,wechat,General Social Networking,-2
+2018-10-25T14:20:00,26,1,calendar,Calendars,1
+2018-10-25T14:20:00,11,1,Mail,Email,2
+2018-10-25T14:20:00,6,1,hr.mit.edu,Presentation,2
+2018-10-25T14:20:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2018-10-25T14:25:00,169,1,introml.mit.edu,Presentation,2
+2018-10-25T14:25:00,93,1,youtube.com,Video,-2
+2018-10-25T14:25:00,25,1,wechat,General Social Networking,-2
+2018-10-25T14:25:00,13,1,messenger.com,General Social Networking,-2
+2018-10-25T14:30:00,300,1,introml.mit.edu,Presentation,2
+2018-10-25T14:35:00,198,1,introml.mit.edu,Presentation,2
+2018-10-25T14:35:00,57,1,calendar,Calendars,1
+2018-10-25T14:35:00,44,1,messenger.com,General Social Networking,-2
+2018-10-25T14:35:00,1,1,idp.mit.edu,General Reference & Learning,1
+2018-10-25T14:40:00,300,1,introml.mit.edu,Presentation,2
+2018-10-25T14:45:00,281,1,introml.mit.edu,Presentation,2
+2018-10-25T14:45:00,19,1,wechat,General Social Networking,-2
+2018-10-25T14:50:00,144,1,wechat,General Social Networking,-2
+2018-10-25T14:50:00,27,1,Mail,Email,2
+2018-10-25T14:50:00,8,1,introml.mit.edu,Presentation,2
+2018-10-25T14:50:00,5,1,microsoft onenote,Intelligence,2
+2018-10-25T14:50:00,2,1,microsoft update assistant,General Utilities,1
+2018-10-25T14:55:00,8,1,6004.mit.edu,Engineering & Technology,1
+2018-10-25T14:55:00,5,1,wechat,General Social Networking,-2
+2018-10-25T14:55:00,2,1,introml.mit.edu,Presentation,2
+2018-10-25T15:00:00,194,1,calendar,Calendars,1
+2018-10-25T15:00:00,106,1,6004.mit.edu,Engineering & Technology,1
+2018-10-25T15:05:00,156,1,introml.mit.edu,Presentation,2
+2018-10-25T15:05:00,143,1,calendar,Calendars,1
+2018-10-25T15:05:00,1,1,6004.mit.edu,Engineering & Technology,1
+2018-10-25T15:10:00,56,1,introml.mit.edu,Presentation,2
+2018-10-25T15:10:00,1,1,loginwindow,General Utilities,0
+2018-10-25T15:20:00,20,1,piazza.com,General Reference & Learning,2
+2018-10-25T15:20:00,1,1,loginwindow,General Utilities,0
+2018-10-25T15:20:00,1,1,introml.mit.edu,Presentation,2
+2018-10-25T15:30:00,182,1,en.wikipedia.org,General Reference & Learning,1
+2018-10-25T15:30:00,43,1,google.com,Search,2
+2018-10-25T15:30:00,21,1,piazza.com,General Reference & Learning,2
+2018-10-25T15:30:00,9,1,wechat,General Social Networking,-2
+2018-10-25T15:30:00,6,1,app.greenhouse.io,Administration,2
+2018-10-25T15:30:00,4,1,careers.google.com,Search,0
+2018-10-25T15:30:00,2,1,Mail,Email,2
+2018-10-25T15:35:00,218,1,en.wikipedia.org,General Reference & Learning,1
+2018-10-25T15:35:00,62,1,wechat,General Social Networking,-2
+2018-10-25T15:35:00,10,1,youtube.com,Video,-2
+2018-10-25T15:35:00,9,1,Mail,Email,2
+2018-10-25T15:40:00,92,1,introml.mit.edu,Presentation,2
+2018-10-25T15:40:00,72,1,wechat,General Social Networking,-2
+2018-10-25T15:40:00,68,1,vox.com,General News & Opinion,-2
+2018-10-25T15:40:00,28,1,Mail,Email,2
+2018-10-25T15:40:00,22,1,google.com,Search,2
+2018-10-25T15:40:00,15,1,youtube.com,Video,-2
+2018-10-25T15:40:00,2,1,todoist,Project Management,2
+2018-10-25T15:40:00,1,1,Preview,General Reference & Learning,2
+2018-10-25T15:45:00,79,1,en.wikipedia.org,General Reference & Learning,1
+2018-10-25T15:45:00,44,1,introml.mit.edu,Presentation,2
+2018-10-25T15:45:00,35,1,vox.com,General News & Opinion,-2
+2018-10-25T15:45:00,21,1,google.com,Search,2
+2018-10-25T15:45:00,14,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-10-25T15:45:00,12,1,youtube.com,Video,-2
+2018-10-25T15:45:00,9,1,messenger.com,General Social Networking,-2
+2018-10-25T15:45:00,7,1,Mail,Email,2
+2018-10-25T15:45:00,6,1,freetoursbyfoot.com,General Reference & Learning,1
+2018-10-25T15:45:00,2,1,stellar.mit.edu,General Reference & Learning,1
+2018-10-25T15:45:00,1,1,Safari,Browsers,2
+2018-10-25T15:45:00,1,1,loginwindow,General Utilities,0
+2018-10-25T15:45:00,1,1,calendar,Calendars,1
+2018-10-25T15:45:00,1,1,9to5mac.com,General News & Opinion,-2
+2018-10-25T15:45:00,1,1,idp.mit.edu,General Reference & Learning,1
+2018-10-25T15:50:00,168,1,en.wikipedia.org,General Reference & Learning,1
+2018-10-25T15:50:00,15,1,google.com,Search,2
+2018-10-25T15:50:00,1,1,loginwindow,General Utilities,0
+2018-10-25T19:05:00,61,1,introml.mit.edu,Presentation,2
+2018-10-25T19:05:00,2,1,loginwindow,General Utilities,0
+2018-10-25T19:05:00,1,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-10-25T19:05:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2018-10-25T19:10:00,217,1,introml.mit.edu,Presentation,2
+2018-10-25T19:10:00,1,1,loginwindow,General Utilities,0
+2018-10-25T22:00:00,34,1,effbot.org,Search,0
+2018-10-25T22:00:00,22,1,safari-resource:,Browsers,0
+2018-10-25T22:00:00,13,1,messenger.com,General Social Networking,-2
+2018-10-25T22:00:00,2,1,texshop,Writing,2
+2018-10-25T22:05:00,83,1,Google Presentations,Presentation,2
+2018-10-25T22:05:00,72,1,messenger.com,General Social Networking,-2
+2018-10-25T22:05:00,37,1,Mail,Email,2
+2018-10-25T22:05:00,2,1,Safari,Browsers,2
+2018-10-25T22:20:00,203,1,virtualbox vm,General Software Development,2
+2018-10-25T22:20:00,15,1,introml.mit.edu,Presentation,2
+2018-10-25T22:20:00,12,1,virtualbox,Virtualization,0
+2018-10-25T22:20:00,2,1,loginwindow,General Utilities,0
+2018-10-25T22:25:00,115,1,virtualbox vm,General Software Development,2
+2018-10-25T22:25:00,113,1,9to5mac.com,General News & Opinion,-2
+2018-10-25T22:25:00,107,1,Google Presentations,Presentation,2
+2018-10-25T22:25:00,49,1,google.com,Search,2
+2018-10-25T22:25:00,16,1,en.wikipedia.org,General Reference & Learning,1
+2018-10-25T22:25:00,12,1,wechat,General Social Networking,-2
+2018-10-25T22:25:00,6,1,Safari,Browsers,2
+2018-10-25T22:25:00,3,1,stackoverflow.com,General Software Development,2
+2018-10-25T22:25:00,2,1,stellar.mit.edu,General Reference & Learning,1
+2018-10-25T22:25:00,1,1,introml.mit.edu,Presentation,2
+2018-10-25T22:25:00,1,1,idp.mit.edu,General Reference & Learning,1
+2018-10-25T22:30:00,187,1,messenger.com,General Social Networking,-2
+2018-10-25T22:30:00,113,1,9to5mac.com,General News & Opinion,-2
+2018-10-25T22:35:00,279,1,texshop,Writing,2
+2018-10-25T22:35:00,276,1,messenger.com,General Social Networking,-2
+2018-10-25T22:35:00,14,1,urbandictionary.com,Search,0
+2018-10-25T22:35:00,5,1,google.com,Search,2
+2018-10-25T22:35:00,3,1,Safari,Browsers,2
+2018-10-25T22:35:00,2,1,Google Presentations,Presentation,2
+2018-10-25T22:40:00,133,1,messenger.com,General Social Networking,-2
+2018-10-25T22:40:00,81,1,Preview,General Reference & Learning,2
+2018-10-25T22:40:00,42,1,google.com,Search,2
+2018-10-25T22:40:00,39,1,en.wikipedia.org,General Reference & Learning,1
+2018-10-25T22:40:00,31,1,texshop,Writing,2
+2018-10-25T22:40:00,4,1,Safari,Browsers,2
+2018-10-25T22:40:00,1,1,Mail,Email,2
+2018-10-25T22:45:00,132,1,texshop,Writing,2
+2018-10-25T22:45:00,89,1,messenger.com,General Social Networking,-2
+2018-10-25T22:45:00,3,1,Preview,General Reference & Learning,2
+2018-10-25T22:50:00,300,1,texshop,Writing,2
+2018-10-25T22:50:00,6,1,google.com,Search,2
+2018-10-25T22:55:00,300,1,texshop,Writing,2
+2018-10-25T22:55:00,22,1,messenger.com,General Social Networking,-2
+2018-10-25T22:55:00,7,1,google.com,Search,2
+2018-10-25T22:55:00,2,1,Preview,General Reference & Learning,2
+2018-10-25T23:00:00,298,1,texshop,Writing,2
+2018-10-25T23:00:00,16,1,messenger.com,General Social Networking,-2
+2018-10-25T23:00:00,2,1,introml.mit.edu,Presentation,2
+2018-10-25T23:05:00,300,1,texshop,Writing,2
+2018-10-25T23:05:00,165,1,messenger.com,General Social Networking,-2
+2018-10-25T23:10:00,299,1,texshop,Writing,2
+2018-10-25T23:10:00,102,1,messenger.com,General Social Networking,-2
+2018-10-25T23:15:00,218,1,messenger.com,General Social Networking,-2
+2018-10-25T23:15:00,56,1,texshop,Writing,2
+2018-10-25T23:15:00,34,1,wechat,General Social Networking,-2
+2018-10-25T23:15:00,3,1,Preview,General Reference & Learning,2
+2018-10-25T23:15:00,1,1,loginwindow,General Utilities,0

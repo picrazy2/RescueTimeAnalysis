@@ -1,0 +1,126 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2017-06-05T08:05:00,37,1,en.wikipedia.org,General Reference & Learning,1
+2017-06-05T08:05:00,23,1,thebeijinger.com,General News & Opinion,-2
+2017-06-05T08:05:00,18,1,gaoloumi.com,Regional,-2
+2017-06-05T08:05:00,11,1,Safari,Browsers,2
+2017-06-05T08:05:00,9,1,Mail,Email,2
+2017-06-05T08:05:00,6,1,bing.com,Search,2
+2017-06-05T08:05:00,5,1,Finder,General Utilities,0
+2017-06-05T08:05:00,3,1,wechat,General Social Networking,-2
+2017-06-05T08:10:00,300,1,gaoloumi.com,Regional,-2
+2017-06-05T08:15:00,250,1,thebeijinger.com,General News & Opinion,-2
+2017-06-05T08:15:00,32,1,gaoloumi.com,Regional,-2
+2017-06-05T08:15:00,6,1,facebook.com,General Social Networking,-2
+2017-06-05T08:15:00,5,1,bing.com,Search,2
+2017-06-05T08:15:00,4,1,en.wikipedia.org,General Reference & Learning,1
+2017-06-05T08:15:00,1,1,expressvpn,General Utilities,1
+2017-06-05T08:20:00,55,1,thebeijinger.com,General News & Opinion,-2
+2017-06-05T08:45:00,49,1,9to5mac.com,General News & Opinion,-2
+2017-06-05T08:45:00,44,1,thebeijinger.com,General News & Opinion,-2
+2017-06-05T08:45:00,13,1,Safari,Browsers,2
+2017-06-05T08:45:00,1,1,bing.com,Search,2
+2017-06-05T08:50:00,300,1,9to5mac.com,General News & Opinion,-2
+2017-06-05T08:55:00,300,1,9to5mac.com,General News & Opinion,-2
+2017-06-05T09:00:00,300,1,9to5mac.com,General News & Opinion,-2
+2017-06-05T09:05:00,300,1,9to5mac.com,General News & Opinion,-2
+2017-06-05T09:10:00,300,1,9to5mac.com,General News & Opinion,-2
+2017-06-05T09:15:00,300,1,9to5mac.com,General News & Opinion,-2
+2017-06-05T09:20:00,300,1,9to5mac.com,General News & Opinion,-2
+2017-06-05T09:25:00,286,1,9to5mac.com,General News & Opinion,-2
+2017-06-05T09:35:00,79,1,9to5mac.com,General News & Opinion,-2
+2017-06-05T09:40:00,300,1,9to5mac.com,General News & Opinion,-2
+2017-06-05T09:45:00,300,1,9to5mac.com,General News & Opinion,-2
+2017-06-05T09:50:00,300,1,9to5mac.com,General News & Opinion,-2
+2017-06-05T09:55:00,299,1,9to5mac.com,General News & Opinion,-2
+2017-06-05T10:00:00,159,1,aqicn.org,General Reference & Learning,1
+2017-06-05T10:00:00,122,1,9to5mac.com,General News & Opinion,-2
+2017-06-05T10:00:00,18,1,Safari,Browsers,2
+2017-06-05T10:05:00,203,1,messages,General Social Networking,-2
+2017-06-05T10:05:00,89,1,aqicn.org,General Reference & Learning,1
+2017-06-05T10:05:00,8,1,Mail,Email,2
+2017-06-05T10:10:00,300,1,messages,General Social Networking,-2
+2017-06-05T10:15:00,19,1,messages,General Social Networking,-2
+2017-06-05T10:15:00,2,1,Mail,Email,2
+2017-06-05T10:20:00,2,1,messages,General Social Networking,-2
+2017-06-05T10:30:00,9,1,facetime,Voice Chat,-2
+2017-06-05T10:30:00,2,1,messages,General Social Networking,-2
+2017-06-05T10:35:00,183,1,facetime,Voice Chat,-2
+2017-06-05T10:35:00,73,1,apple.com,Engineering & Technology,-1
+2017-06-05T10:35:00,23,1,messages,General Social Networking,-2
+2017-06-05T10:35:00,10,1,aqicn.org,General Reference & Learning,1
+2017-06-05T10:35:00,5,1,Mail,Email,2
+2017-06-05T10:35:00,5,1,9to5mac.com,General News & Opinion,-2
+2017-06-05T10:40:00,300,1,facetime,Voice Chat,-2
+2017-06-05T10:45:00,300,1,facetime,Voice Chat,-2
+2017-06-05T10:50:00,148,1,tetrisfriends.com,Games,-2
+2017-06-05T10:50:00,118,1,facetime,Voice Chat,-2
+2017-06-05T10:50:00,27,1,apple.com,Engineering & Technology,-1
+2017-06-05T10:50:00,7,1,Mail,Email,2
+2017-06-05T10:55:00,272,1,tetrisfriends.com,Games,-2
+2017-06-05T10:55:00,11,1,facetime,Voice Chat,-2
+2017-06-05T10:55:00,1,1,Mail,Email,2
+2017-06-05T11:00:00,300,1,tetrisfriends.com,Games,-2
+2017-06-05T11:05:00,300,1,tetrisfriends.com,Games,-2
+2017-06-05T11:10:00,300,1,tetrisfriends.com,Games,-2
+2017-06-05T11:15:00,300,1,tetrisfriends.com,Games,-2
+2017-06-05T11:20:00,208,1,protobowl.com,General Reference & Learning,1
+2017-06-05T11:20:00,84,1,tetrisfriends.com,Games,-2
+2017-06-05T11:20:00,6,1,Safari,Browsers,2
+2017-06-05T11:20:00,2,1,aqicn.org,General Reference & Learning,1
+2017-06-05T11:25:00,300,1,protobowl.com,General Reference & Learning,1
+2017-06-05T11:30:00,300,1,protobowl.com,General Reference & Learning,1
+2017-06-05T11:35:00,300,1,protobowl.com,General Reference & Learning,1
+2017-06-05T11:40:00,300,1,protobowl.com,General Reference & Learning,1
+2017-06-05T11:45:00,300,1,protobowl.com,General Reference & Learning,1
+2017-06-05T11:50:00,300,1,protobowl.com,General Reference & Learning,1
+2017-06-05T11:55:00,300,1,protobowl.com,General Reference & Learning,1
+2017-06-05T12:00:00,300,1,protobowl.com,General Reference & Learning,1
+2017-06-05T12:05:00,287,1,protobowl.com,General Reference & Learning,1
+2017-06-05T12:05:00,11,1,facetime,Voice Chat,-2
+2017-06-05T12:05:00,2,1,Finder,General Utilities,0
+2017-06-05T12:10:00,300,1,protobowl.com,General Reference & Learning,1
+2017-06-05T12:15:00,300,1,protobowl.com,General Reference & Learning,1
+2017-06-05T12:20:00,300,1,protobowl.com,General Reference & Learning,1
+2017-06-05T12:25:00,300,1,protobowl.com,General Reference & Learning,1
+2017-06-05T12:30:00,123,1,facetime,Voice Chat,-2
+2017-06-05T12:30:00,92,1,protobowl.com,General Reference & Learning,1
+2017-06-05T12:30:00,66,1,Finder,General Utilities,0
+2017-06-05T12:30:00,12,1,messages,General Social Networking,-2
+2017-06-05T12:30:00,6,1,Mail,Email,2
+2017-06-05T12:35:00,171,1,facetime,Voice Chat,-2
+2017-06-05T12:35:00,79,1,protobowl.com,General Reference & Learning,1
+2017-06-05T12:35:00,27,1,apple.com,Engineering & Technology,-1
+2017-06-05T12:35:00,16,1,Finder,General Utilities,0
+2017-06-05T12:35:00,2,1,Safari,Browsers,2
+2017-06-05T12:35:00,2,1,aqicn.org,General Reference & Learning,1
+2017-06-05T12:35:00,2,1,wechat,General Social Networking,-2
+2017-06-05T12:40:00,281,1,facetime,Voice Chat,-2
+2017-06-05T12:40:00,19,1,apple.com,Engineering & Technology,-1
+2017-06-05T12:45:00,300,1,facetime,Voice Chat,-2
+2017-06-05T12:50:00,300,1,facetime,Voice Chat,-2
+2017-06-05T12:55:00,188,1,facetime,Voice Chat,-2
+2017-06-05T12:55:00,8,1,apple.com,Engineering & Technology,-1
+2017-06-05T13:05:00,269,1,facetime,Voice Chat,-2
+2017-06-05T13:05:00,17,1,protobowl.com,General Reference & Learning,1
+2017-06-05T13:10:00,300,1,facetime,Voice Chat,-2
+2017-06-05T13:15:00,300,1,facetime,Voice Chat,-2
+2017-06-05T13:20:00,159,1,facetime,Voice Chat,-2
+2017-06-05T13:55:00,33,1,facetime,Voice Chat,-2
+2017-06-05T13:55:00,1,1,screensaverengine,General Utilities,0
+2017-06-05T14:00:00,300,1,facetime,Voice Chat,-2
+2017-06-05T14:05:00,300,1,facetime,Voice Chat,-2
+2017-06-05T14:10:00,267,1,facetime,Voice Chat,-2
+2017-06-05T14:15:00,30,1,facetime,Voice Chat,-2
+2017-06-05T14:15:00,2,1,screensaverengine,General Utilities,0
+2017-06-05T14:20:00,300,1,facetime,Voice Chat,-2
+2017-06-05T14:25:00,300,1,facetime,Voice Chat,-2
+2017-06-05T14:30:00,300,1,facetime,Voice Chat,-2
+2017-06-05T14:35:00,300,1,facetime,Voice Chat,-2
+2017-06-05T14:40:00,300,1,facetime,Voice Chat,-2
+2017-06-05T14:45:00,300,1,facetime,Voice Chat,-2
+2017-06-05T14:50:00,300,1,facetime,Voice Chat,-2
+2017-06-05T14:55:00,300,1,facetime,Voice Chat,-2
+2017-06-05T15:00:00,194,1,facetime,Voice Chat,-2
+2017-06-05T15:20:00,71,1,facetime,Voice Chat,-2
+2017-06-05T15:25:00,17,1,loginwindow,General Utilities,0
+2017-06-05T15:25:00,2,1,facetime,Voice Chat,-2

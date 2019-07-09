@@ -1,0 +1,286 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2014-01-08T00:00:00,189,1,VLC Media Player,Video,-2
+2014-01-08T00:00:00,49,1,loginwindow,General Utilities,0
+2014-01-08T00:05:00,171,1,VLC Media Player,Video,-2
+2014-01-08T00:05:00,31,1,loginwindow,General Utilities,0
+2014-01-08T00:10:00,298,1,VLC Media Player,Video,-2
+2014-01-08T00:15:00,88,1,VLC Media Player,Video,-2
+2014-01-08T00:15:00,34,1,loginwindow,General Utilities,0
+2014-01-08T08:50:00,64,1,rescuetime.com,Intelligence,0
+2014-01-08T08:50:00,31,1,traxxas.com,General News & Opinion,-2
+2014-01-08T08:50:00,24,1,Mail,Email,2
+2014-01-08T08:50:00,13,1,facebook.com,General Social Networking,-2
+2014-01-08T08:50:00,12,1,pages,Presentation,2
+2014-01-08T08:55:00,157,1,rescuetime.com,Intelligence,0
+2014-01-08T08:55:00,66,1,Mail,Email,2
+2014-01-08T08:55:00,60,1,pages,Presentation,2
+2014-01-08T08:55:00,11,1,Finder,General Utilities,0
+2014-01-08T08:55:00,3,1,facebook.com,General Social Networking,-2
+2014-01-08T09:00:00,288,1,rescuetime.com,Intelligence,0
+2014-01-08T09:00:00,8,1,macrumors.com,General News & Opinion,-2
+2014-01-08T09:00:00,2,1,Mail,Email,2
+2014-01-08T09:00:00,2,1,facebook.com,General Social Networking,-2
+2014-01-08T09:05:00,298,1,rescuetime.com,Intelligence,0
+2014-01-08T09:10:00,203,1,microsoft word,Writing,2
+2014-01-08T09:10:00,73,1,rescuetime.com,Intelligence,0
+2014-01-08T09:10:00,15,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2014-01-08T09:10:00,6,1,facebook.com,General Social Networking,-2
+2014-01-08T09:10:00,3,1,Safari,Browsers,2
+2014-01-08T09:15:00,300,1,microsoft word,Writing,2
+2014-01-08T09:20:00,258,1,rescuetime.com,Intelligence,0
+2014-01-08T09:20:00,41,1,microsoft word,Writing,2
+2014-01-08T09:20:00,1,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2014-01-08T09:25:00,229,1,rescuetime.com,Intelligence,0
+2014-01-08T09:25:00,52,1,iWork Numbers,General Business,2
+2014-01-08T09:25:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2014-01-08T09:25:00,1,1,picrazy2.com,Uncategorized,2
+2014-01-08T09:30:00,152,1,microsoft word,Writing,2
+2014-01-08T09:30:00,94,1,app store,General Shopping,-2
+2014-01-08T09:30:00,25,1,iWork Numbers,General Business,2
+2014-01-08T09:30:00,15,1,mactracker,Search,-2
+2014-01-08T09:30:00,11,1,alfred,General Utilities,2
+2014-01-08T09:30:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2014-01-08T09:35:00,169,1,mactracker,Search,-2
+2014-01-08T09:35:00,89,1,app store,General Shopping,-2
+2014-01-08T09:35:00,4,1,Mail,Email,2
+2014-01-08T09:35:00,1,1,alfred,General Utilities,2
+2014-01-08T09:40:00,188,1,picrazy2.com,Uncategorized,2
+2014-01-08T09:40:00,47,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2014-01-08T09:40:00,32,1,Finder,General Utilities,0
+2014-01-08T09:40:00,23,1,google.com,Search,2
+2014-01-08T09:40:00,6,1,microsoft word,Writing,2
+2014-01-08T09:40:00,2,1,alfred,General Utilities,2
+2014-01-08T09:40:00,2,1,help.apple.com,Search,0
+2014-01-08T09:45:00,196,1,picrazy2.com,Uncategorized,2
+2014-01-08T09:45:00,98,1,microsoft word,Writing,2
+2014-01-08T09:45:00,3,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2014-01-08T09:45:00,3,1,google.com,Search,2
+2014-01-08T09:50:00,129,1,picrazy2.com,Uncategorized,2
+2014-01-08T09:50:00,49,1,rescuetime.com,Intelligence,0
+2014-01-08T09:50:00,35,1,microsoft word,Writing,2
+2014-01-08T09:50:00,25,1,browser.primatelabs.com,Browsers,-1
+2014-01-08T09:50:00,25,1,en.wikipedia.org,General Reference & Learning,1
+2014-01-08T09:50:00,12,1,apple.com,Engineering & Technology,-1
+2014-01-08T09:50:00,7,1,Mail,Email,2
+2014-01-08T09:50:00,6,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2014-01-08T09:50:00,3,1,bing.com,Search,2
+2014-01-08T09:50:00,3,1,pages,Presentation,2
+2014-01-08T09:50:00,2,1,edmodo.com,General Reference & Learning,1
+2014-01-08T09:50:00,2,1,help.apple.com,Search,0
+2014-01-08T09:50:00,1,1,traxxas.com,General News & Opinion,-2
+2014-01-08T09:55:00,7,1,en.wikipedia.org,General Reference & Learning,1
+2014-01-08T10:55:00,226,1,en.wikipedia.org,General Reference & Learning,1
+2014-01-08T10:55:00,7,1,bing.com,Search,2
+2014-01-08T11:00:00,92,1,en.wikipedia.org,General Reference & Learning,1
+2014-01-08T11:45:00,213,1,picrazy2.com,Uncategorized,2
+2014-01-08T11:45:00,22,1,Preview,General Reference & Learning,2
+2014-01-08T11:45:00,21,1,Mail,Email,2
+2014-01-08T11:45:00,4,1,traxxas.com,General News & Opinion,-2
+2014-01-08T11:45:00,2,1,bing.com,Search,2
+2014-01-08T11:50:00,213,1,edmodo.com,General Reference & Learning,1
+2014-01-08T11:50:00,36,1,en.wikipedia.org,General Reference & Learning,1
+2014-01-08T11:50:00,21,1,Preview,General Reference & Learning,2
+2014-01-08T11:50:00,12,1,picrazy2.com,Uncategorized,2
+2014-01-08T11:50:00,10,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2014-01-08T11:50:00,7,1,bing.com,Search,2
+2014-01-08T11:50:00,1,1,traxxas.com,General News & Opinion,-2
+2014-01-08T11:55:00,185,1,Finder,General Utilities,0
+2014-01-08T11:55:00,49,1,thegalleryofheroes.com,Uncategorized,0
+2014-01-08T11:55:00,18,1,screenjunkies.com,Video,-2
+2014-01-08T11:55:00,18,1,bing.com,Search,2
+2014-01-08T11:55:00,9,1,en.wikipedia.org,General Reference & Learning,1
+2014-01-08T11:55:00,7,1,Preview,General Reference & Learning,2
+2014-01-08T11:55:00,4,1,picrazy2.com,Uncategorized,2
+2014-01-08T11:55:00,4,1,slashfilm.com,General Entertainment,-2
+2014-01-08T11:55:00,2,1,macrumors.com,General News & Opinion,-2
+2014-01-08T11:55:00,2,1,apple.com,Engineering & Technology,-1
+2014-01-08T11:55:00,1,1,traxxas.com,General News & Opinion,-2
+2014-01-08T11:55:00,1,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2014-01-08T12:00:00,182,1,Preview,General Reference & Learning,2
+2014-01-08T12:00:00,67,1,en.wikipedia.org,General Reference & Learning,1
+2014-01-08T12:00:00,32,1,bing.com,Search,2
+2014-01-08T12:00:00,9,1,gointothestory.blcklst.com,General Reference & Learning,1
+2014-01-08T12:00:00,4,1,thegalleryofheroes.com,Uncategorized,0
+2014-01-08T12:00:00,3,1,alfred,General Utilities,2
+2014-01-08T12:00:00,2,1,traxxas.com,General News & Opinion,-2
+2014-01-08T12:00:00,1,1,slashfilm.com,General Entertainment,-2
+2014-01-08T12:05:00,300,1,Preview,General Reference & Learning,2
+2014-01-08T12:10:00,264,1,en.wikipedia.org,General Reference & Learning,1
+2014-01-08T12:10:00,36,1,Preview,General Reference & Learning,2
+2014-01-08T12:15:00,298,1,en.wikipedia.org,General Reference & Learning,1
+2014-01-08T12:15:00,2,1,pages,Presentation,2
+2014-01-08T12:20:00,294,1,pages,Presentation,2
+2014-01-08T12:20:00,3,1,Finder,General Utilities,0
+2014-01-08T12:20:00,2,1,Preview,General Reference & Learning,2
+2014-01-08T12:25:00,186,1,pages,Presentation,2
+2014-01-08T12:25:00,41,1,VLC Media Player,Video,-2
+2014-01-08T12:25:00,27,1,quicktime player,General Entertainment,-1
+2014-01-08T12:25:00,17,1,Preview,General Reference & Learning,2
+2014-01-08T12:25:00,16,1,Finder,General Utilities,0
+2014-01-08T12:25:00,10,1,alfred,General Utilities,2
+2014-01-08T12:30:00,182,1,pages,Presentation,2
+2014-01-08T12:30:00,105,1,VLC Media Player,Video,-2
+2014-01-08T12:30:00,7,1,Preview,General Reference & Learning,2
+2014-01-08T12:35:00,70,1,Finder,General Utilities,0
+2014-01-08T12:35:00,61,1,VLC Media Player,Video,-2
+2014-01-08T12:35:00,36,1,pages,Presentation,2
+2014-01-08T12:40:00,300,1,VLC Media Player,Video,-2
+2014-01-08T12:45:00,20,1,VLC Media Player,Video,-2
+2014-01-08T12:45:00,7,1,pages,Presentation,2
+2014-01-08T14:50:00,59,1,Mail,Email,2
+2014-01-08T14:50:00,36,1,en.wikipedia.org,General Reference & Learning,1
+2014-01-08T14:55:00,135,1,microsoft word,Writing,2
+2014-01-08T14:55:00,30,1,Mail,Email,2
+2014-01-08T14:55:00,15,1,alfred,General Utilities,2
+2014-01-08T14:55:00,15,1,VLC Media Player,Video,-2
+2014-01-08T14:55:00,3,1,en.wikipedia.org,General Reference & Learning,1
+2014-01-08T15:00:00,145,1,Finder,General Utilities,0
+2014-01-08T15:00:00,128,1,microsoft word,Writing,2
+2014-01-08T15:00:00,22,1,canon mx518,Uncategorized,0
+2014-01-08T15:00:00,4,1,unmountassistantagent,General Utilities,1
+2014-01-08T15:00:00,1,1,VLC Media Player,Video,-2
+2014-01-08T15:05:00,31,1,loginwindow,General Utilities,0
+2014-01-08T15:05:00,4,1,Finder,General Utilities,0
+2014-01-08T18:15:00,35,1,Finder,General Utilities,0
+2014-01-08T18:15:00,5,1,VLC Media Player,Video,-2
+2014-01-08T18:20:00,86,1,VLC Media Player,Video,-2
+2014-01-08T19:25:00,46,1,screensaverengine,General Utilities,0
+2014-01-08T19:30:00,169,1,Mail,Email,2
+2014-01-08T19:30:00,91,1,microsoft word,Writing,2
+2014-01-08T19:30:00,13,1,System Preferences,General Utilities,0
+2014-01-08T19:30:00,11,1,alfred,General Utilities,2
+2014-01-08T19:30:00,9,1,loginwindow,General Utilities,0
+2014-01-08T19:30:00,5,1,screensaverengine,General Utilities,0
+2014-01-08T19:30:00,2,1,VLC Media Player,Video,-2
+2014-01-08T19:35:00,169,1,Mail,Email,2
+2014-01-08T19:35:00,57,1,pages,Presentation,2
+2014-01-08T19:35:00,43,1,Preview,General Reference & Learning,2
+2014-01-08T19:35:00,15,1,microsoft word,Writing,2
+2014-01-08T19:35:00,8,1,Safari,Browsers,2
+2014-01-08T19:35:00,5,1,brainyquote.com,Search,0
+2014-01-08T19:35:00,3,1,applications,General Business,2
+2014-01-08T19:40:00,272,1,pages,Presentation,2
+2014-01-08T19:40:00,28,1,Mail,Email,2
+2014-01-08T19:45:00,294,1,Mail,Email,2
+2014-01-08T19:45:00,6,1,pages,Presentation,2
+2014-01-08T19:50:00,270,1,Mail,Email,2
+2014-01-08T19:50:00,30,1,pages,Presentation,2
+2014-01-08T19:55:00,248,1,Mail,Email,2
+2014-01-08T19:55:00,50,1,Skype,General Social Networking,-2
+2014-01-08T19:55:00,2,1,pages,Presentation,2
+2014-01-08T20:00:00,288,1,Mail,Email,2
+2014-01-08T20:00:00,12,1,Skype,General Social Networking,-2
+2014-01-08T20:05:00,297,1,Mail,Email,2
+2014-01-08T20:05:00,3,1,pages,Presentation,2
+2014-01-08T20:10:00,210,1,Mail,Email,2
+2014-01-08T20:10:00,53,1,VLC Media Player,Video,-2
+2014-01-08T20:10:00,19,1,pages,Presentation,2
+2014-01-08T20:10:00,18,1,Skype,General Social Networking,-2
+2014-01-08T20:15:00,300,1,VLC Media Player,Video,-2
+2014-01-08T20:20:00,300,1,VLC Media Player,Video,-2
+2014-01-08T20:25:00,300,1,VLC Media Player,Video,-2
+2014-01-08T20:30:00,167,1,brainyquote.com,Search,0
+2014-01-08T20:30:00,133,1,VLC Media Player,Video,-2
+2014-01-08T20:35:00,298,1,VLC Media Player,Video,-2
+2014-01-08T20:35:00,2,1,brainyquote.com,Search,0
+2014-01-08T20:40:00,113,1,brainyquote.com,Search,0
+2014-01-08T20:40:00,73,1,VLC Media Player,Video,-2
+2014-01-08T20:40:00,64,1,Skype,General Social Networking,-2
+2014-01-08T20:40:00,20,1,pages,Presentation,2
+2014-01-08T20:40:00,16,1,tincta,General Software Development,2
+2014-01-08T20:40:00,7,1,users,General Software Development,2
+2014-01-08T20:40:00,6,1,Amazon AWS Console,General Software Development,2
+2014-01-08T20:40:00,1,1,microsoft word,Writing,2
+2014-01-08T20:45:00,280,1,Amazon AWS Console,General Software Development,2
+2014-01-08T20:45:00,18,1,brainyquote.com,Search,0
+2014-01-08T20:45:00,2,1,pages,Presentation,2
+2014-01-08T20:50:00,224,1,surveymonkey.com,Marketing,2
+2014-01-08T20:50:00,53,1,Safari,Browsers,2
+2014-01-08T20:50:00,23,1,Skype,General Social Networking,-2
+2014-01-08T20:55:00,187,1,surveymonkey.com,Marketing,2
+2014-01-08T20:55:00,55,1,Mail,Email,2
+2014-01-08T20:55:00,50,1,microsoft word,Writing,2
+2014-01-08T20:55:00,9,1,alfred,General Utilities,2
+2014-01-08T20:55:00,7,1,Finder,General Utilities,0
+2014-01-08T20:55:00,7,1,Skype,General Social Networking,-2
+2014-01-08T20:55:00,6,1,pages,Presentation,2
+2014-01-08T21:00:00,156,1,Mail,Email,2
+2014-01-08T21:00:00,139,1,microsoft word,Writing,2
+2014-01-08T21:00:00,5,1,pages,Presentation,2
+2014-01-08T21:05:00,135,1,microsoft word,Writing,2
+2014-01-08T21:15:00,98,1,Preview,General Reference & Learning,2
+2014-01-08T21:20:00,203,1,Preview,General Reference & Learning,2
+2014-01-08T21:20:00,97,1,Finder,General Utilities,0
+2014-01-08T21:25:00,300,1,Finder,General Utilities,0
+2014-01-08T21:30:00,249,1,Finder,General Utilities,0
+2014-01-08T21:30:00,49,1,Mail,Email,2
+2014-01-08T21:30:00,2,1,Preview,General Reference & Learning,2
+2014-01-08T21:35:00,180,1,Finder,General Utilities,0
+2014-01-08T21:35:00,47,1,Mail,Email,2
+2014-01-08T21:35:00,37,1,microsoft word,Writing,2
+2014-01-08T21:35:00,36,1,Skype,General Social Networking,-2
+2014-01-08T21:35:00,6,1,slashfilm.com,General Entertainment,-2
+2014-01-08T21:35:00,5,1,thegalleryofheroes.com,Uncategorized,0
+2014-01-08T21:40:00,174,1,en.wikipedia.org,General Reference & Learning,1
+2014-01-08T21:40:00,67,1,thegalleryofheroes.com,Uncategorized,0
+2014-01-08T21:40:00,52,1,Finder,General Utilities,0
+2014-01-08T21:40:00,47,1,Skype,General Social Networking,-2
+2014-01-08T21:45:00,277,1,Preview,General Reference & Learning,2
+2014-01-08T21:45:00,22,1,Skype,General Social Networking,-2
+2014-01-08T21:50:00,124,1,Preview,General Reference & Learning,2
+2014-01-08T21:50:00,87,1,bing.com,Search,2
+2014-01-08T21:50:00,79,1,en.wikipedia.org,General Reference & Learning,1
+2014-01-08T21:50:00,6,1,Mail,Email,2
+2014-01-08T21:50:00,3,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2014-01-08T21:55:00,235,1,Finder,General Utilities,0
+2014-01-08T21:55:00,73,1,Skype,General Social Networking,-2
+2014-01-08T21:55:00,71,1,en.wikipedia.org,General Reference & Learning,1
+2014-01-08T21:55:00,52,1,bing.com,Search,2
+2014-01-08T21:55:00,14,1,pages,Presentation,2
+2014-01-08T21:55:00,13,1,amazon.com,General Shopping,-1
+2014-01-08T21:55:00,10,1,microsoft word,Writing,2
+2014-01-08T21:55:00,6,1,alfred,General Utilities,2
+2014-01-08T22:00:00,70,1,Finder,General Utilities,0
+2014-01-08T22:00:00,40,1,en.wikipedia.org,General Reference & Learning,1
+2014-01-08T22:00:00,13,1,bing.com,Search,2
+2014-01-08T22:00:00,7,1,scans-daily.dreamwidth.org,Comedy,-2
+2014-01-08T22:15:00,181,1,Mail,Email,2
+2014-01-08T22:15:00,16,1,Skype,General Social Networking,-2
+2014-01-08T22:15:00,5,1,microsoft word,Writing,2
+2014-01-08T22:20:00,245,1,microsoft word,Writing,2
+2014-01-08T22:20:00,37,1,Skype,General Social Networking,-2
+2014-01-08T22:20:00,18,1,Mail,Email,2
+2014-01-08T22:25:00,142,1,microsoft word,Writing,2
+2014-01-08T22:25:00,84,1,Mail,Email,2
+2014-01-08T22:25:00,74,1,Preview,General Reference & Learning,2
+2014-01-08T22:30:00,300,1,Preview,General Reference & Learning,2
+2014-01-08T22:35:00,187,1,Mail,Email,2
+2014-01-08T22:35:00,108,1,Preview,General Reference & Learning,2
+2014-01-08T22:35:00,4,1,pages,Presentation,2
+2014-01-08T22:35:00,1,1,microsoft word,Writing,2
+2014-01-08T22:40:00,290,1,Mail,Email,2
+2014-01-08T22:40:00,10,1,pages,Presentation,2
+2014-01-08T22:45:00,215,1,Mail,Email,2
+2014-01-08T22:55:00,73,1,microsoft word,Writing,2
+2014-01-08T22:55:00,64,1,Mail,Email,2
+2014-01-08T22:55:00,38,1,Skype,General Social Networking,-2
+2014-01-08T23:00:00,158,1,VLC Media Player,Video,-2
+2014-01-08T23:00:00,87,1,microsoft word,Writing,2
+2014-01-08T23:00:00,51,1,Skype,General Social Networking,-2
+2014-01-08T23:00:00,4,1,Finder,General Utilities,0
+2014-01-08T23:05:00,300,1,VLC Media Player,Video,-2
+2014-01-08T23:10:00,300,1,VLC Media Player,Video,-2
+2014-01-08T23:15:00,300,1,VLC Media Player,Video,-2
+2014-01-08T23:20:00,284,1,VLC Media Player,Video,-2
+2014-01-08T23:20:00,16,1,Skype,General Social Networking,-2
+2014-01-08T23:25:00,22,1,Skype,General Social Networking,-2
+2014-01-08T23:25:00,20,1,loginwindow,General Utilities,0
+2014-01-08T23:35:00,279,1,VLC Media Player,Video,-2
+2014-01-08T23:35:00,4,1,Skype,General Social Networking,-2
+2014-01-08T23:40:00,300,1,VLC Media Player,Video,-2
+2014-01-08T23:45:00,300,1,VLC Media Player,Video,-2
+2014-01-08T23:50:00,257,1,VLC Media Player,Video,-2
+2014-01-08T23:50:00,43,1,loginwindow,General Utilities,0
+2014-01-08T23:55:00,150,1,VLC Media Player,Video,-2
+2014-01-08T23:55:00,20,1,loginwindow,General Utilities,0
+2014-01-08T23:55:00,17,1,Finder,General Utilities,0

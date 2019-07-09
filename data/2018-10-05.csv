@@ -1,0 +1,52 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-10-05T09:25:00,54,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-10-05T09:25:00,11,1,idp.mit.edu,General Reference & Learning,1
+2018-10-05T09:25:00,6,1,stellar.mit.edu,General Reference & Learning,1
+2018-10-05T09:30:00,92,1,sublime text,Editing & IDEs,2
+2018-10-05T09:30:00,88,1,stackoverflow.com,General Software Development,2
+2018-10-05T09:30:00,59,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-10-05T09:30:00,18,1,cn.bing.com,Search,0
+2018-10-05T09:30:00,17,1,Finder,General Utilities,0
+2018-10-05T09:30:00,10,1,Terminal,Systems Operations,2
+2018-10-05T09:30:00,9,1,python,General Software Development,2
+2018-10-05T09:30:00,3,1,careers.microsoft.com,Science & Technology,-1
+2018-10-05T09:30:00,2,1,Safari,Browsers,2
+2018-10-05T09:35:00,196,1,sublime text,Editing & IDEs,2
+2018-10-05T09:35:00,41,1,Terminal,Systems Operations,2
+2018-10-05T09:35:00,36,1,python,General Software Development,2
+2018-10-05T09:35:00,19,1,Finder,General Utilities,0
+2018-10-05T09:35:00,3,1,Keynote,Presentation,2
+2018-10-05T09:35:00,1,1,stackoverflow.com,General Software Development,2
+2018-10-05T09:40:00,131,1,sublime text,Editing & IDEs,2
+2018-10-05T09:40:00,89,1,python,General Software Development,2
+2018-10-05T09:40:00,56,1,Finder,General Utilities,0
+2018-10-05T09:40:00,19,1,Terminal,Systems Operations,2
+2018-10-05T09:40:00,2,1,stackoverflow.com,General Software Development,2
+2018-10-05T09:40:00,2,1,loginwindow,General Utilities,0
+2018-10-05T09:45:00,95,1,github.com,General Software Development,2
+2018-10-05T09:45:00,92,1,Terminal,Systems Operations,2
+2018-10-05T09:45:00,57,1,Finder,General Utilities,0
+2018-10-05T09:45:00,12,1,web.mit.edu,General Reference & Learning,2
+2018-10-05T09:45:00,9,1,sublime text,Editing & IDEs,2
+2018-10-05T09:45:00,6,1,stackoverflow.com,General Software Development,2
+2018-10-05T09:45:00,5,1,cn.bing.com,Search,0
+2018-10-05T09:45:00,4,1,python,General Software Development,2
+2018-10-05T09:50:00,265,1,Mail,Email,2
+2018-10-05T09:50:00,23,1,web.mit.edu,General Reference & Learning,2
+2018-10-05T09:50:00,5,1,gradescope.com,General Reference & Learning,1
+2018-10-05T09:50:00,4,1,Safari,Browsers,2
+2018-10-05T09:55:00,174,1,Mail,Email,2
+2018-10-05T09:55:00,126,1,Preview,General Reference & Learning,2
+2018-10-05T10:00:00,178,1,Preview,General Reference & Learning,2
+2018-10-05T10:00:00,13,1,Finder,General Utilities,0
+2018-10-05T10:00:00,1,1,loginwindow,General Utilities,0
+2018-10-05T21:35:00,205,1,texshop,Writing,2
+2018-10-05T21:35:00,4,1,loginwindow,General Utilities,0
+2018-10-05T21:35:00,4,1,Preview,General Reference & Learning,2
+2018-10-05T21:40:00,300,1,texshop,Writing,2
+2018-10-05T21:45:00,250,1,texshop,Writing,2
+2018-10-05T21:45:00,22,1,cn.bing.com,Search,0
+2018-10-05T21:45:00,15,1,thebeijinger.com,General News & Opinion,-2
+2018-10-05T21:45:00,8,1,gradescope.com,General Reference & Learning,1
+2018-10-05T21:50:00,146,1,thebeijinger.com,General News & Opinion,-2
+2018-10-05T21:50:00,1,1,loginwindow,General Utilities,0

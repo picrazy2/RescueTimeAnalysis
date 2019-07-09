@@ -1,0 +1,186 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-09-25T00:00:00,55,1,Finder,General Utilities,0
+2018-09-25T00:00:00,19,1,sublime text,Editing & IDEs,2
+2018-09-25T00:05:00,194,1,messenger.com,General Social Networking,-2
+2018-09-25T00:10:00,178,1,codelab.interviewbit.com,General Software Development,2
+2018-09-25T00:10:00,41,1,messenger.com,General Social Networking,-2
+2018-09-25T00:10:00,40,1,facebook.com,General Social Networking,-2
+2018-09-25T00:10:00,17,1,Preview,General Reference & Learning,2
+2018-09-25T00:10:00,14,1,Mail,Email,2
+2018-09-25T00:10:00,6,1,google.com,Search,2
+2018-09-25T00:10:00,4,1,newtab,Browsers,0
+2018-09-25T00:15:00,234,1,codelab.interviewbit.com,General Software Development,2
+2018-09-25T00:15:00,39,1,youtube.com,Video,-2
+2018-09-25T00:15:00,13,1,interviewbit.com,General Reference & Learning,1
+2018-09-25T00:15:00,4,1,9to5mac.com,General News & Opinion,-2
+2018-09-25T00:15:00,3,1,users,General Software Development,2
+2018-09-25T00:15:00,2,1,introml.mit.edu,Presentation,2
+2018-09-25T00:15:00,2,1,newtab,Browsers,0
+2018-09-25T00:15:00,1,1,amazon.com,General Shopping,-1
+2018-09-25T00:15:00,1,1,facebook.com,General Social Networking,-2
+2018-09-25T00:15:00,1,1,idp.mit.edu,General Reference & Learning,1
+2018-09-25T00:20:00,300,1,youtube.com,Video,-2
+2018-09-25T00:25:00,300,1,youtube.com,Video,-2
+2018-09-25T00:30:00,300,1,youtube.com,Video,-2
+2018-09-25T00:35:00,300,1,youtube.com,Video,-2
+2018-09-25T00:40:00,229,1,youtube.com,Video,-2
+2018-09-25T00:40:00,71,1,Mail,Email,2
+2018-09-25T00:45:00,160,1,youtube.com,Video,-2
+2018-09-25T00:45:00,139,1,Mail,Email,2
+2018-09-25T00:50:00,185,1,youtube.com,Video,-2
+2018-09-25T00:50:00,58,1,apple.com,Engineering & Technology,-1
+2018-09-25T00:50:00,57,1,Mail,Email,2
+2018-09-25T00:55:00,71,1,amazon.com,General Shopping,-1
+2018-09-25T00:55:00,55,1,leetcode.com,Engineering & Technology,1
+2018-09-25T00:55:00,50,1,skillroads.com,Uncategorized,0
+2018-09-25T00:55:00,36,1,stackoverflow.com,General Software Development,2
+2018-09-25T00:55:00,24,1,quora.com,General Reference & Learning,-1
+2018-09-25T00:55:00,19,1,apple.com,Engineering & Technology,-1
+2018-09-25T00:55:00,18,1,sublime text,Editing & IDEs,2
+2018-09-25T00:55:00,13,1,google.com,Search,2
+2018-09-25T00:55:00,9,1,newtab,Browsers,0
+2018-09-25T00:55:00,3,1,interviewbit.com,General Reference & Learning,1
+2018-09-25T00:55:00,1,1,Mail,Email,2
+2018-09-25T01:00:00,271,1,stackoverflow.com,General Software Development,2
+2018-09-25T01:00:00,23,1,sublime text,Editing & IDEs,2
+2018-09-25T01:00:00,6,1,google.com,Search,2
+2018-09-25T01:05:00,50,1,stackoverflow.com,General Software Development,2
+2018-09-25T01:05:00,1,1,sublime text,Editing & IDEs,2
+2018-09-25T01:25:00,104,1,Mail,Email,2
+2018-09-25T01:25:00,43,1,Finder,General Utilities,0
+2018-09-25T01:25:00,2,1,drive.google.com,General Business,2
+2018-09-25T01:30:00,290,1,Mail,Email,2
+2018-09-25T01:30:00,10,1,Finder,General Utilities,0
+2018-09-25T01:35:00,196,1,youtube.com,Video,-2
+2018-09-25T01:35:00,94,1,Mail,Email,2
+2018-09-25T01:35:00,4,1,drive.google.com,General Business,2
+2018-09-25T01:35:00,4,1,amazon.com,General Shopping,-1
+2018-09-25T01:35:00,1,1,introml.mit.edu,Presentation,2
+2018-09-25T01:40:00,251,1,youtube.com,Video,-2
+2018-09-25T01:40:00,18,1,Dropbox,File Sharing,-2
+2018-09-25T01:40:00,15,1,Preview,General Reference & Learning,2
+2018-09-25T01:40:00,10,1,mobiledeviceupdater,General Utilities,1
+2018-09-25T01:40:00,3,1,Finder,General Utilities,0
+2018-09-25T01:40:00,2,1,drive.google.com,General Business,2
+2018-09-25T01:40:00,1,1,sublime text,Editing & IDEs,2
+2018-09-25T01:45:00,128,1,iTunes,Music,0
+2018-09-25T01:45:00,48,1,Preview,General Reference & Learning,2
+2018-09-25T01:45:00,41,1,calendar,Calendars,1
+2018-09-25T01:45:00,41,1,mobiledeviceupdater,General Utilities,1
+2018-09-25T01:45:00,12,1,forbes.com,General News & Opinion,-2
+2018-09-25T01:45:00,9,1,google.com,Search,2
+2018-09-25T01:45:00,8,1,usernotificationcenter,General Utilities,0
+2018-09-25T01:45:00,4,1,newtab,Browsers,0
+2018-09-25T01:45:00,3,1,Dropbox,File Sharing,-2
+2018-09-25T01:45:00,3,1,SecurityAgent,Systems Operations,0
+2018-09-25T01:45:00,2,1,quora.com,General Reference & Learning,-1
+2018-09-25T01:45:00,1,1,youtube.com,Video,-2
+2018-09-25T01:50:00,199,1,messenger.com,General Social Networking,-2
+2018-09-25T01:50:00,46,1,techlady.haus,Uncategorized,0
+2018-09-25T01:50:00,18,1,iTunes,Music,0
+2018-09-25T01:50:00,13,1,forbes.com,General News & Opinion,-2
+2018-09-25T01:50:00,11,1,google.com,Search,2
+2018-09-25T01:50:00,9,1,quora.com,General Reference & Learning,-1
+2018-09-25T01:50:00,4,1,usernotificationcenter,General Utilities,0
+2018-09-25T01:55:00,147,1,forbes.com,General News & Opinion,-2
+2018-09-25T01:55:00,140,1,messenger.com,General Social Networking,-2
+2018-09-25T01:55:00,8,1,9to5mac.com,General News & Opinion,-2
+2018-09-25T01:55:00,5,1,google.com,Search,2
+2018-09-25T02:00:00,155,1,messenger.com,General Social Networking,-2
+2018-09-25T02:00:00,57,1,zbt.mit.edu,Presentation,2
+2018-09-25T02:00:00,37,1,9to5mac.com,General News & Opinion,-2
+2018-09-25T02:00:00,16,1,oidc.mit.edu,Presentation,2
+2018-09-25T02:00:00,14,1,iTunes,Music,0
+2018-09-25T02:00:00,8,1,systemuiserver,General Utilities,1
+2018-09-25T02:00:00,7,1,Mail,Email,2
+2018-09-25T02:00:00,4,1,drive.google.com,General Business,2
+2018-09-25T02:00:00,2,1,wechat,General Social Networking,-2
+2018-09-25T02:05:00,107,1,messenger.com,General Social Networking,-2
+2018-09-25T02:05:00,84,1,quora.com,General Reference & Learning,-1
+2018-09-25T02:05:00,48,1,zbt.mit.edu,Presentation,2
+2018-09-25T02:05:00,39,1,Google Forms,General Business,2
+2018-09-25T02:05:00,15,1,Finder,General Utilities,0
+2018-09-25T02:05:00,6,1,Mail,Email,2
+2018-09-25T02:05:00,1,1,goo.gl,Internet Utilities,1
+2018-09-25T02:10:00,79,1,messenger.com,General Social Networking,-2
+2018-09-25T02:10:00,10,1,quora.com,General Reference & Learning,-1
+2018-09-25T02:10:00,4,1,zbt.mit.edu,Presentation,2
+2018-09-25T19:05:00,49,1,Mail,Email,2
+2018-09-25T19:05:00,36,1,sublime text,Editing & IDEs,2
+2018-09-25T19:05:00,10,1,Preview,General Reference & Learning,2
+2018-09-25T19:05:00,3,1,Keynote,Presentation,2
+2018-09-25T19:05:00,2,1,microsoft onenote,Intelligence,2
+2018-09-25T19:05:00,1,1,Terminal,Systems Operations,2
+2018-09-25T19:10:00,228,1,messenger.com,General Social Networking,-2
+2018-09-25T19:10:00,72,1,Mail,Email,2
+2018-09-25T19:15:00,171,1,messenger.com,General Social Networking,-2
+2018-09-25T19:15:00,106,1,gradescope.com,General Reference & Learning,1
+2018-09-25T19:15:00,23,1,Finder,General Utilities,0
+2018-09-25T19:20:00,192,1,Finder,General Utilities,0
+2018-09-25T19:20:00,66,1,messenger.com,General Social Networking,-2
+2018-09-25T19:20:00,42,1,Preview,General Reference & Learning,2
+2018-09-25T19:25:00,233,1,Preview,General Reference & Learning,2
+2018-09-25T19:25:00,54,1,piazza.com,General Reference & Learning,2
+2018-09-25T19:25:00,7,1,Safari,Browsers,2
+2018-09-25T19:25:00,3,1,virtualbox,Virtualization,0
+2018-09-25T19:25:00,2,1,messenger.com,General Social Networking,-2
+2018-09-25T19:25:00,1,1,Finder,General Utilities,0
+2018-09-25T19:30:00,223,1,messenger.com,General Social Networking,-2
+2018-09-25T19:30:00,73,1,Preview,General Reference & Learning,2
+2018-09-25T19:30:00,2,1,piazza.com,General Reference & Learning,2
+2018-09-25T19:30:00,1,1,microsoft onenote,Intelligence,2
+2018-09-25T19:35:00,34,1,messenger.com,General Social Networking,-2
+2018-09-25T19:35:00,3,1,Mail,Email,2
+2018-09-25T19:35:00,2,1,microsoft onenote,Intelligence,2
+2018-09-25T19:40:00,64,1,messenger.com,General Social Networking,-2
+2018-09-25T19:40:00,26,1,microsoft word,Writing,2
+2018-09-25T19:40:00,2,1,Mail,Email,2
+2018-09-25T19:45:00,103,1,Preview,General Reference & Learning,2
+2018-09-25T19:45:00,55,1,microsoft word,Writing,2
+2018-09-25T19:45:00,29,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-09-25T19:45:00,9,1,stellar.mit.edu,General Reference & Learning,1
+2018-09-25T19:45:00,7,1,idp.mit.edu,General Reference & Learning,1
+2018-09-25T19:45:00,2,1,Finder,General Utilities,0
+2018-09-25T19:45:00,2,1,introml.mit.edu,Presentation,2
+2018-09-25T19:45:00,2,1,Safari,Browsers,2
+2018-09-25T19:45:00,2,1,messenger.com,General Social Networking,-2
+2018-09-25T19:45:00,1,1,loginwindow,General Utilities,0
+2018-09-25T19:45:00,1,1,google.com,Search,2
+2018-09-25T20:20:00,169,1,facebook.com,General Social Networking,-2
+2018-09-25T20:20:00,10,1,Preview,General Reference & Learning,2
+2018-09-25T20:20:00,6,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-09-25T20:20:00,1,1,loginwindow,General Utilities,0
+2018-09-25T20:25:00,178,1,Preview,General Reference & Learning,2
+2018-09-25T20:25:00,111,1,facebook.com,General Social Networking,-2
+2018-09-25T20:25:00,8,1,Mail,Email,2
+2018-09-25T20:25:00,2,1,piazza.com,General Reference & Learning,2
+2018-09-25T20:25:00,1,1,messenger.com,General Social Networking,-2
+2018-09-25T20:30:00,281,1,Preview,General Reference & Learning,2
+2018-09-25T20:30:00,18,1,messenger.com,General Social Networking,-2
+2018-09-25T20:30:00,1,1,facebook.com,General Social Networking,-2
+2018-09-25T20:35:00,244,1,Preview,General Reference & Learning,2
+2018-09-25T20:35:00,41,1,Mail,Email,2
+2018-09-25T20:35:00,14,1,messenger.com,General Social Networking,-2
+2018-09-25T20:40:00,173,1,Preview,General Reference & Learning,2
+2018-09-25T20:40:00,109,1,Mail,Email,2
+2018-09-25T20:40:00,16,1,messenger.com,General Social Networking,-2
+2018-09-25T20:40:00,2,1,Finder,General Utilities,0
+2018-09-25T20:45:00,172,1,Preview,General Reference & Learning,2
+2018-09-25T20:45:00,1,1,loginwindow,General Utilities,0
+2018-09-25T21:35:00,203,1,Preview,General Reference & Learning,2
+2018-09-25T21:35:00,2,1,Mail,Email,2
+2018-09-25T21:35:00,2,1,loginwindow,General Utilities,0
+2018-09-25T21:40:00,300,1,Preview,General Reference & Learning,2
+2018-09-25T21:45:00,38,1,Preview,General Reference & Learning,2
+2018-09-25T21:45:00,1,1,loginwindow,General Utilities,0
+2018-09-25T23:30:00,182,1,gradescope.com,General Reference & Learning,1
+2018-09-25T23:30:00,7,1,Preview,General Reference & Learning,2
+2018-09-25T23:30:00,6,1,messenger.com,General Social Networking,-2
+2018-09-25T23:30:00,2,1,boeing.taleo.net,General Reference & Learning,1
+2018-09-25T23:30:00,1,1,loginwindow,General Utilities,0
+2018-09-25T23:35:00,300,1,gradescope.com,General Reference & Learning,1
+2018-09-25T23:40:00,181,1,messages,General Social Networking,-2
+2018-09-25T23:40:00,118,1,gradescope.com,General Reference & Learning,1
+2018-09-25T23:45:00,136,1,gradescope.com,General Reference & Learning,1
+2018-09-25T23:45:00,112,1,Preview,General Reference & Learning,2
+2018-09-25T23:45:00,1,1,loginwindow,General Utilities,0

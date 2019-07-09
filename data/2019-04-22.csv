@@ -1,0 +1,430 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2019-04-22T00:30:00,140,1,messenger.com,General Social Networking,-2
+2019-04-22T00:30:00,2,1,loginwindow,General Utilities,0
+2019-04-22T00:30:00,1,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T00:35:00,264,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T00:35:00,36,1,messenger.com,General Social Networking,-2
+2019-04-22T00:40:00,230,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T00:40:00,67,1,messenger.com,General Social Networking,-2
+2019-04-22T00:40:00,2,1,Finder,General Utilities,0
+2019-04-22T00:40:00,1,1,Notes,Email,0
+2019-04-22T00:45:00,113,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T00:45:00,100,1,messenger.com,General Social Networking,-2
+2019-04-22T00:45:00,84,1,facebook.com,General Social Networking,-2
+2019-04-22T00:45:00,3,1,ft.com,General News & Opinion,-2
+2019-04-22T00:50:00,286,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T00:50:00,14,1,messenger.com,General Social Networking,-2
+2019-04-22T00:55:00,268,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T00:55:00,32,1,messenger.com,General Social Networking,-2
+2019-04-22T01:00:00,167,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T01:00:00,133,1,messenger.com,General Social Networking,-2
+2019-04-22T01:05:00,139,1,messenger.com,General Social Networking,-2
+2019-04-22T01:05:00,101,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T01:05:00,53,1,baeldung.com,Engineering & Technology,1
+2019-04-22T01:05:00,4,1,newtab,Browsers,0
+2019-04-22T01:05:00,3,1,google.com,Search,2
+2019-04-22T01:10:00,178,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T01:10:00,113,1,messenger.com,General Social Networking,-2
+2019-04-22T01:10:00,9,1,baeldung.com,Engineering & Technology,1
+2019-04-22T01:15:00,160,1,flights.ctrip.com,General Business,2
+2019-04-22T01:15:00,126,1,messenger.com,General Social Networking,-2
+2019-04-22T01:15:00,8,1,github.com,General Software Development,2
+2019-04-22T01:15:00,6,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T01:20:00,260,1,messenger.com,General Social Networking,-2
+2019-04-22T01:20:00,31,1,flights.ctrip.com,General Business,2
+2019-04-22T01:20:00,7,1,Finder,General Utilities,0
+2019-04-22T01:20:00,2,1,ft.com,General News & Opinion,-2
+2019-04-22T01:25:00,196,1,messenger.com,General Social Networking,-2
+2019-04-22T01:25:00,101,1,youtube.com,Video,-2
+2019-04-22T01:25:00,2,1,ft.com,General News & Opinion,-2
+2019-04-22T01:25:00,1,1,Notes,Email,0
+2019-04-22T01:30:00,300,1,messenger.com,General Social Networking,-2
+2019-04-22T01:35:00,279,1,messenger.com,General Social Networking,-2
+2019-04-22T01:35:00,19,1,youtube.com,Video,-2
+2019-04-22T01:35:00,2,1,Notes,Email,0
+2019-04-22T01:40:00,134,1,messenger.com,General Social Networking,-2
+2019-04-22T01:40:00,69,1,google.com,Search,2
+2019-04-22T01:40:00,46,1,wechat,General Social Networking,-2
+2019-04-22T01:40:00,19,1,microsoft word,Writing,2
+2019-04-22T01:40:00,14,1,drive.google.com,General Business,2
+2019-04-22T01:40:00,7,1,youtube.com,Video,-2
+2019-04-22T01:40:00,3,1,Preview,General Reference & Learning,2
+2019-04-22T01:40:00,3,1,Mail,Email,2
+2019-04-22T01:40:00,2,1,Finder,General Utilities,0
+2019-04-22T01:40:00,1,1,Notes,Email,0
+2019-04-22T01:45:00,244,1,google.com,Search,2
+2019-04-22T01:45:00,56,1,messenger.com,General Social Networking,-2
+2019-04-22T01:50:00,243,1,google.com,Search,2
+2019-04-22T01:50:00,24,1,youtube.com,Video,-2
+2019-04-22T01:50:00,22,1,messenger.com,General Social Networking,-2
+2019-04-22T01:50:00,2,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T01:50:00,1,1,loginwindow,General Utilities,0
+2019-04-22T11:05:00,135,1,eclipse,Editing & IDEs,2
+2019-04-22T11:05:00,45,1,messenger.com,General Social Networking,-2
+2019-04-22T11:05:00,16,1,youtube.com,Video,-2
+2019-04-22T11:05:00,12,1,constellation.csail.mit.edu,General Reference & Learning,1
+2019-04-22T11:05:00,7,1,6031.mit.edu:444,Uncategorized,0
+2019-04-22T11:05:00,6,1,yellkey.com,Uncategorized,0
+2019-04-22T11:05:00,1,1,loginwindow,General Utilities,0
+2019-04-22T11:10:00,192,1,eclipse,Editing & IDEs,2
+2019-04-22T11:10:00,81,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T11:10:00,14,1,messenger.com,General Social Networking,-2
+2019-04-22T11:10:00,6,1,github.com,General Software Development,2
+2019-04-22T11:10:00,3,1,Google Documents,Writing,2
+2019-04-22T11:10:00,2,1,google.com,Search,2
+2019-04-22T11:15:00,155,1,clicker.csail.mit.edu,General Reference & Learning,1
+2019-04-22T11:15:00,61,1,9to5mac.com,General News & Opinion,-2
+2019-04-22T11:15:00,30,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-04-22T11:15:00,29,1,wechat,General Social Networking,-2
+2019-04-22T11:15:00,11,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T11:15:00,7,1,messenger.com,General Social Networking,-2
+2019-04-22T11:15:00,3,1,Google Documents,Writing,2
+2019-04-22T11:15:00,2,1,6031.mit.edu:444,Uncategorized,0
+2019-04-22T11:15:00,1,1,google.com,Search,2
+2019-04-22T11:15:00,1,1,github.com,General Software Development,2
+2019-04-22T11:20:00,136,1,messenger.com,General Social Networking,-2
+2019-04-22T11:20:00,122,1,clicker.csail.mit.edu,General Reference & Learning,1
+2019-04-22T11:20:00,42,1,calendar,Calendars,1
+2019-04-22T11:25:00,115,1,messenger.com,General Social Networking,-2
+2019-04-22T11:25:00,59,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T11:25:00,56,1,wechat,General Social Networking,-2
+2019-04-22T11:25:00,45,1,eclipse,Editing & IDEs,2
+2019-04-22T11:25:00,16,1,Mail,Email,2
+2019-04-22T11:25:00,7,1,google.com,Search,2
+2019-04-22T11:25:00,2,1,Google Documents,Writing,2
+2019-04-22T11:30:00,151,1,facebook.com,General Social Networking,-2
+2019-04-22T11:30:00,68,1,bc.edu,General Reference & Learning,1
+2019-04-22T11:30:00,44,1,Mail,Email,2
+2019-04-22T11:30:00,19,1,messenger.com,General Social Networking,-2
+2019-04-22T11:30:00,6,1,wechat,General Social Networking,-2
+2019-04-22T11:30:00,6,1,google.com,Search,2
+2019-04-22T11:30:00,3,1,Google Documents,Writing,2
+2019-04-22T11:30:00,2,1,9to5mac.com,General News & Opinion,-2
+2019-04-22T11:30:00,1,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T11:35:00,77,1,Finder,General Utilities,0
+2019-04-22T11:35:00,61,1,messenger.com,General Social Networking,-2
+2019-04-22T11:35:00,52,1,bc.edu,General Reference & Learning,1
+2019-04-22T11:35:00,52,1,constellation.csail.mit.edu,General Reference & Learning,1
+2019-04-22T11:35:00,28,1,youtube.com,Video,-2
+2019-04-22T11:35:00,16,1,wechat,General Social Networking,-2
+2019-04-22T11:35:00,8,1,Mail,Email,2
+2019-04-22T11:35:00,4,1,google.com,Search,2
+2019-04-22T11:35:00,1,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T11:35:00,1,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-04-22T11:40:00,204,1,youtube.com,Video,-2
+2019-04-22T11:40:00,73,1,Finder,General Utilities,0
+2019-04-22T11:40:00,12,1,messenger.com,General Social Networking,-2
+2019-04-22T11:40:00,10,1,photos,Photos,0
+2019-04-22T11:45:00,128,1,flights.ctrip.com,General Business,2
+2019-04-22T11:45:00,76,1,messenger.com,General Social Networking,-2
+2019-04-22T11:45:00,42,1,Finder,General Utilities,0
+2019-04-22T11:45:00,25,1,ctrip.com,Travel & Outdoors,-2
+2019-04-22T11:45:00,21,1,youtube.com,Video,-2
+2019-04-22T11:45:00,4,1,Mail,Email,2
+2019-04-22T11:50:00,82,1,Finder,General Utilities,0
+2019-04-22T11:50:00,71,1,messenger.com,General Social Networking,-2
+2019-04-22T11:50:00,44,1,google.com,Search,2
+2019-04-22T11:50:00,28,1,flights.ctrip.com,General Business,2
+2019-04-22T11:50:00,24,1,youtube.com,Video,-2
+2019-04-22T11:50:00,22,1,flightaware.com,Travel & Outdoors,-2
+2019-04-22T11:50:00,19,1,wechat,General Social Networking,-2
+2019-04-22T11:50:00,8,1,Mail,Email,2
+2019-04-22T11:50:00,2,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-04-22T11:55:00,82,1,flights.ctrip.com,General Business,2
+2019-04-22T11:55:00,78,1,messenger.com,General Social Networking,-2
+2019-04-22T11:55:00,56,1,secure.ctrip.com,Travel & Outdoors,-2
+2019-04-22T11:55:00,53,1,youtube.com,Video,-2
+2019-04-22T11:55:00,16,1,google.com,Search,2
+2019-04-22T11:55:00,8,1,calendar,Calendars,1
+2019-04-22T11:55:00,4,1,Mail,Email,2
+2019-04-22T11:55:00,3,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T12:00:00,64,1,youtube.com,Video,-2
+2019-04-22T12:00:00,51,1,wechat,General Social Networking,-2
+2019-04-22T12:00:00,46,1,flights.ctrip.com,General Business,2
+2019-04-22T12:00:00,39,1,chinahighlights.com,General Reference & Learning,1
+2019-04-22T12:00:00,38,1,messenger.com,General Social Networking,-2
+2019-04-22T12:00:00,20,1,Mail,Email,2
+2019-04-22T12:00:00,16,1,timeout.com,Search,0
+2019-04-22T12:00:00,9,1,google.com,Search,2
+2019-04-22T12:00:00,7,1,facebook.com,General Social Networking,-2
+2019-04-22T12:00:00,4,1,bc.edu,General Reference & Learning,1
+2019-04-22T12:00:00,3,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T12:00:00,3,1,secure.ctrip.com,Travel & Outdoors,-2
+2019-04-22T12:05:00,103,1,messenger.com,General Social Networking,-2
+2019-04-22T12:05:00,77,1,wechat,General Social Networking,-2
+2019-04-22T12:05:00,51,1,flights.ctrip.com,General Business,2
+2019-04-22T12:05:00,41,1,google.com,Search,2
+2019-04-22T12:05:00,19,1,facebook.com,General Social Networking,-2
+2019-04-22T12:05:00,6,1,trip.com,Uncategorized,0
+2019-04-22T12:05:00,2,1,newtab,Browsers,0
+2019-04-22T12:10:00,144,1,messenger.com,General Social Networking,-2
+2019-04-22T12:10:00,58,1,wechat,General Social Networking,-2
+2019-04-22T12:10:00,38,1,flights.ctrip.com,General Business,2
+2019-04-22T12:10:00,24,1,secure.ctrip.com,Travel & Outdoors,-2
+2019-04-22T12:10:00,18,1,linkedin.com,Professional Networking,1
+2019-04-22T12:10:00,18,1,Mail,Email,2
+2019-04-22T12:15:00,178,1,messenger.com,General Social Networking,-2
+2019-04-22T12:15:00,57,1,linkedin.com,Professional Networking,1
+2019-04-22T12:15:00,28,1,Finder,General Utilities,0
+2019-04-22T12:15:00,22,1,wechat,General Social Networking,-2
+2019-04-22T12:15:00,11,1,google.com,Search,2
+2019-04-22T12:15:00,4,1,secure.ctrip.com,Travel & Outdoors,-2
+2019-04-22T12:20:00,121,1,messenger.com,General Social Networking,-2
+2019-04-22T12:20:00,62,1,timeout.com,Search,0
+2019-04-22T12:20:00,51,1,tripadvisor.com,Travel & Outdoors,-2
+2019-04-22T12:20:00,22,1,facebook.com,General Social Networking,-2
+2019-04-22T12:20:00,12,1,drive.google.com,General Business,2
+2019-04-22T12:20:00,9,1,calendar,Calendars,1
+2019-04-22T12:20:00,9,1,wechat,General Social Networking,-2
+2019-04-22T12:20:00,5,1,Google Forms,General Business,2
+2019-04-22T12:20:00,3,1,google.com,Search,2
+2019-04-22T12:20:00,3,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T12:20:00,3,1,Google Spreadsheets,General Business,2
+2019-04-22T12:25:00,69,1,tripadvisor.com,Travel & Outdoors,-2
+2019-04-22T12:25:00,61,1,messenger.com,General Social Networking,-2
+2019-04-22T12:25:00,3,1,Finder,General Utilities,0
+2019-04-22T12:25:00,1,1,loginwindow,General Utilities,0
+2019-04-22T14:20:00,15,1,messenger.com,General Social Networking,-2
+2019-04-22T14:20:00,1,1,loginwindow,General Utilities,0
+2019-04-22T14:25:00,167,1,google.com,Search,2
+2019-04-22T14:25:00,50,1,flightaware.com,Travel & Outdoors,-2
+2019-04-22T14:25:00,38,1,flights.ctrip.com,General Business,2
+2019-04-22T14:25:00,37,1,messenger.com,General Social Networking,-2
+2019-04-22T14:25:00,3,1,secure.ctrip.com,Travel & Outdoors,-2
+2019-04-22T14:25:00,2,1,flightradar24.com,General Entertainment,-2
+2019-04-22T14:25:00,1,1,trip.com,Uncategorized,0
+2019-04-22T14:25:00,1,1,youtube.com,Video,-2
+2019-04-22T14:30:00,92,1,raft.github.io,Engineering & Technology,1
+2019-04-22T14:30:00,88,1,google.com,Search,2
+2019-04-22T14:30:00,45,1,messenger.com,General Social Networking,-2
+2019-04-22T14:30:00,27,1,microsoft word,Writing,2
+2019-04-22T14:30:00,26,1,tripadvisor.com,Travel & Outdoors,-2
+2019-04-22T14:30:00,19,1,mit.edu,Presentation,2
+2019-04-22T14:30:00,2,1,Mail,Email,2
+2019-04-22T14:35:00,218,1,raft.github.io,Engineering & Technology,1
+2019-04-22T14:35:00,78,1,microsoft word,Writing,2
+2019-04-22T14:35:00,4,1,wechat,General Social Networking,-2
+2019-04-22T14:40:00,129,1,Mail,Email,2
+2019-04-22T14:40:00,44,1,Preview,General Reference & Learning,2
+2019-04-22T14:40:00,42,1,microsoft word,Writing,2
+2019-04-22T14:40:00,38,1,learning-modules.mit.edu,General Reference & Learning,1
+2019-04-22T14:40:00,26,1,stellar.mit.edu,General Reference & Learning,1
+2019-04-22T14:40:00,6,1,calendar,Calendars,1
+2019-04-22T14:40:00,5,1,Finder,General Utilities,0
+2019-04-22T14:40:00,3,1,mit.edu,Presentation,2
+2019-04-22T14:40:00,3,1,raft.github.io,Engineering & Technology,1
+2019-04-22T14:40:00,3,1,idp.mit.edu,General Reference & Learning,1
+2019-04-22T14:45:00,87,1,tripadvisor.com,Travel & Outdoors,-2
+2019-04-22T14:45:00,84,1,stellar.mit.edu,General Reference & Learning,1
+2019-04-22T14:45:00,39,1,Mail,Email,2
+2019-04-22T14:45:00,32,1,wechat,General Social Networking,-2
+2019-04-22T14:45:00,25,1,messenger.com,General Social Networking,-2
+2019-04-22T14:45:00,16,1,google.com,Search,2
+2019-04-22T14:45:00,13,1,Notes,Email,0
+2019-04-22T14:45:00,3,1,united.com,Travel & Outdoors,-2
+2019-04-22T14:50:00,161,1,messenger.com,General Social Networking,-2
+2019-04-22T14:50:00,32,1,Mail,Email,2
+2019-04-22T14:50:00,24,1,messages,General Social Networking,-2
+2019-04-22T14:50:00,14,1,trip.com,Uncategorized,0
+2019-04-22T14:50:00,10,1,flights.ctrip.com,General Business,2
+2019-04-22T14:50:00,10,1,ctrip.com,Travel & Outdoors,-2
+2019-04-22T14:50:00,2,1,google.com,Search,2
+2019-04-22T14:50:00,1,1,loginwindow,General Utilities,0
+2019-04-22T15:05:00,50,1,messenger.com,General Social Networking,-2
+2019-04-22T15:05:00,2,1,loginwindow,General Utilities,0
+2019-04-22T15:10:00,169,1,messenger.com,General Social Networking,-2
+2019-04-22T15:10:00,103,1,Mail,Email,2
+2019-04-22T15:10:00,28,1,youtube.com,Video,-2
+2019-04-22T15:15:00,269,1,youtube.com,Video,-2
+2019-04-22T15:15:00,21,1,wechat,General Social Networking,-2
+2019-04-22T15:15:00,6,1,google.com,Search,2
+2019-04-22T15:15:00,4,1,docs.oracle.com,Engineering & Technology,1
+2019-04-22T15:20:00,300,1,youtube.com,Video,-2
+2019-04-22T15:25:00,147,1,en.wikipedia.org,General Reference & Learning,1
+2019-04-22T15:25:00,145,1,youtube.com,Video,-2
+2019-04-22T15:25:00,8,1,google.com,Search,2
+2019-04-22T15:30:00,127,1,en.wikipedia.org,General Reference & Learning,1
+2019-04-22T15:30:00,117,1,google.com,Search,2
+2019-04-22T15:30:00,26,1,messenger.com,General Social Networking,-2
+2019-04-22T15:30:00,4,1,newtab,Browsers,0
+2019-04-22T15:30:00,3,1,facebook.com,General Social Networking,-2
+2019-04-22T15:30:00,3,1,drive.google.com,General Business,2
+2019-04-22T15:30:00,3,1,bankofamerica.com,General Business,2
+2019-04-22T15:30:00,1,1,stackoverflow.com,General Software Development,2
+2019-04-22T15:30:00,1,1,gradescope.com,General Reference & Learning,1
+2019-04-22T15:30:00,1,1,stellar.mit.edu,General Reference & Learning,1
+2019-04-22T15:30:00,1,1,docs.oracle.com,Engineering & Technology,1
+2019-04-22T15:30:00,1,1,rescuetime.com,Intelligence,0
+2019-04-22T15:30:00,1,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-04-22T15:30:00,1,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T15:30:00,1,1,omni.csail.mit.edu,General Reference & Learning,1
+2019-04-22T15:30:00,1,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-04-22T15:30:00,1,1,tripadvisor.com,Travel & Outdoors,-2
+2019-04-22T15:30:00,1,1,Google Forms,General Business,2
+2019-04-22T15:30:00,1,1,geeksforgeeks.org,Operations,2
+2019-04-22T15:30:00,1,1,Google Spreadsheets,General Business,2
+2019-04-22T15:30:00,1,1,chinahighlights.com,General Reference & Learning,1
+2019-04-22T15:30:00,1,1,overleaf.com,Writing,2
+2019-04-22T15:30:00,1,1,nj.gov,General News & Opinion,2
+2019-04-22T15:35:00,166,1,google.com,Search,2
+2019-04-22T15:35:00,78,1,wechat,General Social Networking,-2
+2019-04-22T15:35:00,50,1,messenger.com,General Social Networking,-2
+2019-04-22T15:35:00,6,1,Finder,General Utilities,0
+2019-04-22T15:40:00,152,1,messenger.com,General Social Networking,-2
+2019-04-22T15:40:00,83,1,united.com,Travel & Outdoors,-2
+2019-04-22T15:40:00,30,1,facebook.com,General Social Networking,-2
+2019-04-22T15:40:00,12,1,wechat,General Social Networking,-2
+2019-04-22T15:40:00,11,1,9to5mac.com,General News & Opinion,-2
+2019-04-22T15:40:00,10,1,google.com,Search,2
+2019-04-22T15:40:00,1,1,stackoverflow.com,General Software Development,2
+2019-04-22T15:40:00,1,1,flights.ctrip.com,General Business,2
+2019-04-22T15:45:00,214,1,google.com,Search,2
+2019-04-22T15:45:00,52,1,facebook.com,General Social Networking,-2
+2019-04-22T15:45:00,22,1,messenger.com,General Social Networking,-2
+2019-04-22T15:45:00,8,1,united.com,Travel & Outdoors,-2
+2019-04-22T15:45:00,2,1,Google Spreadsheets,General Business,2
+2019-04-22T15:45:00,1,1,stackoverflow.com,General Software Development,2
+2019-04-22T15:45:00,1,1,wechat,General Social Networking,-2
+2019-04-22T15:50:00,114,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-04-22T15:50:00,76,1,google.com,Search,2
+2019-04-22T15:50:00,57,1,omni.csail.mit.edu,General Reference & Learning,1
+2019-04-22T15:50:00,31,1,Finder,General Utilities,0
+2019-04-22T15:50:00,18,1,Mail,Email,2
+2019-04-22T15:50:00,3,1,messenger.com,General Social Networking,-2
+2019-04-22T15:55:00,140,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-04-22T15:55:00,120,1,omni.csail.mit.edu,General Reference & Learning,1
+2019-04-22T15:55:00,17,1,Mail,Email,2
+2019-04-22T15:55:00,10,1,messenger.com,General Social Networking,-2
+2019-04-22T15:55:00,3,1,flightaware.com,Travel & Outdoors,-2
+2019-04-22T15:55:00,3,1,united.com,Travel & Outdoors,-2
+2019-04-22T15:55:00,2,1,youtube.com,Video,-2
+2019-04-22T15:55:00,2,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-04-22T15:55:00,2,1,google.com,Search,2
+2019-04-22T15:55:00,1,1,9to5mac.com,General News & Opinion,-2
+2019-04-22T16:00:00,59,1,wechat,General Social Networking,-2
+2019-04-22T16:00:00,39,1,messenger.com,General Social Networking,-2
+2019-04-22T16:00:00,36,1,omni.csail.mit.edu,General Reference & Learning,1
+2019-04-22T16:00:00,17,1,google.com,Search,2
+2019-04-22T16:00:00,8,1,united.com,Travel & Outdoors,-2
+2019-04-22T16:00:00,8,1,Mail,Email,2
+2019-04-22T16:05:00,79,1,wechat,General Social Networking,-2
+2019-04-22T16:10:00,147,1,wechat,General Social Networking,-2
+2019-04-22T16:10:00,69,1,united.com,Travel & Outdoors,-2
+2019-04-22T16:10:00,44,1,google.com,Search,2
+2019-04-22T16:10:00,23,1,calendar,Calendars,1
+2019-04-22T16:10:00,17,1,messenger.com,General Social Networking,-2
+2019-04-22T16:15:00,239,1,united.com,Travel & Outdoors,-2
+2019-04-22T16:15:00,48,1,google.com,Search,2
+2019-04-22T16:15:00,12,1,wechat,General Social Networking,-2
+2019-04-22T16:15:00,1,1,Finder,General Utilities,0
+2019-04-22T16:20:00,194,1,messenger.com,General Social Networking,-2
+2019-04-22T16:20:00,59,1,Mail,Email,2
+2019-04-22T16:20:00,24,1,united.com,Travel & Outdoors,-2
+2019-04-22T16:20:00,23,1,google.com,Search,2
+2019-04-22T16:25:00,88,1,messenger.com,General Social Networking,-2
+2019-04-22T16:25:00,85,1,Mail,Email,2
+2019-04-22T16:25:00,33,1,Finder,General Utilities,0
+2019-04-22T16:25:00,32,1,messages,General Social Networking,-2
+2019-04-22T16:25:00,28,1,google.com,Search,2
+2019-04-22T16:25:00,13,1,facebook.com,General Social Networking,-2
+2019-04-22T16:25:00,12,1,secure.bankofamerica.com,Accounting,2
+2019-04-22T16:25:00,4,1,bankofamerica.com,General Business,2
+2019-04-22T16:25:00,4,1,united.com,Travel & Outdoors,-2
+2019-04-22T16:30:00,93,1,Terminal,Systems Operations,2
+2019-04-22T16:30:00,26,1,Finder,General Utilities,0
+2019-04-22T16:30:00,8,1,archive utility,General Utilities,1
+2019-04-22T16:30:00,4,1,messenger.com,General Social Networking,-2
+2019-04-22T16:30:00,3,1,Mail,Email,2
+2019-04-22T16:30:00,2,1,facebook.com,General Social Networking,-2
+2019-04-22T16:30:00,1,1,loginwindow,General Utilities,0
+2019-04-22T17:50:00,112,1,MS Excel,General Business,2
+2019-04-22T17:50:00,67,1,Finder,General Utilities,0
+2019-04-22T17:50:00,28,1,google.com,Search,2
+2019-04-22T17:50:00,5,1,Terminal,Systems Operations,2
+2019-04-22T17:50:00,2,1,messenger.com,General Social Networking,-2
+2019-04-22T17:55:00,147,1,Finder,General Utilities,0
+2019-04-22T17:55:00,118,1,google.com,Search,2
+2019-04-22T17:55:00,35,1,MS Excel,General Business,2
+2019-04-22T18:00:00,16,1,messenger.com,General Social Networking,-2
+2019-04-22T18:00:00,6,1,google.com,Search,2
+2019-04-22T19:00:00,17,1,drive.google.com,General Business,2
+2019-04-22T19:00:00,6,1,messenger.com,General Social Networking,-2
+2019-04-22T19:00:00,3,1,bankofamerica.com,General Business,2
+2019-04-22T19:00:00,1,1,Google Documents,Writing,2
+2019-04-22T19:05:00,247,1,Google Documents,Writing,2
+2019-04-22T19:05:00,53,1,drive.google.com,General Business,2
+2019-04-22T19:10:00,183,1,Google Documents,Writing,2
+2019-04-22T19:10:00,67,1,Mail,Email,2
+2019-04-22T19:10:00,47,1,messenger.com,General Social Networking,-2
+2019-04-22T19:10:00,3,1,MS Excel,General Business,2
+2019-04-22T19:15:00,271,1,Google Documents,Writing,2
+2019-04-22T19:15:00,20,1,Mail,Email,2
+2019-04-22T19:15:00,9,1,messenger.com,General Social Networking,-2
+2019-04-22T19:20:00,220,1,Google Documents,Writing,2
+2019-04-22T19:20:00,47,1,messenger.com,General Social Networking,-2
+2019-04-22T19:20:00,31,1,messages,General Social Networking,-2
+2019-04-22T19:20:00,2,1,Mail,Email,2
+2019-04-22T19:25:00,143,1,messages,General Social Networking,-2
+2019-04-22T19:25:00,113,1,Google Documents,Writing,2
+2019-04-22T19:25:00,44,1,messenger.com,General Social Networking,-2
+2019-04-22T19:30:00,234,1,messages,General Social Networking,-2
+2019-04-22T19:30:00,35,1,Finder,General Utilities,0
+2019-04-22T19:30:00,31,1,messenger.com,General Social Networking,-2
+2019-04-22T19:35:00,97,1,Google Documents,Writing,2
+2019-04-22T19:35:00,52,1,messages,General Social Networking,-2
+2019-04-22T19:35:00,39,1,messenger.com,General Social Networking,-2
+2019-04-22T19:35:00,2,1,Finder,General Utilities,0
+2019-04-22T19:35:00,1,1,loginwindow,General Utilities,0
+2019-04-22T19:45:00,193,1,Mail,Email,2
+2019-04-22T19:45:00,16,1,messenger.com,General Social Networking,-2
+2019-04-22T19:45:00,12,1,messages,General Social Networking,-2
+2019-04-22T19:50:00,288,1,messenger.com,General Social Networking,-2
+2019-04-22T19:50:00,8,1,Mail,Email,2
+2019-04-22T19:50:00,3,1,messages,General Social Networking,-2
+2019-04-22T19:55:00,51,1,messenger.com,General Social Networking,-2
+2019-04-22T19:55:00,43,1,Google Documents,Writing,2
+2019-04-22T19:55:00,2,1,Keynote,Presentation,2
+2019-04-22T20:20:00,12,1,Google Documents,Writing,2
+2019-04-22T20:20:00,5,1,messenger.com,General Social Networking,-2
+2019-04-22T20:20:00,3,1,Mail,Email,2
+2019-04-22T20:20:00,2,1,google.com,Search,2
+2019-04-22T20:20:00,1,1,facebook.com,General Social Networking,-2
+2019-04-22T20:45:00,214,1,Google Documents,Writing,2
+2019-04-22T20:45:00,7,1,messenger.com,General Social Networking,-2
+2019-04-22T20:45:00,2,1,google.com,Search,2
+2019-04-22T20:50:00,166,1,Mail,Email,2
+2019-04-22T20:50:00,85,1,Google Documents,Writing,2
+2019-04-22T20:50:00,49,1,messenger.com,General Social Networking,-2
+2019-04-22T20:55:00,87,1,messenger.com,General Social Networking,-2
+2019-04-22T20:55:00,50,1,Google Documents,Writing,2
+2019-04-22T20:55:00,1,1,loginwindow,General Utilities,0
+2019-04-22T21:00:00,41,1,Google Documents,Writing,2
+2019-04-22T21:05:00,235,1,Google Documents,Writing,2
+2019-04-22T21:35:00,94,1,messenger.com,General Social Networking,-2
+2019-04-22T21:35:00,14,1,Google Documents,Writing,2
+2019-04-22T21:35:00,1,1,Mail,Email,2
+2019-04-22T21:40:00,231,1,messenger.com,General Social Networking,-2
+2019-04-22T21:40:00,30,1,Mail,Email,2
+2019-04-22T21:40:00,28,1,9to5mac.com,General News & Opinion,-2
+2019-04-22T21:40:00,8,1,google.com,Search,2
+2019-04-22T21:40:00,3,1,drive.google.com,General Business,2
+2019-04-22T21:45:00,300,1,9to5mac.com,General News & Opinion,-2
+2019-04-22T21:50:00,111,1,9to5mac.com,General News & Opinion,-2
+2019-04-22T21:50:00,1,1,loginwindow,General Utilities,0
+2019-04-22T22:40:00,128,1,messenger.com,General Social Networking,-2
+2019-04-22T22:40:00,62,1,9to5mac.com,General News & Opinion,-2
+2019-04-22T22:40:00,1,1,loginwindow,General Utilities,0
+2019-04-22T22:45:00,86,1,cnn.com,General News & Opinion,2
+2019-04-22T22:45:00,63,1,facebook.com,General Social Networking,-2
+2019-04-22T22:45:00,52,1,9to5mac.com,General News & Opinion,-2
+2019-04-22T22:45:00,26,1,google.com,Search,2
+2019-04-22T22:45:00,26,1,messenger.com,General Social Networking,-2
+2019-04-22T22:45:00,19,1,google.com/calendar,Calendars,2
+2019-04-22T22:45:00,15,1,Terminal,Systems Operations,2
+2019-04-22T22:45:00,8,1,web.mit.edu,General Reference & Learning,2
+2019-04-22T22:45:00,4,1,Google Documents,Writing,2
+2019-04-22T22:50:00,87,1,messenger.com,General Social Networking,-2
+2019-04-22T22:50:00,70,1,Terminal,Systems Operations,2
+2019-04-22T22:50:00,38,1,Mail,Email,2
+2019-04-22T22:50:00,1,1,loginwindow,General Utilities,0
+2019-04-22T22:50:00,1,1,facebook.com,General Social Networking,-2

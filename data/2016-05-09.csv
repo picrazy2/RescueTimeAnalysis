@@ -1,0 +1,144 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2016-05-09T00:00:00,25,1,Safari,Browsers,2
+2016-05-09T00:40:00,51,1,Safari,Browsers,2
+2016-05-09T01:10:00,18,1,loginwindow,General Utilities,0
+2016-05-09T18:10:00,38,1,Safari,Browsers,2
+2016-05-09T18:10:00,25,1,Finder,General Utilities,0
+2016-05-09T18:10:00,1,1,RescueTime,Intelligence,0
+2016-05-09T18:20:00,211,1,Mail,Email,2
+2016-05-09T18:20:00,54,1,Safari,Browsers,2
+2016-05-09T18:20:00,22,1,microsoft word,Writing,2
+2016-05-09T18:25:00,131,1,microsoft word,Writing,2
+2016-05-09T18:25:00,94,1,Mail,Email,2
+2016-05-09T18:25:00,54,1,Safari,Browsers,2
+2016-05-09T18:25:00,19,1,Finder,General Utilities,0
+2016-05-09T18:30:00,145,1,Mail,Email,2
+2016-05-09T18:30:00,124,1,Safari,Browsers,2
+2016-05-09T18:30:00,23,1,Finder,General Utilities,0
+2016-05-09T18:30:00,7,1,messages,General Social Networking,-2
+2016-05-09T18:35:00,112,1,Mail,Email,2
+2016-05-09T18:35:00,64,1,Safari,Browsers,2
+2016-05-09T18:35:00,12,1,messages,General Social Networking,-2
+2016-05-09T19:30:00,184,1,microsoft word,Writing,2
+2016-05-09T19:35:00,105,1,Safari,Browsers,2
+2016-05-09T19:35:00,43,1,microsoft word,Writing,2
+2016-05-09T19:45:00,103,1,Safari,Browsers,2
+2016-05-09T19:50:00,202,1,Safari,Browsers,2
+2016-05-09T19:50:00,6,1,MS Excel,General Business,2
+2016-05-09T19:55:00,251,1,MS Excel,General Business,2
+2016-05-09T19:55:00,49,1,Safari,Browsers,2
+2016-05-09T20:00:00,167,1,MS Excel,General Business,2
+2016-05-09T20:00:00,131,1,Safari,Browsers,2
+2016-05-09T20:00:00,2,1,microsoft word,Writing,2
+2016-05-09T20:05:00,204,1,MS Excel,General Business,2
+2016-05-09T20:05:00,70,1,Safari,Browsers,2
+2016-05-09T20:15:00,269,1,Safari,Browsers,2
+2016-05-09T20:20:00,190,1,Preview,General Reference & Learning,2
+2016-05-09T20:20:00,110,1,Safari,Browsers,2
+2016-05-09T20:25:00,255,1,Safari,Browsers,2
+2016-05-09T20:25:00,5,1,Preview,General Reference & Learning,2
+2016-05-09T20:35:00,103,1,Mail,Email,2
+2016-05-09T20:55:00,160,1,Safari,Browsers,2
+2016-05-09T20:55:00,125,1,Preview,General Reference & Learning,2
+2016-05-09T21:00:00,269,1,Safari,Browsers,2
+2016-05-09T21:10:00,64,1,Safari,Browsers,2
+2016-05-09T21:10:00,54,1,Finder,General Utilities,0
+2016-05-09T21:30:00,50,1,Preview,General Reference & Learning,2
+2016-05-09T21:30:00,43,1,messages,General Social Networking,-2
+2016-05-09T21:30:00,10,1,Safari,Browsers,2
+2016-05-09T21:35:00,239,1,Mail,Email,2
+2016-05-09T21:35:00,49,1,messages,General Social Networking,-2
+2016-05-09T21:35:00,7,1,Safari,Browsers,2
+2016-05-09T21:35:00,5,1,Preview,General Reference & Learning,2
+2016-05-09T21:40:00,209,1,Safari,Browsers,2
+2016-05-09T21:40:00,91,1,Preview,General Reference & Learning,2
+2016-05-09T21:45:00,148,1,Safari,Browsers,2
+2016-05-09T21:45:00,81,1,Preview,General Reference & Learning,2
+2016-05-09T21:45:00,3,1,messages,General Social Networking,-2
+2016-05-09T21:55:00,35,1,microsoft word,Writing,2
+2016-05-09T21:55:00,16,1,Safari,Browsers,2
+2016-05-09T22:05:00,11,1,Safari,Browsers,2
+2016-05-09T22:15:00,8,1,Safari,Browsers,2
+2016-05-09T22:20:00,205,1,Safari,Browsers,2
+2016-05-09T22:25:00,210,1,Safari,Browsers,2
+2016-05-09T22:40:00,121,1,Safari,Browsers,2
+2016-05-09T22:40:00,89,1,Preview,General Reference & Learning,2
+2016-05-09T22:45:00,222,1,Safari,Browsers,2
+2016-05-09T22:45:00,78,1,Preview,General Reference & Learning,2
+2016-05-09T22:50:00,272,1,Preview,General Reference & Learning,2
+2016-05-09T22:50:00,24,1,Safari,Browsers,2
+2016-05-09T22:50:00,4,1,microsoft word,Writing,2
+2016-05-09T22:55:00,300,1,Preview,General Reference & Learning,2
+2016-05-09T23:00:00,296,1,Preview,General Reference & Learning,2
+2016-05-09T23:00:00,4,1,Safari,Browsers,2
+2016-05-09T23:05:00,145,1,Mail,Email,2
+2016-05-09T23:05:00,112,1,Safari,Browsers,2
+2016-05-09T23:05:00,19,1,Skype,General Social Networking,-2
+2016-05-09T23:05:00,12,1,Finder,General Utilities,0
+2016-05-09T23:05:00,10,1,System Preferences,General Utilities,0
+2016-05-09T23:10:00,197,1,Mail,Email,2
+2016-05-09T23:10:00,102,1,Preview,General Reference & Learning,2
+2016-05-09T23:15:00,198,1,Mail,Email,2
+2016-05-09T23:15:00,70,1,Safari,Browsers,2
+2016-05-09T23:15:00,27,1,archive utility,General Utilities,1
+2016-05-09T23:15:00,3,1,usernotificationcenter,General Utilities,0
+2016-05-09T23:15:00,2,1,Dictionary,General Reference & Learning,1
+2016-05-09T23:20:00,39,1,Mail,Email,2
+2016-05-09T23:20:00,16,1,Dropbox,File Sharing,-2
+2016-05-09T23:20:00,14,1,microsoft word,Writing,2
+2016-05-09T23:20:00,14,1,applications,General Business,2
+2016-05-09T23:20:00,11,1,rescuetime.com,Intelligence,0
+2016-05-09T23:20:00,6,1,Safari,Browsers,2
+2016-05-09T23:20:00,4,1,photos,Photos,0
+2016-05-09T23:20:00,1,1,com.apple.dock.extra,General Utilities,1
+2016-05-09T23:20:00,1,1,coreservicesuiagent,General Utilities,0
+2016-05-09T23:20:00,1,1,RescueTime,Intelligence,0
+2016-05-09T23:25:00,56,1,java.com,Engineering & Technology,1
+2016-05-09T23:25:00,52,1,oracle.com,Search,0
+2016-05-09T23:25:00,46,1,Finder,General Utilities,0
+2016-05-09T23:25:00,36,1,rescuetime.com,Intelligence,0
+2016-05-09T23:25:00,25,1,Safari,Browsers,2
+2016-05-09T23:25:00,17,1,macjreinstaller,General Utilities,1
+2016-05-09T23:25:00,16,1,eclipse,Editing & IDEs,2
+2016-05-09T23:25:00,13,1,MS Excel,General Business,2
+2016-05-09T23:25:00,12,1,java applet - www.java.com,Uncategorized,0
+2016-05-09T23:25:00,9,1,google.com,Search,2
+2016-05-09T23:25:00,6,1,diskimages ui agent,General Utilities,1
+2016-05-09T23:25:00,4,1,coreservicesuiagent,General Utilities,0
+2016-05-09T23:25:00,3,1,RescueTime,Intelligence,0
+2016-05-09T23:25:00,2,1,SecurityAgent,Systems Operations,0
+2016-05-09T23:25:00,1,1,creative cloud,General Design & Composition,2
+2016-05-09T23:25:00,1,1,archive utility,General Utilities,1
+2016-05-09T23:30:00,91,1,facebook.com,General Social Networking,-2
+2016-05-09T23:30:00,67,1,oracle.com,Search,0
+2016-05-09T23:30:00,65,1,eclipse,Editing & IDEs,2
+2016-05-09T23:30:00,22,1,google.com,Search,2
+2016-05-09T23:30:00,22,1,Finder,General Utilities,0
+2016-05-09T23:30:00,8,1,installer,General Utilities,1
+2016-05-09T23:30:00,6,1,en.softonic.com,General News & Opinion,-2
+2016-05-09T23:30:00,3,1,filehippo.com,Internet Utilities,1
+2016-05-09T23:30:00,3,1,SecurityAgent,Systems Operations,0
+2016-05-09T23:30:00,3,1,diskimages ui agent,General Utilities,1
+2016-05-09T23:30:00,2,1,Safari,Browsers,2
+2016-05-09T23:30:00,1,1,rescuetime.com,Intelligence,0
+2016-05-09T23:30:00,1,1,MS Excel,General Business,2
+2016-05-09T23:35:00,208,1,eclipse,Editing & IDEs,2
+2016-05-09T23:35:00,39,1,facebook.com,General Social Networking,-2
+2016-05-09T23:35:00,37,1,rescuetime.com,Intelligence,0
+2016-05-09T23:35:00,8,1,Safari,Browsers,2
+2016-05-09T23:35:00,4,1,microsoft autoupdate,General Utilities,1
+2016-05-09T23:35:00,2,1,MS Excel,General Business,2
+2016-05-09T23:40:00,288,1,eclipse,Editing & IDEs,2
+2016-05-09T23:40:00,6,1,MS Excel,General Business,2
+2016-05-09T23:40:00,4,1,facebook.com,General Social Networking,-2
+2016-05-09T23:40:00,1,1,rescuetime.com,Intelligence,0
+2016-05-09T23:45:00,297,1,eclipse,Editing & IDEs,2
+2016-05-09T23:45:00,3,1,facebook.com,General Social Networking,-2
+2016-05-09T23:50:00,226,1,eclipse,Editing & IDEs,2
+2016-05-09T23:50:00,63,1,facebook.com,General Social Networking,-2
+2016-05-09T23:50:00,5,1,mkyong.com,General Software Development,2
+2016-05-09T23:50:00,4,1,Safari,Browsers,2
+2016-05-09T23:50:00,2,1,google.com,Search,2
+2016-05-09T23:55:00,230,1,eclipse,Editing & IDEs,2
+2016-05-09T23:55:00,57,1,facebook.com,General Social Networking,-2
+2016-05-09T23:55:00,13,1,mkyong.com,General Software Development,2

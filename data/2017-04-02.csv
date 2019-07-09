@@ -1,0 +1,401 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2017-04-02T00:00:00,300,1,netflix.com,Video,-2
+2017-04-02T00:05:00,9,1,netflix.com,Video,-2
+2017-04-02T00:20:00,33,1,netflix.com,Video,-2
+2017-04-02T00:20:00,18,1,usernotificationcenter,General Utilities,0
+2017-04-02T00:20:00,4,1,loginwindow,General Utilities,0
+2017-04-02T00:25:00,211,1,messages,General Social Networking,-2
+2017-04-02T00:25:00,89,1,netflix.com,Video,-2
+2017-04-02T00:30:00,182,1,facebook.com,General Social Networking,-2
+2017-04-02T00:30:00,111,1,messages,General Social Networking,-2
+2017-04-02T00:30:00,7,1,netflix.com,Video,-2
+2017-04-02T00:35:00,178,1,facebook.com,General Social Networking,-2
+2017-04-02T00:35:00,105,1,united.com,Travel & Outdoors,-2
+2017-04-02T00:35:00,6,1,wechat,General Social Networking,-2
+2017-04-02T00:35:00,6,1,google.com,Search,2
+2017-04-02T00:35:00,4,1,Safari,Browsers,2
+2017-04-02T00:35:00,1,1,usernotificationcenter,General Utilities,0
+2017-04-02T00:40:00,167,1,united.com,Travel & Outdoors,-2
+2017-04-02T00:40:00,49,1,facebook.com,General Social Networking,-2
+2017-04-02T00:40:00,47,1,wechat,General Social Networking,-2
+2017-04-02T00:40:00,34,1,weather.com,Travel & Outdoors,-2
+2017-04-02T00:45:00,299,1,united.com,Travel & Outdoors,-2
+2017-04-02T00:50:00,126,1,united.com,Travel & Outdoors,-2
+2017-04-02T00:50:00,80,1,usernotificationcenter,General Utilities,0
+2017-04-02T00:50:00,31,1,loginwindow,General Utilities,0
+2017-04-02T10:45:00,153,1,Mail,Email,2
+2017-04-02T10:45:00,141,1,united.com,Travel & Outdoors,-2
+2017-04-02T10:50:00,210,1,united.com,Travel & Outdoors,-2
+2017-04-02T10:50:00,69,1,Mail,Email,2
+2017-04-02T10:50:00,21,1,messages,General Social Networking,-2
+2017-04-02T10:55:00,234,1,messages,General Social Networking,-2
+2017-04-02T10:55:00,44,1,hotels.united.com,Travel & Outdoors,-2
+2017-04-02T10:55:00,14,1,united.com,Travel & Outdoors,-2
+2017-04-02T10:55:00,3,1,hotels.com,Travel & Outdoors,-2
+2017-04-02T10:55:00,3,1,Safari,Browsers,2
+2017-04-02T10:55:00,1,1,weather.com,Travel & Outdoors,-2
+2017-04-02T11:00:00,210,1,united.com,Travel & Outdoors,-2
+2017-04-02T11:00:00,80,1,messages,General Social Networking,-2
+2017-04-02T11:00:00,7,1,tripadvisor.com,Travel & Outdoors,-2
+2017-04-02T11:00:00,2,1,hotels.united.com,Travel & Outdoors,-2
+2017-04-02T11:05:00,135,1,hotels.united.com,Travel & Outdoors,-2
+2017-04-02T11:05:00,100,1,hotels.com,Travel & Outdoors,-2
+2017-04-02T11:05:00,52,1,united.com,Travel & Outdoors,-2
+2017-04-02T11:05:00,11,1,Mail,Email,2
+2017-04-02T11:10:00,296,1,hotels.com,Travel & Outdoors,-2
+2017-04-02T11:10:00,4,1,united.com,Travel & Outdoors,-2
+2017-04-02T11:15:00,253,1,hotels.com,Travel & Outdoors,-2
+2017-04-02T11:15:00,42,1,messages,General Social Networking,-2
+2017-04-02T11:15:00,3,1,united.com,Travel & Outdoors,-2
+2017-04-02T11:20:00,126,1,hotels.united.com,Travel & Outdoors,-2
+2017-04-02T11:20:00,87,1,hotels.com,Travel & Outdoors,-2
+2017-04-02T11:20:00,45,1,united.com,Travel & Outdoors,-2
+2017-04-02T11:20:00,29,1,messages,General Social Networking,-2
+2017-04-02T11:20:00,6,1,weather.com,Travel & Outdoors,-2
+2017-04-02T11:20:00,5,1,google.com,Search,2
+2017-04-02T11:20:00,2,1,Safari,Browsers,2
+2017-04-02T11:25:00,207,1,hotelandcarawards.mileageplus.com,Uncategorized,0
+2017-04-02T11:25:00,38,1,messages,General Social Networking,-2
+2017-04-02T11:25:00,35,1,united.com,Travel & Outdoors,-2
+2017-04-02T12:00:00,62,1,hotelandcarawards.mileageplus.com,Uncategorized,0
+2017-04-02T12:05:00,193,1,messages,General Social Networking,-2
+2017-04-02T12:05:00,107,1,hotelandcarawards.mileageplus.com,Uncategorized,0
+2017-04-02T12:10:00,211,1,hotelandcarawards.mileageplus.com,Uncategorized,0
+2017-04-02T12:10:00,89,1,messages,General Social Networking,-2
+2017-04-02T12:15:00,300,1,hotelandcarawards.mileageplus.com,Uncategorized,0
+2017-04-02T12:20:00,167,1,hotelandcarawards.mileageplus.com,Uncategorized,0
+2017-04-02T12:20:00,125,1,hotels.united.com,Travel & Outdoors,-2
+2017-04-02T12:20:00,8,1,messages,General Social Networking,-2
+2017-04-02T12:25:00,133,1,hotels.united.com,Travel & Outdoors,-2
+2017-04-02T12:25:00,126,1,hotels.com,Travel & Outdoors,-2
+2017-04-02T12:25:00,7,1,hotelandcarawards.mileageplus.com,Uncategorized,0
+2017-04-02T12:25:00,2,1,Safari,Browsers,2
+2017-04-02T12:30:00,89,1,hotels.united.com,Travel & Outdoors,-2
+2017-04-02T12:50:00,52,1,united.com,Travel & Outdoors,-2
+2017-04-02T12:50:00,41,1,messages,General Social Networking,-2
+2017-04-02T12:50:00,1,1,hotels.united.com,Travel & Outdoors,-2
+2017-04-02T12:55:00,112,1,hotels.united.com,Travel & Outdoors,-2
+2017-04-02T12:55:00,103,1,united.com,Travel & Outdoors,-2
+2017-04-02T12:55:00,54,1,Mail,Email,2
+2017-04-02T12:55:00,23,1,hotels.com,Travel & Outdoors,-2
+2017-04-02T12:55:00,5,1,google.com,Search,2
+2017-04-02T12:55:00,2,1,admissions.universityofcalifornia.edu,General Reference & Learning,2
+2017-04-02T12:55:00,1,1,admission.ucla.edu,General Reference & Learning,1
+2017-04-02T13:00:00,157,1,hotels.united.com,Travel & Outdoors,-2
+2017-04-02T13:00:00,95,1,hotelandcarawards.mileageplus.com,Uncategorized,0
+2017-04-02T13:00:00,32,1,united.com,Travel & Outdoors,-2
+2017-04-02T13:00:00,13,1,hotels.com,Travel & Outdoors,-2
+2017-04-02T13:00:00,3,1,google.com,Search,2
+2017-04-02T13:05:00,122,1,tripadvisor.com,Travel & Outdoors,-2
+2017-04-02T13:05:00,119,1,hotelandcarawards.mileageplus.com,Uncategorized,0
+2017-04-02T13:05:00,34,1,hotels.united.com,Travel & Outdoors,-2
+2017-04-02T13:05:00,9,1,Safari,Browsers,2
+2017-04-02T13:05:00,8,1,google.com,Search,2
+2017-04-02T13:05:00,3,1,hotels.com,Travel & Outdoors,-2
+2017-04-02T13:10:00,188,1,hotels.united.com,Travel & Outdoors,-2
+2017-04-02T13:10:00,90,1,hotels.com,Travel & Outdoors,-2
+2017-04-02T13:10:00,19,1,google.com,Search,2
+2017-04-02T13:10:00,3,1,united.com,Travel & Outdoors,-2
+2017-04-02T13:15:00,300,1,hotels.united.com,Travel & Outdoors,-2
+2017-04-02T13:20:00,128,1,starwoodhotels.com,Travel & Outdoors,-2
+2017-04-02T13:20:00,94,1,hotels.united.com,Travel & Outdoors,-2
+2017-04-02T13:20:00,63,1,tripadvisor.com,Travel & Outdoors,-2
+2017-04-02T13:20:00,7,1,messages,General Social Networking,-2
+2017-04-02T13:20:00,4,1,Safari,Browsers,2
+2017-04-02T13:20:00,3,1,google.com,Search,2
+2017-04-02T13:25:00,291,1,starwoodhotels.com,Travel & Outdoors,-2
+2017-04-02T13:25:00,5,1,Notes,Email,0
+2017-04-02T13:25:00,3,1,facebook.com,General Social Networking,-2
+2017-04-02T13:25:00,1,1,tripadvisor.com,Travel & Outdoors,-2
+2017-04-02T13:30:00,206,1,starwoodhotels.com,Travel & Outdoors,-2
+2017-04-02T13:30:00,66,1,Mail,Email,2
+2017-04-02T13:30:00,16,1,google.com,Search,2
+2017-04-02T13:30:00,11,1,Safari,Browsers,2
+2017-04-02T13:35:00,90,1,tripadvisor.com,Travel & Outdoors,-2
+2017-04-02T13:35:00,81,1,Mail,Email,2
+2017-04-02T13:35:00,59,1,google.com,Search,2
+2017-04-02T13:35:00,41,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-02T13:35:00,16,1,Notes,Email,0
+2017-04-02T13:35:00,7,1,Safari,Browsers,2
+2017-04-02T13:35:00,4,1,starwoodhotels.com,Travel & Outdoors,-2
+2017-04-02T13:40:00,213,1,google.com,Search,2
+2017-04-02T13:40:00,84,1,Mail,Email,2
+2017-04-02T13:40:00,3,1,messages,General Social Networking,-2
+2017-04-02T13:45:00,161,1,airbnb.com,Travel & Outdoors,-2
+2017-04-02T13:45:00,110,1,Mail,Email,2
+2017-04-02T13:45:00,10,1,Safari,Browsers,2
+2017-04-02T13:45:00,6,1,messages,General Social Networking,-2
+2017-04-02T13:45:00,6,1,google.com,Search,2
+2017-04-02T13:45:00,5,1,wechat,General Social Networking,-2
+2017-04-02T13:50:00,126,1,facebook.com,General Social Networking,-2
+2017-04-02T13:50:00,105,1,youtube.com,Video,-2
+2017-04-02T13:50:00,68,1,airbnb.com,Travel & Outdoors,-2
+2017-04-02T13:55:00,81,1,Mail,Email,2
+2017-04-02T13:55:00,28,1,facebook.com,General Social Networking,-2
+2017-04-02T16:00:00,176,1,Mail,Email,2
+2017-04-02T16:00:00,46,1,dainfo.deerfield.edu,General Reference & Learning,1
+2017-04-02T16:00:00,5,1,facebook.com,General Social Networking,-2
+2017-04-02T16:00:00,5,1,calendar,Calendars,1
+2017-04-02T16:00:00,2,1,messages,General Social Networking,-2
+2017-04-02T16:05:00,52,1,deerfield.edu,General Reference & Learning,1
+2017-04-02T16:05:00,11,1,messages,General Social Networking,-2
+2017-04-02T16:05:00,1,1,dainfo.deerfield.edu,General Reference & Learning,1
+2017-04-02T16:15:00,93,1,calendar,Calendars,1
+2017-04-02T16:15:00,2,1,deerfield.edu,General Reference & Learning,1
+2017-04-02T16:25:00,269,1,calendar,Calendars,1
+2017-04-02T16:30:00,23,1,calendar,Calendars,1
+2017-04-02T16:30:00,17,1,google.com,Search,2
+2017-04-02T16:30:00,7,1,hotels.com,Travel & Outdoors,-2
+2017-04-02T16:30:00,4,1,Safari,Browsers,2
+2017-04-02T16:30:00,2,1,google drive,General Business,2
+2017-04-02T16:35:00,184,1,map.baidu.com,Maps & Regional,-2
+2017-04-02T16:35:00,68,1,google.com,Search,2
+2017-04-02T16:35:00,43,1,Safari,Browsers,2
+2017-04-02T16:35:00,3,1,messages,General Social Networking,-2
+2017-04-02T16:35:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-02T16:40:00,97,1,map.baidu.com,Maps & Regional,-2
+2017-04-02T17:00:00,117,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-02T17:00:00,116,1,Mail,Email,2
+2017-04-02T17:00:00,49,1,messages,General Social Networking,-2
+2017-04-02T17:00:00,6,1,Safari,Browsers,2
+2017-04-02T17:00:00,5,1,google.com,Search,2
+2017-04-02T17:00:00,2,1,map.baidu.com,Maps & Regional,-2
+2017-04-02T17:05:00,230,1,facebook.com,General Social Networking,-2
+2017-04-02T17:05:00,42,1,messages,General Social Networking,-2
+2017-04-02T17:05:00,28,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-02T17:10:00,113,1,tripadvisor.com,Travel & Outdoors,-2
+2017-04-02T17:10:00,93,1,messages,General Social Networking,-2
+2017-04-02T17:10:00,82,1,facebook.com,General Social Networking,-2
+2017-04-02T17:10:00,8,1,hotels.united.com,Travel & Outdoors,-2
+2017-04-02T17:10:00,2,1,Safari,Browsers,2
+2017-04-02T17:15:00,221,1,tripadvisor.com,Travel & Outdoors,-2
+2017-04-02T17:15:00,54,1,messages,General Social Networking,-2
+2017-04-02T17:15:00,25,1,Mail,Email,2
+2017-04-02T17:20:00,220,1,tripadvisor.com,Travel & Outdoors,-2
+2017-04-02T17:20:00,77,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-02T17:20:00,2,1,Safari,Browsers,2
+2017-04-02T17:20:00,1,1,dainfo.deerfield.edu,General Reference & Learning,1
+2017-04-02T17:25:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-02T17:30:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-02T17:35:00,199,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-02T17:45:00,8,1,messages,General Social Networking,-2
+2017-04-02T17:50:00,4,1,messages,General Social Networking,-2
+2017-04-02T18:45:00,157,1,Mail,Email,2
+2017-04-02T18:45:00,136,1,google.com,Search,2
+2017-04-02T18:50:00,214,1,google.com,Search,2
+2017-04-02T18:50:00,86,1,map.baidu.com,Maps & Regional,-2
+2017-04-02T18:55:00,271,1,google.com,Search,2
+2017-04-02T18:55:00,23,1,Mail,Email,2
+2017-04-02T18:55:00,5,1,map.baidu.com,Maps & Regional,-2
+2017-04-02T18:55:00,1,1,tripadvisor.com,Travel & Outdoors,-2
+2017-04-02T19:00:00,143,1,map.baidu.com,Maps & Regional,-2
+2017-04-02T19:00:00,93,1,Preview,General Reference & Learning,2
+2017-04-02T19:00:00,34,1,google.com,Search,2
+2017-04-02T19:00:00,14,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-02T19:00:00,13,1,img.ditiezu.com,Uncategorized,0
+2017-04-02T19:00:00,2,1,airbnb.com,Travel & Outdoors,-2
+2017-04-02T19:05:00,95,1,tripadvisor.com,Travel & Outdoors,-2
+2017-04-02T19:05:00,78,1,Preview,General Reference & Learning,2
+2017-04-02T19:05:00,77,1,img.ditiezu.com,Uncategorized,0
+2017-04-02T19:05:00,13,1,messages,General Social Networking,-2
+2017-04-02T19:05:00,8,1,Safari,Browsers,2
+2017-04-02T19:05:00,7,1,google.com,Search,2
+2017-04-02T19:05:00,6,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-02T19:05:00,6,1,airbnb.com,Travel & Outdoors,-2
+2017-04-02T19:05:00,3,1,starwoodhotels.com,Travel & Outdoors,-2
+2017-04-02T19:05:00,2,1,drive.google.com,General Business,2
+2017-04-02T19:05:00,2,1,hotelandcarawards.mileageplus.com,Uncategorized,0
+2017-04-02T19:10:00,300,1,Google Documents,Writing,2
+2017-04-02T19:15:00,300,1,Google Documents,Writing,2
+2017-04-02T19:20:00,300,1,Google Documents,Writing,2
+2017-04-02T19:25:00,300,1,Google Documents,Writing,2
+2017-04-02T19:30:00,300,1,Google Documents,Writing,2
+2017-04-02T19:35:00,150,1,Mail,Email,2
+2017-04-02T19:35:00,141,1,Google Documents,Writing,2
+2017-04-02T19:35:00,6,1,google.com,Search,2
+2017-04-02T19:35:00,3,1,hotelandcarawards.mileageplus.com,Uncategorized,0
+2017-04-02T19:40:00,72,1,Google Documents,Writing,2
+2017-04-02T19:40:00,31,1,indesign cc,General Design & Composition,2
+2017-04-02T19:40:00,4,1,Mail,Email,2
+2017-04-02T19:55:00,93,1,google.com,Search,2
+2017-04-02T19:55:00,1,1,hotelandcarawards.mileageplus.com,Uncategorized,0
+2017-04-02T20:00:00,82,1,google.com,Search,2
+2017-04-02T20:00:00,4,1,img.ditiezu.com,Uncategorized,0
+2017-04-02T20:05:00,208,1,google drive,General Business,2
+2017-04-02T20:05:00,3,1,Google Documents,Writing,2
+2017-04-02T20:10:00,156,1,google drive,General Business,2
+2017-04-02T20:10:00,122,1,google.com,Search,2
+2017-04-02T20:10:00,16,1,Google Documents,Writing,2
+2017-04-02T20:10:00,6,1,Safari,Browsers,2
+2017-04-02T20:15:00,281,1,Google Documents,Writing,2
+2017-04-02T20:15:00,8,1,starwoodhotels.com,Travel & Outdoors,-2
+2017-04-02T20:15:00,7,1,Mail,Email,2
+2017-04-02T20:15:00,4,1,Safari,Browsers,2
+2017-04-02T20:20:00,1,1,Google Documents,Writing,2
+2017-04-02T20:25:00,65,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-02T20:25:00,4,1,google.com,Search,2
+2017-04-02T20:25:00,3,1,Safari,Browsers,2
+2017-04-02T20:30:00,190,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-02T20:30:00,109,1,Google Documents,Writing,2
+2017-04-02T20:30:00,1,1,hotelandcarawards.mileageplus.com,Uncategorized,0
+2017-04-02T20:35:00,64,1,Google Documents,Writing,2
+2017-04-02T20:35:00,60,1,Mail,Email,2
+2017-04-02T20:35:00,21,1,messages,General Social Networking,-2
+2017-04-02T20:40:00,109,1,Google Documents,Writing,2
+2017-04-02T20:45:00,160,1,Google Documents,Writing,2
+2017-04-02T20:50:00,94,1,Preview,General Reference & Learning,2
+2017-04-02T20:50:00,3,1,map.baidu.com,Maps & Regional,-2
+2017-04-02T20:50:00,3,1,google.com,Search,2
+2017-04-02T20:55:00,300,1,Preview,General Reference & Learning,2
+2017-04-02T21:00:00,200,1,Preview,General Reference & Learning,2
+2017-04-02T21:00:00,82,1,messages,General Social Networking,-2
+2017-04-02T21:00:00,18,1,Mail,Email,2
+2017-04-02T21:05:00,153,1,messages,General Social Networking,-2
+2017-04-02T21:05:00,93,1,Google Documents,Writing,2
+2017-04-02T21:05:00,37,1,dainfo.deerfield.edu,General Reference & Learning,1
+2017-04-02T21:05:00,14,1,map.baidu.com,Maps & Regional,-2
+2017-04-02T21:05:00,1,1,google.com,Search,2
+2017-04-02T21:05:00,1,1,starwoodhotels.com,Travel & Outdoors,-2
+2017-04-02T21:05:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-02T21:10:00,119,1,dainfo.deerfield.edu,General Reference & Learning,1
+2017-04-02T21:10:00,104,1,messages,General Social Networking,-2
+2017-04-02T21:10:00,62,1,hollywoodreporter.com,General Entertainment,-2
+2017-04-02T21:10:00,8,1,Safari,Browsers,2
+2017-04-02T21:10:00,5,1,google.com,Search,2
+2017-04-02T21:10:00,2,1,Mail,Email,2
+2017-04-02T21:15:00,79,1,Mail,Email,2
+2017-04-02T21:15:00,66,1,hollywoodreporter.com,General Entertainment,-2
+2017-04-02T21:15:00,11,1,dainfo.deerfield.edu,General Reference & Learning,1
+2017-04-02T21:15:00,2,1,google.com,Search,2
+2017-04-02T21:15:00,1,1,Google Documents,Writing,2
+2017-04-02T21:25:00,19,1,Mail,Email,2
+2017-04-02T21:35:00,130,1,facebook.com,General Social Networking,-2
+2017-04-02T21:35:00,53,1,messages,General Social Networking,-2
+2017-04-02T21:35:00,2,1,Safari,Browsers,2
+2017-04-02T21:40:00,157,1,dainfo.deerfield.edu,General Reference & Learning,1
+2017-04-02T21:40:00,65,1,facebook.com,General Social Networking,-2
+2017-04-02T21:40:00,63,1,Mail,Email,2
+2017-04-02T21:40:00,7,1,messages,General Social Networking,-2
+2017-04-02T21:40:00,4,1,Google Documents,Writing,2
+2017-04-02T21:40:00,2,1,hollywoodreporter.com,General Entertainment,-2
+2017-04-02T21:40:00,1,1,cnn.com,General News & Opinion,2
+2017-04-02T21:45:00,139,1,tripadvisor.com,Travel & Outdoors,-2
+2017-04-02T21:45:00,123,1,facebook.com,General Social Networking,-2
+2017-04-02T21:45:00,31,1,messages,General Social Networking,-2
+2017-04-02T21:45:00,2,1,Safari,Browsers,2
+2017-04-02T21:45:00,1,1,google.com,Search,2
+2017-04-02T21:45:00,1,1,Google Documents,Writing,2
+2017-04-02T21:50:00,28,1,loginwindow,General Utilities,0
+2017-04-02T21:50:00,27,1,tripadvisor.com,Travel & Outdoors,-2
+2017-04-02T21:55:00,101,1,tripadvisor.com,Travel & Outdoors,-2
+2017-04-02T21:55:00,7,1,Mail,Email,2
+2017-04-02T21:55:00,2,1,Safari,Browsers,2
+2017-04-02T22:00:00,271,1,tripadvisor.com,Travel & Outdoors,-2
+2017-04-02T22:00:00,20,1,starwoodhotels.com,Travel & Outdoors,-2
+2017-04-02T22:00:00,6,1,messages,General Social Networking,-2
+2017-04-02T22:00:00,2,1,Safari,Browsers,2
+2017-04-02T22:00:00,1,1,hollywoodreporter.com,General Entertainment,-2
+2017-04-02T22:05:00,300,1,tripadvisor.com,Travel & Outdoors,-2
+2017-04-02T22:10:00,186,1,english.ctrip.com,Travel & Outdoors,-2
+2017-04-02T22:10:00,114,1,tripadvisor.com,Travel & Outdoors,-2
+2017-04-02T22:15:00,300,1,english.ctrip.com,Travel & Outdoors,-2
+2017-04-02T22:20:00,100,1,gradesaver.com,Search,0
+2017-04-02T22:20:00,94,1,Preview,General Reference & Learning,2
+2017-04-02T22:20:00,39,1,messages,General Social Networking,-2
+2017-04-02T22:20:00,28,1,deerfield.instructure.com,General Reference & Learning,1
+2017-04-02T22:20:00,27,1,english.ctrip.com,Travel & Outdoors,-2
+2017-04-02T22:20:00,7,1,google.com,Search,2
+2017-04-02T22:20:00,5,1,Safari,Browsers,2
+2017-04-02T22:25:00,300,1,Preview,General Reference & Learning,2
+2017-04-02T22:30:00,179,1,Preview,General Reference & Learning,2
+2017-04-02T22:30:00,69,1,map.baidu.com,Maps & Regional,-2
+2017-04-02T22:30:00,50,1,messages,General Social Networking,-2
+2017-04-02T22:30:00,2,1,deerfield.instructure.com,General Reference & Learning,1
+2017-04-02T22:35:00,102,1,Preview,General Reference & Learning,2
+2017-04-02T22:35:00,91,1,map.baidu.com,Maps & Regional,-2
+2017-04-02T22:35:00,49,1,blooloop.com,Uncategorized,0
+2017-04-02T22:35:00,38,1,google.com,Search,2
+2017-04-02T22:35:00,19,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-02T22:35:00,1,1,tripadvisor.com,Travel & Outdoors,-2
+2017-04-02T22:40:00,300,1,Preview,General Reference & Learning,2
+2017-04-02T22:45:00,300,1,Preview,General Reference & Learning,2
+2017-04-02T22:50:00,269,1,Preview,General Reference & Learning,2
+2017-04-02T22:50:00,10,1,Mail,Email,2
+2017-04-02T22:50:00,8,1,tripadvisor.com,Travel & Outdoors,-2
+2017-04-02T22:50:00,8,1,microsoft word,Writing,2
+2017-04-02T22:50:00,4,1,microsoft autoupdate,General Utilities,1
+2017-04-02T22:50:00,1,1,map.baidu.com,Maps & Regional,-2
+2017-04-02T22:55:00,145,1,microsoft word,Writing,2
+2017-04-02T22:55:00,66,1,Preview,General Reference & Learning,2
+2017-04-02T22:55:00,61,1,Finder,General Utilities,0
+2017-04-02T22:55:00,26,1,messages,General Social Networking,-2
+2017-04-02T22:55:00,1,1,matlab,General Software Development,2
+2017-04-02T23:00:00,138,1,google.com,Search,2
+2017-04-02T23:00:00,53,1,microsoft word,Writing,2
+2017-04-02T23:00:00,34,1,bandgap.cs.rice.edu,General Reference & Learning,1
+2017-04-02T23:00:00,23,1,Safari,Browsers,2
+2017-04-02T23:00:00,13,1,microsoft powerpoint,Presentation,2
+2017-04-02T23:00:00,9,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-02T23:00:00,9,1,stateair.net,Uncategorized,0
+2017-04-02T23:00:00,4,1,Preview,General Reference & Learning,2
+2017-04-02T23:00:00,3,1,applications,General Business,2
+2017-04-02T23:00:00,3,1,map.baidu.com,Maps & Regional,-2
+2017-04-02T23:00:00,2,1,pubs.acs.org,Search,0
+2017-04-02T23:00:00,1,1,youtube.com,Video,-2
+2017-04-02T23:00:00,1,1,usernotificationcenter,General Utilities,0
+2017-04-02T23:05:00,281,1,microsoft word,Writing,2
+2017-04-02T23:05:00,8,1,stateair.net,Uncategorized,0
+2017-04-02T23:10:00,260,1,microsoft word,Writing,2
+2017-04-02T23:15:00,99,1,youtube.com,Video,-2
+2017-04-02T23:15:00,62,1,indesign cc,General Design & Composition,2
+2017-04-02T23:15:00,3,1,Safari,Browsers,2
+2017-04-02T23:15:00,2,1,stateair.net,Uncategorized,0
+2017-04-02T23:20:00,198,1,indesign cc,General Design & Composition,2
+2017-04-02T23:20:00,32,1,deerfield.instructure.com,General Reference & Learning,1
+2017-04-02T23:20:00,27,1,microsoft powerpoint,Presentation,2
+2017-04-02T23:20:00,12,1,Mail,Email,2
+2017-04-02T23:20:00,8,1,google.com,Search,2
+2017-04-02T23:20:00,8,1,Safari,Browsers,2
+2017-04-02T23:20:00,7,1,macworld.com,Science & Technology,-1
+2017-04-02T23:20:00,1,1,stateair.net,Uncategorized,0
+2017-04-02T23:20:00,1,1,youtube.com,Video,-2
+2017-04-02T23:25:00,104,1,helpx.adobe.com,General Software Development,2
+2017-04-02T23:25:00,93,1,google.com,Search,2
+2017-04-02T23:25:00,68,1,indesign cc,General Design & Composition,2
+2017-04-02T23:25:00,18,1,thingiverse.com,Engineering & Technology,1
+2017-04-02T23:25:00,13,1,microsoft powerpoint,Presentation,2
+2017-04-02T23:25:00,3,1,usernotificationcenter,General Utilities,0
+2017-04-02T23:25:00,1,1,Safari,Browsers,2
+2017-04-02T23:30:00,300,1,helpx.adobe.com,General Software Development,2
+2017-04-02T23:35:00,186,1,helpx.adobe.com,General Software Development,2
+2017-04-02T23:35:00,102,1,indesign cc,General Design & Composition,2
+2017-04-02T23:35:00,7,1,Safari,Browsers,2
+2017-04-02T23:35:00,5,1,google.com,Search,2
+2017-04-02T23:40:00,237,1,indesign cc,General Design & Composition,2
+2017-04-02T23:40:00,23,1,helpx.adobe.com,General Software Development,2
+2017-04-02T23:40:00,14,1,google.com,Search,2
+2017-04-02T23:40:00,13,1,peachpit.com,Engineering & Technology,1
+2017-04-02T23:40:00,12,1,Safari,Browsers,2
+2017-04-02T23:40:00,1,1,usernotificationcenter,General Utilities,0
+2017-04-02T23:45:00,132,1,indesign cc,General Design & Composition,2
+2017-04-02T23:45:00,68,1,youtube.com,Video,-2
+2017-04-02T23:45:00,16,1,google.com,Search,2
+2017-04-02T23:45:00,7,1,helpx.adobe.com,General Software Development,2
+2017-04-02T23:45:00,6,1,peachpit.com,Engineering & Technology,1
+2017-04-02T23:45:00,4,1,visihow.com,General Reference & Learning,1
+2017-04-02T23:45:00,3,1,Safari,Browsers,2
+2017-04-02T23:50:00,123,1,indesign cc,General Design & Composition,2
+2017-04-02T23:50:00,32,1,youtube.com,Video,-2
+2017-04-02T23:50:00,22,1,helpx.adobe.com,General Software Development,2
+2017-04-02T23:50:00,20,1,photoshop cc,General Design & Composition,2
+2017-04-02T23:50:00,15,1,google.com,Search,2
+2017-04-02T23:50:00,10,1,answers.yahoo.com,Search,0
+2017-04-02T23:55:00,72,1,indesign cc,General Design & Composition,2
+2017-04-02T23:55:00,39,1,graphicdesignforum.com,Graphic Design,2
+2017-04-02T23:55:00,24,1,google.com,Search,2
+2017-04-02T23:55:00,15,1,forums.adobe.com,General Business,2
+2017-04-02T23:55:00,10,1,photoshop cc,General Design & Composition,2
+2017-04-02T23:55:00,6,1,usernotificationcenter,General Utilities,0
+2017-04-02T23:55:00,3,1,Safari,Browsers,2
+2017-04-02T23:55:00,2,1,answers.yahoo.com,Search,0
+2017-04-02T23:55:00,2,1,helpx.adobe.com,General Software Development,2

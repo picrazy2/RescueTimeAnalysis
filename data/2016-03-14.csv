@@ -1,0 +1,97 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2016-03-14T08:45:00,2,1,RescueTime,Intelligence,0
+2016-03-14T08:45:00,1,1,Mail,Email,2
+2016-03-14T08:50:00,12,1,Mail,Email,2
+2016-03-14T08:50:00,1,1,RescueTime,Intelligence,0
+2016-03-14T09:35:00,240,1,quicktime player,General Entertainment,-1
+2016-03-14T09:35:00,16,1,Finder,General Utilities,0
+2016-03-14T09:40:00,300,1,quicktime player,General Entertainment,-1
+2016-03-14T09:45:00,300,1,quicktime player,General Entertainment,-1
+2016-03-14T09:50:00,300,1,quicktime player,General Entertainment,-1
+2016-03-14T09:55:00,300,1,quicktime player,General Entertainment,-1
+2016-03-14T10:00:00,300,1,quicktime player,General Entertainment,-1
+2016-03-14T10:05:00,300,1,quicktime player,General Entertainment,-1
+2016-03-14T10:10:00,300,1,quicktime player,General Entertainment,-1
+2016-03-14T10:15:00,300,1,quicktime player,General Entertainment,-1
+2016-03-14T10:20:00,300,1,quicktime player,General Entertainment,-1
+2016-03-14T10:25:00,300,1,quicktime player,General Entertainment,-1
+2016-03-14T10:30:00,300,1,quicktime player,General Entertainment,-1
+2016-03-14T10:35:00,300,1,quicktime player,General Entertainment,-1
+2016-03-14T10:40:00,300,1,quicktime player,General Entertainment,-1
+2016-03-14T10:45:00,300,1,quicktime player,General Entertainment,-1
+2016-03-14T10:50:00,300,1,quicktime player,General Entertainment,-1
+2016-03-14T10:55:00,300,1,quicktime player,General Entertainment,-1
+2016-03-14T11:00:00,300,1,quicktime player,General Entertainment,-1
+2016-03-14T11:05:00,67,1,quicktime player,General Entertainment,-1
+2016-03-14T11:05:00,16,1,loginwindow,General Utilities,0
+2016-03-14T19:45:00,19,1,Finder,General Utilities,0
+2016-03-14T19:45:00,15,1,loginwindow,General Utilities,0
+2016-03-14T19:45:00,2,1,unmountassistantagent,General Utilities,1
+2016-03-14T19:45:00,2,1,quicktime player,General Entertainment,-1
+2016-03-14T20:30:00,71,1,RescueTime,Intelligence,0
+2016-03-14T20:30:00,45,1,Finder,General Utilities,0
+2016-03-14T20:30:00,6,1,usernotificationcenter,General Utilities,0
+2016-03-14T20:30:00,1,1,captive network assistant,General Utilities,1
+2016-03-14T20:30:00,1,1,Safari,Browsers,2
+2016-03-14T20:35:00,70,1,RescueTime,Intelligence,0
+2016-03-14T20:35:00,41,1,loginwindow,General Utilities,0
+2016-03-14T20:40:00,64,1,Safari,Browsers,2
+2016-03-14T20:40:00,54,1,creative cloud,General Design & Composition,2
+2016-03-14T20:45:00,57,1,creative cloud,General Design & Composition,2
+2016-03-14T20:45:00,23,1,Safari,Browsers,2
+2016-03-14T20:45:00,15,1,loginwindow,General Utilities,0
+2016-03-14T20:50:00,169,1,microsoft word,Writing,2
+2016-03-14T20:50:00,50,1,MS Excel,General Business,2
+2016-03-14T20:50:00,32,1,Mail,Email,2
+2016-03-14T20:50:00,28,1,Safari,Browsers,2
+2016-03-14T20:50:00,22,1,messages,General Social Networking,-2
+2016-03-14T20:50:00,17,1,loginwindow,General Utilities,0
+2016-03-14T20:50:00,13,1,google drive,General Business,2
+2016-03-14T20:50:00,10,1,usernotificationcenter,General Utilities,0
+2016-03-14T20:50:00,7,1,System Preferences,General Utilities,0
+2016-03-14T20:50:00,2,1,Google Documents,Writing,2
+2016-03-14T20:55:00,169,1,MS Excel,General Business,2
+2016-03-14T20:55:00,100,1,microsoft word,Writing,2
+2016-03-14T20:55:00,18,1,google drive,General Business,2
+2016-03-14T20:55:00,10,1,9to5mac.com,General News & Opinion,-2
+2016-03-14T20:55:00,1,1,Google Documents,Writing,2
+2016-03-14T20:55:00,1,1,buzzfeed.com,General News & Opinion,-2
+2016-03-14T21:00:00,86,1,microsoft word,Writing,2
+2016-03-14T21:00:00,73,1,9to5mac.com,General News & Opinion,-2
+2016-03-14T21:00:00,44,1,MS Excel,General Business,2
+2016-03-14T21:00:00,37,1,astrill.com,General Utilities,1
+2016-03-14T21:00:00,35,1,drive.google.com,General Business,2
+2016-03-14T21:00:00,16,1,facebook.com,General Social Networking,-2
+2016-03-14T21:00:00,5,1,Google Documents,Writing,2
+2016-03-14T21:00:00,2,1,google drive,General Business,2
+2016-03-14T21:00:00,1,1,buzzfeed.com,General News & Opinion,-2
+2016-03-14T21:05:00,205,1,astrill.com,General Utilities,1
+2016-03-14T21:05:00,50,1,members.astrill.com,General Utilities,1
+2016-03-14T21:05:00,29,1,astrill,General Utilities,1
+2016-03-14T21:05:00,10,1,applications,General Business,2
+2016-03-14T21:05:00,3,1,facebook.com,General Social Networking,-2
+2016-03-14T21:05:00,1,1,Google Documents,Writing,2
+2016-03-14T21:10:00,105,1,buzzfeed.com,General News & Opinion,-2
+2016-03-14T21:10:00,75,1,members.astrill.com,General Utilities,1
+2016-03-14T21:10:00,47,1,astrill.com,General Utilities,1
+2016-03-14T21:10:00,31,1,Mail,Email,2
+2016-03-14T21:10:00,21,1,Google Documents,Writing,2
+2016-03-14T21:10:00,8,1,google drive,General Business,2
+2016-03-14T21:10:00,5,1,facebook.com,General Social Networking,-2
+2016-03-14T21:10:00,1,1,Finder,General Utilities,0
+2016-03-14T21:15:00,64,1,loginwindow,General Utilities,0
+2016-03-14T21:15:00,25,1,Google Documents,Writing,2
+2016-03-14T21:15:00,8,1,google drive,General Business,2
+2016-03-14T21:15:00,7,1,buzzfeed.com,General News & Opinion,-2
+2016-03-14T21:15:00,6,1,members.astrill.com,General Utilities,1
+2016-03-14T21:30:00,3,1,Safari,Browsers,2
+2016-03-14T21:35:00,144,1,en.wikipedia.org,General Reference & Learning,1
+2016-03-14T21:35:00,96,1,cn.bing.com,Search,0
+2016-03-14T21:35:00,27,1,the-difference-between.com,General Reference & Learning,1
+2016-03-14T21:35:00,18,1,global.bing.com,General Reference & Learning,1
+2016-03-14T21:35:00,14,1,Safari,Browsers,2
+2016-03-14T21:40:00,165,1,en.wikipedia.org,General Reference & Learning,1
+2016-03-14T21:40:00,16,1,loginwindow,General Utilities,0
+2016-03-14T21:40:00,2,1,usernotificationcenter,General Utilities,0
+2016-03-14T21:45:00,184,1,en.wikipedia.org,General Reference & Learning,1
+2016-03-14T21:45:00,16,1,loginwindow,General Utilities,0

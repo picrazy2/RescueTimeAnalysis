@@ -1,0 +1,432 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2013-12-02T08:30:00,110,1,icloud.com,General Software Development,2
+2013-12-02T08:30:00,8,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2013-12-02T08:30:00,8,1,bing.com,Search,2
+2013-12-02T08:30:00,4,1,amazon.co.uk,General Shopping,-2
+2013-12-02T08:35:00,292,1,icloud.com,General Software Development,2
+2013-12-02T08:35:00,4,1,microsoft outlook,Email,2
+2013-12-02T08:35:00,2,1,Finder,General Utilities,0
+2013-12-02T08:35:00,1,1,Terminal,Systems Operations,2
+2013-12-02T08:40:00,198,1,icloud.com,General Software Development,2
+2013-12-02T08:50:00,162,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T08:50:00,27,1,bing.com,Search,2
+2013-12-02T08:50:00,9,1,icloud.com,General Software Development,2
+2013-12-02T08:50:00,7,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2013-12-02T08:50:00,1,1,Safari,Browsers,2
+2013-12-02T08:55:00,99,1,ehow.com,Search,0
+2013-12-02T08:55:00,94,1,icloud.com,General Software Development,2
+2013-12-02T08:55:00,69,1,bing.com,Search,2
+2013-12-02T08:55:00,37,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T09:00:00,260,1,icloud.com,General Software Development,2
+2013-12-02T09:00:00,37,1,ehow.com,Search,0
+2013-12-02T09:00:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T09:00:00,1,1,bing.com,Search,2
+2013-12-02T09:05:00,130,1,icloud.com,General Software Development,2
+2013-12-02T09:05:00,78,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T09:05:00,62,1,bing.com,Search,2
+2013-12-02T09:05:00,16,1,ehow.com,Search,0
+2013-12-02T09:05:00,11,1,baike.baidu.com,Search,0
+2013-12-02T09:10:00,152,1,icloud.com,General Software Development,2
+2013-12-02T09:10:00,89,1,baike.baidu.com,Search,0
+2013-12-02T09:10:00,34,1,wuxizazhi.cnki.net,General Reference & Learning,1
+2013-12-02T09:10:00,21,1,bing.com,Search,2
+2013-12-02T09:10:00,3,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T09:15:00,90,1,translate.google.cn,General Reference & Learning,1
+2013-12-02T09:15:00,75,1,bing.com,Search,2
+2013-12-02T09:15:00,69,1,wuxizazhi.cnki.net,General Reference & Learning,1
+2013-12-02T09:15:00,46,1,icloud.com,General Software Development,2
+2013-12-02T09:15:00,13,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2013-12-02T09:15:00,6,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T09:20:00,126,1,baike.soso.com,Intelligence,2
+2013-12-02T09:20:00,116,1,bing.com,Search,2
+2013-12-02T09:20:00,29,1,zh.wikipedia.org,Search,0
+2013-12-02T09:20:00,23,1,icloud.com,General Software Development,2
+2013-12-02T09:20:00,4,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T09:20:00,1,1,amazon.co.uk,General Shopping,-2
+2013-12-02T09:20:00,1,1,Safari,Browsers,2
+2013-12-02T09:25:00,173,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T09:25:00,49,1,bing.com,Search,2
+2013-12-02T09:25:00,33,1,unohrlls.org,Uncategorized,0
+2013-12-02T09:25:00,31,1,icloud.com,General Software Development,2
+2013-12-02T09:25:00,6,1,Safari,Browsers,2
+2013-12-02T09:25:00,5,1,baike.soso.com,Intelligence,2
+2013-12-02T09:25:00,1,1,books.google.com.hk,General Reference & Learning,1
+2013-12-02T09:30:00,253,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T09:30:00,44,1,microsoft outlook,Email,2
+2013-12-02T09:30:00,3,1,edmodo.com,General Reference & Learning,1
+2013-12-02T09:35:00,243,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T09:35:00,28,1,icloud.com,General Software Development,2
+2013-12-02T09:35:00,17,1,microsoft outlook,Email,2
+2013-12-02T09:35:00,7,1,baike.soso.com,Intelligence,2
+2013-12-02T09:35:00,3,1,bing.com,Search,2
+2013-12-02T09:40:00,291,1,icloud.com,General Software Development,2
+2013-12-02T09:40:00,7,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T09:40:00,1,1,bing.com,Search,2
+2013-12-02T09:45:00,299,1,icloud.com,General Software Development,2
+2013-12-02T09:50:00,300,1,icloud.com,General Software Development,2
+2013-12-02T09:55:00,202,1,icloud.com,General Software Development,2
+2013-12-02T10:00:00,257,1,icloud.com,General Software Development,2
+2013-12-02T10:05:00,239,1,icloud.com,General Software Development,2
+2013-12-02T10:05:00,23,1,microsoft word,Writing,2
+2013-12-02T11:40:00,99,1,blogs.isb.bj.edu.cn,General Reference & Learning,2
+2013-12-02T11:40:00,4,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2013-12-02T11:40:00,4,1,Safari,Browsers,2
+2013-12-02T11:40:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T11:55:00,151,1,icloud.com,General Software Development,2
+2013-12-02T11:55:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T11:55:00,1,1,baike.soso.com,Intelligence,2
+2013-12-02T12:00:00,137,1,icloud.com,General Software Development,2
+2013-12-02T12:00:00,5,1,Finder,General Utilities,0
+2013-12-02T12:10:00,126,1,isb-network-printer-copier,Uncategorized,0
+2013-12-02T12:10:00,55,1,microsoft word,Writing,2
+2013-12-02T12:10:00,22,1,icloud.com,General Software Development,2
+2013-12-02T12:15:00,29,1,isb-network-printer-copier,Uncategorized,0
+2013-12-02T13:00:00,10,1,microsoft word,Writing,2
+2013-12-02T13:00:00,5,1,Dropbox,File Sharing,-2
+2013-12-02T13:00:00,2,1,Dictionary,General Reference & Learning,1
+2013-12-02T13:00:00,1,1,Terminal,Systems Operations,2
+2013-12-02T13:05:00,276,1,Finder,General Utilities,0
+2013-12-02T13:05:00,9,1,Dictionary,General Reference & Learning,1
+2013-12-02T13:05:00,8,1,microsoft word,Writing,2
+2013-12-02T13:05:00,5,1,alfred,General Utilities,2
+2013-12-02T13:05:00,1,1,stickies,Writing,2
+2013-12-02T13:10:00,295,1,Finder,General Utilities,0
+2013-12-02T13:10:00,4,1,microsoft outlook,Email,2
+2013-12-02T13:15:00,183,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T13:15:00,90,1,icloud.com,General Software Development,2
+2013-12-02T13:15:00,25,1,microsoft outlook,Email,2
+2013-12-02T13:15:00,1,1,blogs.isb.bj.edu.cn,General Reference & Learning,2
+2013-12-02T13:15:00,1,1,baike.soso.com,Intelligence,2
+2013-12-02T13:20:00,105,1,microsoft word,Writing,2
+2013-12-02T13:20:00,89,1,System Preferences,General Utilities,0
+2013-12-02T13:20:00,89,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T13:20:00,7,1,alfred,General Utilities,2
+2013-12-02T13:20:00,3,1,Finder,General Utilities,0
+2013-12-02T13:25:00,224,1,microsoft word,Writing,2
+2013-12-02T13:25:00,45,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2013-12-02T13:25:00,22,1,g.isb.bj.edu.cn,General Reference & Learning,1
+2013-12-02T13:25:00,4,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2013-12-02T13:25:00,3,1,Safari,Browsers,2
+2013-12-02T13:30:00,300,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2013-12-02T13:35:00,300,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2013-12-02T13:40:00,180,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2013-12-02T13:40:00,120,1,microsoft outlook,Email,2
+2013-12-02T13:45:00,75,1,microsoft outlook,Email,2
+2013-12-02T13:50:00,168,1,Keynote,Presentation,2
+2013-12-02T13:55:00,124,1,icloud.com,General Software Development,2
+2013-12-02T13:55:00,92,1,Skype,General Social Networking,-2
+2013-12-02T13:55:00,42,1,Keynote,Presentation,2
+2013-12-02T13:55:00,1,1,Safari,Browsers,2
+2013-12-02T14:00:00,167,1,Skype,General Social Networking,-2
+2013-12-02T14:00:00,106,1,icloud.com,General Software Development,2
+2013-12-02T14:05:00,205,1,icloud.com,General Software Development,2
+2013-12-02T14:05:00,34,1,bing.com,Search,2
+2013-12-02T14:05:00,30,1,Keynote,Presentation,2
+2013-12-02T14:05:00,8,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T14:05:00,4,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2013-12-02T14:05:00,2,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2013-12-02T14:05:00,2,1,baike.soso.com,Intelligence,2
+2013-12-02T14:10:00,106,1,icloud.com,General Software Development,2
+2013-12-02T14:10:00,70,1,bing.com,Search,2
+2013-12-02T14:10:00,40,1,Keynote,Presentation,2
+2013-12-02T14:10:00,30,1,newagegathering.com,Uncategorized,0
+2013-12-02T14:10:00,17,1,baike.soso.com,Intelligence,2
+2013-12-02T14:10:00,12,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T14:10:00,7,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-12-02T14:10:00,5,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2013-12-02T14:10:00,4,1,microsoft outlook,Email,2
+2013-12-02T14:10:00,3,1,Finder,General Utilities,0
+2013-12-02T14:10:00,2,1,Safari,Browsers,2
+2013-12-02T14:15:00,222,1,icloud.com,General Software Development,2
+2013-12-02T14:15:00,24,1,Finder,General Utilities,0
+2013-12-02T14:15:00,22,1,textbookstop.files.wordpress.com,Uncategorized,0
+2013-12-02T14:15:00,16,1,bing.com,Search,2
+2013-12-02T14:15:00,10,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-12-02T14:15:00,3,1,baike.soso.com,Intelligence,2
+2013-12-02T14:20:00,300,1,icloud.com,General Software Development,2
+2013-12-02T14:25:00,188,1,icloud.com,General Software Development,2
+2013-12-02T14:25:00,65,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T14:25:00,17,1,Skype,General Social Networking,-2
+2013-12-02T14:25:00,15,1,bing.com,Search,2
+2013-12-02T14:25:00,12,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-12-02T14:25:00,2,1,textbookstop.files.wordpress.com,Uncategorized,0
+2013-12-02T14:30:00,216,1,icloud.com,General Software Development,2
+2013-12-02T14:30:00,40,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T14:30:00,7,1,Finder,General Utilities,0
+2013-12-02T14:30:00,2,1,Safari,Browsers,2
+2013-12-02T14:30:00,2,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-12-02T14:30:00,1,1,members.tripod.com,General News & Opinion,-2
+2013-12-02T14:35:00,110,1,icloud.com,General Software Development,2
+2013-12-02T14:35:00,91,1,ebeijing.gov.cn,Legal & Gov't,1
+2013-12-02T14:35:00,58,1,bing.com,Search,2
+2013-12-02T14:35:00,32,1,answers.yahoo.com,Search,0
+2013-12-02T14:35:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T14:40:00,151,1,icloud.com,General Software Development,2
+2013-12-02T14:40:00,81,1,Keynote,Presentation,2
+2013-12-02T14:40:00,60,1,ebeijing.gov.cn,Legal & Gov't,1
+2013-12-02T14:40:00,6,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-12-02T14:45:00,266,1,Keynote,Presentation,2
+2013-12-02T14:45:00,16,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-12-02T14:45:00,11,1,ebeijing.gov.cn,Legal & Gov't,1
+2013-12-02T14:45:00,4,1,bing.com,Search,2
+2013-12-02T14:45:00,3,1,Skype,General Social Networking,-2
+2013-12-02T14:50:00,151,1,Keynote,Presentation,2
+2013-12-02T14:50:00,142,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-12-02T14:50:00,3,1,alfred,General Utilities,2
+2013-12-02T14:50:00,3,1,Skype,General Social Networking,-2
+2013-12-02T14:55:00,243,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-12-02T14:55:00,52,1,Keynote,Presentation,2
+2013-12-02T14:55:00,3,1,microsoft word,Writing,2
+2013-12-02T14:55:00,2,1,ebeijing.gov.cn,Legal & Gov't,1
+2013-12-02T15:00:00,195,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-12-02T15:00:00,75,1,icloud.com,General Software Development,2
+2013-12-02T15:00:00,30,1,Keynote,Presentation,2
+2013-12-02T15:05:00,169,1,Keynote,Presentation,2
+2013-12-02T15:05:00,129,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T15:05:00,2,1,Finder,General Utilities,0
+2013-12-02T15:10:00,228,1,icloud.com,General Software Development,2
+2013-12-02T15:10:00,60,1,Keynote,Presentation,2
+2013-12-02T15:10:00,7,1,ebeijing.gov.cn,Legal & Gov't,1
+2013-12-02T15:10:00,3,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-12-02T15:15:00,223,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-12-02T15:15:00,41,1,icloud.com,General Software Development,2
+2013-12-02T15:15:00,33,1,help.apple.com,Search,0
+2013-12-02T15:15:00,1,1,Safari,Browsers,2
+2013-12-02T15:20:00,182,1,help.apple.com,Search,0
+2013-12-02T15:35:00,3,1,microsoft word,Writing,2
+2013-12-02T15:40:00,300,1,microsoft word,Writing,2
+2013-12-02T15:45:00,300,1,microsoft word,Writing,2
+2013-12-02T15:50:00,14,1,microsoft word,Writing,2
+2013-12-02T15:50:00,9,1,local-ntp,General Utilities,1
+2013-12-02T17:30:00,135,1,Finder,General Utilities,0
+2013-12-02T17:35:00,189,1,Finder,General Utilities,0
+2013-12-02T18:35:00,102,1,Skype,General Social Networking,-2
+2013-12-02T18:35:00,40,1,microsoft word,Writing,2
+2013-12-02T18:35:00,31,1,Finder,General Utilities,0
+2013-12-02T18:35:00,13,1,stuff.tv,Science & Technology,-1
+2013-12-02T18:35:00,4,1,Steam,Games,-2
+2013-12-02T18:35:00,3,1,alfred,General Utilities,2
+2013-12-02T18:40:00,156,1,microsoft word,Writing,2
+2013-12-02T18:40:00,144,1,Skype,General Social Networking,-2
+2013-12-02T18:45:00,159,1,microsoft word,Writing,2
+2013-12-02T18:45:00,141,1,Skype,General Social Networking,-2
+2013-12-02T18:50:00,161,1,microsoft word,Writing,2
+2013-12-02T18:50:00,139,1,Skype,General Social Networking,-2
+2013-12-02T18:55:00,146,1,microsoft word,Writing,2
+2013-12-02T18:55:00,121,1,pages,Presentation,2
+2013-12-02T18:55:00,18,1,Skype,General Social Networking,-2
+2013-12-02T18:55:00,6,1,amazon.co.uk,General Shopping,-2
+2013-12-02T18:55:00,5,1,alfred,General Utilities,2
+2013-12-02T18:55:00,1,1,stuff.tv,Science & Technology,-1
+2013-12-02T19:00:00,296,1,microsoft word,Writing,2
+2013-12-02T19:00:00,2,1,pages,Presentation,2
+2013-12-02T19:05:00,117,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T19:05:00,68,1,microsoft word,Writing,2
+2013-12-02T19:05:00,43,1,pages,Presentation,2
+2013-12-02T19:05:00,41,1,cn.bing.com,Search,0
+2013-12-02T19:05:00,20,1,freebrochuretemplate.org,Uncategorized,0
+2013-12-02T19:05:00,7,1,amazon.co.uk,General Shopping,-2
+2013-12-02T19:05:00,1,1,Safari,Browsers,2
+2013-12-02T19:05:00,1,1,icloud.com,General Software Development,2
+2013-12-02T19:10:00,109,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T19:10:00,57,1,microsoft word,Writing,2
+2013-12-02T19:10:00,4,1,cn.bing.com,Search,0
+2013-12-02T19:15:00,185,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T19:15:00,97,1,microsoft word,Writing,2
+2013-12-02T19:15:00,18,1,cn.bing.com,Search,0
+2013-12-02T19:20:00,231,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T19:20:00,24,1,microsoft word,Writing,2
+2013-12-02T19:25:00,300,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T19:30:00,300,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T19:35:00,157,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T19:35:00,30,1,microsoft word,Writing,2
+2013-12-02T19:35:00,19,1,Skype,General Social Networking,-2
+2013-12-02T19:35:00,9,1,cn.bing.com,Search,0
+2013-12-02T19:35:00,4,1,alfred,General Utilities,2
+2013-12-02T19:35:00,2,1,Safari,Browsers,2
+2013-12-02T19:40:00,152,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T19:40:00,91,1,microsoft word,Writing,2
+2013-12-02T19:40:00,23,1,Skype,General Social Networking,-2
+2013-12-02T19:40:00,21,1,ehow.com,Search,0
+2013-12-02T19:40:00,13,1,cn.bing.com,Search,0
+2013-12-02T19:45:00,160,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T19:45:00,140,1,microsoft word,Writing,2
+2013-12-02T19:50:00,140,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T19:50:00,87,1,microsoft word,Writing,2
+2013-12-02T19:50:00,21,1,Skype,General Social Networking,-2
+2013-12-02T19:55:00,227,1,microsoft word,Writing,2
+2013-12-02T19:55:00,50,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T19:55:00,22,1,microsoft outlook,Email,2
+2013-12-02T20:00:00,154,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T20:00:00,145,1,microsoft word,Writing,2
+2013-12-02T20:05:00,130,1,microsoft word,Writing,2
+2013-12-02T20:05:00,98,1,Skype,General Social Networking,-2
+2013-12-02T20:05:00,57,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T20:05:00,9,1,microsoft outlook,Email,2
+2013-12-02T20:05:00,6,1,pages,Presentation,2
+2013-12-02T20:10:00,168,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T20:10:00,49,1,cn.bing.com,Search,0
+2013-12-02T20:10:00,29,1,microsoft word,Writing,2
+2013-12-02T20:10:00,23,1,isb.bj.edu.cn,General Reference & Learning,1
+2013-12-02T20:10:00,19,1,Finder,General Utilities,0
+2013-12-02T20:10:00,7,1,freebrochuretemplate.org,Uncategorized,0
+2013-12-02T20:10:00,2,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-12-02T20:10:00,1,1,var,General Utilities,1
+2013-12-02T20:15:00,148,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T20:15:00,64,1,google.com.hk,Search,2
+2013-12-02T20:15:00,58,1,microsoft word,Writing,2
+2013-12-02T20:15:00,19,1,searchassociates.com,General Business,2
+2013-12-02T20:15:00,5,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-12-02T20:15:00,1,1,Finder,General Utilities,0
+2013-12-02T20:15:00,1,1,help.apple.com,Search,0
+2013-12-02T20:20:00,203,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T20:20:00,97,1,microsoft word,Writing,2
+2013-12-02T20:25:00,178,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T20:25:00,85,1,Skype,General Social Networking,-2
+2013-12-02T20:25:00,37,1,microsoft word,Writing,2
+2013-12-02T20:30:00,159,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T20:30:00,66,1,Skype,General Social Networking,-2
+2013-12-02T20:30:00,44,1,pages,Presentation,2
+2013-12-02T20:30:00,29,1,microsoft word,Writing,2
+2013-12-02T20:35:00,166,1,searchassociates.com,General Business,2
+2013-12-02T20:35:00,47,1,Skype,General Social Networking,-2
+2013-12-02T20:35:00,24,1,pages,Presentation,2
+2013-12-02T20:35:00,8,1,microsoft word,Writing,2
+2013-12-02T20:40:00,63,1,searchassociates.com,General Business,2
+2013-12-02T20:40:00,62,1,isbartoneclass.wikispaces.com,Intelligence,2
+2013-12-02T20:40:00,44,1,Skype,General Social Networking,-2
+2013-12-02T20:40:00,39,1,pages,Presentation,2
+2013-12-02T20:40:00,36,1,microsoft word,Writing,2
+2013-12-02T20:40:00,35,1,google.com.hk,Search,2
+2013-12-02T20:40:00,10,1,Finder,General Utilities,0
+2013-12-02T20:45:00,105,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T20:45:00,53,1,Preview,General Reference & Learning,2
+2013-12-02T20:45:00,41,1,isbartoneclass.wikispaces.com,Intelligence,2
+2013-12-02T20:45:00,30,1,Skype,General Social Networking,-2
+2013-12-02T20:45:00,17,1,microsoft word,Writing,2
+2013-12-02T20:45:00,14,1,Finder,General Utilities,0
+2013-12-02T20:45:00,5,1,store_helper,General Shopping,-2
+2013-12-02T20:45:00,5,1,alfred,General Utilities,2
+2013-12-02T20:50:00,136,1,iWork Numbers,General Business,2
+2013-12-02T20:50:00,54,1,Preview,General Reference & Learning,2
+2013-12-02T20:50:00,44,1,microsoft outlook,Email,2
+2013-12-02T20:50:00,19,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T20:50:00,18,1,microsoft word,Writing,2
+2013-12-02T20:50:00,13,1,Finder,General Utilities,0
+2013-12-02T20:50:00,3,1,canon mx510 series,Uncategorized,0
+2013-12-02T20:50:00,2,1,Skype,General Social Networking,-2
+2013-12-02T20:50:00,2,1,printerproxy,General Business,2
+2013-12-02T20:50:00,2,1,isbartoneclass.wikispaces.com,Intelligence,2
+2013-12-02T20:55:00,175,1,iWork Numbers,General Business,2
+2013-12-02T20:55:00,125,1,Skype,General Social Networking,-2
+2013-12-02T21:00:00,300,1,Skype,General Social Networking,-2
+2013-12-02T21:05:00,299,1,Skype,General Social Networking,-2
+2013-12-02T21:05:00,1,1,Finder,General Utilities,0
+2013-12-02T21:10:00,171,1,microsoft word,Writing,2
+2013-12-02T21:10:00,95,1,Finder,General Utilities,0
+2013-12-02T21:10:00,34,1,microsoft outlook,Email,2
+2013-12-02T21:10:00,11,1,cn.bing.com,Search,0
+2013-12-02T21:10:00,4,1,alfred,General Utilities,2
+2013-12-02T21:10:00,3,1,canon mx510 series,Uncategorized,0
+2013-12-02T21:10:00,3,1,MS Excel,General Business,2
+2013-12-02T21:10:00,3,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T21:10:00,2,1,google.com.hk,Search,2
+2013-12-02T21:10:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T21:10:00,1,1,calendar,Calendars,1
+2013-12-02T21:10:00,1,1,Safari,Browsers,2
+2013-12-02T21:15:00,228,1,microsoft word,Writing,2
+2013-12-02T21:15:00,65,1,isbartoneclass.wikispaces.com,Intelligence,2
+2013-12-02T21:15:00,7,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T21:20:00,250,1,microsoft word,Writing,2
+2013-12-02T21:20:00,35,1,isbartoneclass.wikispaces.com,Intelligence,2
+2013-12-02T21:20:00,12,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T21:20:00,3,1,Skype,General Social Networking,-2
+2013-12-02T21:25:00,165,1,microsoft word,Writing,2
+2013-12-02T21:25:00,97,1,artyfactory.com,General Reference & Learning,1
+2013-12-02T21:25:00,20,1,isbartoneclass.wikispaces.com,Intelligence,2
+2013-12-02T21:25:00,6,1,cn.bing.com,Search,0
+2013-12-02T21:30:00,179,1,microsoft word,Writing,2
+2013-12-02T21:30:00,60,1,cn.bing.com,Search,0
+2013-12-02T21:30:00,20,1,Skype,General Social Networking,-2
+2013-12-02T21:30:00,15,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T21:30:00,11,1,artyfactory.com,General Reference & Learning,1
+2013-12-02T21:30:00,7,1,isbartoneclass.wikispaces.com,Intelligence,2
+2013-12-02T21:30:00,2,1,Safari,Browsers,2
+2013-12-02T21:30:00,2,1,isb.bj.edu.cn,General Reference & Learning,1
+2013-12-02T21:35:00,227,1,microsoft word,Writing,2
+2013-12-02T21:35:00,50,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T21:35:00,11,1,cn.bing.com,Search,0
+2013-12-02T21:35:00,10,1,isbartoneclass.wikispaces.com,Intelligence,2
+2013-12-02T21:35:00,1,1,Safari,Browsers,2
+2013-12-02T21:35:00,1,1,artyfactory.com,General Reference & Learning,1
+2013-12-02T21:40:00,184,1,microsoft word,Writing,2
+2013-12-02T21:40:00,57,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T21:40:00,40,1,brainyquote.com,Search,0
+2013-12-02T21:40:00,12,1,cn.bing.com,Search,0
+2013-12-02T21:40:00,2,1,isbartoneclass.wikispaces.com,Intelligence,2
+2013-12-02T21:40:00,2,1,Safari,Browsers,2
+2013-12-02T21:40:00,1,1,artyfactory.com,General Reference & Learning,1
+2013-12-02T21:45:00,226,1,microsoft word,Writing,2
+2013-12-02T21:45:00,55,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T21:45:00,18,1,isbartoneclass.wikispaces.com,Intelligence,2
+2013-12-02T21:45:00,1,1,cn.bing.com,Search,0
+2013-12-02T21:50:00,205,1,microsoft word,Writing,2
+2013-12-02T21:50:00,55,1,Skype,General Social Networking,-2
+2013-12-02T21:50:00,38,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T21:50:00,2,1,isbartoneclass.wikispaces.com,Intelligence,2
+2013-12-02T21:55:00,87,1,BBC,International,2
+2013-12-02T21:55:00,73,1,microsoft word,Writing,2
+2013-12-02T21:55:00,54,1,cn.bing.com,Search,0
+2013-12-02T21:55:00,50,1,quotes.dictionary.com,General Reference & Learning,1
+2013-12-02T21:55:00,27,1,Skype,General Social Networking,-2
+2013-12-02T21:55:00,7,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T21:55:00,1,1,Safari,Browsers,2
+2013-12-02T22:00:00,241,1,microsoft word,Writing,2
+2013-12-02T22:00:00,29,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T22:00:00,13,1,Skype,General Social Networking,-2
+2013-12-02T22:00:00,7,1,cn.bing.com,Search,0
+2013-12-02T22:00:00,5,1,isbartoneclass.wikispaces.com,Intelligence,2
+2013-12-02T22:00:00,4,1,artyfactory.com,General Reference & Learning,1
+2013-12-02T22:05:00,253,1,microsoft word,Writing,2
+2013-12-02T22:05:00,24,1,Skype,General Social Networking,-2
+2013-12-02T22:05:00,12,1,Adobe Photoshop,Graphic Design,2
+2013-12-02T22:05:00,10,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T22:10:00,258,1,Skype,General Social Networking,-2
+2013-12-02T22:10:00,42,1,microsoft word,Writing,2
+2013-12-02T22:10:00,22,1,loginwindow,General Utilities,0
+2013-12-02T22:15:00,250,1,Skype,General Social Networking,-2
+2013-12-02T22:15:00,46,1,microsoft word,Writing,2
+2013-12-02T22:15:00,4,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T22:20:00,251,1,Skype,General Social Networking,-2
+2013-12-02T22:20:00,28,1,microsoft word,Writing,2
+2013-12-02T22:20:00,20,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T22:25:00,213,1,microsoft word,Writing,2
+2013-12-02T22:25:00,84,1,Skype,General Social Networking,-2
+2013-12-02T22:25:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T22:30:00,223,1,microsoft word,Writing,2
+2013-12-02T22:30:00,68,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T22:30:00,9,1,Skype,General Social Networking,-2
+2013-12-02T22:35:00,148,1,microsoft word,Writing,2
+2013-12-02T22:35:00,83,1,Skype,General Social Networking,-2
+2013-12-02T22:35:00,69,1,Finder,General Utilities,0
+2013-12-02T22:40:00,221,1,Finder,General Utilities,0
+2013-12-02T22:40:00,79,1,Skype,General Social Networking,-2
+2013-12-02T22:45:00,300,1,Finder,General Utilities,0
+2013-12-02T22:50:00,213,1,Finder,General Utilities,0
+2013-12-02T22:50:00,79,1,microsoft word,Writing,2
+2013-12-02T22:50:00,8,1,Skype,General Social Networking,-2
+2013-12-02T22:55:00,289,1,microsoft word,Writing,2
+2013-12-02T22:55:00,11,1,Skype,General Social Networking,-2
+2013-12-02T23:00:00,300,1,microsoft word,Writing,2
+2013-12-02T23:05:00,23,1,microsoft word,Writing,2
+2013-12-02T23:10:00,114,1,icloud.com,General Software Development,2
+2013-12-02T23:10:00,7,1,Skype,General Social Networking,-2
+2013-12-02T23:10:00,1,1,microsoft outlook,Email,2
+2013-12-02T23:10:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-02T23:15:00,187,1,icloud.com,General Software Development,2
+2013-12-02T23:15:00,100,1,microsoft word,Writing,2
+2013-12-02T23:15:00,5,1,Skype,General Social Networking,-2
+2013-12-02T23:20:00,215,1,microsoft word,Writing,2
+2013-12-02T23:20:00,83,1,Skype,General Social Networking,-2
+2013-12-02T23:20:00,2,1,icloud.com,General Software Development,2
+2013-12-02T23:25:00,55,1,microsoft word,Writing,2

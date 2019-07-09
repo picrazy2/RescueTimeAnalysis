@@ -1,0 +1,392 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2015-11-06T00:00:00,299,1,facebook.com,General Social Networking,-2
+2015-11-06T00:05:00,223,1,facebook.com,General Social Networking,-2
+2015-11-06T00:05:00,77,1,Skype,General Social Networking,-2
+2015-11-06T00:10:00,164,1,facebook.com,General Social Networking,-2
+2015-11-06T00:10:00,31,1,Skype,General Social Networking,-2
+2015-11-06T00:20:00,13,1,Skype,General Social Networking,-2
+2015-11-06T00:20:00,6,1,facebook.com,General Social Networking,-2
+2015-11-06T00:35:00,107,1,facebook.com,General Social Networking,-2
+2015-11-06T00:35:00,51,1,Skype,General Social Networking,-2
+2015-11-06T00:40:00,166,1,Skype,General Social Networking,-2
+2015-11-06T00:40:00,131,1,facebook.com,General Social Networking,-2
+2015-11-06T00:40:00,3,1,creative cloud,General Design & Composition,2
+2015-11-06T00:45:00,205,1,facebook.com,General Social Networking,-2
+2015-11-06T00:45:00,59,1,instagram.com,General Social Networking,-2
+2015-11-06T00:45:00,26,1,Skype,General Social Networking,-2
+2015-11-06T00:45:00,4,1,Mail,Email,2
+2015-11-06T00:45:00,4,1,Safari,Browsers,2
+2015-11-06T00:50:00,170,1,instagram.com,General Social Networking,-2
+2015-11-06T00:50:00,93,1,facebook.com,General Social Networking,-2
+2015-11-06T00:50:00,34,1,Skype,General Social Networking,-2
+2015-11-06T00:55:00,203,1,facebook.com,General Social Networking,-2
+2015-11-06T00:55:00,97,1,Skype,General Social Networking,-2
+2015-11-06T01:00:00,127,1,facebook.com,General Social Networking,-2
+2015-11-06T01:00:00,102,1,microsoft word,Writing,2
+2015-11-06T01:00:00,69,1,Skype,General Social Networking,-2
+2015-11-06T01:00:00,1,1,Finder,General Utilities,0
+2015-11-06T01:05:00,249,1,facebook.com,General Social Networking,-2
+2015-11-06T01:05:00,51,1,microsoft word,Writing,2
+2015-11-06T01:10:00,163,1,facebook.com,General Social Networking,-2
+2015-11-06T01:10:00,11,1,Skype,General Social Networking,-2
+2015-11-06T01:10:00,2,1,usernotificationcenter,General Utilities,0
+2015-11-06T01:15:00,17,1,loginwindow,General Utilities,0
+2015-11-06T08:35:00,202,1,applicationframehost,General Utilities,1
+2015-11-06T08:35:00,6,1,onenoteim,Writing,2
+2015-11-06T08:35:00,6,1,system idle process,Other,0
+2015-11-06T08:35:00,4,1,Skype,General Social Networking,-2
+2015-11-06T08:35:00,4,1,dropbox.windowsapp,Uncategorized,0
+2015-11-06T08:35:00,2,1,searchui,General Utilities,1
+2015-11-06T08:40:00,300,1,applicationframehost,General Utilities,1
+2015-11-06T08:45:00,219,1,applicationframehost,General Utilities,1
+2015-11-06T08:45:00,40,1,system idle process,Other,0
+2015-11-06T08:45:00,21,1,lockapp,Other,0
+2015-11-06T08:45:00,20,1,lockapphost,General Utilities,1
+2015-11-06T08:50:00,101,1,lockapp,Other,0
+2015-11-06T08:50:00,31,1,Windows Explorer,General Utilities,1
+2015-11-06T08:50:00,5,1,lockapphost,General Utilities,1
+2015-11-06T08:50:00,4,1,system idle process,Other,0
+2015-11-06T08:55:00,22,1,lockapphost,General Utilities,1
+2015-11-06T08:55:00,17,1,Windows Explorer,General Utilities,1
+2015-11-06T08:55:00,8,1,searchui,General Utilities,1
+2015-11-06T08:55:00,5,1,system idle process,Other,0
+2015-11-06T08:55:00,4,1,applicationframehost,General Utilities,1
+2015-11-06T08:55:00,3,1,shellexperiencehost,General Utilities,1
+2015-11-06T08:55:00,2,1,onenoteim,Writing,2
+2015-11-06T09:05:00,33,1,applicationframehost,General Utilities,1
+2015-11-06T09:05:00,13,1,lockapphost,General Utilities,1
+2015-11-06T09:05:00,3,1,onenoteim,Writing,2
+2015-11-06T09:05:00,2,1,searchui,General Utilities,1
+2015-11-06T09:05:00,1,1,shellexperiencehost,General Utilities,1
+2015-11-06T09:10:00,161,1,applicationframehost,General Utilities,1
+2015-11-06T09:10:00,21,1,Windows Explorer,General Utilities,1
+2015-11-06T09:10:00,11,1,lockapphost,General Utilities,1
+2015-11-06T09:10:00,5,1,system idle process,Other,0
+2015-11-06T09:15:00,159,1,applicationframehost,General Utilities,1
+2015-11-06T09:15:00,1,1,lockapphost,General Utilities,1
+2015-11-06T09:20:00,192,1,applicationframehost,General Utilities,1
+2015-11-06T09:20:00,9,1,lockapphost,General Utilities,1
+2015-11-06T09:20:00,8,1,lockapp,Other,0
+2015-11-06T09:55:00,245,1,facebook.com,General Social Networking,-2
+2015-11-06T09:55:00,4,1,microsoftedge,Browsers,0
+2015-11-06T09:55:00,3,1,Windows Explorer,General Utilities,1
+2015-11-06T09:55:00,1,1,system idle process,Other,0
+2015-11-06T10:00:00,103,1,MS Outlook,Email,0
+2015-11-06T10:00:00,51,1,facebook.com,General Social Networking,-2
+2015-11-06T10:00:00,11,1,Desktop Window Manager,General Utilities,1
+2015-11-06T10:00:00,9,1,lockapphost,General Utilities,1
+2015-11-06T10:00:00,8,1,system idle process,Other,0
+2015-11-06T10:00:00,2,1,lockapp,Other,0
+2015-11-06T10:05:00,1,1,MS Outlook,Email,0
+2015-11-06T12:45:00,255,1,facebook.com,General Social Networking,-2
+2015-11-06T12:45:00,14,1,messages,General Social Networking,-2
+2015-11-06T12:45:00,2,1,Skype,General Social Networking,-2
+2015-11-06T12:50:00,165,1,facebook.com,General Social Networking,-2
+2015-11-06T12:50:00,134,1,Mail,Email,2
+2015-11-06T12:55:00,270,1,facebook.com,General Social Networking,-2
+2015-11-06T13:05:00,260,1,facebook.com,General Social Networking,-2
+2015-11-06T13:10:00,248,1,facebook.com,General Social Networking,-2
+2015-11-06T13:10:00,52,1,Mail,Email,2
+2015-11-06T13:15:00,109,1,Mail,Email,2
+2015-11-06T13:15:00,30,1,messages,General Social Networking,-2
+2015-11-06T13:15:00,13,1,facebook.com,General Social Networking,-2
+2015-11-06T13:20:00,7,1,messages,General Social Networking,-2
+2015-11-06T13:20:00,6,1,Mail,Email,2
+2015-11-06T14:15:00,75,1,facebook.com,General Social Networking,-2
+2015-11-06T14:15:00,20,1,Windows Explorer,General Utilities,1
+2015-11-06T14:15:00,12,1,dropbox.windowsapp,Uncategorized,0
+2015-11-06T14:15:00,5,1,searchui,General Utilities,1
+2015-11-06T14:20:00,112,1,Google Spreadsheets,General Business,2
+2015-11-06T14:20:00,71,1,facebook.com,General Social Networking,-2
+2015-11-06T14:20:00,38,1,MS Outlook,Email,0
+2015-11-06T14:20:00,36,1,lockapphost,General Utilities,1
+2015-11-06T14:20:00,19,1,drive.google.com,General Business,2
+2015-11-06T14:20:00,13,1,system idle process,Other,0
+2015-11-06T14:20:00,5,1,microsoftedge,Browsers,0
+2015-11-06T14:20:00,2,1,google.com,Search,2
+2015-11-06T14:25:00,121,1,Google Spreadsheets,General Business,2
+2015-11-06T14:25:00,116,1,Windows Explorer,General Utilities,1
+2015-11-06T14:25:00,27,1,facebook.com,General Social Networking,-2
+2015-11-06T14:25:00,17,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-11-06T14:25:00,14,1,MS Outlook,Email,0
+2015-11-06T14:25:00,2,1,lockapp,Other,0
+2015-11-06T14:25:00,1,1,system idle process,Other,0
+2015-11-06T14:25:00,1,1,Skype,General Social Networking,-2
+2015-11-06T14:30:00,95,1,lockapp,Other,0
+2015-11-06T14:30:00,43,1,facebook.com,General Social Networking,-2
+2015-11-06T14:30:00,20,1,Windows Explorer,General Utilities,1
+2015-11-06T14:30:00,4,1,Google Spreadsheets,General Business,2
+2015-11-06T14:30:00,2,1,microsoftedge,Browsers,0
+2015-11-06T15:10:00,114,1,loginwindow,General Utilities,0
+2015-11-06T15:15:00,260,1,loginwindow,General Utilities,0
+2015-11-06T15:35:00,68,1,Finder,General Utilities,0
+2015-11-06T15:35:00,37,1,Google Spreadsheets,General Business,2
+2015-11-06T15:35:00,19,1,Mail,Email,2
+2015-11-06T15:35:00,12,1,drive.google.com,General Business,2
+2015-11-06T15:35:00,9,1,messages,General Social Networking,-2
+2015-11-06T15:35:00,5,1,deerfield.edu,General Reference & Learning,1
+2015-11-06T15:35:00,5,1,facebook.com,General Social Networking,-2
+2015-11-06T15:35:00,2,1,Safari,Browsers,2
+2015-11-06T15:35:00,2,1,photos,Photos,0
+2015-11-06T15:35:00,1,1,Dropbox,File Sharing,-2
+2015-11-06T15:35:00,1,1,amazon.com,General Shopping,-1
+2015-11-06T15:40:00,159,1,Finder,General Utilities,0
+2015-11-06T15:40:00,52,1,Mail,Email,2
+2015-11-06T15:40:00,52,1,spreadshirt.com,General News & Opinion,-2
+2015-11-06T15:40:00,12,1,Google Spreadsheets,General Business,2
+2015-11-06T15:40:00,9,1,connection.naviance.com,General Design & Composition,2
+2015-11-06T15:40:00,4,1,photoshop cc,General Design & Composition,2
+2015-11-06T15:40:00,3,1,google.com,Search,2
+2015-11-06T15:40:00,2,1,drive.google.com,General Business,2
+2015-11-06T15:40:00,1,1,amazon.com,General Shopping,-1
+2015-11-06T15:45:00,166,1,photoshop cc,General Design & Composition,2
+2015-11-06T15:45:00,93,1,1001fonts.com,Internet Utilities,1
+2015-11-06T15:45:00,15,1,google.com,Search,2
+2015-11-06T15:45:00,7,1,deerfield.edu,General Reference & Learning,1
+2015-11-06T15:45:00,5,1,wolframalpha.com,Search,1
+2015-11-06T15:45:00,3,1,Safari,Browsers,2
+2015-11-06T15:45:00,1,1,spreadshirt.com,General News & Opinion,-2
+2015-11-06T15:45:00,1,1,Skype,General Social Networking,-2
+2015-11-06T15:50:00,169,1,1001fonts.com,Internet Utilities,1
+2015-11-06T15:50:00,10,1,facebook.com,General Social Networking,-2
+2015-11-06T15:50:00,3,1,instagram.com,General Social Networking,-2
+2015-11-06T15:55:00,264,1,google.com,Search,2
+2015-11-06T15:55:00,26,1,1001fonts.com,Internet Utilities,1
+2015-11-06T15:55:00,8,1,instagram.com,General Social Networking,-2
+2015-11-06T16:00:00,300,1,google.com,Search,2
+2015-11-06T16:05:00,136,1,font book,Presentation,2
+2015-11-06T16:05:00,108,1,Finder,General Utilities,0
+2015-11-06T16:05:00,21,1,facebook.com,General Social Networking,-2
+2015-11-06T16:05:00,17,1,google.com,Search,2
+2015-11-06T16:05:00,5,1,Skype,General Social Networking,-2
+2015-11-06T16:05:00,4,1,Preview,General Reference & Learning,2
+2015-11-06T16:10:00,205,1,lightroom,Presentation,2
+2015-11-06T16:10:00,47,1,font book,Presentation,2
+2015-11-06T16:10:00,34,1,Finder,General Utilities,0
+2015-11-06T16:10:00,10,1,photoshop cc,General Design & Composition,2
+2015-11-06T16:15:00,299,1,lightroom,Presentation,2
+2015-11-06T16:20:00,108,1,photoshop cc,General Design & Composition,2
+2015-11-06T16:20:00,61,1,Finder,General Utilities,0
+2015-11-06T16:20:00,59,1,drive.google.com,General Business,2
+2015-11-06T16:20:00,44,1,lightroom,Presentation,2
+2015-11-06T16:20:00,25,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-11-06T16:20:00,2,1,facebook.com,General Social Networking,-2
+2015-11-06T16:25:00,177,1,photoshop cc,General Design & Composition,2
+2015-11-06T16:25:00,91,1,customink.com,General Business,2
+2015-11-06T16:25:00,7,1,en.wikipedia.org,General Reference & Learning,1
+2015-11-06T16:25:00,7,1,drive.google.com,General Business,2
+2015-11-06T16:25:00,6,1,google.com,Search,2
+2015-11-06T16:25:00,3,1,1001fonts.com,Internet Utilities,1
+2015-11-06T16:25:00,3,1,boarding-schools.startclass.com,Uncategorized,0
+2015-11-06T16:25:00,2,1,wolframalpha.com,Search,1
+2015-11-06T16:25:00,2,1,spreadshirt.com,General News & Opinion,-2
+2015-11-06T16:25:00,1,1,instagram.com,General Social Networking,-2
+2015-11-06T16:25:00,1,1,amazon.com,General Shopping,-1
+2015-11-06T16:30:00,198,1,customink.com,General Business,2
+2015-11-06T16:30:00,51,1,google.com,Search,2
+2015-11-06T16:30:00,19,1,thingiverse.com,Engineering & Technology,1
+2015-11-06T16:30:00,16,1,images3.privateschoolreview.com,General Utilities,1
+2015-11-06T16:30:00,6,1,drive.google.com,General Business,2
+2015-11-06T16:30:00,3,1,spreadshirt.com,General News & Opinion,-2
+2015-11-06T16:30:00,2,1,amazon.com,General Shopping,-1
+2015-11-06T16:30:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2015-11-06T16:30:00,1,1,wolframalpha.com,Search,1
+2015-11-06T16:30:00,1,1,boarding-schools.startclass.com,Uncategorized,0
+2015-11-06T16:30:00,1,1,Safari,Browsers,2
+2015-11-06T16:30:00,1,1,instagram.com,General Social Networking,-2
+2015-11-06T16:35:00,223,1,customink.com,General Business,2
+2015-11-06T16:35:00,77,1,photoshop cc,General Design & Composition,2
+2015-11-06T16:40:00,246,1,customink.com,General Business,2
+2015-11-06T16:40:00,39,1,photoshop cc,General Design & Composition,2
+2015-11-06T16:40:00,14,1,facebook.com,General Social Networking,-2
+2015-11-06T16:45:00,278,1,customink.com,General Business,2
+2015-11-06T16:45:00,20,1,facebook.com,General Social Networking,-2
+2015-11-06T16:45:00,2,1,google.com,Search,2
+2015-11-06T16:50:00,185,1,customink.com,General Business,2
+2015-11-06T16:50:00,115,1,photoshop cc,General Design & Composition,2
+2015-11-06T16:55:00,107,1,customink.com,General Business,2
+2015-11-06T16:55:00,94,1,photoshop cc,General Design & Composition,2
+2015-11-06T16:55:00,1,1,messages,General Social Networking,-2
+2015-11-06T17:00:00,90,1,customink.com,General Business,2
+2015-11-06T17:00:00,45,1,google.com,Search,2
+2015-11-06T17:00:00,15,1,photoshop cc,General Design & Composition,2
+2015-11-06T17:00:00,8,1,create-and-make.com,Uncategorized,0
+2015-11-06T17:00:00,6,1,en.wikipedia.org,General Reference & Learning,1
+2015-11-06T17:10:00,167,1,photoshop cc,General Design & Composition,2
+2015-11-06T17:10:00,24,1,Finder,General Utilities,0
+2015-11-06T17:10:00,23,1,customink.com,General Business,2
+2015-11-06T17:10:00,1,1,images3.privateschoolreview.com,General Utilities,1
+2015-11-06T17:15:00,308,1,Finder,General Utilities,0
+2015-11-06T17:15:00,95,1,messages,General Social Networking,-2
+2015-11-06T17:15:00,19,1,loginwindow,General Utilities,0
+2015-11-06T17:15:00,2,1,photoshop cc,General Design & Composition,2
+2015-11-06T17:15:00,1,1,lightroom,Presentation,2
+2015-11-06T17:25:00,80,1,font book,Presentation,2
+2015-11-06T17:25:00,52,1,google.com,Search,2
+2015-11-06T17:25:00,50,1,microsoft word,Writing,2
+2015-11-06T17:25:00,41,1,Finder,General Utilities,0
+2015-11-06T17:25:00,24,1,apple.stackexchange.com,Engineering & Technology,1
+2015-11-06T17:25:00,21,1,discussions.apple.com,Science & Technology,-1
+2015-11-06T17:25:00,8,1,microsoft autoupdate,General Utilities,1
+2015-11-06T17:25:00,5,1,Safari,Browsers,2
+2015-11-06T17:25:00,2,1,facebook.com,General Social Networking,-2
+2015-11-06T17:30:00,233,1,Finder,General Utilities,0
+2015-11-06T17:30:00,37,1,google.com,Search,2
+2015-11-06T17:30:00,15,1,fontspring.com,Graphic Design,2
+2015-11-06T17:30:00,9,1,discussions.apple.com,Science & Technology,-1
+2015-11-06T17:30:00,5,1,font book,Presentation,2
+2015-11-06T17:35:00,110,1,photoshop cc,General Design & Composition,2
+2015-11-06T17:35:00,52,1,Finder,General Utilities,0
+2015-11-06T17:35:00,50,1,customink.com,General Business,2
+2015-11-06T17:35:00,12,1,fontspring.com,Graphic Design,2
+2015-11-06T17:40:00,194,1,customink.com,General Business,2
+2015-11-06T17:40:00,10,1,photoshop cc,General Design & Composition,2
+2015-11-06T17:45:00,207,1,customink.com,General Business,2
+2015-11-06T17:45:00,83,1,photoshop cc,General Design & Composition,2
+2015-11-06T17:45:00,7,1,Mail,Email,2
+2015-11-06T17:45:00,2,1,Finder,General Utilities,0
+2015-11-06T17:50:00,159,1,customink.com,General Business,2
+2015-11-06T17:50:00,50,1,photoshop cc,General Design & Composition,2
+2015-11-06T17:50:00,15,1,spotlight,General Utilities,1
+2015-11-06T17:55:00,127,1,customink.com,General Business,2
+2015-11-06T17:55:00,65,1,photoshop cc,General Design & Composition,2
+2015-11-06T18:00:00,107,1,photoshop cc,General Design & Composition,2
+2015-11-06T18:00:00,50,1,customink.com,General Business,2
+2015-11-06T18:00:00,4,1,loginwindow,General Utilities,0
+2015-11-06T18:05:00,178,1,customink.com,General Business,2
+2015-11-06T18:05:00,122,1,photoshop cc,General Design & Composition,2
+2015-11-06T18:10:00,161,1,photoshop cc,General Design & Composition,2
+2015-11-06T18:10:00,116,1,customink.com,General Business,2
+2015-11-06T18:10:00,13,1,Finder,General Utilities,0
+2015-11-06T18:10:00,7,1,Safari,Browsers,2
+2015-11-06T18:10:00,1,1,in-ter-stel-lar.com,Uncategorized,0
+2015-11-06T18:10:00,1,1,dalearn.deerfield.edu,General Reference & Learning,2
+2015-11-06T18:15:00,13,1,photoshop cc,General Design & Composition,2
+2015-11-06T18:20:00,89,1,customink.com,General Business,2
+2015-11-06T18:20:00,65,1,photoshop cc,General Design & Composition,2
+2015-11-06T18:25:00,245,1,customink.com,General Business,2
+2015-11-06T18:25:00,21,1,loginwindow,General Utilities,0
+2015-11-06T18:25:00,3,1,photoshop cc,General Design & Composition,2
+2015-11-06T18:45:00,150,1,messages,General Social Networking,-2
+2015-11-06T18:45:00,11,1,facebook.com,General Social Networking,-2
+2015-11-06T18:45:00,3,1,loginwindow,General Utilities,0
+2015-11-06T18:45:00,3,1,photoshop cc,General Design & Composition,2
+2015-11-06T18:45:00,2,1,customink.com,General Business,2
+2015-11-06T18:50:00,120,1,facebook.com,General Social Networking,-2
+2015-11-06T18:55:00,249,1,facebook.com,General Social Networking,-2
+2015-11-06T18:55:00,51,1,messages,General Social Networking,-2
+2015-11-06T19:00:00,300,1,facebook.com,General Social Networking,-2
+2015-11-06T19:05:00,293,1,facebook.com,General Social Networking,-2
+2015-11-06T19:05:00,7,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-11-06T19:10:00,75,1,microsoft word,Writing,2
+2015-11-06T19:10:00,57,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-11-06T19:10:00,35,1,facebook.com,General Social Networking,-2
+2015-11-06T19:10:00,22,1,Skype,General Social Networking,-2
+2015-11-06T19:10:00,12,1,Finder,General Utilities,0
+2015-11-06T19:10:00,8,1,Mail,Email,2
+2015-11-06T19:25:00,154,1,facebook.com,General Social Networking,-2
+2015-11-06T19:30:00,293,1,facebook.com,General Social Networking,-2
+2015-11-06T19:30:00,7,1,messages,General Social Networking,-2
+2015-11-06T19:35:00,300,1,facebook.com,General Social Networking,-2
+2015-11-06T19:40:00,296,1,facebook.com,General Social Networking,-2
+2015-11-06T19:40:00,4,1,Skype,General Social Networking,-2
+2015-11-06T19:45:00,267,1,messages,General Social Networking,-2
+2015-11-06T19:45:00,68,1,customink.com,General Business,2
+2015-11-06T19:45:00,46,1,photoshop cc,General Design & Composition,2
+2015-11-06T19:45:00,41,1,Mail,Email,2
+2015-11-06T19:45:00,26,1,facebook.com,General Social Networking,-2
+2015-11-06T19:45:00,17,1,Finder,General Utilities,0
+2015-11-06T19:45:00,5,1,google.com,Search,2
+2015-11-06T19:45:00,2,1,Skype,General Social Networking,-2
+2015-11-06T19:50:00,212,1,Mail,Email,2
+2015-11-06T19:50:00,160,1,microsoft word,Writing,2
+2015-11-06T19:50:00,120,1,facebook.com,General Social Networking,-2
+2015-11-06T19:50:00,19,1,loginwindow,General Utilities,0
+2015-11-06T19:50:00,19,1,messages,General Social Networking,-2
+2015-11-06T19:50:00,16,1,customink.com,General Business,2
+2015-11-06T19:55:00,283,1,facebook.com,General Social Networking,-2
+2015-11-06T22:25:00,19,1,facebook.com,General Social Networking,-2
+2015-11-06T22:25:00,7,1,loginwindow,General Utilities,0
+2015-11-06T22:25:00,4,1,microsoft autoupdate,General Utilities,1
+2015-11-06T22:30:00,67,1,cryptlife.com,Uncategorized,0
+2015-11-06T22:30:00,66,1,techlicious.com,Uncategorized,0
+2015-11-06T22:30:00,34,1,answers.yahoo.com,Search,0
+2015-11-06T22:30:00,31,1,facebook.com,General Social Networking,-2
+2015-11-06T22:30:00,24,1,google.com,Search,2
+2015-11-06T22:30:00,22,1,messages,General Social Networking,-2
+2015-11-06T22:30:00,15,1,Mail,Email,2
+2015-11-06T22:30:00,10,1,Google Spreadsheets,General Business,2
+2015-11-06T22:30:00,8,1,Safari,Browsers,2
+2015-11-06T22:30:00,7,1,customink.com,General Business,2
+2015-11-06T22:30:00,3,1,drive.google.com,General Business,2
+2015-11-06T22:30:00,2,1,spreadshirt.com,General News & Opinion,-2
+2015-11-06T22:30:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2015-11-06T22:30:00,1,1,amazon.com,General Shopping,-1
+2015-11-06T22:30:00,1,1,1001fonts.com,Internet Utilities,1
+2015-11-06T22:30:00,1,1,instagram.com,General Social Networking,-2
+2015-11-06T22:30:00,1,1,boarding-schools.startclass.com,Uncategorized,0
+2015-11-06T22:30:00,1,1,wolframalpha.com,Search,1
+2015-11-06T22:30:00,1,1,images3.privateschoolreview.com,General Utilities,1
+2015-11-06T22:30:00,1,1,create-and-make.com,Uncategorized,0
+2015-11-06T22:35:00,237,1,facebook.com,General Social Networking,-2
+2015-11-06T22:35:00,50,1,microsoft word,Writing,2
+2015-11-06T22:35:00,9,1,Google Spreadsheets,General Business,2
+2015-11-06T22:35:00,4,1,Skype,General Social Networking,-2
+2015-11-06T22:40:00,165,1,facebook.com,General Social Networking,-2
+2015-11-06T22:40:00,131,1,microsoft word,Writing,2
+2015-11-06T22:45:00,249,1,microsoft word,Writing,2
+2015-11-06T22:45:00,51,1,facebook.com,General Social Networking,-2
+2015-11-06T22:50:00,213,1,microsoft word,Writing,2
+2015-11-06T22:50:00,81,1,facebook.com,General Social Networking,-2
+2015-11-06T22:50:00,3,1,Safari,Browsers,2
+2015-11-06T22:50:00,1,1,Finder,General Utilities,0
+2015-11-06T22:50:00,1,1,messages,General Social Networking,-2
+2015-11-06T22:55:00,180,1,microsoft word,Writing,2
+2015-11-06T22:55:00,63,1,facebook.com,General Social Networking,-2
+2015-11-06T22:55:00,51,1,drive.google.com,General Business,2
+2015-11-06T22:55:00,3,1,Google Spreadsheets,General Business,2
+2015-11-06T22:55:00,2,1,google.com,Search,2
+2015-11-06T22:55:00,1,1,amazon.com,General Shopping,-1
+2015-11-06T23:00:00,260,1,microsoft word,Writing,2
+2015-11-06T23:00:00,51,1,youtube.com,Video,-2
+2015-11-06T23:00:00,47,1,customink.com,General Business,2
+2015-11-06T23:00:00,30,1,google.com,Search,2
+2015-11-06T23:00:00,20,1,facebook.com,General Social Networking,-2
+2015-11-06T23:00:00,17,1,photoshop cc,General Design & Composition,2
+2015-11-06T23:00:00,17,1,Mail,Email,2
+2015-11-06T23:00:00,15,1,Safari,Browsers,2
+2015-11-06T23:00:00,5,1,in-ter-stel-lar.com,Uncategorized,0
+2015-11-06T23:05:00,290,1,youtube.com,Video,-2
+2015-11-06T23:05:00,230,1,microsoft word,Writing,2
+2015-11-06T23:05:00,67,1,facebook.com,General Social Networking,-2
+2015-11-06T23:05:00,10,1,System Preferences,General Utilities,0
+2015-11-06T23:05:00,1,1,Finder,General Utilities,0
+2015-11-06T23:05:00,1,1,Preview,General Reference & Learning,2
+2015-11-06T23:10:00,273,1,microsoft word,Writing,2
+2015-11-06T23:10:00,205,1,in-ter-stel-lar.com,Uncategorized,0
+2015-11-06T23:10:00,95,1,youtube.com,Video,-2
+2015-11-06T23:10:00,27,1,Skype,General Social Networking,-2
+2015-11-06T23:15:00,171,1,in-ter-stel-lar.com,Uncategorized,0
+2015-11-06T23:15:00,139,1,microsoft word,Writing,2
+2015-11-06T23:15:00,86,1,asp-edu.net,Uncategorized,0
+2015-11-06T23:15:00,70,1,Skype,General Social Networking,-2
+2015-11-06T23:15:00,3,1,Safari,Browsers,2
+2015-11-06T23:20:00,231,1,microsoft word,Writing,2
+2015-11-06T23:20:00,28,1,Finder,General Utilities,0
+2015-11-06T23:20:00,28,1,Skype,General Social Networking,-2
+2015-11-06T23:25:00,193,1,microsoft word,Writing,2
+2015-11-06T23:25:00,107,1,Skype,General Social Networking,-2
+2015-11-06T23:30:00,157,1,microsoft word,Writing,2
+2015-11-06T23:30:00,92,1,facebook.com,General Social Networking,-2
+2015-11-06T23:30:00,30,1,asp-edu.net,Uncategorized,0
+2015-11-06T23:30:00,19,1,Skype,General Social Networking,-2
+2015-11-06T23:35:00,209,1,facebook.com,General Social Networking,-2
+2015-11-06T23:35:00,89,1,Skype,General Social Networking,-2
+2015-11-06T23:40:00,207,1,facebook.com,General Social Networking,-2
+2015-11-06T23:40:00,45,1,Mail,Email,2
+2015-11-06T23:40:00,24,1,messages,General Social Networking,-2
+2015-11-06T23:40:00,24,1,Skype,General Social Networking,-2
+2015-11-06T23:45:00,35,1,facebook.com,General Social Networking,-2
+2015-11-06T23:50:00,138,1,messages,General Social Networking,-2
+2015-11-06T23:55:00,155,1,facebook.com,General Social Networking,-2
+2015-11-06T23:55:00,145,1,messages,General Social Networking,-2

@@ -1,0 +1,141 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2015-07-20T09:10:00,172,1,Keynote,Presentation,2
+2015-07-20T09:10:00,40,1,pages,Presentation,2
+2015-07-20T09:10:00,6,1,Finder,General Utilities,0
+2015-07-20T09:10:00,1,1,loginwindow,General Utilities,0
+2015-07-20T09:15:00,268,1,Keynote,Presentation,2
+2015-07-20T09:15:00,17,1,spotlight,General Utilities,1
+2015-07-20T09:15:00,8,1,Finder,General Utilities,0
+2015-07-20T09:15:00,6,1,blogs.adobe.com,Search,0
+2015-07-20T09:20:00,193,1,Keynote,Presentation,2
+2015-07-20T09:20:00,105,1,Mail,Email,2
+2015-07-20T09:25:00,102,1,Keynote,Presentation,2
+2015-07-20T09:40:00,93,1,Keynote,Presentation,2
+2015-07-20T09:40:00,67,1,Mail,Email,2
+2015-07-20T09:40:00,57,1,creative cloud,General Design & Composition,2
+2015-07-20T09:40:00,26,1,lightroom,Presentation,2
+2015-07-20T09:40:00,21,1,blogs.adobe.com,Search,0
+2015-07-20T09:40:00,21,1,photoshop.com,General Entertainment,-2
+2015-07-20T09:40:00,6,1,spotlight,General Utilities,1
+2015-07-20T09:40:00,4,1,feedback.photoshop.com,General Entertainment,-2
+2015-07-20T09:40:00,3,1,keychain access,Systems Operations,2
+2015-07-20T09:45:00,297,1,photoshop.com,General Entertainment,-2
+2015-07-20T09:45:00,3,1,pages,Presentation,2
+2015-07-20T09:50:00,21,1,photoshop.com,General Entertainment,-2
+2015-07-20T09:50:00,18,1,Keynote,Presentation,2
+2015-07-20T10:05:00,114,1,blogs.adobe.com,Search,0
+2015-07-20T10:05:00,34,1,pages,Presentation,2
+2015-07-20T10:05:00,3,1,photoshop.com,General Entertainment,-2
+2015-07-20T10:05:00,2,1,login.globalsuite.net,Search,0
+2015-07-20T10:10:00,136,1,blogs.adobe.com,Search,0
+2015-07-20T10:10:00,124,1,Keynote,Presentation,2
+2015-07-20T10:10:00,22,1,pages,Presentation,2
+2015-07-20T10:10:00,12,1,loginwindow,General Utilities,0
+2015-07-20T10:10:00,6,1,spotlight,General Utilities,1
+2015-07-20T10:15:00,7,1,loginwindow,General Utilities,0
+2015-07-20T15:30:00,29,1,Finder,General Utilities,0
+2015-07-20T15:30:00,5,1,blogs.adobe.com,Search,0
+2015-07-20T16:10:00,20,1,loginwindow,General Utilities,0
+2015-07-20T16:10:00,2,1,Finder,General Utilities,0
+2015-07-20T19:35:00,66,1,Finder,General Utilities,0
+2015-07-20T19:35:00,26,1,Keynote,Presentation,2
+2015-07-20T19:35:00,2,1,blogs.adobe.com,Search,0
+2015-07-20T19:40:00,91,1,Mail,Email,2
+2015-07-20T19:40:00,88,1,Preview,General Reference & Learning,2
+2015-07-20T19:40:00,77,1,Keynote,Presentation,2
+2015-07-20T19:40:00,43,1,Finder,General Utilities,0
+2015-07-20T19:45:00,149,1,Mail,Email,2
+2015-07-20T19:45:00,20,1,loginwindow,General Utilities,0
+2015-07-20T19:45:00,4,1,Keynote,Presentation,2
+2015-07-20T20:05:00,22,1,Mail,Email,2
+2015-07-20T20:05:00,12,1,lightroom,Presentation,2
+2015-07-20T20:05:00,12,1,knowledgeanyhow.org,Uncategorized,0
+2015-07-20T20:05:00,9,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-20T20:05:00,7,1,blogs.adobe.com,Search,0
+2015-07-20T20:05:00,5,1,photoshop.com,General Entertainment,-2
+2015-07-20T20:05:00,2,1,Keynote,Presentation,2
+2015-07-20T20:10:00,243,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-20T20:10:00,54,1,Mail,Email,2
+2015-07-20T20:15:00,242,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-20T20:15:00,55,1,TextEdit,Writing,2
+2015-07-20T20:15:00,2,1,spotlight,General Utilities,1
+2015-07-20T20:20:00,152,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-20T20:20:00,80,1,pandas.pydata.org,Engineering & Technology,1
+2015-07-20T20:20:00,28,1,stackoverflow.com,General Software Development,2
+2015-07-20T20:20:00,24,1,google.com,Search,2
+2015-07-20T20:20:00,9,1,blogs.adobe.com,Search,0
+2015-07-20T20:20:00,5,1,pages,Presentation,2
+2015-07-20T20:20:00,2,1,Keynote,Presentation,2
+2015-07-20T20:25:00,191,1,stackoverflow.com,General Software Development,2
+2015-07-20T20:25:00,101,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-20T20:25:00,5,1,google.com,Search,2
+2015-07-20T20:25:00,2,1,photoshop.com,General Entertainment,-2
+2015-07-20T20:25:00,1,1,forums.adobe.com,General Business,2
+2015-07-20T20:30:00,181,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-20T20:30:00,82,1,pandas.pydata.org,Engineering & Technology,1
+2015-07-20T20:30:00,18,1,stackoverflow.com,General Software Development,2
+2015-07-20T20:30:00,15,1,google.com,Search,2
+2015-07-20T20:30:00,4,1,TextEdit,Writing,2
+2015-07-20T20:35:00,120,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-20T20:35:00,82,1,stackoverflow.com,General Software Development,2
+2015-07-20T20:35:00,71,1,pandas.pydata.org,Engineering & Technology,1
+2015-07-20T20:35:00,26,1,google.com,Search,2
+2015-07-20T20:35:00,1,1,photoshop.com,General Entertainment,-2
+2015-07-20T20:40:00,179,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-20T20:40:00,21,1,loginwindow,General Utilities,0
+2015-07-20T20:40:00,3,1,Keynote,Presentation,2
+2015-07-20T20:40:00,3,1,pages,Presentation,2
+2015-07-20T21:00:00,97,1,Skype,General Social Networking,-2
+2015-07-20T21:00:00,17,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-20T21:00:00,2,1,Keynote,Presentation,2
+2015-07-20T21:05:00,300,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-20T21:10:00,280,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-20T21:10:00,12,1,photoshop.com,General Entertainment,-2
+2015-07-20T21:10:00,5,1,peakdesign.com,General Shopping,-2
+2015-07-20T21:10:00,2,1,login.globalsuite.net,Search,0
+2015-07-20T21:10:00,1,1,google.com,Search,2
+2015-07-20T21:15:00,211,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-20T21:15:00,43,1,knowledgeanyhow.org,Uncategorized,0
+2015-07-20T21:15:00,10,1,Mail,Email,2
+2015-07-20T21:15:00,10,1,Finder,General Utilities,0
+2015-07-20T21:15:00,9,1,Keynote,Presentation,2
+2015-07-20T21:15:00,6,1,Skype,General Social Networking,-2
+2015-07-20T21:15:00,6,1,google.com,Search,2
+2015-07-20T21:15:00,2,1,stackoverflow.com,General Software Development,2
+2015-07-20T21:15:00,1,1,photoshop.com,General Entertainment,-2
+2015-07-20T21:20:00,199,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-20T21:20:00,89,1,Finder,General Utilities,0
+2015-07-20T21:20:00,5,1,Keynote,Presentation,2
+2015-07-20T21:20:00,4,1,spotlight,General Utilities,1
+2015-07-20T21:20:00,2,1,Safari,Browsers,2
+2015-07-20T21:20:00,1,1,Skype,General Social Networking,-2
+2015-07-20T21:25:00,252,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-20T21:25:00,39,1,MS Excel,General Business,2
+2015-07-20T21:25:00,5,1,TextEdit,Writing,2
+2015-07-20T21:30:00,239,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-20T21:30:00,56,1,TextEdit,Writing,2
+2015-07-20T21:30:00,5,1,photoshop.com,General Entertainment,-2
+2015-07-20T21:35:00,264,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-20T21:35:00,13,1,lightroom,Presentation,2
+2015-07-20T21:35:00,9,1,TextEdit,Writing,2
+2015-07-20T21:35:00,7,1,creative cloud,General Design & Composition,2
+2015-07-20T21:35:00,6,1,stackoverflow.com,General Software Development,2
+2015-07-20T21:40:00,136,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-20T21:40:00,75,1,Skype,General Social Networking,-2
+2015-07-20T21:40:00,58,1,google.com,Search,2
+2015-07-20T21:40:00,10,1,peakdesign.com,General Shopping,-2
+2015-07-20T21:40:00,10,1,forums.adobe.com,General Business,2
+2015-07-20T21:40:00,3,1,666ccc.com,Uncategorized,0
+2015-07-20T21:40:00,3,1,knowledgeanyhow.org,Uncategorized,0
+2015-07-20T21:40:00,2,1,photoshop.com,General Entertainment,-2
+2015-07-20T21:40:00,2,1,login.globalsuite.net,Search,0
+2015-07-20T21:40:00,1,1,stackoverflow.com,General Software Development,2
+2015-07-20T21:45:00,167,1,Skype,General Social Networking,-2
+2015-07-20T21:45:00,74,1,google.com,Search,2
+2015-07-20T21:45:00,51,1,9to5mac.com,General News & Opinion,-2
+2015-07-20T21:45:00,3,1,Finder,General Utilities,0
+2015-07-20T21:45:00,2,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-20T21:45:00,2,1,Keynote,Presentation,2
+2015-07-20T21:45:00,1,1,login.globalsuite.net,Search,0
+2015-07-20T21:50:00,18,1,Skype,General Social Networking,-2
+2015-07-20T21:50:00,5,1,9to5mac.com,General News & Opinion,-2

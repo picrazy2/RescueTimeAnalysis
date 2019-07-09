@@ -1,0 +1,164 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-12-09T14:10:00,41,1,loginwindow,General Utilities,0
+2018-12-09T14:10:00,29,1,todoist,Project Management,2
+2018-12-09T14:10:00,5,1,messenger.com,General Social Networking,-2
+2018-12-09T14:15:00,146,1,todoist,Project Management,2
+2018-12-09T14:15:00,72,1,wechat,General Social Networking,-2
+2018-12-09T14:15:00,33,1,youtube.com,Video,-2
+2018-12-09T14:15:00,33,1,messenger.com,General Social Networking,-2
+2018-12-09T14:15:00,3,1,forbes.com,General News & Opinion,-2
+2018-12-09T14:15:00,3,1,Mail,Email,2
+2018-12-09T14:15:00,2,1,idp.mit.edu,General Reference & Learning,1
+2018-12-09T14:15:00,1,1,6004.mit.edu,Engineering & Technology,1
+2018-12-09T14:15:00,1,1,amazon.com,General Shopping,-1
+2018-12-09T14:15:00,1,1,Google Spreadsheets,General Business,2
+2018-12-09T14:15:00,1,1,gradescope.com,General Reference & Learning,1
+2018-12-09T14:15:00,1,1,google.com,Search,2
+2018-12-09T14:15:00,1,1,customink.com,General Business,2
+2018-12-09T14:15:00,1,1,wanderu.com,General Reference & Learning,1
+2018-12-09T14:20:00,157,1,todoist,Project Management,2
+2018-12-09T14:20:00,101,1,9to5mac.com,General News & Opinion,-2
+2018-12-09T14:20:00,18,1,messenger.com,General Social Networking,-2
+2018-12-09T14:20:00,9,1,Mail,Email,2
+2018-12-09T14:20:00,8,1,youtube.com,Video,-2
+2018-12-09T14:20:00,4,1,wechat,General Social Networking,-2
+2018-12-09T14:20:00,2,1,newtab,Browsers,0
+2018-12-09T14:20:00,1,1,news.mit.edu,General Reference & Learning,1
+2018-12-09T14:25:00,133,1,todoist,Project Management,2
+2018-12-09T14:25:00,133,1,youtube.com,Video,-2
+2018-12-09T14:25:00,20,1,facetime,Voice Chat,-2
+2018-12-09T14:25:00,8,1,messenger.com,General Social Networking,-2
+2018-12-09T14:25:00,6,1,6004.mit.edu,Engineering & Technology,1
+2018-12-09T14:30:00,300,1,youtube.com,Video,-2
+2018-12-09T14:35:00,300,1,youtube.com,Video,-2
+2018-12-09T14:40:00,262,1,youtube.com,Video,-2
+2018-12-09T14:40:00,37,1,Notes,Email,0
+2018-12-09T14:45:00,287,1,youtube.com,Video,-2
+2018-12-09T14:45:00,8,1,Notes,Email,0
+2018-12-09T14:45:00,5,1,newtab,Browsers,0
+2018-12-09T14:50:00,300,1,youtube.com,Video,-2
+2018-12-09T14:55:00,300,1,youtube.com,Video,-2
+2018-12-09T15:00:00,300,1,youtube.com,Video,-2
+2018-12-09T15:05:00,300,1,youtube.com,Video,-2
+2018-12-09T15:10:00,300,1,youtube.com,Video,-2
+2018-12-09T15:15:00,300,1,youtube.com,Video,-2
+2018-12-09T15:20:00,300,1,youtube.com,Video,-2
+2018-12-09T15:25:00,300,1,youtube.com,Video,-2
+2018-12-09T15:30:00,300,1,youtube.com,Video,-2
+2018-12-09T15:35:00,300,1,youtube.com,Video,-2
+2018-12-09T15:40:00,300,1,youtube.com,Video,-2
+2018-12-09T15:45:00,300,1,youtube.com,Video,-2
+2018-12-09T15:50:00,300,1,youtube.com,Video,-2
+2018-12-09T15:55:00,300,1,youtube.com,Video,-2
+2018-12-09T16:00:00,220,1,youtube.com,Video,-2
+2018-12-09T16:15:00,61,1,loginwindow,General Utilities,0
+2018-12-09T18:10:00,101,1,youtube.com,Video,-2
+2018-12-09T18:10:00,8,1,6004.mit.edu,Engineering & Technology,1
+2018-12-09T18:10:00,1,1,forbes.com,General News & Opinion,-2
+2018-12-09T18:15:00,300,1,youtube.com,Video,-2
+2018-12-09T18:20:00,300,1,youtube.com,Video,-2
+2018-12-09T18:25:00,300,1,youtube.com,Video,-2
+2018-12-09T18:30:00,300,1,youtube.com,Video,-2
+2018-12-09T18:35:00,300,1,youtube.com,Video,-2
+2018-12-09T18:40:00,300,1,youtube.com,Video,-2
+2018-12-09T18:45:00,300,1,youtube.com,Video,-2
+2018-12-09T18:50:00,135,1,youtube.com,Video,-2
+2018-12-09T18:50:00,20,1,6004.mit.edu,Engineering & Technology,1
+2018-12-09T19:00:00,32,1,youtube.com,Video,-2
+2018-12-09T19:05:00,300,1,youtube.com,Video,-2
+2018-12-09T19:10:00,300,1,youtube.com,Video,-2
+2018-12-09T19:15:00,300,1,youtube.com,Video,-2
+2018-12-09T19:20:00,195,1,Google Spreadsheets,General Business,2
+2018-12-09T19:20:00,80,1,messenger.com,General Social Networking,-2
+2018-12-09T19:20:00,15,1,youtube.com,Video,-2
+2018-12-09T19:20:00,6,1,Mail,Email,2
+2018-12-09T19:20:00,4,1,calendar,Calendars,1
+2018-12-09T19:25:00,218,1,messenger.com,General Social Networking,-2
+2018-12-09T19:25:00,82,1,youtube.com,Video,-2
+2018-12-09T19:30:00,251,1,youtube.com,Video,-2
+2018-12-09T19:30:00,29,1,Notes,Email,0
+2018-12-09T19:30:00,20,1,messenger.com,General Social Networking,-2
+2018-12-09T19:35:00,201,1,wechat,General Social Networking,-2
+2018-12-09T19:35:00,90,1,youtube.com,Video,-2
+2018-12-09T19:35:00,6,1,messages,General Social Networking,-2
+2018-12-09T19:35:00,3,1,sublime text,Editing & IDEs,2
+2018-12-09T19:40:00,290,1,youtube.com,Video,-2
+2018-12-09T19:40:00,10,1,Notes,Email,0
+2018-12-09T19:45:00,278,1,youtube.com,Video,-2
+2018-12-09T19:45:00,18,1,Notes,Email,0
+2018-12-09T19:45:00,4,1,messages,General Social Networking,-2
+2018-12-09T19:50:00,266,1,youtube.com,Video,-2
+2018-12-09T19:50:00,19,1,Mail,Email,2
+2018-12-09T19:50:00,11,1,todoist,Project Management,2
+2018-12-09T19:50:00,3,1,Notes,Email,0
+2018-12-09T19:50:00,1,1,news.mit.edu,General Reference & Learning,1
+2018-12-09T19:55:00,228,1,Mail,Email,2
+2018-12-09T19:55:00,63,1,messenger.com,General Social Networking,-2
+2018-12-09T19:55:00,6,1,facebook.com,General Social Networking,-2
+2018-12-09T19:55:00,3,1,youtube.com,Video,-2
+2018-12-09T20:00:00,176,1,messenger.com,General Social Networking,-2
+2018-12-09T20:00:00,114,1,Mail,Email,2
+2018-12-09T20:00:00,6,1,Google Spreadsheets,General Business,2
+2018-12-09T20:00:00,2,1,Google Documents,Writing,2
+2018-12-09T20:00:00,2,1,messages,General Social Networking,-2
+2018-12-09T20:05:00,172,1,Mail,Email,2
+2018-12-09T20:05:00,51,1,Google Documents,Writing,2
+2018-12-09T20:05:00,37,1,Google Forms,General Business,2
+2018-12-09T20:05:00,12,1,Google Spreadsheets,General Business,2
+2018-12-09T20:05:00,11,1,messenger.com,General Social Networking,-2
+2018-12-09T20:05:00,8,1,todoist,Project Management,2
+2018-12-09T20:05:00,5,1,drive.google.com,General Business,2
+2018-12-09T20:05:00,4,1,Notes,Email,0
+2018-12-09T20:10:00,264,1,Google Forms,General Business,2
+2018-12-09T20:10:00,31,1,Google Documents,Writing,2
+2018-12-09T20:10:00,2,1,drive.google.com,General Business,2
+2018-12-09T20:10:00,2,1,messenger.com,General Social Networking,-2
+2018-12-09T20:15:00,212,1,Google Forms,General Business,2
+2018-12-09T20:15:00,31,1,microsoft word,Writing,2
+2018-12-09T20:15:00,20,1,Finder,General Utilities,0
+2018-12-09T20:15:00,19,1,messenger.com,General Social Networking,-2
+2018-12-09T20:15:00,7,1,wechat,General Social Networking,-2
+2018-12-09T20:15:00,6,1,Preview,General Reference & Learning,2
+2018-12-09T20:15:00,2,1,newtab,Browsers,0
+2018-12-09T20:20:00,55,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-12-09T20:20:00,30,1,todoist,Project Management,2
+2018-12-09T20:20:00,8,1,stellar.mit.edu,General Reference & Learning,1
+2018-12-09T20:20:00,6,1,microsoft word,Writing,2
+2018-12-09T20:20:00,5,1,idp.mit.edu,General Reference & Learning,1
+2018-12-09T20:20:00,1,1,Google Forms,General Business,2
+2018-12-09T20:20:00,1,1,loginwindow,General Utilities,0
+2018-12-09T20:20:00,1,1,newtab,Browsers,0
+2018-12-09T22:45:00,51,1,loginwindow,General Utilities,0
+2018-12-09T23:05:00,88,1,idp.mit.edu,General Reference & Learning,1
+2018-12-09T23:05:00,71,1,6004.mit.edu,Engineering & Technology,1
+2018-12-09T23:05:00,34,1,Google Forms,General Business,2
+2018-12-09T23:05:00,25,1,google.com,Search,2
+2018-12-09T23:05:00,16,1,messenger.com,General Social Networking,-2
+2018-12-09T23:05:00,8,1,todoist,Project Management,2
+2018-12-09T23:05:00,4,1,drive.google.com,General Business,2
+2018-12-09T23:05:00,3,1,9to5mac.com,General News & Opinion,-2
+2018-12-09T23:05:00,3,1,news.mit.edu,General Reference & Learning,1
+2018-12-09T23:05:00,2,1,Google Documents,Writing,2
+2018-12-09T23:05:00,2,1,forbes.com,General News & Opinion,-2
+2018-12-09T23:05:00,2,1,facebook.com,General Social Networking,-2
+2018-12-09T23:10:00,182,1,adobe premiere pro cc 2018,Uncategorized,0
+2018-12-09T23:10:00,85,1,Finder,General Utilities,0
+2018-12-09T23:10:00,20,1,youtube.com,Video,-2
+2018-12-09T23:10:00,9,1,messenger.com,General Social Networking,-2
+2018-12-09T23:10:00,2,1,Google Forms,General Business,2
+2018-12-09T23:15:00,299,1,adobe premiere pro cc 2018,Uncategorized,0
+2018-12-09T23:20:00,298,1,adobe premiere pro cc 2018,Uncategorized,0
+2018-12-09T23:25:00,300,1,adobe premiere pro cc 2018,Uncategorized,0
+2018-12-09T23:30:00,290,1,adobe premiere pro cc 2018,Uncategorized,0
+2018-12-09T23:30:00,10,1,todoist,Project Management,2
+2018-12-09T23:35:00,254,1,adobe premiere pro cc 2018,Uncategorized,0
+2018-12-09T23:35:00,43,1,Finder,General Utilities,0
+2018-12-09T23:35:00,3,1,calendar,Calendars,1
+2018-12-09T23:40:00,261,1,adobe premiere pro cc 2018,Uncategorized,0
+2018-12-09T23:40:00,38,1,Finder,General Utilities,0
+2018-12-09T23:40:00,1,1,backup and sync from google,Uncategorized,0
+2018-12-09T23:45:00,262,1,adobe premiere pro cc 2018,Uncategorized,0
+2018-12-09T23:45:00,38,1,Finder,General Utilities,0
+2018-12-09T23:50:00,253,1,adobe premiere pro cc 2018,Uncategorized,0
+2018-12-09T23:50:00,47,1,Finder,General Utilities,0
+2018-12-09T23:55:00,300,1,adobe premiere pro cc 2018,Uncategorized,0

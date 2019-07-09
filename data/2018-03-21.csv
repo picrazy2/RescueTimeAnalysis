@@ -1,0 +1,400 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-03-21T00:00:00,193,1,wechat,General Social Networking,-2
+2018-03-21T00:00:00,74,1,Preview,General Reference & Learning,2
+2018-03-21T00:00:00,31,1,Mail,Email,2
+2018-03-21T00:05:00,163,1,wechat,General Social Networking,-2
+2018-03-21T00:05:00,100,1,Mail,Email,2
+2018-03-21T00:05:00,28,1,Preview,General Reference & Learning,2
+2018-03-21T00:05:00,6,1,Finder,General Utilities,0
+2018-03-21T00:05:00,1,1,System Preferences,General Utilities,0
+2018-03-21T00:10:00,81,1,wechat,General Social Networking,-2
+2018-03-21T00:10:00,72,1,copytech-print.mit.edu,Presentation,2
+2018-03-21T00:10:00,40,1,google.com,Search,2
+2018-03-21T00:10:00,18,1,copytech.mit.edu,Presentation,2
+2018-03-21T00:10:00,17,1,linkedin.com,Professional Networking,1
+2018-03-21T00:10:00,17,1,world.taobao.com,General Business,2
+2018-03-21T00:10:00,16,1,baike.baidu.com,Search,0
+2018-03-21T00:10:00,9,1,en.wikipedia.org,General Reference & Learning,1
+2018-03-21T00:10:00,8,1,messenger.com,General Social Networking,-2
+2018-03-21T00:10:00,7,1,newtab,Browsers,0
+2018-03-21T00:10:00,7,1,Mail,Email,2
+2018-03-21T00:10:00,6,1,Notes,Email,0
+2018-03-21T00:10:00,1,1,Google Spreadsheets,General Business,2
+2018-03-21T00:15:00,138,1,msg.taobao.com,General Shopping,-2
+2018-03-21T00:15:00,73,1,world.taobao.com,General Business,2
+2018-03-21T00:15:00,61,1,Google Forms,General Business,2
+2018-03-21T00:15:00,12,1,taobao.com,General Shopping,-2
+2018-03-21T00:15:00,10,1,drive.google.com,General Business,2
+2018-03-21T00:15:00,6,1,newtab,Browsers,0
+2018-03-21T00:20:00,174,1,Google Forms,General Business,2
+2018-03-21T00:20:00,80,1,wechat,General Social Networking,-2
+2018-03-21T00:20:00,35,1,web.groupme.com,Instant Message,-1
+2018-03-21T00:20:00,9,1,groupme.com,Instant Message,-1
+2018-03-21T00:20:00,1,1,newtab,Browsers,0
+2018-03-21T00:25:00,237,1,Google Forms,General Business,2
+2018-03-21T00:25:00,32,1,Mail,Email,2
+2018-03-21T00:25:00,17,1,Preview,General Reference & Learning,2
+2018-03-21T00:25:00,13,1,wechat,General Social Networking,-2
+2018-03-21T00:30:00,279,1,wechat,General Social Networking,-2
+2018-03-21T00:30:00,11,1,Mail,Email,2
+2018-03-21T00:30:00,10,1,messenger.com,General Social Networking,-2
+2018-03-21T00:35:00,143,1,wechat,General Social Networking,-2
+2018-03-21T00:35:00,134,1,Mail,Email,2
+2018-03-21T00:35:00,23,1,messenger.com,General Social Networking,-2
+2018-03-21T00:40:00,285,1,wechat,General Social Networking,-2
+2018-03-21T00:40:00,14,1,Mail,Email,2
+2018-03-21T00:40:00,1,1,Preview,General Reference & Learning,2
+2018-03-21T00:45:00,176,1,wechat,General Social Networking,-2
+2018-03-21T00:45:00,107,1,messenger.com,General Social Networking,-2
+2018-03-21T00:45:00,8,1,Mail,Email,2
+2018-03-21T00:45:00,5,1,Google Forms,General Business,2
+2018-03-21T00:45:00,4,1,dl.dropboxusercontent.com,File Sharing,-2
+2018-03-21T00:50:00,166,1,messenger.com,General Social Networking,-2
+2018-03-21T00:50:00,108,1,wechat,General Social Networking,-2
+2018-03-21T00:50:00,13,1,web.groupme.com,Instant Message,-1
+2018-03-21T00:50:00,13,1,facetime,Voice Chat,-2
+2018-03-21T00:55:00,214,1,wechat,General Social Networking,-2
+2018-03-21T00:55:00,63,1,Google Forms,General Business,2
+2018-03-21T00:55:00,13,1,facetime,Voice Chat,-2
+2018-03-21T00:55:00,8,1,messenger.com,General Social Networking,-2
+2018-03-21T00:55:00,2,1,Google Spreadsheets,General Business,2
+2018-03-21T01:00:00,163,1,wechat,General Social Networking,-2
+2018-03-21T01:00:00,89,1,Preview,General Reference & Learning,2
+2018-03-21T01:00:00,48,1,Google Forms,General Business,2
+2018-03-21T01:05:00,109,1,wechat,General Social Networking,-2
+2018-03-21T01:05:00,70,1,web.groupme.com,Instant Message,-1
+2018-03-21T01:05:00,62,1,baidu.com,Search,2
+2018-03-21T01:05:00,25,1,theater.mtime.com,General Entertainment,-2
+2018-03-21T01:05:00,17,1,google.com,Search,2
+2018-03-21T01:05:00,16,1,newtab,Browsers,0
+2018-03-21T01:05:00,1,1,keychain access,Systems Operations,2
+2018-03-21T01:10:00,205,1,wechat,General Social Networking,-2
+2018-03-21T01:10:00,79,1,web.groupme.com,Instant Message,-1
+2018-03-21T01:10:00,8,1,newtab,Browsers,0
+2018-03-21T01:10:00,5,1,tripadvisor.com,Travel & Outdoors,-2
+2018-03-21T01:10:00,3,1,google.com,Search,2
+2018-03-21T01:15:00,268,1,wechat,General Social Networking,-2
+2018-03-21T01:15:00,32,1,tripadvisor.com,Travel & Outdoors,-2
+2018-03-21T01:20:00,280,1,wechat,General Social Networking,-2
+2018-03-21T01:20:00,11,1,Mail,Email,2
+2018-03-21T01:20:00,8,1,microsoft word,Writing,2
+2018-03-21T01:20:00,1,1,Finder,General Utilities,0
+2018-03-21T01:25:00,198,1,wechat,General Social Networking,-2
+2018-03-21T01:25:00,102,1,Mail,Email,2
+2018-03-21T01:30:00,227,1,wechat,General Social Networking,-2
+2018-03-21T01:30:00,41,1,web.groupme.com,Instant Message,-1
+2018-03-21T01:30:00,12,1,adidas.com,Clothes & Personal,-2
+2018-03-21T01:30:00,11,1,Mail,Email,2
+2018-03-21T01:30:00,4,1,Preview,General Reference & Learning,2
+2018-03-21T01:30:00,3,1,messenger.com,General Social Networking,-2
+2018-03-21T01:30:00,2,1,Google Forms,General Business,2
+2018-03-21T01:35:00,201,1,wechat,General Social Networking,-2
+2018-03-21T01:35:00,54,1,webckipe.travelsky.com,Uncategorized,0
+2018-03-21T01:35:00,45,1,hainanairlines.com,Uncategorized,0
+2018-03-21T01:40:00,121,1,webckipe.travelsky.com,Uncategorized,0
+2018-03-21T01:40:00,119,1,en.wikipedia.org,General Reference & Learning,1
+2018-03-21T01:40:00,25,1,wechat,General Social Networking,-2
+2018-03-21T01:40:00,13,1,microsoft word,Writing,2
+2018-03-21T01:40:00,9,1,messenger.com,General Social Networking,-2
+2018-03-21T01:40:00,6,1,Mail,Email,2
+2018-03-21T01:40:00,4,1,google.com,Search,2
+2018-03-21T01:40:00,2,1,Preview,General Reference & Learning,2
+2018-03-21T01:40:00,1,1,newtab,Browsers,0
+2018-03-21T01:45:00,173,1,map.baidu.com,Maps & Regional,-2
+2018-03-21T01:45:00,84,1,webckipe.travelsky.com,Uncategorized,0
+2018-03-21T01:45:00,27,1,messenger.com,General Social Networking,-2
+2018-03-21T01:45:00,16,1,theater.mtime.com,General Entertainment,-2
+2018-03-21T01:50:00,222,1,theater.mtime.com,General Entertainment,-2
+2018-03-21T01:50:00,76,1,map.baidu.com,Maps & Regional,-2
+2018-03-21T01:50:00,1,1,Google Forms,General Business,2
+2018-03-21T01:50:00,1,1,tripadvisor.com,Travel & Outdoors,-2
+2018-03-21T01:55:00,223,1,map.baidu.com,Maps & Regional,-2
+2018-03-21T01:55:00,36,1,theater.mtime.com,General Entertainment,-2
+2018-03-21T01:55:00,32,1,en.wikipedia.org,General Reference & Learning,1
+2018-03-21T01:55:00,7,1,google.com,Search,2
+2018-03-21T01:55:00,2,1,newtab,Browsers,0
+2018-03-21T02:00:00,95,1,Mail,Email,2
+2018-03-21T02:00:00,80,1,map.baidu.com,Maps & Regional,-2
+2018-03-21T02:00:00,34,1,wechat,General Social Networking,-2
+2018-03-21T02:00:00,28,1,translate.google.com,Search,1
+2018-03-21T02:00:00,26,1,drive.google.com,General Business,2
+2018-03-21T02:00:00,12,1,Notes,Email,0
+2018-03-21T02:00:00,8,1,webckipe.travelsky.com,Uncategorized,0
+2018-03-21T02:00:00,6,1,Preview,General Reference & Learning,2
+2018-03-21T02:00:00,4,1,copytech-print.mit.edu,Presentation,2
+2018-03-21T02:00:00,4,1,newtab,Browsers,0
+2018-03-21T02:00:00,2,1,Google Spreadsheets,General Business,2
+2018-03-21T02:00:00,1,1,google.com,Search,2
+2018-03-21T02:05:00,147,1,wechat,General Social Networking,-2
+2018-03-21T02:05:00,116,1,mp.weixin.qq.com,Instant Message,-1
+2018-03-21T02:05:00,25,1,Finder,General Utilities,0
+2018-03-21T02:05:00,12,1,photoshop cc,General Design & Composition,2
+2018-03-21T02:10:00,241,1,wechat,General Social Networking,-2
+2018-03-21T02:10:00,45,1,rar extractor lite,Uncategorized,0
+2018-03-21T02:10:00,12,1,Finder,General Utilities,0
+2018-03-21T02:10:00,2,1,usernotificationcenter,General Utilities,0
+2018-03-21T02:15:00,190,1,wechat,General Social Networking,-2
+2018-03-21T02:15:00,91,1,photoshop cc,General Design & Composition,2
+2018-03-21T02:15:00,19,1,Finder,General Utilities,0
+2018-03-21T02:20:00,128,1,wechat,General Social Networking,-2
+2018-03-21T02:20:00,116,1,Finder,General Utilities,0
+2018-03-21T02:20:00,41,1,messenger.com,General Social Networking,-2
+2018-03-21T02:20:00,15,1,photoshop cc,General Design & Composition,2
+2018-03-21T02:25:00,189,1,wechat,General Social Networking,-2
+2018-03-21T02:25:00,102,1,messenger.com,General Social Networking,-2
+2018-03-21T02:25:00,6,1,google.com,Search,2
+2018-03-21T02:25:00,3,1,drive.google.com,General Business,2
+2018-03-21T02:30:00,165,1,wechat,General Social Networking,-2
+2018-03-21T02:30:00,135,1,messenger.com,General Social Networking,-2
+2018-03-21T02:35:00,260,1,messenger.com,General Social Networking,-2
+2018-03-21T02:35:00,36,1,wechat,General Social Networking,-2
+2018-03-21T02:35:00,2,1,facetime,Voice Chat,-2
+2018-03-21T02:35:00,1,1,mp.weixin.qq.com,Instant Message,-1
+2018-03-21T02:40:00,192,1,messenger.com,General Social Networking,-2
+2018-03-21T02:40:00,82,1,wechat,General Social Networking,-2
+2018-03-21T02:40:00,22,1,translate.google.com,Search,1
+2018-03-21T02:40:00,4,1,mp.weixin.qq.com,Instant Message,-1
+2018-03-21T02:45:00,130,1,messenger.com,General Social Networking,-2
+2018-03-21T02:50:00,31,1,translate.google.com,Search,1
+2018-03-21T02:50:00,2,1,messenger.com,General Social Networking,-2
+2018-03-21T02:55:00,72,1,translate.google.com,Search,1
+2018-03-21T02:55:00,4,1,wechat,General Social Networking,-2
+2018-03-21T15:05:00,21,1,photoshop cc,General Design & Composition,2
+2018-03-21T15:05:00,5,1,RescueTime,Intelligence,0
+2018-03-21T15:05:00,3,1,Finder,General Utilities,0
+2018-03-21T15:05:00,3,1,aam registration notifier,Uncategorized,0
+2018-03-21T15:10:00,58,1,photoshop cc,General Design & Composition,2
+2018-03-21T15:15:00,119,1,copytech-print.mit.edu,Presentation,2
+2018-03-21T15:15:00,72,1,photoshop cc,General Design & Composition,2
+2018-03-21T15:15:00,19,1,loginwindow,General Utilities,0
+2018-03-21T15:15:00,4,1,newtab,Browsers,0
+2018-03-21T15:15:00,4,1,copytech.mit.edu,Presentation,2
+2018-03-21T15:20:00,210,1,Google Documents,Writing,2
+2018-03-21T15:20:00,17,1,calendar,Calendars,1
+2018-03-21T15:20:00,14,1,copytech-print.mit.edu,Presentation,2
+2018-03-21T15:20:00,13,1,drive.google.com,General Business,2
+2018-03-21T15:20:00,7,1,newtab,Browsers,0
+2018-03-21T15:20:00,2,1,copytech.mit.edu,Presentation,2
+2018-03-21T15:25:00,90,1,Google Documents,Writing,2
+2018-03-21T15:25:00,19,1,loginwindow,General Utilities,0
+2018-03-21T15:35:00,20,1,Google Documents,Writing,2
+2018-03-21T15:40:00,300,1,Google Documents,Writing,2
+2018-03-21T15:45:00,140,1,Google Documents,Writing,2
+2018-03-21T15:45:00,19,1,loginwindow,General Utilities,0
+2018-03-21T15:45:00,15,1,thebeijinger.com,General News & Opinion,-2
+2018-03-21T15:45:00,5,1,newtab,Browsers,0
+2018-03-21T15:45:00,2,1,copytech-print.mit.edu,Presentation,2
+2018-03-21T15:45:00,1,1,drive.google.com,General Business,2
+2018-03-21T15:50:00,30,1,newtab,Browsers,0
+2018-03-21T15:50:00,2,1,thebeijinger.com,General News & Opinion,-2
+2018-03-21T15:55:00,167,1,physicsclassroom.com,General Reference & Learning,1
+2018-03-21T15:55:00,116,1,newtab,Browsers,0
+2018-03-21T15:55:00,17,1,google.com,Search,2
+2018-03-21T16:00:00,39,1,physicsclassroom.com,General Reference & Learning,1
+2018-03-21T16:05:00,118,1,thebeijinger.com,General News & Opinion,-2
+2018-03-21T16:05:00,82,1,photoshop cc,General Design & Composition,2
+2018-03-21T16:05:00,19,1,loginwindow,General Utilities,0
+2018-03-21T16:05:00,10,1,physicsclassroom.com,General Reference & Learning,1
+2018-03-21T16:05:00,1,1,Google Documents,Writing,2
+2018-03-21T16:30:00,96,1,loginwindow,General Utilities,0
+2018-03-21T16:30:00,57,1,photoshop cc,General Design & Composition,2
+2018-03-21T17:05:00,16,1,photoshop cc,General Design & Composition,2
+2018-03-21T17:10:00,115,1,map.baidu.com,Maps & Regional,-2
+2018-03-21T17:10:00,70,1,thebeijinger.com,General News & Opinion,-2
+2018-03-21T17:10:00,68,1,copytech-print.mit.edu,Presentation,2
+2018-03-21T17:10:00,4,1,newtab,Browsers,0
+2018-03-21T17:10:00,2,1,drive.google.com,General Business,2
+2018-03-21T17:10:00,2,1,physicsclassroom.com,General Reference & Learning,1
+2018-03-21T17:10:00,1,1,Google Documents,Writing,2
+2018-03-21T17:10:00,1,1,Finder,General Utilities,0
+2018-03-21T17:10:00,1,1,copytech.mit.edu,Presentation,2
+2018-03-21T17:15:00,97,1,whereis.mit.edu,General Reference & Learning,1
+2018-03-21T17:15:00,90,1,copytech-print.mit.edu,Presentation,2
+2018-03-21T17:15:00,32,1,photoshop cc,General Design & Composition,2
+2018-03-21T17:15:00,15,1,Mail,Email,2
+2018-03-21T17:15:00,9,1,Finder,General Utilities,0
+2018-03-21T17:15:00,7,1,whereis.mit,Uncategorized,0
+2018-03-21T17:15:00,6,1,newtab,Browsers,0
+2018-03-21T17:15:00,2,1,google.com,Search,2
+2018-03-21T17:20:00,214,1,messenger.com,General Social Networking,-2
+2018-03-21T17:20:00,79,1,drive.google.com,General Business,2
+2018-03-21T17:20:00,4,1,newtab,Browsers,0
+2018-03-21T17:20:00,1,1,whereis.mit.edu,General Reference & Learning,1
+2018-03-21T17:25:00,129,1,messenger.com,General Social Networking,-2
+2018-03-21T17:25:00,19,1,loginwindow,General Utilities,0
+2018-03-21T17:35:00,43,1,loginwindow,General Utilities,0
+2018-03-21T17:35:00,18,1,messenger.com,General Social Networking,-2
+2018-03-21T17:40:00,167,1,Notes,Email,0
+2018-03-21T17:40:00,124,1,map.baidu.com,Maps & Regional,-2
+2018-03-21T17:40:00,6,1,loginwindow,General Utilities,0
+2018-03-21T17:40:00,3,1,messenger.com,General Social Networking,-2
+2018-03-21T17:45:00,152,1,map.baidu.com,Maps & Regional,-2
+2018-03-21T17:45:00,107,1,facebook.com,General Social Networking,-2
+2018-03-21T17:45:00,21,1,google.com,Search,2
+2018-03-21T17:45:00,17,1,physicsclassroom.com,General Reference & Learning,1
+2018-03-21T17:45:00,3,1,newtab,Browsers,0
+2018-03-21T17:50:00,168,1,map.baidu.com,Maps & Regional,-2
+2018-03-21T17:50:00,55,1,facebook.com,General Social Networking,-2
+2018-03-21T17:50:00,26,1,photoshop cc,General Design & Composition,2
+2018-03-21T17:50:00,18,1,copytech-print.mit.edu,Presentation,2
+2018-03-21T17:50:00,17,1,tripadvisor.com,Travel & Outdoors,-2
+2018-03-21T17:50:00,16,1,residentadvisor.net,General Entertainment,-2
+2018-03-21T17:55:00,128,1,copytech-print.mit.edu,Presentation,2
+2018-03-21T17:55:00,79,1,thebeijinger.com,General News & Opinion,-2
+2018-03-21T17:55:00,36,1,photoshop cc,General Design & Composition,2
+2018-03-21T17:55:00,16,1,Mail,Email,2
+2018-03-21T17:55:00,16,1,messages,General Social Networking,-2
+2018-03-21T17:55:00,3,1,Google Documents,Writing,2
+2018-03-21T17:55:00,2,1,copytech.mit.edu,Presentation,2
+2018-03-21T17:55:00,1,1,drive.google.com,General Business,2
+2018-03-21T18:00:00,121,1,messages,General Social Networking,-2
+2018-03-21T18:00:00,94,1,thebeijinger.com,General News & Opinion,-2
+2018-03-21T18:00:00,49,1,Google Documents,Writing,2
+2018-03-21T18:00:00,22,1,9to5mac.com,General News & Opinion,-2
+2018-03-21T18:00:00,12,1,copytech.mit.edu,Presentation,2
+2018-03-21T18:00:00,1,1,drive.google.com,General Business,2
+2018-03-21T18:00:00,1,1,physicsclassroom.com,General Reference & Learning,1
+2018-03-21T18:05:00,84,1,9to5mac.com,General News & Opinion,-2
+2018-03-21T18:05:00,48,1,messenger.com,General Social Networking,-2
+2018-03-21T18:05:00,21,1,drive.google.com,General Business,2
+2018-03-21T18:05:00,20,1,loginwindow,General Utilities,0
+2018-03-21T18:05:00,4,1,Finder,General Utilities,0
+2018-03-21T18:05:00,2,1,physicsclassroom.com,General Reference & Learning,1
+2018-03-21T22:20:00,137,1,newtab,Browsers,0
+2018-03-21T22:20:00,40,1,Mail,Email,2
+2018-03-21T22:20:00,29,1,Preview,General Reference & Learning,2
+2018-03-21T22:20:00,28,1,iWork Numbers,General Business,2
+2018-03-21T22:20:00,13,1,Finder,General Utilities,0
+2018-03-21T22:20:00,6,1,wechat,General Social Networking,-2
+2018-03-21T22:20:00,1,1,RescueTime,Intelligence,0
+2018-03-21T22:25:00,134,1,wechat,General Social Networking,-2
+2018-03-21T22:25:00,35,1,newtab,Browsers,0
+2018-03-21T22:25:00,24,1,Preview,General Reference & Learning,2
+2018-03-21T22:25:00,22,1,messenger.com,General Social Networking,-2
+2018-03-21T22:25:00,10,1,iWork Numbers,General Business,2
+2018-03-21T22:25:00,10,1,microsoft autoupdate,General Utilities,1
+2018-03-21T22:25:00,9,1,microsoft word,Writing,2
+2018-03-21T22:25:00,3,1,Mail,Email,2
+2018-03-21T22:25:00,2,1,usernotificationcenter,General Utilities,0
+2018-03-21T22:30:00,150,1,wechat,General Social Networking,-2
+2018-03-21T22:30:00,61,1,google.com,Search,2
+2018-03-21T22:30:00,51,1,Mail,Email,2
+2018-03-21T22:30:00,19,1,tournamentsoftware.com,General Entertainment,-2
+2018-03-21T22:30:00,11,1,newtab,Browsers,0
+2018-03-21T22:30:00,7,1,messages,General Social Networking,-2
+2018-03-21T22:35:00,167,1,google.com,Search,2
+2018-03-21T22:35:00,72,1,wechat,General Social Networking,-2
+2018-03-21T22:35:00,27,1,facetime,Voice Chat,-2
+2018-03-21T22:35:00,16,1,Mail,Email,2
+2018-03-21T22:35:00,7,1,messenger.com,General Social Networking,-2
+2018-03-21T22:35:00,4,1,messages,General Social Networking,-2
+2018-03-21T22:35:00,3,1,newtab,Browsers,0
+2018-03-21T22:35:00,2,1,tournamentsoftware.com,General Entertainment,-2
+2018-03-21T22:40:00,140,1,wechat,General Social Networking,-2
+2018-03-21T22:40:00,79,1,google.com,Search,2
+2018-03-21T22:40:00,62,1,booking.wowair.com,Uncategorized,0
+2018-03-21T22:40:00,16,1,calendar,Calendars,1
+2018-03-21T22:40:00,1,1,messages,General Social Networking,-2
+2018-03-21T22:40:00,1,1,booking.wowair.us,Uncategorized,0
+2018-03-21T22:45:00,184,1,wechat,General Social Networking,-2
+2018-03-21T22:45:00,52,1,booking.wowair.com,Uncategorized,0
+2018-03-21T22:45:00,31,1,mp.weixin.qq.com,Instant Message,-1
+2018-03-21T22:45:00,15,1,messages,General Social Networking,-2
+2018-03-21T22:45:00,12,1,Mail,Email,2
+2018-03-21T22:45:00,6,1,newtab,Browsers,0
+2018-03-21T22:50:00,142,1,booking.wowair.com,Uncategorized,0
+2018-03-21T22:50:00,48,1,Preview,General Reference & Learning,2
+2018-03-21T22:50:00,31,1,facetime,Voice Chat,-2
+2018-03-21T22:50:00,29,1,messages,General Social Networking,-2
+2018-03-21T22:50:00,20,1,wechat,General Social Networking,-2
+2018-03-21T22:50:00,15,1,messenger.com,General Social Networking,-2
+2018-03-21T22:50:00,10,1,google.com,Search,2
+2018-03-21T22:50:00,5,1,newtab,Browsers,0
+2018-03-21T22:55:00,80,1,google.com,Search,2
+2018-03-21T22:55:00,54,1,northernlightsiceland.com,Uncategorized,0
+2018-03-21T22:55:00,51,1,wechat,General Social Networking,-2
+2018-03-21T22:55:00,45,1,Mail,Email,2
+2018-03-21T22:55:00,28,1,tripadvisor.com,Travel & Outdoors,-2
+2018-03-21T22:55:00,26,1,messenger.com,General Social Networking,-2
+2018-03-21T22:55:00,13,1,newtab,Browsers,0
+2018-03-21T22:55:00,2,1,facetime,Voice Chat,-2
+2018-03-21T23:00:00,102,1,wechat,General Social Networking,-2
+2018-03-21T23:00:00,98,1,Mail,Email,2
+2018-03-21T23:00:00,59,1,google.com,Search,2
+2018-03-21T23:00:00,30,1,messenger.com,General Social Networking,-2
+2018-03-21T23:00:00,5,1,tournamentsoftware.com,General Entertainment,-2
+2018-03-21T23:00:00,4,1,microsoft word,Writing,2
+2018-03-21T23:00:00,2,1,Preview,General Reference & Learning,2
+2018-03-21T23:05:00,99,1,wechat,General Social Networking,-2
+2018-03-21T23:05:00,88,1,messenger.com,General Social Networking,-2
+2018-03-21T23:05:00,57,1,booking.wowair.com,Uncategorized,0
+2018-03-21T23:05:00,32,1,tripadvisor.com,Travel & Outdoors,-2
+2018-03-21T23:05:00,13,1,Finder,General Utilities,0
+2018-03-21T23:05:00,6,1,google.com,Search,2
+2018-03-21T23:05:00,5,1,newtab,Browsers,0
+2018-03-21T23:10:00,263,1,wechat,General Social Networking,-2
+2018-03-21T23:10:00,33,1,messenger.com,General Social Networking,-2
+2018-03-21T23:10:00,3,1,microsoft autoupdate,General Utilities,1
+2018-03-21T23:10:00,1,1,google.com,Search,2
+2018-03-21T23:15:00,102,1,messenger.com,General Social Networking,-2
+2018-03-21T23:15:00,72,1,united.com,Travel & Outdoors,-2
+2018-03-21T23:15:00,55,1,google.com,Search,2
+2018-03-21T23:15:00,54,1,wechat,General Social Networking,-2
+2018-03-21T23:15:00,7,1,newtab,Browsers,0
+2018-03-21T23:15:00,6,1,messages,General Social Networking,-2
+2018-03-21T23:15:00,2,1,booking.wowair.com,Uncategorized,0
+2018-03-21T23:15:00,2,1,microsoft autoupdate,General Utilities,1
+2018-03-21T23:20:00,196,1,hotels.united.com,Travel & Outdoors,-2
+2018-03-21T23:20:00,44,1,united.com,Travel & Outdoors,-2
+2018-03-21T23:20:00,29,1,tripadvisor.com,Travel & Outdoors,-2
+2018-03-21T23:20:00,15,1,wechat,General Social Networking,-2
+2018-03-21T23:20:00,12,1,google.com,Search,2
+2018-03-21T23:20:00,3,1,newtab,Browsers,0
+2018-03-21T23:25:00,144,1,messenger.com,General Social Networking,-2
+2018-03-21T23:25:00,80,1,hotels.united.com,Travel & Outdoors,-2
+2018-03-21T23:25:00,71,1,tripadvisor.com,Travel & Outdoors,-2
+2018-03-21T23:25:00,2,1,controlpanel,General Utilities,1
+2018-03-21T23:25:00,2,1,java updater,General Utilities,1
+2018-03-21T23:30:00,191,1,messenger.com,General Social Networking,-2
+2018-03-21T23:30:00,38,1,wechat,General Social Networking,-2
+2018-03-21T23:30:00,32,1,hotels.united.com,Travel & Outdoors,-2
+2018-03-21T23:30:00,31,1,Mail,Email,2
+2018-03-21T23:30:00,5,1,tripadvisor.com,Travel & Outdoors,-2
+2018-03-21T23:30:00,2,1,newtab,Browsers,0
+2018-03-21T23:30:00,1,1,google.com,Search,2
+2018-03-21T23:35:00,231,1,messenger.com,General Social Networking,-2
+2018-03-21T23:35:00,43,1,wechat,General Social Networking,-2
+2018-03-21T23:35:00,15,1,google.com,Search,2
+2018-03-21T23:35:00,11,1,bbb.org,Search,0
+2018-03-21T23:40:00,149,1,Finder,General Utilities,0
+2018-03-21T23:40:00,139,1,messenger.com,General Social Networking,-2
+2018-03-21T23:40:00,12,1,wechat,General Social Networking,-2
+2018-03-21T23:45:00,186,1,bostonstartupsguide.com,General Reference & Learning,1
+2018-03-21T23:45:00,47,1,cic.com,Uncategorized,0
+2018-03-21T23:45:00,37,1,Finder,General Utilities,0
+2018-03-21T23:45:00,18,1,google.com,Search,2
+2018-03-21T23:45:00,7,1,wechat,General Social Networking,-2
+2018-03-21T23:45:00,5,1,messenger.com,General Social Networking,-2
+2018-03-21T23:50:00,222,1,bostonstartupsguide.com,General Reference & Learning,1
+2018-03-21T23:50:00,50,1,suvie.com,Uncategorized,0
+2018-03-21T23:50:00,16,1,civiqsmartscapes.com,Uncategorized,0
+2018-03-21T23:50:00,12,1,Mail,Email,2
+2018-03-21T23:55:00,55,1,sheswanderful.com,Uncategorized,0
+2018-03-21T23:55:00,34,1,wisertogether.com,Uncategorized,0
+2018-03-21T23:55:00,31,1,piaggiofastforward.com,Uncategorized,0
+2018-03-21T23:55:00,24,1,getrocketbook.com,Uncategorized,0
+2018-03-21T23:55:00,20,1,american-robotics.com,Uncategorized,0
+2018-03-21T23:55:00,18,1,gamalon.com,Uncategorized,0
+2018-03-21T23:55:00,17,1,knowmail.me,Uncategorized,0
+2018-03-21T23:55:00,16,1,celect.com,Uncategorized,0
+2018-03-21T23:55:00,14,1,humanyze.com,Uncategorized,0
+2018-03-21T23:55:00,12,1,squarerobots.com,Uncategorized,0
+2018-03-21T23:55:00,10,1,boards.greenhouse.io,Administration,2
+2018-03-21T23:55:00,9,1,honeycommb.com,Uncategorized,0
+2018-03-21T23:55:00,8,1,hire.withgoogle.com,Uncategorized,0
+2018-03-21T23:55:00,7,1,proximie.com,Uncategorized,0
+2018-03-21T23:55:00,6,1,Mail,Email,2
+2018-03-21T23:55:00,6,1,humanyze.bamboohr.com,General Business,2
+2018-03-21T23:55:00,5,1,suvie.com,Uncategorized,0
+2018-03-21T23:55:00,4,1,info.getrocketbook.com,Uncategorized,0
+2018-03-21T23:55:00,4,1,wasabi.com,Uncategorized,0

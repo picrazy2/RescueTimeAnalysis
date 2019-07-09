@@ -1,0 +1,128 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2014-10-18T01:15:00,46,1,usernotificationcenter,General Utilities,0
+2014-10-18T02:15:00,4,1,Skype,General Social Networking,-2
+2014-10-18T02:20:00,46,1,usernotificationcenter,General Utilities,0
+2014-10-18T02:20:00,2,1,Skype,General Social Networking,-2
+2014-10-18T03:20:00,49,1,usernotificationcenter,General Utilities,0
+2014-10-18T03:20:00,6,1,Skype,General Social Networking,-2
+2014-10-18T07:05:00,5,1,Finder,General Utilities,0
+2014-10-18T07:05:00,1,1,loginwindow,General Utilities,0
+2014-10-18T07:10:00,19,1,deerfield.edu,General Reference & Learning,1
+2014-10-18T07:10:00,15,1,applications,General Business,2
+2014-10-18T07:10:00,6,1,youtube.com,Video,-2
+2014-10-18T07:15:00,300,1,deerfield.edu,General Reference & Learning,1
+2014-10-18T07:20:00,134,1,deerfield.edu,General Reference & Learning,1
+2014-10-18T11:25:00,166,1,deerfield.edu,General Reference & Learning,1
+2014-10-18T11:25:00,5,1,loginwindow,General Utilities,0
+2014-10-18T11:30:00,191,1,deerfield.edu,General Reference & Learning,1
+2014-10-18T11:30:00,106,1,Skype,General Social Networking,-2
+2014-10-18T11:30:00,2,1,mathtype,Engineering & Technology,1
+2014-10-18T11:30:00,1,1,google.com,Search,2
+2014-10-18T11:35:00,264,1,Skype,General Social Networking,-2
+2014-10-18T11:35:00,36,1,deerfield.edu,General Reference & Learning,1
+2014-10-18T11:40:00,270,1,Skype,General Social Networking,-2
+2014-10-18T11:40:00,28,1,deerfield.edu,General Reference & Learning,1
+2014-10-18T11:40:00,2,1,pages,Presentation,2
+2014-10-18T11:45:00,271,1,Skype,General Social Networking,-2
+2014-10-18T11:45:00,21,1,facebook.com,General Social Networking,-2
+2014-10-18T11:45:00,5,1,deerfield.edu,General Reference & Learning,1
+2014-10-18T11:50:00,106,1,Skype,General Social Networking,-2
+2014-10-18T11:50:00,98,1,youtube.com,Video,-2
+2014-10-18T11:50:00,89,1,facebook.com,General Social Networking,-2
+2014-10-18T11:50:00,2,1,Safari,Browsers,2
+2014-10-18T11:55:00,210,1,Skype,General Social Networking,-2
+2014-10-18T11:55:00,76,1,facebook.com,General Social Networking,-2
+2014-10-18T11:55:00,9,1,pages,Presentation,2
+2014-10-18T11:55:00,2,1,Finder,General Utilities,0
+2014-10-18T12:00:00,188,1,collegehumor.com,Comedy,-2
+2014-10-18T12:00:00,80,1,Skype,General Social Networking,-2
+2014-10-18T12:00:00,26,1,facebook.com,General Social Networking,-2
+2014-10-18T12:00:00,2,1,Safari,Browsers,2
+2014-10-18T12:05:00,191,1,Skype,General Social Networking,-2
+2014-10-18T12:05:00,107,1,collegehumor.com,Comedy,-2
+2014-10-18T12:10:00,152,1,collegehumor.com,Comedy,-2
+2014-10-18T12:10:00,26,1,loginwindow,General Utilities,0
+2014-10-18T12:40:00,133,1,pages,Presentation,2
+2014-10-18T12:40:00,6,1,Skype,General Social Networking,-2
+2014-10-18T12:40:00,5,1,collegehumor.com,Comedy,-2
+2014-10-18T12:40:00,2,1,facebook.com,General Social Networking,-2
+2014-10-18T12:40:00,1,1,google.com,Search,2
+2014-10-18T12:45:00,25,1,pages,Presentation,2
+2014-10-18T13:25:00,219,1,MS Excel,General Business,2
+2014-10-18T13:25:00,38,1,clashofclans.wikia.com,Games,-2
+2014-10-18T13:25:00,7,1,web.archive.org,Search,0
+2014-10-18T13:30:00,300,1,MS Excel,General Business,2
+2014-10-18T13:35:00,300,1,MS Excel,General Business,2
+2014-10-18T13:40:00,182,1,artofproblemsolving.com,Engineering & Technology,2
+2014-10-18T13:40:00,109,1,MS Excel,General Business,2
+2014-10-18T13:40:00,4,1,clashofclans.wikia.com,Games,-2
+2014-10-18T13:40:00,3,1,Finder,General Utilities,0
+2014-10-18T13:40:00,2,1,dainfo.deerfield.edu,General Reference & Learning,1
+2014-10-18T13:45:00,282,1,artofproblemsolving.com,Engineering & Technology,2
+2014-10-18T13:45:00,11,1,Dropbox,File Sharing,-2
+2014-10-18T13:45:00,7,1,Finder,General Utilities,0
+2014-10-18T13:50:00,300,1,artofproblemsolving.com,Engineering & Technology,2
+2014-10-18T13:55:00,124,1,artofproblemsolving.com,Engineering & Technology,2
+2014-10-18T14:35:00,23,1,Finder,General Utilities,0
+2014-10-18T21:50:00,18,1,Skype,General Social Networking,-2
+2014-10-18T21:50:00,4,1,app store,General Shopping,-2
+2014-10-18T21:55:00,122,1,Skype,General Social Networking,-2
+2014-10-18T21:55:00,50,1,facebook.com,General Social Networking,-2
+2014-10-18T21:55:00,19,1,dose.com,General Entertainment,-2
+2014-10-18T21:55:00,5,1,app store,General Shopping,-2
+2014-10-18T21:55:00,4,1,youtube.com,Video,-2
+2014-10-18T21:55:00,3,1,Safari,Browsers,2
+2014-10-18T21:55:00,2,1,clashofclans.wikia.com,Games,-2
+2014-10-18T22:00:00,196,1,facebook.com,General Social Networking,-2
+2014-10-18T22:00:00,67,1,Skype,General Social Networking,-2
+2014-10-18T22:00:00,21,1,dose.com,General Entertainment,-2
+2014-10-18T22:00:00,11,1,collegeboard.org,General Reference & Learning,1
+2014-10-18T22:00:00,1,1,clashofclans.wikia.com,Games,-2
+2014-10-18T22:05:00,288,1,Skype,General Social Networking,-2
+2014-10-18T22:05:00,12,1,facebook.com,General Social Networking,-2
+2014-10-18T22:10:00,215,1,Skype,General Social Networking,-2
+2014-10-18T22:10:00,47,1,facebook.com,General Social Networking,-2
+2014-10-18T22:10:00,38,1,apple.com,Engineering & Technology,-1
+2014-10-18T22:15:00,268,1,Skype,General Social Networking,-2
+2014-10-18T22:15:00,28,1,apple.com,Engineering & Technology,-1
+2014-10-18T22:15:00,2,1,dose.com,General Entertainment,-2
+2014-10-18T22:15:00,2,1,facebook.com,General Social Networking,-2
+2014-10-18T22:20:00,285,1,apple.com,Engineering & Technology,-1
+2014-10-18T22:20:00,9,1,Skype,General Social Networking,-2
+2014-10-18T22:20:00,2,1,facebook.com,General Social Networking,-2
+2014-10-18T22:20:00,1,1,dose.com,General Entertainment,-2
+2014-10-18T22:20:00,1,1,Safari,Browsers,2
+2014-10-18T22:25:00,152,1,Mail,Email,2
+2014-10-18T22:25:00,136,1,apple.com,Engineering & Technology,-1
+2014-10-18T22:25:00,11,1,facebook.com,General Social Networking,-2
+2014-10-18T22:25:00,1,1,dose.com,General Entertainment,-2
+2014-10-18T22:30:00,224,1,Mail,Email,2
+2014-10-18T22:30:00,49,1,apple.com,Engineering & Technology,-1
+2014-10-18T22:30:00,12,1,collegeboard.org,General Reference & Learning,1
+2014-10-18T22:30:00,6,1,dose.com,General Entertainment,-2
+2014-10-18T22:30:00,4,1,amazon.com,General Shopping,-1
+2014-10-18T22:30:00,2,1,Skype,General Social Networking,-2
+2014-10-18T22:35:00,245,1,amazon.com,General Shopping,-1
+2014-10-18T22:35:00,30,1,Skype,General Social Networking,-2
+2014-10-18T22:35:00,20,1,apple.com,Engineering & Technology,-1
+2014-10-18T22:35:00,3,1,dose.com,General Entertainment,-2
+2014-10-18T22:35:00,2,1,clashofclans.wikia.com,Games,-2
+2014-10-18T22:40:00,193,1,Skype,General Social Networking,-2
+2014-10-18T22:40:00,74,1,mactracker,Search,-2
+2014-10-18T22:40:00,11,1,Safari,Browsers,2
+2014-10-18T22:40:00,10,1,amazon.com,General Shopping,-1
+2014-10-18T22:40:00,4,1,google.com,Search,2
+2014-10-18T22:40:00,3,1,apple.com,Engineering & Technology,-1
+2014-10-18T22:40:00,1,1,artofproblemsolving.com,Engineering & Technology,2
+2014-10-18T22:45:00,181,1,store.apple.com,Electronics,-2
+2014-10-18T22:45:00,80,1,apple.com,Engineering & Technology,-1
+2014-10-18T22:45:00,15,1,Skype,General Social Networking,-2
+2014-10-18T22:45:00,10,1,amazon.com,General Shopping,-1
+2014-10-18T22:45:00,9,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-10-18T22:45:00,2,1,artofproblemsolving.com,Engineering & Technology,2
+2014-10-18T22:45:00,1,1,dainfo.deerfield.edu,General Reference & Learning,1
+2014-10-18T22:50:00,286,1,apple.com,Engineering & Technology,-1
+2014-10-18T22:50:00,9,1,Skype,General Social Networking,-2
+2014-10-18T22:50:00,2,1,store.apple.com,Electronics,-2
+2014-10-18T22:50:00,2,1,Finder,General Utilities,0
+2014-10-18T22:55:00,33,1,Skype,General Social Networking,-2

@@ -1,0 +1,44 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2015-02-06T11:00:00,166,1,amazon.com,General Shopping,-1
+2015-02-06T11:00:00,19,1,artofproblemsolving.com,Engineering & Technology,2
+2015-02-06T11:00:00,6,1,Mail,Email,2
+2015-02-06T11:00:00,1,1,Safari,Browsers,2
+2015-02-06T11:05:00,257,1,amazon.com,General Shopping,-1
+2015-02-06T11:05:00,35,1,adobe flash player install manager,General Utilities,1
+2015-02-06T11:05:00,4,1,rescuetime.com,Intelligence,0
+2015-02-06T11:10:00,300,1,amazon.com,General Shopping,-1
+2015-02-06T11:15:00,300,1,amazon.com,General Shopping,-1
+2015-02-06T11:20:00,15,1,amazon.com,General Shopping,-1
+2015-02-06T11:25:00,130,1,amazon.com,General Shopping,-1
+2015-02-06T11:25:00,34,1,google.com,Search,2
+2015-02-06T11:25:00,20,1,apple.com,Engineering & Technology,-1
+2015-02-06T11:25:00,15,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-06T11:30:00,203,1,amazon.com,General Shopping,-1
+2015-02-06T11:30:00,53,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-06T11:30:00,28,1,nintendo.com,Games,-2
+2015-02-06T11:30:00,6,1,google.com,Search,2
+2015-02-06T11:30:00,4,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-02-06T11:30:00,2,1,apple.com,Engineering & Technology,-1
+2015-02-06T11:35:00,136,1,amazon.com,General Shopping,-1
+2015-02-06T11:35:00,104,1,apple.com,Engineering & Technology,-1
+2015-02-06T11:35:00,22,1,Safari,Browsers,2
+2015-02-06T11:35:00,22,1,nintendo.com,Games,-2
+2015-02-06T11:35:00,15,1,store.apple.com,Electronics,-2
+2015-02-06T11:40:00,110,1,drive.google.com,General Business,2
+2015-02-06T11:40:00,77,1,Mail,Email,2
+2015-02-06T11:40:00,60,1,store.apple.com,Electronics,-2
+2015-02-06T11:40:00,29,1,google chrome,Browsers,0
+2015-02-06T11:40:00,7,1,amazon.com,General Shopping,-1
+2015-02-06T11:40:00,6,1,Safari,Browsers,2
+2015-02-06T11:40:00,3,1,auth.deerfield.edu,General Reference & Learning,1
+2015-02-06T11:40:00,3,1,accounts.google.com,General Communication & Scheduling,0
+2015-02-06T11:40:00,2,1,google.com,Search,2
+2015-02-06T11:40:00,2,1,Finder,General Utilities,0
+2015-02-06T11:45:00,157,1,makeuseof.com,General News & Opinion,-2
+2015-02-06T11:45:00,70,1,bustle.com,General News & Opinion,-2
+2015-02-06T11:45:00,27,1,Mail,Email,2
+2015-02-06T11:45:00,16,1,drive.google.com,General Business,2
+2015-02-06T11:45:00,15,1,google.com,Search,2
+2015-02-06T11:45:00,11,1,store.apple.com,Electronics,-2
+2015-02-06T11:45:00,3,1,loginwindow,General Utilities,0
+2015-02-06T11:50:00,16,1,loginwindow,General Utilities,0

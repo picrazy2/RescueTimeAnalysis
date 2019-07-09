@@ -1,0 +1,355 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2016-11-30T00:00:00,122,1,isb.bj.edu.cn,General Reference & Learning,1
+2016-11-30T00:00:00,73,1,facebook.com,General Social Networking,-2
+2016-11-30T00:00:00,38,1,isbalumninetwork.com,Uncategorized,0
+2016-11-30T00:00:00,37,1,wechat,General Social Networking,-2
+2016-11-30T00:00:00,18,1,messages,General Social Networking,-2
+2016-11-30T00:00:00,8,1,Preview,General Reference & Learning,2
+2016-11-30T00:00:00,2,1,usernotificationcenter,General Utilities,0
+2016-11-30T00:00:00,2,1,Safari,Browsers,2
+2016-11-30T00:05:00,144,1,Mail,Email,2
+2016-11-30T00:05:00,101,1,isb.bj.edu.cn,General Reference & Learning,1
+2016-11-30T00:05:00,37,1,microsoft word,Writing,2
+2016-11-30T00:05:00,16,1,facebook.com,General Social Networking,-2
+2016-11-30T00:10:00,154,1,Mail,Email,2
+2016-11-30T00:10:00,58,1,microsoft word,Writing,2
+2016-11-30T00:10:00,53,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T00:10:00,28,1,messages,General Social Networking,-2
+2016-11-30T00:10:00,4,1,facebook.com,General Social Networking,-2
+2016-11-30T00:10:00,2,1,Finder,General Utilities,0
+2016-11-30T00:10:00,1,1,engineering.columbia.edu,General Reference & Learning,1
+2016-11-30T00:15:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T00:20:00,298,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T00:20:00,1,1,bulletin.columbia.edu,General Reference & Learning,1
+2016-11-30T00:20:00,1,1,engineering.columbia.edu,General Reference & Learning,1
+2016-11-30T00:25:00,294,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T00:25:00,3,1,google.com,Search,2
+2016-11-30T00:25:00,3,1,usernotificationcenter,General Utilities,0
+2016-11-30T00:30:00,286,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T00:30:00,7,1,baike.baidu.com,Search,0
+2016-11-30T00:30:00,6,1,bulletin.columbia.edu,General Reference & Learning,1
+2016-11-30T00:35:00,299,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T00:40:00,297,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T00:40:00,3,1,usernotificationcenter,General Utilities,0
+2016-11-30T00:45:00,297,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T00:45:00,3,1,nytimes.com,General News & Opinion,-2
+2016-11-30T00:50:00,144,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T00:50:00,69,1,beijingif.com,Uncategorized,0
+2016-11-30T00:50:00,53,1,gaoloumi.com,Regional,-2
+2016-11-30T00:55:00,260,1,gaoloumi.com,Regional,-2
+2016-11-30T00:55:00,31,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T00:55:00,6,1,messages,General Social Networking,-2
+2016-11-30T00:55:00,1,1,usernotificationcenter,General Utilities,0
+2016-11-30T01:00:00,167,1,gaoloumi.com,Regional,-2
+2016-11-30T08:45:00,118,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T08:45:00,49,1,tools.wmflabs.org,Uncategorized,0
+2016-11-30T08:45:00,22,1,microsoft word,Writing,2
+2016-11-30T08:45:00,7,1,google.com,Search,2
+2016-11-30T08:50:00,177,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T08:50:00,115,1,rescuetime.com,Intelligence,0
+2016-11-30T08:50:00,3,1,google.com,Search,2
+2016-11-30T08:50:00,3,1,tools.wmflabs.org,Uncategorized,0
+2016-11-30T08:55:00,198,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T08:55:00,102,1,rescuetime.com,Intelligence,0
+2016-11-30T09:00:00,277,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T09:00:00,21,1,google.com,Search,2
+2016-11-30T09:00:00,2,1,rescuetime.com,Intelligence,0
+2016-11-30T09:05:00,298,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T09:05:00,2,1,rescuetime.com,Intelligence,0
+2016-11-30T09:10:00,298,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T09:10:00,1,1,rescuetime.com,Intelligence,0
+2016-11-30T09:15:00,218,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T09:15:00,82,1,keychain access,Systems Operations,2
+2016-11-30T09:20:00,263,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T09:20:00,14,1,google.com,Search,2
+2016-11-30T09:20:00,14,1,startupgrind.com,Uncategorized,0
+2016-11-30T09:20:00,8,1,rescuetime.com,Intelligence,0
+2016-11-30T09:25:00,111,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T09:25:00,17,1,loginwindow,General Utilities,0
+2016-11-30T09:25:00,8,1,startupgrind.com,Uncategorized,0
+2016-11-30T10:40:00,55,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T10:40:00,17,1,loginwindow,General Utilities,0
+2016-11-30T15:05:00,54,1,messages,General Social Networking,-2
+2016-11-30T15:05:00,47,1,gaoloumi.com,Regional,-2
+2016-11-30T15:05:00,44,1,wechat,General Social Networking,-2
+2016-11-30T15:05:00,15,1,facebook.com,General Social Networking,-2
+2016-11-30T15:05:00,13,1,loginwindow,General Utilities,0
+2016-11-30T15:05:00,3,1,applications,General Business,2
+2016-11-30T15:10:00,232,1,messages,General Social Networking,-2
+2016-11-30T15:10:00,57,1,gaoloumi.com,Regional,-2
+2016-11-30T15:10:00,6,1,facebook.com,General Social Networking,-2
+2016-11-30T15:10:00,4,1,wechat,General Social Networking,-2
+2016-11-30T15:15:00,100,1,9to5mac.com,General News & Opinion,-2
+2016-11-30T15:15:00,79,1,Preview,General Reference & Learning,2
+2016-11-30T15:15:00,65,1,gaoloumi.com,Regional,-2
+2016-11-30T15:15:00,51,1,messages,General Social Networking,-2
+2016-11-30T15:15:00,2,1,engineering.columbia.edu,General Reference & Learning,1
+2016-11-30T15:15:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T15:20:00,299,1,9to5mac.com,General News & Opinion,-2
+2016-11-30T15:25:00,300,1,9to5mac.com,General News & Opinion,-2
+2016-11-30T15:25:00,198,1,System Preferences,General Utilities,0
+2016-11-30T15:25:00,15,1,Finder,General Utilities,0
+2016-11-30T15:25:00,8,1,loginwindow,General Utilities,0
+2016-11-30T15:25:00,8,1,touchswitcher,Uncategorized,0
+2016-11-30T15:25:00,8,1,wechat,General Social Networking,-2
+2016-11-30T15:30:00,201,1,9to5mac.com,General News & Opinion,-2
+2016-11-30T15:30:00,98,1,System Preferences,General Utilities,0
+2016-11-30T15:30:00,90,1,Preview,General Reference & Learning,2
+2016-11-30T15:30:00,61,1,Mail,Email,2
+2016-11-30T15:30:00,9,1,messages,General Social Networking,-2
+2016-11-30T15:30:00,3,1,loginwindow,General Utilities,0
+2016-11-30T15:35:00,172,1,facebook.com,General Social Networking,-2
+2016-11-30T15:35:00,91,1,Preview,General Reference & Learning,2
+2016-11-30T15:35:00,19,1,youtube.com,Video,-2
+2016-11-30T15:35:00,13,1,messages,General Social Networking,-2
+2016-11-30T15:35:00,9,1,Mail,Email,2
+2016-11-30T15:35:00,2,1,Safari,Browsers,2
+2016-11-30T15:35:00,2,1,9to5mac.com,General News & Opinion,-2
+2016-11-30T15:40:00,281,1,Mail,Email,2
+2016-11-30T15:40:00,219,1,messages,General Social Networking,-2
+2016-11-30T15:40:00,81,1,facebook.com,General Social Networking,-2
+2016-11-30T15:40:00,16,1,System Preferences,General Utilities,0
+2016-11-30T15:45:00,254,1,messages,General Social Networking,-2
+2016-11-30T15:45:00,228,1,Mail,Email,2
+2016-11-30T15:45:00,24,1,wechat,General Social Networking,-2
+2016-11-30T15:45:00,23,1,drive.google.com,General Business,2
+2016-11-30T15:45:00,23,1,facebook.com,General Social Networking,-2
+2016-11-30T15:45:00,8,1,auth.deerfield.edu,General Reference & Learning,1
+2016-11-30T15:45:00,2,1,google.com,Search,2
+2016-11-30T15:50:00,398,1,messages,General Social Networking,-2
+2016-11-30T15:50:00,178,1,Mail,Email,2
+2016-11-30T15:50:00,21,1,microsoft word,Writing,2
+2016-11-30T15:50:00,2,1,Preview,General Reference & Learning,2
+2016-11-30T15:55:00,309,1,messages,General Social Networking,-2
+2016-11-30T15:55:00,197,1,Mail,Email,2
+2016-11-30T15:55:00,42,1,microsoft word,Writing,2
+2016-11-30T15:55:00,16,1,loginwindow,General Utilities,0
+2016-11-30T16:00:00,235,1,messages,General Social Networking,-2
+2016-11-30T16:00:00,55,1,facebook.com,General Social Networking,-2
+2016-11-30T16:00:00,10,1,microsoft word,Writing,2
+2016-11-30T16:05:00,49,1,facebook.com,General Social Networking,-2
+2016-11-30T16:05:00,4,1,messages,General Social Networking,-2
+2016-11-30T16:10:00,38,1,facebook.com,General Social Networking,-2
+2016-11-30T16:25:00,21,1,messages,General Social Networking,-2
+2016-11-30T16:30:00,17,1,loginwindow,General Utilities,0
+2016-11-30T16:30:00,14,1,Finder,General Utilities,0
+2016-11-30T16:30:00,3,1,messages,General Social Networking,-2
+2016-11-30T16:55:00,27,1,Finder,General Utilities,0
+2016-11-30T16:55:00,7,1,messages,General Social Networking,-2
+2016-11-30T17:00:00,94,1,microsoft onenote,Intelligence,2
+2016-11-30T17:00:00,69,1,photos,Photos,0
+2016-11-30T17:00:00,38,1,System Preferences,General Utilities,0
+2016-11-30T17:00:00,36,1,Finder,General Utilities,0
+2016-11-30T17:00:00,18,1,9to5mac.com,General News & Opinion,-2
+2016-11-30T17:00:00,16,1,messages,General Social Networking,-2
+2016-11-30T17:00:00,12,1,Preview,General Reference & Learning,2
+2016-11-30T17:00:00,5,1,admissions.universityofcalifornia.edu,General Reference & Learning,2
+2016-11-30T17:00:00,5,1,Safari,Browsers,2
+2016-11-30T17:00:00,4,1,google.com,Search,2
+2016-11-30T17:00:00,1,1,english.gov.cn,Legal & Gov't,1
+2016-11-30T17:05:00,162,1,media.wix.com,Intelligence,2
+2016-11-30T17:05:00,38,1,messenger,General Social Networking,-2
+2016-11-30T17:05:00,36,1,microsoft onenote,Intelligence,2
+2016-11-30T17:05:00,20,1,Mail,Email,2
+2016-11-30T17:05:00,17,1,Safari,Browsers,2
+2016-11-30T17:05:00,17,1,massftc.org,Uncategorized,0
+2016-11-30T17:05:00,5,1,9to5mac.com,General News & Opinion,-2
+2016-11-30T17:05:00,2,1,messages,General Social Networking,-2
+2016-11-30T17:10:00,80,1,media.wix.com,Intelligence,2
+2016-11-30T17:10:00,16,1,loginwindow,General Utilities,0
+2016-11-30T17:15:00,35,1,drive.google.com,General Business,2
+2016-11-30T17:15:00,18,1,facebook.com,General Social Networking,-2
+2016-11-30T17:15:00,13,1,Mail,Email,2
+2016-11-30T17:15:00,9,1,accounts.google.com,General Communication & Scheduling,0
+2016-11-30T17:15:00,6,1,messenger,General Social Networking,-2
+2016-11-30T17:15:00,6,1,media.wix.com,Intelligence,2
+2016-11-30T17:15:00,5,1,massftc.org,Uncategorized,0
+2016-11-30T17:15:00,4,1,Safari,Browsers,2
+2016-11-30T17:15:00,3,1,auth.deerfield.edu,General Reference & Learning,1
+2016-11-30T17:15:00,2,1,wechat,General Social Networking,-2
+2016-11-30T17:15:00,1,1,messages,General Social Networking,-2
+2016-11-30T17:20:00,241,1,Google Documents,Writing,2
+2016-11-30T17:20:00,34,1,Mail,Email,2
+2016-11-30T17:20:00,18,1,mail.deerfield.edu,General Reference & Learning,1
+2016-11-30T17:20:00,3,1,media.wix.com,Intelligence,2
+2016-11-30T17:20:00,1,1,Safari,Browsers,2
+2016-11-30T17:20:00,1,1,drive.google.com,General Business,2
+2016-11-30T17:25:00,251,1,Google Documents,Writing,2
+2016-11-30T17:25:00,37,1,messenger,General Social Networking,-2
+2016-11-30T17:25:00,6,1,Safari,Browsers,2
+2016-11-30T17:25:00,2,1,massftc.org,Uncategorized,0
+2016-11-30T17:25:00,2,1,media.wix.com,Intelligence,2
+2016-11-30T17:25:00,1,1,drive.google.com,General Business,2
+2016-11-30T17:25:00,1,1,beijingif.com,Uncategorized,0
+2016-11-30T17:30:00,262,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T17:30:00,12,1,wikidata.org,General Reference & Learning,1
+2016-11-30T17:30:00,11,1,google.com,Search,2
+2016-11-30T17:30:00,8,1,Safari,Browsers,2
+2016-11-30T17:30:00,4,1,beijingif.com,Uncategorized,0
+2016-11-30T17:30:00,2,1,alexanderguo.com,General Design & Composition,2
+2016-11-30T17:35:00,270,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T17:35:00,24,1,tools.wmflabs.org,Uncategorized,0
+2016-11-30T17:35:00,3,1,wikipedia.ramselehof.de,Uncategorized,0
+2016-11-30T17:40:00,284,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T17:40:00,16,1,google.com,Search,2
+2016-11-30T17:45:00,140,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T17:45:00,69,1,matadornetwork.com,Travel & Outdoors,-2
+2016-11-30T17:45:00,62,1,google.com,Search,2
+2016-11-30T17:45:00,25,1,timeshighereducation.com,General Reference & Learning,1
+2016-11-30T17:45:00,4,1,Safari,Browsers,2
+2016-11-30T17:50:00,219,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T17:50:00,43,1,matadornetwork.com,Travel & Outdoors,-2
+2016-11-30T17:50:00,38,1,google.com,Search,2
+2016-11-30T17:55:00,298,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T18:00:00,297,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T18:00:00,3,1,google.com,Search,2
+2016-11-30T18:05:00,295,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T18:05:00,4,1,google.com,Search,2
+2016-11-30T18:10:00,296,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T18:10:00,2,1,Safari,Browsers,2
+2016-11-30T18:10:00,1,1,alexanderguo.com,General Design & Composition,2
+2016-11-30T18:15:00,76,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T18:30:00,50,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T18:30:00,23,1,Google Documents,Writing,2
+2016-11-30T18:30:00,4,1,Safari,Browsers,2
+2016-11-30T18:30:00,2,1,google.com,Search,2
+2016-11-30T19:10:00,50,1,photos,Photos,0
+2016-11-30T19:10:00,27,1,drive.google.com,General Business,2
+2016-11-30T19:10:00,4,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T19:10:00,1,1,mail.deerfield.edu,General Reference & Learning,1
+2016-11-30T19:15:00,259,1,Google Documents,Writing,2
+2016-11-30T19:15:00,36,1,photos,Photos,0
+2016-11-30T19:15:00,4,1,drive.google.com,General Business,2
+2016-11-30T19:15:00,1,1,mail.deerfield.edu,General Reference & Learning,1
+2016-11-30T19:20:00,294,1,Google Documents,Writing,2
+2016-11-30T19:20:00,6,1,Safari,Browsers,2
+2016-11-30T19:25:00,178,1,Google Documents,Writing,2
+2016-11-30T19:25:00,51,1,youtube.com,Video,-2
+2016-11-30T19:25:00,17,1,loginwindow,General Utilities,0
+2016-11-30T19:25:00,3,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-30T19:25:00,2,1,drive.google.com,General Business,2
+2016-11-30T19:25:00,2,1,Safari,Browsers,2
+2016-11-30T19:25:00,1,1,mail.deerfield.edu,General Reference & Learning,1
+2016-11-30T19:40:00,140,1,Google Documents,Writing,2
+2016-11-30T20:00:00,36,1,youtube.com,Video,-2
+2016-11-30T20:00:00,35,1,drive.google.com,General Business,2
+2016-11-30T20:00:00,18,1,loginwindow,General Utilities,0
+2016-11-30T20:00:00,11,1,microsoft onenote,Intelligence,2
+2016-11-30T20:00:00,7,1,Safari,Browsers,2
+2016-11-30T20:00:00,1,1,System Preferences,General Utilities,0
+2016-11-30T20:55:00,15,1,microsoft onenote,Intelligence,2
+2016-11-30T20:55:00,3,1,Finder,General Utilities,0
+2016-11-30T20:55:00,1,1,System Preferences,General Utilities,0
+2016-11-30T21:00:00,15,1,loginwindow,General Utilities,0
+2016-11-30T21:00:00,4,1,Finder,General Utilities,0
+2016-11-30T21:20:00,22,1,isb.bj.edu.cn,General Reference & Learning,1
+2016-11-30T21:20:00,8,1,loginwindow,General Utilities,0
+2016-11-30T21:20:00,7,1,deerfield.edu,General Reference & Learning,1
+2016-11-30T21:20:00,2,1,Finder,General Utilities,0
+2016-11-30T21:25:00,230,1,isb.bj.edu.cn,General Reference & Learning,1
+2016-11-30T21:25:00,48,1,facetime,Voice Chat,-2
+2016-11-30T21:25:00,22,1,9to5mac.com,General News & Opinion,-2
+2016-11-30T21:30:00,120,1,youtube.com,Video,-2
+2016-11-30T21:30:00,66,1,microsoft word,Writing,2
+2016-11-30T21:30:00,42,1,facebook.com,General Social Networking,-2
+2016-11-30T21:30:00,41,1,isb.bj.edu.cn,General Reference & Learning,1
+2016-11-30T21:30:00,20,1,Mail,Email,2
+2016-11-30T21:30:00,7,1,facetime,Voice Chat,-2
+2016-11-30T21:30:00,2,1,Safari,Browsers,2
+2016-11-30T21:35:00,300,1,youtube.com,Video,-2
+2016-11-30T21:40:00,267,1,youtube.com,Video,-2
+2016-11-30T21:40:00,32,1,facebook.com,General Social Networking,-2
+2016-11-30T21:45:00,237,1,youtube.com,Video,-2
+2016-11-30T21:45:00,35,1,Finder,General Utilities,0
+2016-11-30T21:45:00,27,1,facebook.com,General Social Networking,-2
+2016-11-30T21:45:00,1,1,Mail,Email,2
+2016-11-30T21:50:00,214,1,youtube.com,Video,-2
+2016-11-30T21:50:00,81,1,Finder,General Utilities,0
+2016-11-30T21:50:00,2,1,Dropbox,File Sharing,-2
+2016-11-30T21:50:00,1,1,facebook.com,General Social Networking,-2
+2016-11-30T21:50:00,1,1,deerfield.edu,General Reference & Learning,1
+2016-11-30T21:55:00,300,1,youtube.com,Video,-2
+2016-11-30T22:00:00,300,1,youtube.com,Video,-2
+2016-11-30T22:05:00,208,1,youtube.com,Video,-2
+2016-11-30T22:05:00,53,1,Finder,General Utilities,0
+2016-11-30T22:05:00,19,1,adobe application manager,General Utilities,1
+2016-11-30T22:05:00,18,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T22:05:00,2,1,Dropbox,File Sharing,-2
+2016-11-30T22:10:00,261,1,youtube.com,Video,-2
+2016-11-30T22:10:00,37,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T22:15:00,230,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T22:15:00,70,1,youtube.com,Video,-2
+2016-11-30T22:20:00,300,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T22:25:00,300,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T22:30:00,262,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T22:30:00,37,1,facebook.com,General Social Networking,-2
+2016-11-30T22:35:00,300,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T22:40:00,291,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T22:40:00,9,1,facebook.com,General Social Networking,-2
+2016-11-30T22:45:00,283,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T22:45:00,17,1,facebook.com,General Social Networking,-2
+2016-11-30T22:50:00,300,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T22:55:00,269,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T22:55:00,31,1,facebook.com,General Social Networking,-2
+2016-11-30T23:00:00,300,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T23:05:00,200,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T23:05:00,43,1,media.wix.com,Intelligence,2
+2016-11-30T23:05:00,15,1,Mail,Email,2
+2016-11-30T23:05:00,15,1,Preview,General Reference & Learning,2
+2016-11-30T23:05:00,10,1,Finder,General Utilities,0
+2016-11-30T23:05:00,6,1,usernotificationcenter,General Utilities,0
+2016-11-30T23:05:00,6,1,massftc.org,Uncategorized,0
+2016-11-30T23:05:00,2,1,facebook.com,General Social Networking,-2
+2016-11-30T23:05:00,2,1,Safari,Browsers,2
+2016-11-30T23:10:00,95,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T23:10:00,78,1,Adobe Photoshop,Graphic Design,2
+2016-11-30T23:10:00,69,1,facebook.com,General Social Networking,-2
+2016-11-30T23:10:00,37,1,media.wix.com,Intelligence,2
+2016-11-30T23:10:00,17,1,Finder,General Utilities,0
+2016-11-30T23:10:00,2,1,SecurityAgent,Systems Operations,0
+2016-11-30T23:15:00,61,1,facebook.com,General Social Networking,-2
+2016-11-30T23:15:00,43,1,messages,General Social Networking,-2
+2016-11-30T23:15:00,31,1,media.wix.com,Intelligence,2
+2016-11-30T23:15:00,20,1,Adobe Photoshop,Graphic Design,2
+2016-11-30T23:15:00,10,1,Mail,Email,2
+2016-11-30T23:15:00,2,1,massftc.org,Uncategorized,0
+2016-11-30T23:20:00,203,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T23:20:00,70,1,Adobe Photoshop,Graphic Design,2
+2016-11-30T23:20:00,19,1,facebook.com,General Social Networking,-2
+2016-11-30T23:20:00,7,1,Mail,Email,2
+2016-11-30T23:25:00,298,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T23:25:00,2,1,java updater,General Utilities,1
+2016-11-30T23:30:00,268,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T23:30:00,14,1,media.wix.com,Intelligence,2
+2016-11-30T23:30:00,5,1,facebook.com,General Social Networking,-2
+2016-11-30T23:30:00,4,1,drive.google.com,General Business,2
+2016-11-30T23:30:00,4,1,Safari,Browsers,2
+2016-11-30T23:30:00,1,1,usernotificationcenter,General Utilities,0
+2016-11-30T23:30:00,1,1,Mail,Email,2
+2016-11-30T23:35:00,274,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T23:35:00,12,1,dainfo.deerfield.edu,General Reference & Learning,1
+2016-11-30T23:35:00,4,1,facebook.com,General Social Networking,-2
+2016-11-30T23:40:00,74,1,media.wix.com,Intelligence,2
+2016-11-30T23:40:00,66,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T23:40:00,63,1,handbrake,Video Editing,2
+2016-11-30T23:40:00,39,1,vimeo.com,General Entertainment,-2
+2016-11-30T23:40:00,31,1,facebook.com,General Social Networking,-2
+2016-11-30T23:40:00,23,1,Finder,General Utilities,0
+2016-11-30T23:40:00,2,1,dainfo.deerfield.edu,General Reference & Learning,1
+2016-11-30T23:45:00,107,1,Finder,General Utilities,0
+2016-11-30T23:45:00,68,1,vimeo.com,General Entertainment,-2
+2016-11-30T23:45:00,65,1,Mail,Email,2
+2016-11-30T23:45:00,29,1,handbrake,Video Editing,2
+2016-11-30T23:45:00,26,1,media.wix.com,Intelligence,2
+2016-11-30T23:45:00,3,1,massftc.org,Uncategorized,0
+2016-11-30T23:45:00,2,1,Safari,Browsers,2
+2016-11-30T23:50:00,202,1,vimeo.com,General Entertainment,-2
+2016-11-30T23:50:00,64,1,Mail,Email,2
+2016-11-30T23:50:00,23,1,facebook.com,General Social Networking,-2
+2016-11-30T23:50:00,11,1,media.wix.com,Intelligence,2
+2016-11-30T23:55:00,112,1,facebook.com,General Social Networking,-2
+2016-11-30T23:55:00,93,1,vimeo.com,General Entertainment,-2
+2016-11-30T23:55:00,84,1,rescuetime.com,Intelligence,0
+2016-11-30T23:55:00,5,1,Safari,Browsers,2
+2016-11-30T23:55:00,2,1,adobe premiere pro cc 2015,Video Editing,2
+2016-11-30T23:55:00,1,1,media.wix.com,Intelligence,2

@@ -1,0 +1,84 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2016-07-06T13:05:00,51,1,Mail,Email,2
+2016-07-06T13:05:00,31,1,connection.naviance.com,General Design & Composition,2
+2016-07-06T13:05:00,29,1,microsoft word,Writing,2
+2016-07-06T13:05:00,13,1,Safari,Browsers,2
+2016-07-06T13:05:00,9,1,keychain access,Systems Operations,2
+2016-07-06T13:05:00,7,1,naviance.com,General Reference & Learning,1
+2016-07-06T13:05:00,5,1,map.baidu.com,Maps & Regional,-2
+2016-07-06T13:05:00,3,1,Finder,General Utilities,0
+2016-07-06T13:10:00,114,1,connection.naviance.com,General Design & Composition,2
+2016-07-06T13:10:00,107,1,microsoft word,Writing,2
+2016-07-06T13:10:00,28,1,keychain access,Systems Operations,2
+2016-07-06T13:10:00,16,1,Mail,Email,2
+2016-07-06T13:10:00,11,1,SecurityAgent,Systems Operations,0
+2016-07-06T13:10:00,6,1,install adobe flash player,Internet Utilities,1
+2016-07-06T13:10:00,4,1,diskimages ui agent,General Utilities,1
+2016-07-06T13:10:00,3,1,get.adobe.com,General News & Opinion,-2
+2016-07-06T13:10:00,3,1,Safari,Browsers,2
+2016-07-06T13:10:00,2,1,coreservicesuiagent,General Utilities,0
+2016-07-06T13:10:00,2,1,Finder,General Utilities,0
+2016-07-06T13:10:00,1,1,tmhelperagent,General Utilities,1
+2016-07-06T13:15:00,174,1,MS Excel,General Business,2
+2016-07-06T13:15:00,98,1,colleges.usnews.rankingsandreviews.com,General Reference & Learning,1
+2016-07-06T13:15:00,11,1,Safari,Browsers,2
+2016-07-06T13:15:00,5,1,microsoft word,Writing,2
+2016-07-06T13:15:00,5,1,microsoft autoupdate,General Utilities,1
+2016-07-06T13:15:00,5,1,google.com,Search,2
+2016-07-06T13:20:00,195,1,colleges.usnews.rankingsandreviews.com,General Reference & Learning,1
+2016-07-06T13:20:00,55,1,usnews.com,General News & Opinion,-2
+2016-07-06T13:20:00,34,1,Mail,Email,2
+2016-07-06T13:20:00,7,1,MS Excel,General Business,2
+2016-07-06T13:20:00,1,1,microsoft word,Writing,2
+2016-07-06T13:25:00,188,1,microsoft word,Writing,2
+2016-07-06T13:25:00,72,1,MS Excel,General Business,2
+2016-07-06T13:25:00,32,1,Mail,Email,2
+2016-07-06T13:25:00,4,1,colleges.usnews.rankingsandreviews.com,General Reference & Learning,1
+2016-07-06T13:30:00,240,1,MS Excel,General Business,2
+2016-07-06T13:30:00,36,1,usnews.com,General News & Opinion,-2
+2016-07-06T13:30:00,18,1,microsoft word,Writing,2
+2016-07-06T13:50:00,243,1,MS Excel,General Business,2
+2016-07-06T13:55:00,300,1,MS Excel,General Business,2
+2016-07-06T14:00:00,273,1,MS Excel,General Business,2
+2016-07-06T14:00:00,26,1,Mail,Email,2
+2016-07-06T14:05:00,296,1,MS Excel,General Business,2
+2016-07-06T14:05:00,4,1,Mail,Email,2
+2016-07-06T14:10:00,222,1,MS Excel,General Business,2
+2016-07-06T14:10:00,52,1,Mail,Email,2
+2016-07-06T14:10:00,20,1,usnews.com,General News & Opinion,-2
+2016-07-06T14:10:00,1,1,microsoft word,Writing,2
+2016-07-06T14:15:00,300,1,MS Excel,General Business,2
+2016-07-06T14:20:00,299,1,MS Excel,General Business,2
+2016-07-06T14:25:00,155,1,MS Excel,General Business,2
+2016-07-06T14:25:00,57,1,usnews.com,General News & Opinion,-2
+2016-07-06T14:25:00,6,1,google.com,Search,2
+2016-07-06T14:25:00,3,1,Safari,Browsers,2
+2016-07-06T14:30:00,77,1,en.wikipedia.org,General Reference & Learning,1
+2016-07-06T14:35:00,97,1,en.wikipedia.org,General Reference & Learning,1
+2016-07-06T14:40:00,9,1,get.adobe.com,General News & Opinion,-2
+2016-07-06T14:40:00,7,1,Safari,Browsers,2
+2016-07-06T14:40:00,3,1,install adobe flash player,Internet Utilities,1
+2016-07-06T14:40:00,2,1,MS Excel,General Business,2
+2016-07-06T14:40:00,2,1,cleaningformac.com,Uncategorized,0
+2016-07-06T14:50:00,19,1,get.adobe.com,General News & Opinion,-2
+2016-07-06T14:50:00,18,1,loginwindow,General Utilities,0
+2016-07-06T14:50:00,4,1,cleaningformac.com,Uncategorized,0
+2016-07-06T14:55:00,20,1,Safari,Browsers,2
+2016-07-06T14:55:00,17,1,loginwindow,General Utilities,0
+2016-07-06T14:55:00,7,1,get.adobe.com,General News & Opinion,-2
+2016-07-06T14:55:00,3,1,cleaningformac.com,Uncategorized,0
+2016-07-06T21:40:00,79,1,MS Excel,General Business,2
+2016-07-06T21:40:00,26,1,keychain access,Systems Operations,2
+2016-07-06T21:40:00,16,1,loginwindow,General Utilities,0
+2016-07-06T21:40:00,13,1,Safari,Browsers,2
+2016-07-06T21:40:00,12,1,captive network assistant,General Utilities,1
+2016-07-06T21:40:00,3,1,SecurityAgent,Systems Operations,0
+2016-07-06T21:50:00,64,1,amazon.com,General Shopping,-1
+2016-07-06T21:50:00,41,1,captive network assistant,General Utilities,1
+2016-07-06T21:50:00,26,1,Safari,Browsers,2
+2016-07-06T21:55:00,151,1,amazon.com,General Shopping,-1
+2016-07-06T21:55:00,17,1,loginwindow,General Utilities,0
+2016-07-06T22:15:00,18,1,amazon.com,General Shopping,-1
+2016-07-06T22:15:00,17,1,loginwindow,General Utilities,0
+2016-07-06T22:35:00,18,1,loginwindow,General Utilities,0
+2016-07-06T22:35:00,17,1,amazon.com,General Shopping,-1

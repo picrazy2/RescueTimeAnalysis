@@ -1,0 +1,442 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2017-02-21T00:00:00,83,1,map.baidu.com,Maps & Regional,-2
+2017-02-21T00:00:00,73,1,facebook.com,General Social Networking,-2
+2017-02-21T00:00:00,57,1,en.wikipedia.org,General Reference & Learning,1
+2017-02-21T00:00:00,32,1,ncbi.nlm.nih.gov,Engineering & Technology,1
+2017-02-21T00:00:00,28,1,messages,General Social Networking,-2
+2017-02-21T00:00:00,22,1,google.com,Search,2
+2017-02-21T00:00:00,4,1,mathematica,Engineering & Technology,2
+2017-02-21T00:00:00,1,1,usernotificationcenter,General Utilities,0
+2017-02-21T00:05:00,34,1,facebook.com,General Social Networking,-2
+2017-02-21T00:10:00,58,1,drive.google.com,General Business,2
+2017-02-21T00:10:00,20,1,Finder,General Utilities,0
+2017-02-21T00:10:00,16,1,quicktime player,General Entertainment,-1
+2017-02-21T00:10:00,2,1,Safari,Browsers,2
+2017-02-21T00:10:00,1,1,apply.commonapp.org,General Reference & Learning,1
+2017-02-21T00:10:00,1,1,Mail,Email,2
+2017-02-21T00:10:00,1,1,auth.deerfield.edu,General Reference & Learning,1
+2017-02-21T00:10:00,1,1,facetime,Voice Chat,-2
+2017-02-21T00:10:00,1,1,usernotificationcenter,General Utilities,0
+2017-02-21T00:15:00,119,1,google.com,Search,2
+2017-02-21T00:15:00,108,1,thoughtcatalog.com,General News & Opinion,-2
+2017-02-21T00:15:00,24,1,Mail,Email,2
+2017-02-21T00:15:00,17,1,en.wikipedia.org,General Reference & Learning,1
+2017-02-21T00:15:00,17,1,facetime,Voice Chat,-2
+2017-02-21T00:15:00,9,1,Finder,General Utilities,0
+2017-02-21T00:15:00,3,1,drive.google.com,General Business,2
+2017-02-21T00:15:00,2,1,messages,General Social Networking,-2
+2017-02-21T00:15:00,1,1,dropbox.com,File Sharing,2
+2017-02-21T00:20:00,225,1,thoughtcatalog.com,General News & Opinion,-2
+2017-02-21T00:20:00,65,1,drive.google.com,General Business,2
+2017-02-21T00:20:00,6,1,en.wikipedia.org,General Reference & Learning,1
+2017-02-21T00:20:00,2,1,google.com,Search,2
+2017-02-21T00:20:00,1,1,apply.commonapp.org,General Reference & Learning,1
+2017-02-21T00:25:00,243,1,thoughtcatalog.com,General News & Opinion,-2
+2017-02-21T00:25:00,34,1,huffingtonpost.com,General News & Opinion,-2
+2017-02-21T00:25:00,14,1,google.com,Search,2
+2017-02-21T00:25:00,7,1,monster.com,Employment,2
+2017-02-21T00:25:00,2,1,usernotificationcenter,General Utilities,0
+2017-02-21T00:30:00,120,1,huffingtonpost.com,General News & Opinion,-2
+2017-02-21T00:40:00,27,1,huffingtonpost.com,General News & Opinion,-2
+2017-02-21T00:40:00,12,1,usernotificationcenter,General Utilities,0
+2017-02-21T00:55:00,92,1,huffingtonpost.com,General News & Opinion,-2
+2017-02-21T00:55:00,2,1,usernotificationcenter,General Utilities,0
+2017-02-21T01:00:00,204,1,dainfo.deerfield.edu,General Reference & Learning,1
+2017-02-21T01:00:00,94,1,huffingtonpost.com,General News & Opinion,-2
+2017-02-21T01:00:00,2,1,facebook.com,General Social Networking,-2
+2017-02-21T01:05:00,32,1,facetime,Voice Chat,-2
+2017-02-21T01:05:00,10,1,dainfo.deerfield.edu,General Reference & Learning,1
+2017-02-21T01:15:00,55,1,loginwindow,General Utilities,0
+2017-02-21T01:15:00,5,1,usernotificationcenter,General Utilities,0
+2017-02-21T01:15:00,4,1,facetime,Voice Chat,-2
+2017-02-21T01:20:00,55,1,drive.google.com,General Business,2
+2017-02-21T01:20:00,33,1,loginwindow,General Utilities,0
+2017-02-21T01:20:00,5,1,Finder,General Utilities,0
+2017-02-21T08:30:00,119,1,Mail,Email,2
+2017-02-21T08:30:00,10,1,messages,General Social Networking,-2
+2017-02-21T08:30:00,7,1,mathematica,Engineering & Technology,2
+2017-02-21T08:40:00,77,1,facebook.com,General Social Networking,-2
+2017-02-21T08:40:00,29,1,Safari,Browsers,2
+2017-02-21T08:40:00,8,1,Mail,Email,2
+2017-02-21T08:40:00,5,1,ncbi.nlm.nih.gov,Engineering & Technology,1
+2017-02-21T08:45:00,298,1,Safari,Browsers,2
+2017-02-21T08:45:00,2,1,messages,General Social Networking,-2
+2017-02-21T08:50:00,231,1,messages,General Social Networking,-2
+2017-02-21T08:50:00,41,1,rescuetime.com,Intelligence,0
+2017-02-21T08:50:00,14,1,deerfield.edu,General Reference & Learning,1
+2017-02-21T08:50:00,9,1,ncbi.nlm.nih.gov,Engineering & Technology,1
+2017-02-21T08:50:00,3,1,Safari,Browsers,2
+2017-02-21T08:50:00,2,1,gaoloumi.com,Regional,-2
+2017-02-21T08:55:00,253,1,rescuetime.com,Intelligence,0
+2017-02-21T08:55:00,30,1,en.wikipedia.org,General Reference & Learning,1
+2017-02-21T08:55:00,13,1,google.com,Search,2
+2017-02-21T08:55:00,2,1,Safari,Browsers,2
+2017-02-21T09:00:00,300,1,rescuetime.com,Intelligence,0
+2017-02-21T09:05:00,230,1,gaoloumi.com,Regional,-2
+2017-02-21T09:05:00,70,1,rescuetime.com,Intelligence,0
+2017-02-21T09:10:00,300,1,gaoloumi.com,Regional,-2
+2017-02-21T09:15:00,60,1,loginwindow,General Utilities,0
+2017-02-21T09:15:00,41,1,gaoloumi.com,Regional,-2
+2017-02-21T10:15:00,71,1,Mail,Email,2
+2017-02-21T10:15:00,34,1,mathematica,Engineering & Technology,2
+2017-02-21T10:15:00,21,1,messages,General Social Networking,-2
+2017-02-21T10:15:00,19,1,Finder,General Utilities,0
+2017-02-21T10:15:00,6,1,drive.google.com,General Business,2
+2017-02-21T10:20:00,191,1,mathematica,Engineering & Technology,2
+2017-02-21T10:20:00,104,1,microsoft word,Writing,2
+2017-02-21T10:20:00,4,1,Safari,Browsers,2
+2017-02-21T10:25:00,33,1,microsoft word,Writing,2
+2017-02-21T10:30:00,19,1,microsoft word,Writing,2
+2017-02-21T10:30:00,4,1,messages,General Social Networking,-2
+2017-02-21T11:10:00,98,1,en.wikipedia.org,General Reference & Learning,1
+2017-02-21T11:10:00,19,1,google.com,Search,2
+2017-02-21T11:10:00,5,1,Safari,Browsers,2
+2017-02-21T11:10:00,2,1,gaoloumi.com,Regional,-2
+2017-02-21T11:15:00,11,1,en.wikipedia.org,General Reference & Learning,1
+2017-02-21T11:25:00,35,1,instructables.com,Engineering & Technology,1
+2017-02-21T11:25:00,34,1,google.com,Search,2
+2017-02-21T11:25:00,7,1,youtube.com,Video,-2
+2017-02-21T11:25:00,4,1,Safari,Browsers,2
+2017-02-21T11:25:00,3,1,homemade-circuits.com,Uncategorized,0
+2017-02-21T11:35:00,293,1,messages,General Social Networking,-2
+2017-02-21T11:40:00,187,1,messages,General Social Networking,-2
+2017-02-21T11:40:00,107,1,youtube.com,Video,-2
+2017-02-21T11:40:00,5,1,Safari,Browsers,2
+2017-02-21T11:45:00,169,1,youtube.com,Video,-2
+2017-02-21T11:45:00,17,1,loginwindow,General Utilities,0
+2017-02-21T11:45:00,4,1,instructables.com,Engineering & Technology,1
+2017-02-21T12:45:00,159,1,microsoft word,Writing,2
+2017-02-21T12:45:00,33,1,Finder,General Utilities,0
+2017-02-21T12:45:00,13,1,Mail,Email,2
+2017-02-21T12:45:00,3,1,instructables.com,Engineering & Technology,1
+2017-02-21T12:50:00,289,1,microsoft word,Writing,2
+2017-02-21T12:50:00,8,1,creative cloud,General Design & Composition,2
+2017-02-21T12:55:00,300,1,microsoft word,Writing,2
+2017-02-21T13:00:00,163,1,mym3challenge.siam.org,General Reference & Learning,1
+2017-02-21T13:00:00,97,1,microsoft word,Writing,2
+2017-02-21T13:00:00,35,1,Mail,Email,2
+2017-02-21T13:00:00,3,1,Safari,Browsers,2
+2017-02-21T13:05:00,265,1,microsoft word,Writing,2
+2017-02-21T13:05:00,24,1,mym3challenge.siam.org,General Reference & Learning,1
+2017-02-21T13:05:00,11,1,rescuetime.com,Intelligence,0
+2017-02-21T13:10:00,237,1,microsoft word,Writing,2
+2017-02-21T13:10:00,63,1,messages,General Social Networking,-2
+2017-02-21T13:15:00,190,1,microsoft word,Writing,2
+2017-02-21T13:35:00,291,1,microsoft word,Writing,2
+2017-02-21T13:35:00,5,1,loginwindow,General Utilities,0
+2017-02-21T13:40:00,124,1,messages,General Social Networking,-2
+2017-02-21T13:40:00,79,1,gaoloumi.com,Regional,-2
+2017-02-21T13:40:00,46,1,microsoft word,Writing,2
+2017-02-21T13:40:00,23,1,aqicn.org,General Reference & Learning,1
+2017-02-21T13:40:00,8,1,Mail,Email,2
+2017-02-21T13:40:00,7,1,Safari,Browsers,2
+2017-02-21T13:40:00,2,1,instructables.com,Engineering & Technology,1
+2017-02-21T13:40:00,2,1,rescuetime.com,Intelligence,0
+2017-02-21T13:40:00,1,1,mym3challenge.siam.org,General Reference & Learning,1
+2017-02-21T13:45:00,197,1,Finder,General Utilities,0
+2017-02-21T13:45:00,65,1,gaoloumi.com,Regional,-2
+2017-02-21T13:45:00,38,1,messages,General Social Networking,-2
+2017-02-21T13:50:00,136,1,gaoloumi.com,Regional,-2
+2017-02-21T13:50:00,104,1,map.baidu.com,Maps & Regional,-2
+2017-02-21T13:50:00,46,1,messages,General Social Networking,-2
+2017-02-21T13:50:00,8,1,en.wikipedia.org,General Reference & Learning,1
+2017-02-21T13:55:00,141,1,rescuetime.com,Intelligence,0
+2017-02-21T13:55:00,99,1,map.baidu.com,Maps & Regional,-2
+2017-02-21T13:55:00,58,1,messages,General Social Networking,-2
+2017-02-21T13:55:00,2,1,google.com,Search,2
+2017-02-21T14:00:00,131,1,messages,General Social Networking,-2
+2017-02-21T14:00:00,14,1,contacts,Customer Relations,2
+2017-02-21T14:00:00,3,1,Preview,General Reference & Learning,2
+2017-02-21T14:05:00,269,1,messages,General Social Networking,-2
+2017-02-21T14:05:00,16,1,loginwindow,General Utilities,0
+2017-02-21T14:05:00,5,1,Preview,General Reference & Learning,2
+2017-02-21T14:25:00,99,1,wtop.com,General Entertainment,-2
+2017-02-21T14:25:00,27,1,businessinsider.com,General News & Opinion,-2
+2017-02-21T14:25:00,22,1,google.com,Search,2
+2017-02-21T14:25:00,11,1,messages,General Social Networking,-2
+2017-02-21T14:25:00,4,1,rescuetime.com,Intelligence,0
+2017-02-21T14:25:00,2,1,Safari,Browsers,2
+2017-02-21T14:25:00,1,1,map.baidu.com,Maps & Regional,-2
+2017-02-21T14:30:00,92,1,qz.com,General News & Opinion,-2
+2017-02-21T14:30:00,64,1,nytimes.com,General News & Opinion,-2
+2017-02-21T14:30:00,58,1,google.com,Search,2
+2017-02-21T14:30:00,52,1,businessinsider.com,General News & Opinion,-2
+2017-02-21T14:30:00,2,1,npr.org,General News & Opinion,-2
+2017-02-21T14:35:00,110,1,npr.org,General News & Opinion,-2
+2017-02-21T14:35:00,75,1,youtube.com,Video,-2
+2017-02-21T14:35:00,32,1,google.com,Search,2
+2017-02-21T14:35:00,29,1,messages,General Social Networking,-2
+2017-02-21T14:35:00,29,1,seekingalpha.com,General Business,2
+2017-02-21T14:35:00,22,1,linkedin.com,Professional Networking,1
+2017-02-21T14:35:00,2,1,Safari,Browsers,2
+2017-02-21T14:40:00,148,1,messages,General Social Networking,-2
+2017-02-21T14:40:00,129,1,youtube.com,Video,-2
+2017-02-21T14:40:00,12,1,translate.google.com,Search,1
+2017-02-21T14:40:00,6,1,aboutme.google.com,General Utilities,1
+2017-02-21T14:40:00,3,1,Safari,Browsers,2
+2017-02-21T14:45:00,219,1,youtube.com,Video,-2
+2017-02-21T14:45:00,81,1,messages,General Social Networking,-2
+2017-02-21T14:50:00,244,1,youtube.com,Video,-2
+2017-02-21T14:50:00,55,1,messages,General Social Networking,-2
+2017-02-21T14:55:00,300,1,youtube.com,Video,-2
+2017-02-21T15:00:00,113,1,youtube.com,Video,-2
+2017-02-21T15:00:00,36,1,loginwindow,General Utilities,0
+2017-02-21T15:30:00,19,1,messages,General Social Networking,-2
+2017-02-21T15:35:00,114,1,messages,General Social Networking,-2
+2017-02-21T15:35:00,108,1,facebook.com,General Social Networking,-2
+2017-02-21T15:35:00,62,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T15:35:00,12,1,Google Documents,Writing,2
+2017-02-21T15:35:00,2,1,drive.google.com,General Business,2
+2017-02-21T15:35:00,2,1,login.live.com,Email,0
+2017-02-21T15:40:00,266,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T15:40:00,13,1,Google Documents,Writing,2
+2017-02-21T15:40:00,8,1,messages,General Social Networking,-2
+2017-02-21T15:45:00,295,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T15:50:00,200,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T15:50:00,100,1,messages,General Social Networking,-2
+2017-02-21T15:55:00,289,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T15:55:00,8,1,messages,General Social Networking,-2
+2017-02-21T16:00:00,137,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T16:00:00,135,1,Google Documents,Writing,2
+2017-02-21T16:00:00,27,1,messages,General Social Networking,-2
+2017-02-21T16:05:00,239,1,facebook.com,General Social Networking,-2
+2017-02-21T16:05:00,37,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T16:05:00,23,1,Google Documents,Writing,2
+2017-02-21T16:10:00,279,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T16:10:00,21,1,facebook.com,General Social Networking,-2
+2017-02-21T16:15:00,131,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T16:15:00,102,1,facebook.com,General Social Networking,-2
+2017-02-21T16:15:00,55,1,Dropbox,File Sharing,-2
+2017-02-21T16:15:00,12,1,youtube.com,Video,-2
+2017-02-21T16:20:00,218,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T16:20:00,49,1,destinationtips.com,Uncategorized,0
+2017-02-21T16:20:00,22,1,facebook.com,General Social Networking,-2
+2017-02-21T16:25:00,205,1,messages,General Social Networking,-2
+2017-02-21T16:25:00,93,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T16:30:00,244,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T16:30:00,55,1,messages,General Social Networking,-2
+2017-02-21T16:35:00,300,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T16:40:00,295,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T16:45:00,235,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T16:45:00,61,1,microsoft word,Writing,2
+2017-02-21T16:50:00,271,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T16:50:00,19,1,microsoft word,Writing,2
+2017-02-21T16:50:00,6,1,Google Documents,Writing,2
+2017-02-21T16:50:00,2,1,destinationtips.com,Uncategorized,0
+2017-02-21T16:55:00,286,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T16:55:00,14,1,translate.google.com,Search,1
+2017-02-21T17:00:00,295,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T17:05:00,185,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T17:05:00,57,1,Mail,Email,2
+2017-02-21T17:05:00,55,1,microsoft word,Writing,2
+2017-02-21T17:10:00,210,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T17:10:00,63,1,microsoft word,Writing,2
+2017-02-21T17:10:00,27,1,messages,General Social Networking,-2
+2017-02-21T17:15:00,235,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T17:15:00,54,1,microsoft word,Writing,2
+2017-02-21T17:15:00,7,1,google.com,Search,2
+2017-02-21T17:15:00,3,1,Safari,Browsers,2
+2017-02-21T17:15:00,1,1,zh.wikipedia.org,Search,0
+2017-02-21T17:20:00,253,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T17:20:00,9,1,microsoft word,Writing,2
+2017-02-21T17:20:00,4,1,translate.google.com,Search,1
+2017-02-21T17:20:00,1,1,google.com,Search,2
+2017-02-21T17:55:00,35,1,Finder,General Utilities,0
+2017-02-21T17:55:00,9,1,Preview,General Reference & Learning,2
+2017-02-21T18:05:00,89,1,loginwindow,General Utilities,0
+2017-02-21T19:20:00,87,1,Mail,Email,2
+2017-02-21T19:20:00,81,1,messages,General Social Networking,-2
+2017-02-21T19:20:00,40,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T19:20:00,13,1,youtube.com,Video,-2
+2017-02-21T19:20:00,10,1,newupgradesystem.setupupgrade4892315.download,Uncategorized,0
+2017-02-21T19:20:00,9,1,iTunes,Music,0
+2017-02-21T19:20:00,8,1,onlinevideoconverter.com,Video Editing,2
+2017-02-21T19:20:00,4,1,en.wikipedia.org,General Reference & Learning,1
+2017-02-21T19:20:00,4,1,ncbi.nlm.nih.gov,Engineering & Technology,1
+2017-02-21T19:20:00,4,1,translate.google.com,Search,1
+2017-02-21T19:20:00,3,1,Preview,General Reference & Learning,2
+2017-02-21T19:20:00,3,1,google.com,Search,2
+2017-02-21T19:20:00,2,1,onclkds.com,Uncategorized,0
+2017-02-21T19:20:00,1,1,screensaverengine,General Utilities,0
+2017-02-21T19:25:00,298,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T19:30:00,247,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T19:30:00,50,1,messages,General Social Networking,-2
+2017-02-21T19:35:00,298,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T19:40:00,282,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T19:40:00,5,1,messages,General Social Networking,-2
+2017-02-21T19:40:00,1,1,newupgradesystem.setupupgrade4892315.download,Uncategorized,0
+2017-02-21T19:40:00,1,1,facebook.com,General Social Networking,-2
+2017-02-21T19:40:00,1,1,microsoft word,Writing,2
+2017-02-21T19:45:00,116,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T20:00:00,205,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T20:00:00,23,1,bhphotovideo.com,General Shopping,-2
+2017-02-21T20:00:00,3,1,Dropbox,File Sharing,-2
+2017-02-21T20:00:00,3,1,Safari,Browsers,2
+2017-02-21T20:05:00,162,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T20:05:00,47,1,Finder,General Utilities,0
+2017-02-21T20:05:00,46,1,bhphotovideo.com,General Shopping,-2
+2017-02-21T20:05:00,31,1,MS Excel,General Business,2
+2017-02-21T20:05:00,11,1,Mail,Email,2
+2017-02-21T20:10:00,220,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T20:10:00,50,1,MS Excel,General Business,2
+2017-02-21T20:10:00,21,1,Finder,General Utilities,0
+2017-02-21T20:10:00,5,1,facebook.com,General Social Networking,-2
+2017-02-21T20:10:00,2,1,bhphotovideo.com,General Shopping,-2
+2017-02-21T20:15:00,254,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T20:15:00,31,1,translate.google.com,Search,1
+2017-02-21T20:15:00,13,1,Dictionary,General Reference & Learning,1
+2017-02-21T20:20:00,299,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T20:25:00,256,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T20:25:00,33,1,microsoft word,Writing,2
+2017-02-21T20:25:00,7,1,messages,General Social Networking,-2
+2017-02-21T20:30:00,300,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T20:35:00,163,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T20:35:00,58,1,microsoft word,Writing,2
+2017-02-21T20:35:00,43,1,Calculator,General Utilities,1
+2017-02-21T20:35:00,34,1,Mail,Email,2
+2017-02-21T20:40:00,8,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T20:45:00,11,1,messages,General Social Networking,-2
+2017-02-21T21:10:00,235,1,youtube.com,Video,-2
+2017-02-21T21:10:00,5,1,Google Documents,Writing,2
+2017-02-21T21:10:00,2,1,translate.google.com,Search,1
+2017-02-21T21:10:00,1,1,destinationtips.com,Uncategorized,0
+2017-02-21T21:15:00,298,1,youtube.com,Video,-2
+2017-02-21T21:15:00,2,1,messages,General Social Networking,-2
+2017-02-21T21:20:00,299,1,youtube.com,Video,-2
+2017-02-21T21:25:00,300,1,youtube.com,Video,-2
+2017-02-21T21:30:00,299,1,youtube.com,Video,-2
+2017-02-21T21:35:00,300,1,youtube.com,Video,-2
+2017-02-21T21:40:00,97,1,youtube.com,Video,-2
+2017-02-21T21:40:00,82,1,google.com,Search,2
+2017-02-21T21:40:00,57,1,messages,General Social Networking,-2
+2017-02-21T21:40:00,41,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T21:40:00,16,1,destinationtips.com,Uncategorized,0
+2017-02-21T21:40:00,4,1,Safari,Browsers,2
+2017-02-21T21:40:00,2,1,onlinevideoconverter.com,Video Editing,2
+2017-02-21T21:45:00,224,1,map.baidu.com,Maps & Regional,-2
+2017-02-21T21:45:00,46,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T21:45:00,27,1,messages,General Social Networking,-2
+2017-02-21T21:45:00,1,1,destinationtips.com,Uncategorized,0
+2017-02-21T21:50:00,121,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T21:50:00,82,1,map.baidu.com,Maps & Regional,-2
+2017-02-21T21:50:00,52,1,google.com,Search,2
+2017-02-21T21:50:00,20,1,TextEdit,Writing,2
+2017-02-21T21:50:00,15,1,Mail,Email,2
+2017-02-21T21:50:00,5,1,messages,General Social Networking,-2
+2017-02-21T21:50:00,3,1,youtube.com,Video,-2
+2017-02-21T21:55:00,152,1,messages,General Social Networking,-2
+2017-02-21T21:55:00,60,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T21:55:00,31,1,Preview,General Reference & Learning,2
+2017-02-21T21:55:00,23,1,Finder,General Utilities,0
+2017-02-21T21:55:00,9,1,deerfield.instructure.com,General Reference & Learning,1
+2017-02-21T21:55:00,8,1,microsoft word,Writing,2
+2017-02-21T21:55:00,7,1,deerfield.edu,General Reference & Learning,1
+2017-02-21T21:55:00,3,1,google.com,Search,2
+2017-02-21T21:55:00,1,1,Mail,Email,2
+2017-02-21T21:55:00,1,1,dainfo.deerfield.edu,General Reference & Learning,1
+2017-02-21T22:00:00,171,1,messages,General Social Networking,-2
+2017-02-21T22:00:00,88,1,facetime,Voice Chat,-2
+2017-02-21T22:00:00,39,1,Preview,General Reference & Learning,2
+2017-02-21T22:05:00,108,1,Preview,General Reference & Learning,2
+2017-02-21T22:05:00,41,1,messages,General Social Networking,-2
+2017-02-21T22:05:00,21,1,facetime,Voice Chat,-2
+2017-02-21T22:10:00,166,1,Preview,General Reference & Learning,2
+2017-02-21T22:10:00,134,1,messages,General Social Networking,-2
+2017-02-21T22:15:00,114,1,messages,General Social Networking,-2
+2017-02-21T22:15:00,61,1,facebook.com,General Social Networking,-2
+2017-02-21T22:15:00,50,1,Preview,General Reference & Learning,2
+2017-02-21T22:15:00,34,1,Mail,Email,2
+2017-02-21T22:15:00,13,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T22:15:00,8,1,microsoft word,Writing,2
+2017-02-21T22:15:00,5,1,facetime,Voice Chat,-2
+2017-02-21T22:15:00,3,1,destinationtips.com,Uncategorized,0
+2017-02-21T22:15:00,1,1,youtube.com,Video,-2
+2017-02-21T22:15:00,1,1,translate.google.com,Search,1
+2017-02-21T22:20:00,36,1,facetime,Voice Chat,-2
+2017-02-21T22:20:00,31,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T22:20:00,25,1,Preview,General Reference & Learning,2
+2017-02-21T22:20:00,6,1,facebook.com,General Social Networking,-2
+2017-02-21T22:20:00,4,1,google drive,General Business,2
+2017-02-21T22:20:00,4,1,Dropbox,File Sharing,-2
+2017-02-21T22:20:00,4,1,photos,Photos,0
+2017-02-21T22:20:00,3,1,microsoft autoupdate,General Utilities,1
+2017-02-21T22:20:00,2,1,usernotificationcenter,General Utilities,0
+2017-02-21T22:20:00,2,1,microsoft word,Writing,2
+2017-02-21T22:20:00,2,1,RescueTime,Intelligence,0
+2017-02-21T22:20:00,1,1,matlab,General Software Development,2
+2017-02-21T22:25:00,252,1,Preview,General Reference & Learning,2
+2017-02-21T22:25:00,28,1,facebook.com,General Social Networking,-2
+2017-02-21T22:25:00,18,1,facetime,Voice Chat,-2
+2017-02-21T22:25:00,2,1,microsoft word,Writing,2
+2017-02-21T22:30:00,235,1,Preview,General Reference & Learning,2
+2017-02-21T22:30:00,26,1,facebook.com,General Social Networking,-2
+2017-02-21T22:30:00,20,1,messages,General Social Networking,-2
+2017-02-21T22:30:00,17,1,adobe premiere pro cc 2015,Video Editing,2
+2017-02-21T22:30:00,2,1,facetime,Voice Chat,-2
+2017-02-21T22:35:00,239,1,messages,General Social Networking,-2
+2017-02-21T22:35:00,29,1,drive.google.com,General Business,2
+2017-02-21T22:35:00,15,1,Google Documents,Writing,2
+2017-02-21T22:35:00,4,1,Safari,Browsers,2
+2017-02-21T22:35:00,4,1,facebook.com,General Social Networking,-2
+2017-02-21T22:35:00,2,1,dainfo.deerfield.edu,General Reference & Learning,1
+2017-02-21T22:35:00,1,1,usernotificationcenter,General Utilities,0
+2017-02-21T22:40:00,163,1,messages,General Social Networking,-2
+2017-02-21T22:40:00,134,1,facetime,Voice Chat,-2
+2017-02-21T22:40:00,3,1,usernotificationcenter,General Utilities,0
+2017-02-21T22:45:00,129,1,messages,General Social Networking,-2
+2017-02-21T22:45:00,122,1,map.baidu.com,Maps & Regional,-2
+2017-02-21T22:45:00,28,1,om.forgeofempires.com,Games,-2
+2017-02-21T22:45:00,10,1,Safari,Browsers,2
+2017-02-21T22:45:00,3,1,youtube.com,Video,-2
+2017-02-21T22:45:00,2,1,google.com,Search,2
+2017-02-21T22:45:00,2,1,onlinevideoconverter.com,Video Editing,2
+2017-02-21T22:45:00,1,1,blast.ncbi.nlm.nih.gov,Engineering & Technology,1
+2017-02-21T22:45:00,1,1,destinationtips.com,Uncategorized,0
+2017-02-21T22:50:00,26,1,om.forgeofempires.com,Games,-2
+2017-02-21T22:50:00,22,1,blast.ncbi.nlm.nih.gov,Engineering & Technology,1
+2017-02-21T23:00:00,112,1,buzzghana.com,Uncategorized,0
+2017-02-21T23:00:00,16,1,joblistghana.com,Uncategorized,0
+2017-02-21T23:00:00,9,1,google.com,Search,2
+2017-02-21T23:00:00,8,1,blast.ncbi.nlm.nih.gov,Engineering & Technology,1
+2017-02-21T23:00:00,4,1,usernotificationcenter,General Utilities,0
+2017-02-21T23:00:00,1,1,herlife.style,Uncategorized,0
+2017-02-21T23:05:00,176,1,buzzghana.com,Uncategorized,0
+2017-02-21T23:05:00,123,1,joblistghana.com,Uncategorized,0
+2017-02-21T23:10:00,189,1,buzzghana.com,Uncategorized,0
+2017-02-21T23:10:00,63,1,youtube.com,Video,-2
+2017-02-21T23:10:00,26,1,facebook.com,General Social Networking,-2
+2017-02-21T23:10:00,9,1,Safari,Browsers,2
+2017-02-21T23:10:00,5,1,messages,General Social Networking,-2
+2017-02-21T23:10:00,1,1,translate.google.com,Search,1
+2017-02-21T23:10:00,1,1,drive.google.com,General Business,2
+2017-02-21T23:10:00,1,1,map.baidu.com,Maps & Regional,-2
+2017-02-21T23:15:00,223,1,youtube.com,Video,-2
+2017-02-21T23:20:00,97,1,enoma.org,Uncategorized,0
+2017-02-21T23:20:00,80,1,facebook.com,General Social Networking,-2
+2017-02-21T23:20:00,7,1,vq40567.com,Uncategorized,0
+2017-02-21T23:20:00,6,1,google.com,Search,2
+2017-02-21T23:20:00,5,1,buzzghana.com,Uncategorized,0
+2017-02-21T23:20:00,3,1,annualsurveyconsumer.com,Uncategorized,0
+2017-02-21T23:20:00,3,1,youtube.com,Video,-2
+2017-02-21T23:25:00,273,1,enoma.org,Uncategorized,0
+2017-02-21T23:25:00,27,1,facetime,Voice Chat,-2
+2017-02-21T23:30:00,134,1,Mail,Email,2
+2017-02-21T23:30:00,77,1,messages,General Social Networking,-2
+2017-02-21T23:30:00,68,1,Finder,General Utilities,0
+2017-02-21T23:30:00,17,1,enoma.org,Uncategorized,0
+2017-02-21T23:30:00,3,1,usernotificationcenter,General Utilities,0
+2017-02-21T23:30:00,1,1,facetime,Voice Chat,-2
+2017-02-21T23:35:00,95,1,facebook.com,General Social Networking,-2
+2017-02-21T23:35:00,83,1,Mail,Email,2
+2017-02-21T23:35:00,60,1,cbsnews.com,General News & Opinion,-2
+2017-02-21T23:35:00,23,1,messages,General Social Networking,-2
+2017-02-21T23:35:00,14,1,saviodsilva.net,Uncategorized,0
+2017-02-21T23:35:00,9,1,enoma.org,Uncategorized,0
+2017-02-21T23:40:00,300,1,saviodsilva.net,Uncategorized,0
+2017-02-21T23:45:00,256,1,saviodsilva.org,Uncategorized,0
+2017-02-21T23:45:00,42,1,saviodsilva.net,Uncategorized,0
+2017-02-21T23:45:00,2,1,usernotificationcenter,General Utilities,0
+2017-02-21T23:50:00,138,1,saviodsilva.org,Uncategorized,0
+2017-02-21T23:55:00,62,1,saviodsilva.org,Uncategorized,0
+2017-02-21T23:55:00,23,1,Mail,Email,2
+2017-02-21T23:55:00,2,1,messages,General Social Networking,-2

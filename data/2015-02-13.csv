@@ -1,0 +1,51 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2015-02-13T00:25:00,18,1,loginwindow,General Utilities,0
+2015-02-13T10:10:00,68,1,Finder,General Utilities,0
+2015-02-13T10:10:00,24,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-13T10:10:00,13,1,amazon.com,General Shopping,-1
+2015-02-13T10:10:00,2,1,artofproblemsolving.com,Engineering & Technology,2
+2015-02-13T10:10:00,2,1,facebook.com,General Social Networking,-2
+2015-02-13T10:15:00,135,1,microsoft word,Writing,2
+2015-02-13T10:15:00,55,1,Finder,General Utilities,0
+2015-02-13T10:15:00,4,1,amazon.com,General Shopping,-1
+2015-02-13T10:30:00,49,1,Finder,General Utilities,0
+2015-02-13T10:30:00,35,1,microsoft word,Writing,2
+2015-02-13T10:30:00,29,1,Skype,General Social Networking,-2
+2015-02-13T10:30:00,20,1,facebook.com,General Social Networking,-2
+2015-02-13T10:30:00,18,1,Mail,Email,2
+2015-02-13T10:30:00,4,1,9to5mac.com,General News & Opinion,-2
+2015-02-13T10:30:00,3,1,amazon.com,General Shopping,-1
+2015-02-13T10:30:00,2,1,dalearn.deerfield.edu,General Reference & Learning,2
+2015-02-13T10:35:00,232,1,microsoft word,Writing,2
+2015-02-13T10:35:00,18,1,9to5mac.com,General News & Opinion,-2
+2015-02-13T10:35:00,18,1,loginwindow,General Utilities,0
+2015-02-13T10:35:00,6,1,Finder,General Utilities,0
+2015-02-13T19:50:00,28,1,facebook.com,General Social Networking,-2
+2015-02-13T19:55:00,79,1,amazon.com,General Shopping,-1
+2015-02-13T19:55:00,57,1,facebook.com,General Social Networking,-2
+2015-02-13T19:55:00,48,1,bodybuilding.com,Health & Medicine,1
+2015-02-13T19:55:00,45,1,System Preferences,General Utilities,0
+2015-02-13T19:55:00,24,1,google.com,Search,2
+2015-02-13T19:55:00,23,1,artofproblemsolving.com,Engineering & Technology,2
+2015-02-13T19:55:00,9,1,SecurityAgent,Systems Operations,0
+2015-02-13T19:55:00,9,1,Safari,Browsers,2
+2015-02-13T19:55:00,3,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-13T19:55:00,2,1,makeuseof.com,General News & Opinion,-2
+2015-02-13T20:00:00,124,1,muscleforlife.com,Health & Medicine,1
+2015-02-13T20:00:00,112,1,bodybuilding.com,Health & Medicine,1
+2015-02-13T20:00:00,60,1,facebook.com,General Social Networking,-2
+2015-02-13T20:00:00,3,1,google.com,Search,2
+2015-02-13T20:05:00,139,1,facebook.com,General Social Networking,-2
+2015-02-13T20:05:00,16,1,loginwindow,General Utilities,0
+2015-02-13T20:10:00,166,1,facebook.com,General Social Networking,-2
+2015-02-13T20:10:00,74,1,Skype,General Social Networking,-2
+2015-02-13T20:10:00,2,1,icloud.com,General Software Development,2
+2015-02-13T20:15:00,132,1,facebook.com,General Social Networking,-2
+2015-02-13T20:15:00,105,1,Skype,General Social Networking,-2
+2015-02-13T20:15:00,59,1,calendar,Calendars,1
+2015-02-13T20:15:00,3,1,icloud.com,General Software Development,2
+2015-02-13T20:20:00,158,1,facebook.com,General Social Networking,-2
+2015-02-13T20:20:00,118,1,Skype,General Social Networking,-2
+2015-02-13T20:45:00,11,1,Skype,General Social Networking,-2
+2015-02-13T20:50:00,120,1,Skype,General Social Networking,-2
+2015-02-13T22:45:00,18,1,loginwindow,General Utilities,0

@@ -1,0 +1,372 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2019-03-03T14:50:00,153,1,messenger.com,General Social Networking,-2
+2019-03-03T14:50:00,93,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T14:50:00,3,1,amazon.com,General Shopping,-1
+2019-03-03T14:50:00,3,1,google.com,Search,2
+2019-03-03T14:50:00,2,1,Steam,Games,-2
+2019-03-03T14:50:00,1,1,Google Spreadsheets,General Business,2
+2019-03-03T14:50:00,1,1,piazza.com,General Reference & Learning,2
+2019-03-03T14:55:00,65,1,nh.gov,General News & Opinion,-2
+2019-03-03T14:55:00,65,1,messenger.com,General Social Networking,-2
+2019-03-03T14:55:00,57,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T14:55:00,54,1,drive.google.com,General Business,2
+2019-03-03T14:55:00,27,1,Finder,General Utilities,0
+2019-03-03T14:55:00,20,1,forms.nh.gov,General News & Opinion,-2
+2019-03-03T14:55:00,12,1,google.com,Search,2
+2019-03-03T15:00:00,261,1,forms.nh.gov,General News & Opinion,-2
+2019-03-03T15:00:00,36,1,google.com,Search,2
+2019-03-03T15:00:00,1,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T15:00:00,1,1,nh.gov,General News & Opinion,-2
+2019-03-03T15:00:00,1,1,amazon.com,General Shopping,-1
+2019-03-03T15:05:00,86,1,checkout.globalgatewaye4.firstdata.com,General Business,2
+2019-03-03T15:05:00,83,1,forms.nh.gov,General News & Opinion,-2
+2019-03-03T15:05:00,63,1,Finder,General Utilities,0
+2019-03-03T15:05:00,45,1,photos,Photos,0
+2019-03-03T15:05:00,12,1,drive.google.com,General Business,2
+2019-03-03T15:05:00,5,1,messenger.com,General Social Networking,-2
+2019-03-03T15:05:00,3,1,photoshop cc,General Design & Composition,2
+2019-03-03T15:10:00,143,1,drive.google.com,General Business,2
+2019-03-03T15:10:00,125,1,Finder,General Utilities,0
+2019-03-03T15:10:00,17,1,Google Documents,Writing,2
+2019-03-03T15:10:00,3,1,messenger.com,General Social Networking,-2
+2019-03-03T15:10:00,3,1,Safari,Browsers,2
+2019-03-03T15:10:00,3,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T15:10:00,2,1,photos,Photos,0
+2019-03-03T15:10:00,2,1,forms.nh.gov,General News & Opinion,-2
+2019-03-03T15:10:00,2,1,nh.gov,General News & Opinion,-2
+2019-03-03T15:15:00,300,1,messenger.com,General Social Networking,-2
+2019-03-03T15:20:00,135,1,web.mit.edu,General Reference & Learning,2
+2019-03-03T15:20:00,53,1,todoist,Project Management,2
+2019-03-03T15:20:00,19,1,messenger.com,General Social Networking,-2
+2019-03-03T15:20:00,14,1,Mail,Email,2
+2019-03-03T15:20:00,10,1,drive.google.com,General Business,2
+2019-03-03T15:20:00,5,1,wechat,General Social Networking,-2
+2019-03-03T15:20:00,1,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T15:25:00,32,1,messenger.com,General Social Networking,-2
+2019-03-03T15:25:00,2,1,l.messenger.com,Instant Message,-1
+2019-03-03T15:30:00,283,1,web.mit.edu,General Reference & Learning,2
+2019-03-03T15:30:00,16,1,messenger.com,General Social Networking,-2
+2019-03-03T15:30:00,1,1,l.messenger.com,Instant Message,-1
+2019-03-03T15:35:00,300,1,web.mit.edu,General Reference & Learning,2
+2019-03-03T15:40:00,300,1,web.mit.edu,General Reference & Learning,2
+2019-03-03T15:45:00,288,1,web.mit.edu,General Reference & Learning,2
+2019-03-03T15:45:00,12,1,messenger.com,General Social Networking,-2
+2019-03-03T15:50:00,297,1,web.mit.edu,General Reference & Learning,2
+2019-03-03T15:50:00,2,1,messenger.com,General Social Networking,-2
+2019-03-03T15:50:00,1,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T15:55:00,286,1,web.mit.edu,General Reference & Learning,2
+2019-03-03T15:55:00,13,1,eclipse,Editing & IDEs,2
+2019-03-03T16:00:00,288,1,eclipse,Editing & IDEs,2
+2019-03-03T16:00:00,11,1,home.wlu.edu,General Reference & Learning,1
+2019-03-03T16:05:00,263,1,eclipse,Editing & IDEs,2
+2019-03-03T16:05:00,25,1,messenger.com,General Social Networking,-2
+2019-03-03T16:05:00,5,1,home.wlu.edu,General Reference & Learning,1
+2019-03-03T16:05:00,4,1,tutorialspoint.com,General Reference & Learning,1
+2019-03-03T16:05:00,2,1,Mail,Email,2
+2019-03-03T16:10:00,231,1,eclipse,Editing & IDEs,2
+2019-03-03T16:10:00,31,1,Google Forms,General Business,2
+2019-03-03T16:10:00,12,1,Mail,Email,2
+2019-03-03T16:10:00,10,1,drive.google.com,General Business,2
+2019-03-03T16:10:00,7,1,journaldev.com,Engineering & Technology,1
+2019-03-03T16:10:00,5,1,tutorialspoint.com,General Reference & Learning,1
+2019-03-03T16:10:00,3,1,messenger.com,General Social Networking,-2
+2019-03-03T16:15:00,233,1,eclipse,Editing & IDEs,2
+2019-03-03T16:15:00,27,1,geeksforgeeks.org,Operations,2
+2019-03-03T16:15:00,27,1,journaldev.com,Engineering & Technology,1
+2019-03-03T16:15:00,13,1,messenger.com,General Social Networking,-2
+2019-03-03T16:20:00,136,1,eclipse,Editing & IDEs,2
+2019-03-03T16:20:00,65,1,google.com,Search,2
+2019-03-03T16:20:00,31,1,omni.csail.mit.edu,General Reference & Learning,1
+2019-03-03T16:20:00,26,1,Mail,Email,2
+2019-03-03T16:20:00,26,1,messenger.com,General Social Networking,-2
+2019-03-03T16:20:00,6,1,web.mit.edu,General Reference & Learning,2
+2019-03-03T16:20:00,4,1,Google Documents,Writing,2
+2019-03-03T16:20:00,4,1,todoist,Project Management,2
+2019-03-03T16:20:00,2,1,forms.nh.gov,General News & Opinion,-2
+2019-03-03T16:25:00,154,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T16:25:00,81,1,google.com,Search,2
+2019-03-03T16:25:00,33,1,drive.google.com,General Business,2
+2019-03-03T16:25:00,32,1,messenger.com,General Social Networking,-2
+2019-03-03T16:30:00,241,1,eclipse,Editing & IDEs,2
+2019-03-03T16:30:00,55,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T16:30:00,1,1,Mail,Email,2
+2019-03-03T16:35:00,299,1,eclipse,Editing & IDEs,2
+2019-03-03T16:35:00,1,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T16:40:00,177,1,eclipse,Editing & IDEs,2
+2019-03-03T16:40:00,52,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T16:40:00,29,1,Mail,Email,2
+2019-03-03T16:40:00,24,1,messenger.com,General Social Networking,-2
+2019-03-03T16:40:00,17,1,Google Forms,General Business,2
+2019-03-03T16:45:00,168,1,eclipse,Editing & IDEs,2
+2019-03-03T16:45:00,127,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T16:45:00,3,1,messenger.com,General Social Networking,-2
+2019-03-03T16:45:00,1,1,Mail,Email,2
+2019-03-03T16:45:00,1,1,l.messenger.com,Instant Message,-1
+2019-03-03T16:50:00,151,1,eclipse,Editing & IDEs,2
+2019-03-03T16:50:00,74,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-03-03T16:50:00,19,1,messenger.com,General Social Networking,-2
+2019-03-03T16:50:00,17,1,Mail,Email,2
+2019-03-03T16:50:00,13,1,omni.csail.mit.edu,General Reference & Learning,1
+2019-03-03T16:50:00,10,1,sublime text,Editing & IDEs,2
+2019-03-03T16:50:00,7,1,google.com,Search,2
+2019-03-03T16:50:00,4,1,web.mit.edu,General Reference & Learning,2
+2019-03-03T16:50:00,4,1,l.messenger.com,Instant Message,-1
+2019-03-03T16:50:00,1,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T16:55:00,300,1,eclipse,Editing & IDEs,2
+2019-03-03T17:00:00,202,1,eclipse,Editing & IDEs,2
+2019-03-03T17:00:00,68,1,messenger.com,General Social Networking,-2
+2019-03-03T17:00:00,20,1,Finder,General Utilities,0
+2019-03-03T17:00:00,7,1,Mail,Email,2
+2019-03-03T17:00:00,3,1,google.com,Search,2
+2019-03-03T17:05:00,260,1,youtube.com,Video,-2
+2019-03-03T17:05:00,16,1,eclipse,Editing & IDEs,2
+2019-03-03T17:05:00,13,1,messenger.com,General Social Networking,-2
+2019-03-03T17:05:00,9,1,Finder,General Utilities,0
+2019-03-03T17:05:00,1,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-03-03T17:05:00,1,1,drive.google.com,General Business,2
+2019-03-03T17:10:00,173,1,eclipse,Editing & IDEs,2
+2019-03-03T17:10:00,49,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-03-03T17:10:00,26,1,youtube.com,Video,-2
+2019-03-03T17:10:00,19,1,Mail,Email,2
+2019-03-03T17:10:00,19,1,messenger.com,General Social Networking,-2
+2019-03-03T17:10:00,14,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T17:15:00,260,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-03-03T17:15:00,40,1,eclipse,Editing & IDEs,2
+2019-03-03T17:20:00,194,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-03-03T17:20:00,105,1,eclipse,Editing & IDEs,2
+2019-03-03T17:25:00,220,1,eclipse,Editing & IDEs,2
+2019-03-03T17:25:00,80,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-03-03T17:30:00,287,1,eclipse,Editing & IDEs,2
+2019-03-03T17:30:00,12,1,wechat,General Social Networking,-2
+2019-03-03T17:35:00,179,1,eclipse,Editing & IDEs,2
+2019-03-03T17:35:00,120,1,youtube.com,Video,-2
+2019-03-03T17:35:00,1,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-03-03T17:40:00,300,1,youtube.com,Video,-2
+2019-03-03T17:45:00,228,1,youtube.com,Video,-2
+2019-03-03T17:45:00,72,1,eclipse,Editing & IDEs,2
+2019-03-03T17:50:00,268,1,eclipse,Editing & IDEs,2
+2019-03-03T17:50:00,27,1,9to5mac.com,General News & Opinion,-2
+2019-03-03T17:50:00,3,1,messenger.com,General Social Networking,-2
+2019-03-03T17:50:00,1,1,youtube.com,Video,-2
+2019-03-03T17:55:00,247,1,photos,Photos,0
+2019-03-03T17:55:00,53,1,9to5mac.com,General News & Opinion,-2
+2019-03-03T18:00:00,300,1,photos,Photos,0
+2019-03-03T18:05:00,300,1,photos,Photos,0
+2019-03-03T18:10:00,300,1,photos,Photos,0
+2019-03-03T18:15:00,300,1,photos,Photos,0
+2019-03-03T18:20:00,300,1,photos,Photos,0
+2019-03-03T18:25:00,300,1,photos,Photos,0
+2019-03-03T18:30:00,215,1,photos,Photos,0
+2019-03-03T18:30:00,83,1,messenger.com,General Social Networking,-2
+2019-03-03T18:30:00,1,1,9to5mac.com,General News & Opinion,-2
+2019-03-03T18:30:00,1,1,eclipse,Editing & IDEs,2
+2019-03-03T18:35:00,203,1,messenger.com,General Social Networking,-2
+2019-03-03T18:35:00,97,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-03-03T18:40:00,96,1,eclipse,Editing & IDEs,2
+2019-03-03T18:40:00,75,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T18:40:00,67,1,9to5mac.com,General News & Opinion,-2
+2019-03-03T18:40:00,26,1,Mail,Email,2
+2019-03-03T18:40:00,18,1,Google Spreadsheets,General Business,2
+2019-03-03T18:40:00,18,1,messenger.com,General Social Networking,-2
+2019-03-03T18:45:00,261,1,eclipse,Editing & IDEs,2
+2019-03-03T18:45:00,27,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T18:45:00,5,1,messenger.com,General Social Networking,-2
+2019-03-03T18:45:00,3,1,Mail,Email,2
+2019-03-03T18:45:00,3,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-03-03T18:45:00,1,1,drive.google.com,General Business,2
+2019-03-03T18:50:00,236,1,eclipse,Editing & IDEs,2
+2019-03-03T18:50:00,16,1,Google Spreadsheets,General Business,2
+2019-03-03T18:50:00,14,1,drive.google.com,General Business,2
+2019-03-03T18:50:00,13,1,wechat,General Social Networking,-2
+2019-03-03T18:50:00,11,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-03-03T18:50:00,4,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T18:50:00,3,1,problem reporter,General News & Opinion,-2
+2019-03-03T18:50:00,2,1,messenger.com,General Social Networking,-2
+2019-03-03T18:55:00,300,1,eclipse,Editing & IDEs,2
+2019-03-03T19:00:00,300,1,eclipse,Editing & IDEs,2
+2019-03-03T19:05:00,292,1,eclipse,Editing & IDEs,2
+2019-03-03T19:05:00,7,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-03-03T19:05:00,1,1,messenger.com,General Social Networking,-2
+2019-03-03T19:10:00,204,1,eclipse,Editing & IDEs,2
+2019-03-03T19:10:00,59,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T19:10:00,37,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-03-03T19:15:00,275,1,eclipse,Editing & IDEs,2
+2019-03-03T19:15:00,17,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-03-03T19:15:00,8,1,messenger.com,General Social Networking,-2
+2019-03-03T19:20:00,237,1,eclipse,Editing & IDEs,2
+2019-03-03T19:20:00,55,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-03-03T19:20:00,8,1,Mail,Email,2
+2019-03-03T19:25:00,120,1,eclipse,Editing & IDEs,2
+2019-03-03T19:25:00,40,1,Mail,Email,2
+2019-03-03T19:25:00,30,1,Terminal,Systems Operations,2
+2019-03-03T19:25:00,29,1,messenger.com,General Social Networking,-2
+2019-03-03T19:25:00,27,1,wechat,General Social Networking,-2
+2019-03-03T19:25:00,19,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T19:25:00,18,1,omni.csail.mit.edu,General Reference & Learning,1
+2019-03-03T19:25:00,15,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-03-03T19:25:00,2,1,web.mit.edu,General Reference & Learning,2
+2019-03-03T19:30:00,166,1,wechat,General Social Networking,-2
+2019-03-03T19:30:00,100,1,eclipse,Editing & IDEs,2
+2019-03-03T19:30:00,12,1,Finder,General Utilities,0
+2019-03-03T19:30:00,10,1,sublime text,Editing & IDEs,2
+2019-03-03T19:30:00,7,1,messenger.com,General Social Networking,-2
+2019-03-03T19:30:00,4,1,notability,Writing,2
+2019-03-03T19:30:00,1,1,Mail,Email,2
+2019-03-03T19:35:00,215,1,eclipse,Editing & IDEs,2
+2019-03-03T19:35:00,45,1,messenger.com,General Social Networking,-2
+2019-03-03T19:35:00,33,1,wechat,General Social Networking,-2
+2019-03-03T19:35:00,3,1,Terminal,Systems Operations,2
+2019-03-03T19:35:00,2,1,Finder,General Utilities,0
+2019-03-03T19:40:00,116,1,messenger.com,General Social Networking,-2
+2019-03-03T19:40:00,116,1,Terminal,Systems Operations,2
+2019-03-03T19:40:00,56,1,eclipse,Editing & IDEs,2
+2019-03-03T19:40:00,12,1,wechat,General Social Networking,-2
+2019-03-03T19:45:00,204,1,messenger.com,General Social Networking,-2
+2019-03-03T19:45:00,64,1,Mail,Email,2
+2019-03-03T19:45:00,13,1,calendar,Calendars,1
+2019-03-03T19:45:00,7,1,Google Spreadsheets,General Business,2
+2019-03-03T19:45:00,6,1,wechat,General Social Networking,-2
+2019-03-03T19:45:00,6,1,9to5mac.com,General News & Opinion,-2
+2019-03-03T19:50:00,172,1,Mail,Email,2
+2019-03-03T19:50:00,72,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T19:50:00,49,1,messenger.com,General Social Networking,-2
+2019-03-03T19:50:00,3,1,web.mit.edu,General Reference & Learning,2
+2019-03-03T19:50:00,2,1,wechat,General Social Networking,-2
+2019-03-03T19:50:00,2,1,9to5mac.com,General News & Opinion,-2
+2019-03-03T19:55:00,147,1,Mail,Email,2
+2019-03-03T19:55:00,96,1,Google Spreadsheets,General Business,2
+2019-03-03T19:55:00,31,1,eclipse,Editing & IDEs,2
+2019-03-03T19:55:00,19,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T19:55:00,5,1,messenger.com,General Social Networking,-2
+2019-03-03T19:55:00,2,1,wechat,General Social Networking,-2
+2019-03-03T20:00:00,198,1,calendar,Calendars,1
+2019-03-03T20:00:00,102,1,Mail,Email,2
+2019-03-03T20:05:00,195,1,youtube.com,Video,-2
+2019-03-03T20:05:00,39,1,Mail,Email,2
+2019-03-03T20:05:00,25,1,Google Spreadsheets,General Business,2
+2019-03-03T20:05:00,21,1,messenger.com,General Social Networking,-2
+2019-03-03T20:05:00,13,1,calendar,Calendars,1
+2019-03-03T20:05:00,3,1,omni.csail.mit.edu,General Reference & Learning,1
+2019-03-03T20:05:00,2,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T20:05:00,2,1,wechat,General Social Networking,-2
+2019-03-03T20:10:00,223,1,wechat,General Social Networking,-2
+2019-03-03T20:10:00,30,1,messenger.com,General Social Networking,-2
+2019-03-03T20:10:00,25,1,Mail,Email,2
+2019-03-03T20:10:00,9,1,9to5mac.com,General News & Opinion,-2
+2019-03-03T20:10:00,7,1,didit.csail.mit.edu,General Reference & Learning,1
+2019-03-03T20:10:00,3,1,calendar,Calendars,1
+2019-03-03T20:10:00,2,1,eclipse,Editing & IDEs,2
+2019-03-03T20:15:00,232,1,9to5mac.com,General News & Opinion,-2
+2019-03-03T20:15:00,68,1,kindle,General Reference & Learning,2
+2019-03-03T20:20:00,300,1,kindle,General Reference & Learning,2
+2019-03-03T20:25:00,295,1,kindle,General Reference & Learning,2
+2019-03-03T20:25:00,5,1,calendar,Calendars,1
+2019-03-03T20:30:00,300,1,kindle,General Reference & Learning,2
+2019-03-03T20:35:00,300,1,kindle,General Reference & Learning,2
+2019-03-03T20:40:00,300,1,kindle,General Reference & Learning,2
+2019-03-03T20:45:00,267,1,kindle,General Reference & Learning,2
+2019-03-03T20:45:00,28,1,messenger.com,General Social Networking,-2
+2019-03-03T20:45:00,1,1,9to5mac.com,General News & Opinion,-2
+2019-03-03T20:45:00,1,1,calendar,Calendars,1
+2019-03-03T20:50:00,293,1,kindle,General Reference & Learning,2
+2019-03-03T20:50:00,7,1,messenger.com,General Social Networking,-2
+2019-03-03T20:55:00,300,1,kindle,General Reference & Learning,2
+2019-03-03T21:00:00,261,1,kindle,General Reference & Learning,2
+2019-03-03T21:00:00,23,1,idp.mit.edu,General Reference & Learning,1
+2019-03-03T21:00:00,7,1,atlas.mit.edu,General Business,2
+2019-03-03T21:00:00,5,1,9to5mac.com,General News & Opinion,-2
+2019-03-03T21:00:00,2,1,messenger.com,General Social Networking,-2
+2019-03-03T21:00:00,2,1,adminappsts.mit.edu,Presentation,2
+2019-03-03T21:05:00,196,1,kindle,General Reference & Learning,2
+2019-03-03T21:05:00,103,1,adminappsts.mit.edu,Presentation,2
+2019-03-03T21:05:00,1,1,calendar,Calendars,1
+2019-03-03T21:10:00,300,1,kindle,General Reference & Learning,2
+2019-03-03T21:15:00,299,1,kindle,General Reference & Learning,2
+2019-03-03T21:20:00,300,1,kindle,General Reference & Learning,2
+2019-03-03T21:25:00,213,1,kindle,General Reference & Learning,2
+2019-03-03T21:25:00,42,1,messenger.com,General Social Networking,-2
+2019-03-03T21:25:00,32,1,amazon.com,General Shopping,-1
+2019-03-03T21:25:00,7,1,youtube.com,Video,-2
+2019-03-03T21:25:00,2,1,google.com,Search,2
+2019-03-03T21:25:00,2,1,calendar,Calendars,1
+2019-03-03T21:25:00,1,1,adminappsts.mit.edu,Presentation,2
+2019-03-03T21:25:00,1,1,atlas.mit.edu,General Business,2
+2019-03-03T21:30:00,297,1,kindle,General Reference & Learning,2
+2019-03-03T21:30:00,2,1,messenger.com,General Social Networking,-2
+2019-03-03T21:30:00,1,1,calendar,Calendars,1
+2019-03-03T21:35:00,113,1,kindle,General Reference & Learning,2
+2019-03-03T21:35:00,60,1,wechat,General Social Networking,-2
+2019-03-03T21:35:00,40,1,facebook.com,General Social Networking,-2
+2019-03-03T21:35:00,39,1,Mail,Email,2
+2019-03-03T21:35:00,20,1,learning-modules.mit.edu,General Reference & Learning,1
+2019-03-03T21:35:00,14,1,messenger.com,General Social Networking,-2
+2019-03-03T21:35:00,5,1,MS Excel,General Business,2
+2019-03-03T21:35:00,3,1,adminappsts.mit.edu,Presentation,2
+2019-03-03T21:35:00,3,1,Steam,Games,-2
+2019-03-03T21:35:00,3,1,atlas.mit.edu,General Business,2
+2019-03-03T21:40:00,174,1,messenger.com,General Social Networking,-2
+2019-03-03T21:40:00,121,1,facebook.com,General Social Networking,-2
+2019-03-03T21:40:00,5,1,learning-modules.mit.edu,General Reference & Learning,1
+2019-03-03T21:45:00,129,1,facebook.com,General Social Networking,-2
+2019-03-03T21:45:00,98,1,Google Spreadsheets,General Business,2
+2019-03-03T21:45:00,53,1,messenger.com,General Social Networking,-2
+2019-03-03T21:45:00,12,1,kindle,General Reference & Learning,2
+2019-03-03T21:45:00,5,1,Steam,Games,-2
+2019-03-03T21:45:00,2,1,wechat,General Social Networking,-2
+2019-03-03T21:45:00,1,1,geeksforgeeks.org,Operations,2
+2019-03-03T21:50:00,300,1,facebook.com,General Social Networking,-2
+2019-03-03T21:55:00,234,1,facebook.com,General Social Networking,-2
+2019-03-03T21:55:00,46,1,Google Spreadsheets,General Business,2
+2019-03-03T21:55:00,18,1,messenger.com,General Social Networking,-2
+2019-03-03T21:55:00,2,1,wechat,General Social Networking,-2
+2019-03-03T22:00:00,179,1,messenger.com,General Social Networking,-2
+2019-03-03T22:00:00,60,1,facebook.com,General Social Networking,-2
+2019-03-03T22:00:00,24,1,Mail,Email,2
+2019-03-03T22:00:00,20,1,wechat,General Social Networking,-2
+2019-03-03T22:00:00,11,1,drive.google.com,General Business,2
+2019-03-03T22:00:00,2,1,Steam,Games,-2
+2019-03-03T22:00:00,1,1,Google Spreadsheets,General Business,2
+2019-03-03T22:05:00,113,1,facebook.com,General Social Networking,-2
+2019-03-03T22:05:00,78,1,wechat,General Social Networking,-2
+2019-03-03T22:05:00,73,1,messenger.com,General Social Networking,-2
+2019-03-03T22:15:00,285,1,kindle,General Reference & Learning,2
+2019-03-03T22:20:00,300,1,kindle,General Reference & Learning,2
+2019-03-03T22:25:00,300,1,kindle,General Reference & Learning,2
+2019-03-03T22:30:00,300,1,kindle,General Reference & Learning,2
+2019-03-03T22:35:00,300,1,kindle,General Reference & Learning,2
+2019-03-03T22:40:00,300,1,kindle,General Reference & Learning,2
+2019-03-03T22:45:00,300,1,kindle,General Reference & Learning,2
+2019-03-03T22:50:00,213,1,kindle,General Reference & Learning,2
+2019-03-03T22:50:00,72,1,wechat,General Social Networking,-2
+2019-03-03T22:50:00,15,1,messages,General Social Networking,-2
+2019-03-03T22:55:00,300,1,kindle,General Reference & Learning,2
+2019-03-03T23:00:00,300,1,kindle,General Reference & Learning,2
+2019-03-03T23:05:00,297,1,kindle,General Reference & Learning,2
+2019-03-03T23:05:00,3,1,messages,General Social Networking,-2
+2019-03-03T23:10:00,300,1,kindle,General Reference & Learning,2
+2019-03-03T23:15:00,217,1,kindle,General Reference & Learning,2
+2019-03-03T23:15:00,76,1,messenger.com,General Social Networking,-2
+2019-03-03T23:15:00,7,1,wechat,General Social Networking,-2
+2019-03-03T23:20:00,158,1,messenger.com,General Social Networking,-2
+2019-03-03T23:20:00,81,1,facebook.com,General Social Networking,-2
+2019-03-03T23:20:00,55,1,wechat,General Social Networking,-2
+2019-03-03T23:20:00,5,1,Mail,Email,2
+2019-03-03T23:20:00,1,1,Google Spreadsheets,General Business,2
+2019-03-03T23:25:00,148,1,messenger.com,General Social Networking,-2
+2019-03-03T23:25:00,122,1,wechat,General Social Networking,-2
+2019-03-03T23:25:00,27,1,Mail,Email,2
+2019-03-03T23:25:00,2,1,drive.google.com,General Business,2
+2019-03-03T23:25:00,1,1,Google Spreadsheets,General Business,2
+2019-03-03T23:30:00,154,1,kindle,General Reference & Learning,2
+2019-03-03T23:30:00,44,1,messenger.com,General Social Networking,-2
+2019-03-03T23:30:00,30,1,Finder,General Utilities,0
+2019-03-03T23:30:00,29,1,wechat,General Social Networking,-2
+2019-03-03T23:30:00,14,1,Mail,Email,2
+2019-03-03T23:40:00,226,1,kindle,General Reference & Learning,2
+2019-03-03T23:40:00,33,1,Mail,Email,2
+2019-03-03T23:40:00,8,1,wechat,General Social Networking,-2
+2019-03-03T23:45:00,296,1,kindle,General Reference & Learning,2
+2019-03-03T23:45:00,4,1,wechat,General Social Networking,-2
+2019-03-03T23:50:00,300,1,kindle,General Reference & Learning,2
+2019-03-03T23:55:00,295,1,kindle,General Reference & Learning,2
+2019-03-03T23:55:00,5,1,Mail,Email,2

@@ -1,0 +1,153 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2014-07-01T18:40:00,108,1,facebook.com,General Social Networking,-2
+2014-07-01T18:40:00,106,1,Skype,General Social Networking,-2
+2014-07-01T18:40:00,47,1,9gag.com,Comedy,-2
+2014-07-01T18:40:00,3,1,wechat,General Social Networking,-2
+2014-07-01T18:45:00,256,1,facebook.com,General Social Networking,-2
+2014-07-01T18:45:00,44,1,Dropbox,File Sharing,-2
+2014-07-01T18:50:00,97,1,facebook.com,General Social Networking,-2
+2014-07-01T18:50:00,94,1,Dropbox,File Sharing,-2
+2014-07-01T18:50:00,85,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2014-07-01T18:50:00,6,1,9gag.com,Comedy,-2
+2014-07-01T18:50:00,6,1,Finder,General Utilities,0
+2014-07-01T18:50:00,5,1,Safari,Browsers,2
+2014-07-01T18:50:00,4,1,9to5mac.com,General News & Opinion,-2
+2014-07-01T18:50:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2014-07-01T18:55:00,125,1,Finder,General Utilities,0
+2014-07-01T18:55:00,63,1,9gag.com,Comedy,-2
+2014-07-01T18:55:00,42,1,keychain access,Systems Operations,2
+2014-07-01T18:55:00,34,1,Skype,General Social Networking,-2
+2014-07-01T18:55:00,30,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2014-07-01T18:55:00,4,1,MS Excel,General Business,2
+2014-07-01T18:55:00,2,1,calendar,Calendars,1
+2014-07-01T19:00:00,156,1,9gag.com,Comedy,-2
+2014-07-01T19:00:00,95,1,Skype,General Social Networking,-2
+2014-07-01T19:00:00,32,1,en.wikipedia.org,General Reference & Learning,1
+2014-07-01T19:00:00,10,1,google.com,Search,2
+2014-07-01T19:00:00,6,1,Safari,Browsers,2
+2014-07-01T19:05:00,164,1,Skype,General Social Networking,-2
+2014-07-01T19:05:00,47,1,9gag.com,Comedy,-2
+2014-07-01T19:05:00,41,1,en.wikipedia.org,General Reference & Learning,1
+2014-07-01T19:05:00,27,1,google.com,Search,2
+2014-07-01T19:05:00,9,1,bing.com,Search,2
+2014-07-01T19:10:00,184,1,9gag.com,Comedy,-2
+2014-07-01T19:10:00,115,1,en.wikipedia.org,General Reference & Learning,1
+2014-07-01T19:15:00,300,1,9gag.com,Comedy,-2
+2014-07-01T19:20:00,210,1,super hexagon,Games,-2
+2014-07-01T19:20:00,61,1,Finder,General Utilities,0
+2014-07-01T19:20:00,14,1,Skype,General Social Networking,-2
+2014-07-01T19:20:00,10,1,9gag.com,Comedy,-2
+2014-07-01T19:20:00,3,1,en.wikipedia.org,General Reference & Learning,1
+2014-07-01T19:20:00,1,1,archive utility,General Utilities,1
+2014-07-01T19:20:00,1,1,coreservicesuiagent,General Utilities,0
+2014-07-01T19:25:00,300,1,super hexagon,Games,-2
+2014-07-01T19:30:00,300,1,super hexagon,Games,-2
+2014-07-01T19:35:00,300,1,super hexagon,Games,-2
+2014-07-01T19:40:00,300,1,super hexagon,Games,-2
+2014-07-01T19:45:00,263,1,super hexagon,Games,-2
+2014-07-01T19:45:00,32,1,en.wikipedia.org,General Reference & Learning,1
+2014-07-01T19:45:00,5,1,Finder,General Utilities,0
+2014-07-01T19:50:00,154,1,orteil.dashnet.org,Games,-2
+2014-07-01T19:50:00,57,1,en.wikipedia.org,General Reference & Learning,1
+2014-07-01T19:50:00,46,1,Finder,General Utilities,0
+2014-07-01T19:50:00,25,1,TextEdit,Writing,2
+2014-07-01T19:50:00,2,1,Safari,Browsers,2
+2014-07-01T19:55:00,184,1,orteil.dashnet.org,Games,-2
+2014-07-01T19:55:00,103,1,arithmetic.zetamac.com,General Reference & Learning,1
+2014-07-01T19:55:00,5,1,Safari,Browsers,2
+2014-07-01T20:00:00,300,1,arithmetic.zetamac.com,General Reference & Learning,1
+2014-07-01T20:05:00,300,1,arithmetic.zetamac.com,General Reference & Learning,1
+2014-07-01T20:10:00,300,1,arithmetic.zetamac.com,General Reference & Learning,1
+2014-07-01T20:15:00,300,1,arithmetic.zetamac.com,General Reference & Learning,1
+2014-07-01T20:20:00,300,1,arithmetic.zetamac.com,General Reference & Learning,1
+2014-07-01T20:25:00,300,1,arithmetic.zetamac.com,General Reference & Learning,1
+2014-07-01T20:30:00,300,1,arithmetic.zetamac.com,General Reference & Learning,1
+2014-07-01T20:35:00,300,1,arithmetic.zetamac.com,General Reference & Learning,1
+2014-07-01T20:40:00,300,1,arithmetic.zetamac.com,General Reference & Learning,1
+2014-07-01T20:45:00,300,1,arithmetic.zetamac.com,General Reference & Learning,1
+2014-07-01T20:50:00,300,1,arithmetic.zetamac.com,General Reference & Learning,1
+2014-07-01T20:55:00,300,1,arithmetic.zetamac.com,General Reference & Learning,1
+2014-07-01T21:00:00,300,1,arithmetic.zetamac.com,General Reference & Learning,1
+2014-07-01T21:05:00,300,1,arithmetic.zetamac.com,General Reference & Learning,1
+2014-07-01T21:10:00,195,1,tetrisfriends.com,Games,-2
+2014-07-01T21:10:00,82,1,arithmetic.zetamac.com,General Reference & Learning,1
+2014-07-01T21:10:00,19,1,facebook.com,General Social Networking,-2
+2014-07-01T21:10:00,3,1,Safari,Browsers,2
+2014-07-01T21:15:00,300,1,tetrisfriends.com,Games,-2
+2014-07-01T21:20:00,300,1,tetrisfriends.com,Games,-2
+2014-07-01T21:25:00,300,1,tetrisfriends.com,Games,-2
+2014-07-01T21:30:00,300,1,tetrisfriends.com,Games,-2
+2014-07-01T21:35:00,215,1,super hexagon,Games,-2
+2014-07-01T21:35:00,85,1,tetrisfriends.com,Games,-2
+2014-07-01T21:40:00,300,1,super hexagon,Games,-2
+2014-07-01T21:45:00,147,1,super hexagon,Games,-2
+2014-07-01T21:45:00,85,1,Skype,General Social Networking,-2
+2014-07-01T21:45:00,53,1,Finder,General Utilities,0
+2014-07-01T21:45:00,13,1,tetrisfriends.com,Games,-2
+2014-07-01T21:45:00,1,1,9to5mac.com,General News & Opinion,-2
+2014-07-01T21:45:00,1,1,facebook.com,General Social Networking,-2
+2014-07-01T21:50:00,300,1,facebook.com,General Social Networking,-2
+2014-07-01T21:55:00,300,1,facebook.com,General Social Networking,-2
+2014-07-01T22:00:00,288,1,facebook.com,General Social Networking,-2
+2014-07-01T22:00:00,5,1,orteil.dashnet.org,Games,-2
+2014-07-01T22:00:00,3,1,sbnation.com,Sports,-1
+2014-07-01T22:00:00,2,1,huffingtonpost.com,General News & Opinion,-2
+2014-07-01T22:00:00,2,1,tetrisfriends.com,Games,-2
+2014-07-01T22:05:00,196,1,facebook.com,General Social Networking,-2
+2014-07-01T22:05:00,91,1,huffingtonpost.com,General News & Opinion,-2
+2014-07-01T22:05:00,7,1,telegraph.co.uk,General News & Opinion,-2
+2014-07-01T22:05:00,5,1,Skype,General Social Networking,-2
+2014-07-01T22:10:00,149,1,wechat,General Social Networking,-2
+2014-07-01T22:10:00,149,1,9to5mac.com,General News & Opinion,-2
+2014-07-01T22:10:00,2,1,facebook.com,General Social Networking,-2
+2014-07-01T22:15:00,299,1,9to5mac.com,General News & Opinion,-2
+2014-07-01T22:20:00,192,1,facebook.com,General Social Networking,-2
+2014-07-01T22:20:00,108,1,9to5mac.com,General News & Opinion,-2
+2014-07-01T22:25:00,229,1,facebook.com,General Social Networking,-2
+2014-07-01T22:25:00,36,1,Skype,General Social Networking,-2
+2014-07-01T22:25:00,17,1,9to5mac.com,General News & Opinion,-2
+2014-07-01T22:25:00,11,1,google.com,Search,2
+2014-07-01T22:25:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2014-07-01T22:25:00,1,1,huffingtonpost.com,General News & Opinion,-2
+2014-07-01T22:30:00,219,1,facebook.com,General Social Networking,-2
+2014-07-01T22:30:00,31,1,messages,General Social Networking,-2
+2014-07-01T22:30:00,30,1,Skype,General Social Networking,-2
+2014-07-01T22:30:00,12,1,google.com,Search,2
+2014-07-01T22:30:00,7,1,9to5mac.com,General News & Opinion,-2
+2014-07-01T22:30:00,1,1,wechat,General Social Networking,-2
+2014-07-01T22:35:00,239,1,facebook.com,General Social Networking,-2
+2014-07-01T22:35:00,61,1,messages,General Social Networking,-2
+2014-07-01T22:40:00,300,1,facebook.com,General Social Networking,-2
+2014-07-01T22:45:00,300,1,facebook.com,General Social Networking,-2
+2014-07-01T22:50:00,300,1,facebook.com,General Social Networking,-2
+2014-07-01T22:55:00,148,1,9gag.com,Comedy,-2
+2014-07-01T22:55:00,133,1,facebook.com,General Social Networking,-2
+2014-07-01T22:55:00,9,1,Dictionary,General Reference & Learning,1
+2014-07-01T22:55:00,4,1,google.com,Search,2
+2014-07-01T22:55:00,3,1,9to5mac.com,General News & Opinion,-2
+2014-07-01T22:55:00,1,1,Safari,Browsers,2
+2014-07-01T23:00:00,153,1,facebook.com,General Social Networking,-2
+2014-07-01T23:00:00,95,1,9gag.com,Comedy,-2
+2014-07-01T23:00:00,47,1,tetrisfriends.com,Games,-2
+2014-07-01T23:00:00,4,1,9to5mac.com,General News & Opinion,-2
+2014-07-01T23:05:00,215,1,tetrisfriends.com,Games,-2
+2014-07-01T23:05:00,83,1,facebook.com,General Social Networking,-2
+2014-07-01T23:05:00,1,1,9to5mac.com,General News & Opinion,-2
+2014-07-01T23:10:00,291,1,tetrisfriends.com,Games,-2
+2014-07-01T23:10:00,9,1,facebook.com,General Social Networking,-2
+2014-07-01T23:15:00,300,1,tetrisfriends.com,Games,-2
+2014-07-01T23:20:00,300,1,tetrisfriends.com,Games,-2
+2014-07-01T23:25:00,297,1,tetrisfriends.com,Games,-2
+2014-07-01T23:25:00,3,1,facebook.com,General Social Networking,-2
+2014-07-01T23:30:00,300,1,tetrisfriends.com,Games,-2
+2014-07-01T23:35:00,287,1,tetrisfriends.com,Games,-2
+2014-07-01T23:35:00,13,1,Skype,General Social Networking,-2
+2014-07-01T23:40:00,267,1,tetrisfriends.com,Games,-2
+2014-07-01T23:40:00,32,1,facebook.com,General Social Networking,-2
+2014-07-01T23:40:00,1,1,9to5mac.com,General News & Opinion,-2
+2014-07-01T23:45:00,296,1,tetrisfriends.com,Games,-2
+2014-07-01T23:45:00,3,1,Skype,General Social Networking,-2
+2014-07-01T23:50:00,291,1,tetrisfriends.com,Games,-2
+2014-07-01T23:50:00,9,1,facebook.com,General Social Networking,-2
+2014-07-01T23:55:00,298,1,tetrisfriends.com,Games,-2
+2014-07-01T23:55:00,2,1,facebook.com,General Social Networking,-2

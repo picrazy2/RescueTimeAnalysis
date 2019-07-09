@@ -1,0 +1,121 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2013-11-02T14:35:00,54,1,System Preferences,General Utilities,0
+2013-11-02T14:35:00,34,1,Finder,General Utilities,0
+2013-11-02T14:35:00,21,1,usernotificationcenter,General Utilities,0
+2013-11-02T15:20:00,47,1,Activity Monitor,General Utilities,0
+2013-11-02T15:20:00,42,1,microsoft outlook,Email,2
+2013-11-02T15:20:00,32,1,mactracker,Search,-2
+2013-11-02T15:20:00,19,1,Finder,General Utilities,0
+2013-11-02T15:20:00,6,1,eclipse,Editing & IDEs,2
+2013-11-02T15:20:00,4,1,alfred,General Utilities,2
+2013-11-02T15:25:00,107,1,eclipse,Editing & IDEs,2
+2013-11-02T15:25:00,83,1,Activity Monitor,General Utilities,0
+2013-11-02T15:25:00,46,1,cerberus.delos.com:790,General Reference & Learning,1
+2013-11-02T15:25:00,43,1,usaco.org,General Software Development,2
+2013-11-02T15:25:00,9,1,iTunes,Music,0
+2013-11-02T15:25:00,7,1,google.com,Search,2
+2013-11-02T15:25:00,3,1,v.youku.com,Video,-2
+2013-11-02T15:25:00,2,1,usernotificationcenter,General Utilities,0
+2013-11-02T15:30:00,107,1,eclipse,Editing & IDEs,2
+2013-11-02T15:30:00,106,1,iTunes,Music,0
+2013-11-02T15:30:00,53,1,cerberus.delos.com:790,General Reference & Learning,1
+2013-11-02T15:30:00,34,1,microsoft outlook,Email,2
+2013-11-02T15:35:00,163,1,eclipse,Editing & IDEs,2
+2013-11-02T15:35:00,66,1,cerberus.delos.com:790,General Reference & Learning,1
+2013-11-02T15:35:00,34,1,iTunes,Music,0
+2013-11-02T15:40:00,189,1,cerberus.delos.com:790,General Reference & Learning,1
+2013-11-02T15:40:00,69,1,eclipse,Editing & IDEs,2
+2013-11-02T15:40:00,40,1,iTunes,Music,0
+2013-11-02T15:45:00,163,1,cerberus.delos.com:790,General Reference & Learning,1
+2013-11-02T15:45:00,94,1,iTunes,Music,0
+2013-11-02T15:45:00,42,1,eclipse,Editing & IDEs,2
+2013-11-02T15:50:00,120,1,eclipse,Editing & IDEs,2
+2013-11-02T15:50:00,118,1,Dropbox,File Sharing,-2
+2013-11-02T15:50:00,61,1,cerberus.delos.com:790,General Reference & Learning,1
+2013-11-02T15:55:00,185,1,cerberus.delos.com:790,General Reference & Learning,1
+2013-11-02T15:55:00,110,1,eclipse,Editing & IDEs,2
+2013-11-02T15:55:00,3,1,usernotificationcenter,General Utilities,0
+2013-11-02T16:00:00,299,1,cerberus.delos.com:790,General Reference & Learning,1
+2013-11-02T16:05:00,300,1,cerberus.delos.com:790,General Reference & Learning,1
+2013-11-02T16:10:00,156,1,cerberus.delos.com:790,General Reference & Learning,1
+2013-11-02T16:10:00,143,1,eclipse,Editing & IDEs,2
+2013-11-02T16:15:00,229,1,eclipse,Editing & IDEs,2
+2013-11-02T16:15:00,35,1,mactracker,Search,-2
+2013-11-02T16:20:00,297,1,eclipse,Editing & IDEs,2
+2013-11-02T16:20:00,2,1,System Preferences,General Utilities,0
+2013-11-02T16:20:00,1,1,cerberus.delos.com:790,General Reference & Learning,1
+2013-11-02T16:25:00,300,1,eclipse,Editing & IDEs,2
+2013-11-02T16:30:00,300,1,eclipse,Editing & IDEs,2
+2013-11-02T16:35:00,300,1,eclipse,Editing & IDEs,2
+2013-11-02T16:40:00,265,1,eclipse,Editing & IDEs,2
+2013-11-02T16:40:00,35,1,cerberus.delos.com:790,General Reference & Learning,1
+2013-11-02T16:45:00,176,1,eclipse,Editing & IDEs,2
+2013-11-02T16:45:00,122,1,cerberus.delos.com:790,General Reference & Learning,1
+2013-11-02T16:50:00,153,1,cerberus.delos.com:790,General Reference & Learning,1
+2013-11-02T16:50:00,144,1,eclipse,Editing & IDEs,2
+2013-11-02T16:50:00,1,1,System Preferences,General Utilities,0
+2013-11-02T16:55:00,300,1,cerberus.delos.com:790,General Reference & Learning,1
+2013-11-02T17:00:00,176,1,apple.com,Engineering & Technology,-1
+2013-11-02T17:00:00,120,1,cerberus.delos.com:790,General Reference & Learning,1
+2013-11-02T17:00:00,4,1,soku.com,Video,-2
+2013-11-02T17:05:00,273,1,apple.com,Engineering & Technology,-1
+2013-11-02T17:05:00,27,1,soku.com,Video,-2
+2013-11-02T17:10:00,179,1,browser.primatelabs.com,Browsers,-1
+2013-11-02T17:10:00,101,1,apple.com,Engineering & Technology,-1
+2013-11-02T17:10:00,12,1,bing.com,Search,2
+2013-11-02T17:10:00,4,1,westranchhighschool.com,Uncategorized,0
+2013-11-02T17:10:00,4,1,en.wikipedia.org,General Reference & Learning,1
+2013-11-02T17:15:00,287,1,Finder,General Utilities,0
+2013-11-02T17:15:00,8,1,browser.primatelabs.com,Browsers,-1
+2013-11-02T17:15:00,3,1,en.wikipedia.org,General Reference & Learning,1
+2013-11-02T17:15:00,1,1,bing.com,Search,2
+2013-11-02T17:20:00,71,1,bing.com,Search,2
+2013-11-02T17:20:00,28,1,browser.primatelabs.com,Browsers,-1
+2013-11-02T17:35:00,172,1,kongregate.com,Games,-2
+2013-11-02T17:40:00,300,1,kongregate.com,Games,-2
+2013-11-02T17:45:00,300,1,kongregate.com,Games,-2
+2013-11-02T17:50:00,300,1,kongregate.com,Games,-2
+2013-11-02T17:55:00,298,1,kongregate.com,Games,-2
+2013-11-02T17:55:00,2,1,google earth,Maps & Regional,1
+2013-11-02T18:00:00,300,1,kongregate.com,Games,-2
+2013-11-02T18:05:00,300,1,kongregate.com,Games,-2
+2013-11-02T18:10:00,300,1,kongregate.com,Games,-2
+2013-11-02T18:15:00,300,1,kongregate.com,Games,-2
+2013-11-02T18:20:00,300,1,kongregate.com,Games,-2
+2013-11-02T18:25:00,300,1,kongregate.com,Games,-2
+2013-11-02T18:30:00,300,1,kongregate.com,Games,-2
+2013-11-02T18:35:00,300,1,kongregate.com,Games,-2
+2013-11-02T18:40:00,300,1,kongregate.com,Games,-2
+2013-11-02T18:45:00,300,1,kongregate.com,Games,-2
+2013-11-02T18:50:00,300,1,kongregate.com,Games,-2
+2013-11-02T18:55:00,300,1,kongregate.com,Games,-2
+2013-11-02T19:00:00,300,1,kongregate.com,Games,-2
+2013-11-02T19:05:00,300,1,kongregate.com,Games,-2
+2013-11-02T19:10:00,300,1,kongregate.com,Games,-2
+2013-11-02T19:15:00,300,1,kongregate.com,Games,-2
+2013-11-02T19:20:00,300,1,kongregate.com,Games,-2
+2013-11-02T19:25:00,300,1,kongregate.com,Games,-2
+2013-11-02T19:30:00,300,1,kongregate.com,Games,-2
+2013-11-02T19:35:00,300,1,kongregate.com,Games,-2
+2013-11-02T19:40:00,300,1,kongregate.com,Games,-2
+2013-11-02T19:45:00,300,1,kongregate.com,Games,-2
+2013-11-02T19:50:00,300,1,kongregate.com,Games,-2
+2013-11-02T19:55:00,300,1,kongregate.com,Games,-2
+2013-11-02T20:00:00,300,1,kongregate.com,Games,-2
+2013-11-02T20:05:00,300,1,kongregate.com,Games,-2
+2013-11-02T20:10:00,300,1,kongregate.com,Games,-2
+2013-11-02T20:15:00,300,1,kongregate.com,Games,-2
+2013-11-02T20:20:00,300,1,kongregate.com,Games,-2
+2013-11-02T20:25:00,300,1,kongregate.com,Games,-2
+2013-11-02T20:30:00,300,1,kongregate.com,Games,-2
+2013-11-02T20:35:00,300,1,kongregate.com,Games,-2
+2013-11-02T20:40:00,300,1,kongregate.com,Games,-2
+2013-11-02T20:45:00,300,1,kongregate.com,Games,-2
+2013-11-02T20:50:00,300,1,kongregate.com,Games,-2
+2013-11-02T20:55:00,300,1,kongregate.com,Games,-2
+2013-11-02T21:00:00,300,1,kongregate.com,Games,-2
+2013-11-02T21:05:00,300,1,kongregate.com,Games,-2
+2013-11-02T21:10:00,300,1,kongregate.com,Games,-2
+2013-11-02T21:15:00,300,1,kongregate.com,Games,-2
+2013-11-02T21:20:00,300,1,kongregate.com,Games,-2
+2013-11-02T21:25:00,269,1,kongregate.com,Games,-2

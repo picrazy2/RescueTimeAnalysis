@@ -1,0 +1,227 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-08-13T10:25:00,40,1,Finder,General Utilities,0
+2018-08-13T10:25:00,22,1,Mail,Email,2
+2018-08-13T10:25:00,5,1,SecurityAgent,Systems Operations,0
+2018-08-13T10:30:00,281,1,Safari,Browsers,2
+2018-08-13T10:30:00,47,1,Finder,General Utilities,0
+2018-08-13T10:30:00,19,1,Mail,Email,2
+2018-08-13T10:30:00,6,1,Skype,General Social Networking,-2
+2018-08-13T10:30:00,5,1,virtualbox vm,General Software Development,2
+2018-08-13T10:35:00,300,1,Safari,Browsers,2
+2018-08-13T10:40:00,300,1,Safari,Browsers,2
+2018-08-13T10:40:00,80,1,virtualbox vm,General Software Development,2
+2018-08-13T10:40:00,45,1,Skype,General Social Networking,-2
+2018-08-13T10:40:00,14,1,backup and sync from google,Uncategorized,0
+2018-08-13T10:40:00,1,1,Finder,General Utilities,0
+2018-08-13T10:45:00,260,1,virtualbox vm,General Software Development,2
+2018-08-13T10:45:00,40,1,backup and sync from google,Uncategorized,0
+2018-08-13T10:45:00,8,1,Safari,Browsers,2
+2018-08-13T10:50:00,200,1,virtualbox vm,General Software Development,2
+2018-08-13T10:50:00,100,1,backup and sync from google,Uncategorized,0
+2018-08-13T10:55:00,261,1,virtualbox vm,General Software Development,2
+2018-08-13T10:55:00,39,1,backup and sync from google,Uncategorized,0
+2018-08-13T10:55:00,1,1,loginwindow,General Utilities,0
+2018-08-13T11:00:00,243,1,virtualbox vm,General Software Development,2
+2018-08-13T11:00:00,54,1,backup and sync from google,Uncategorized,0
+2018-08-13T11:00:00,8,1,loginwindow,General Utilities,0
+2018-08-13T11:00:00,6,1,video.foxnews.com,General News & Opinion,-2
+2018-08-13T11:10:00,93,1,gaoloumi.com,Regional,-2
+2018-08-13T11:10:00,20,1,Mail,Email,2
+2018-08-13T11:15:00,300,1,gaoloumi.com,Regional,-2
+2018-08-13T11:20:00,242,1,gaoloumi.com,Regional,-2
+2018-08-13T11:20:00,58,1,photos,Photos,0
+2018-08-13T11:25:00,300,1,gaoloumi.com,Regional,-2
+2018-08-13T11:25:00,2,1,apple.stackexchange.com,Engineering & Technology,1
+2018-08-13T11:25:00,1,1,virtualbox vm,General Software Development,2
+2018-08-13T11:30:00,295,1,gaoloumi.com,Regional,-2
+2018-08-13T11:30:00,5,1,Finder,General Utilities,0
+2018-08-13T11:35:00,223,1,Finder,General Utilities,0
+2018-08-13T11:35:00,47,1,daisydisk,General Utilities,0
+2018-08-13T11:35:00,36,1,System Preferences,General Utilities,0
+2018-08-13T11:35:00,13,1,daisydiskapp.com,Systems Operations,2
+2018-08-13T11:35:00,3,1,youtube.com,Video,-2
+2018-08-13T11:35:00,3,1,backup and sync from google,Uncategorized,0
+2018-08-13T11:35:00,3,1,Mail,Email,2
+2018-08-13T11:35:00,3,1,Google Forms,General Business,2
+2018-08-13T11:35:00,3,1,Safari,Browsers,2
+2018-08-13T11:35:00,1,1,loginwindow,General Utilities,0
+2018-08-13T11:40:00,151,1,daisydisk,General Utilities,0
+2018-08-13T11:40:00,95,1,Finder,General Utilities,0
+2018-08-13T11:40:00,73,1,Mail,Email,2
+2018-08-13T11:40:00,37,1,backup and sync from google,Uncategorized,0
+2018-08-13T11:40:00,3,1,downloads.mit.edu,Presentation,2
+2018-08-13T11:40:00,2,1,daisydiskapp.com,Systems Operations,2
+2018-08-13T11:40:00,1,1,settings,General Utilities,1
+2018-08-13T11:40:00,1,1,cleanmymac 3 menu,General Utilities,1
+2018-08-13T11:45:00,200,1,Finder,General Utilities,0
+2018-08-13T11:45:00,75,1,daisydisk,General Utilities,0
+2018-08-13T11:45:00,75,1,backup and sync from google,Uncategorized,0
+2018-08-13T11:45:00,3,1,istat menus status,General Utilities,1
+2018-08-13T11:45:00,2,1,Mail,Email,2
+2018-08-13T11:50:00,258,1,Finder,General Utilities,0
+2018-08-13T11:50:00,155,1,backup and sync from google,Uncategorized,0
+2018-08-13T11:50:00,69,1,istat menus,General Utilities,1
+2018-08-13T11:50:00,58,1,daisydisk,General Utilities,0
+2018-08-13T11:50:00,22,1,creative cloud,General Design & Composition,2
+2018-08-13T11:50:00,15,1,drive.google.com,General Business,2
+2018-08-13T11:50:00,7,1,daisydiskapp.com,Systems Operations,2
+2018-08-13T11:55:00,216,1,daisydisk,General Utilities,0
+2018-08-13T11:55:00,147,1,backup and sync from google,Uncategorized,0
+2018-08-13T11:55:00,42,1,Finder,General Utilities,0
+2018-08-13T11:55:00,25,1,istat menus status,General Utilities,1
+2018-08-13T11:55:00,17,1,photos,Photos,0
+2018-08-13T11:55:00,10,1,istat menus,General Utilities,1
+2018-08-13T12:00:00,300,1,photos,Photos,0
+2018-08-13T12:05:00,83,1,photos,Photos,0
+2018-08-13T12:30:00,7,1,Google Forms,General Business,2
+2018-08-13T12:30:00,5,1,loginwindow,General Utilities,0
+2018-08-13T12:30:00,3,1,Mail,Email,2
+2018-08-13T12:35:00,99,1,youtube.com,Video,-2
+2018-08-13T12:35:00,7,1,9to5mac.com,General News & Opinion,-2
+2018-08-13T12:35:00,3,1,backup and sync from google,Uncategorized,0
+2018-08-13T12:35:00,3,1,github.com,General Software Development,2
+2018-08-13T12:35:00,2,1,settings,General Utilities,1
+2018-08-13T12:35:00,1,1,loginwindow,General Utilities,0
+2018-08-13T12:40:00,215,1,youtube.com,Video,-2
+2018-08-13T12:40:00,85,1,backup and sync from google,Uncategorized,0
+2018-08-13T12:45:00,148,1,virtualbox vm,General Software Development,2
+2018-08-13T12:45:00,83,1,youtube.com,Video,-2
+2018-08-13T12:45:00,69,1,backup and sync from google,Uncategorized,0
+2018-08-13T12:50:00,126,1,virtualbox vm,General Software Development,2
+2018-08-13T12:50:00,86,1,youtube.com,Video,-2
+2018-08-13T12:50:00,72,1,backup and sync from google,Uncategorized,0
+2018-08-13T12:50:00,15,1,en.wikipedia.org,General Reference & Learning,1
+2018-08-13T12:50:00,11,1,Mail,Email,2
+2018-08-13T12:50:00,4,1,loginwindow,General Utilities,0
+2018-08-13T12:55:00,14,1,virtualbox vm,General Software Development,2
+2018-08-13T13:00:00,235,1,backup and sync from google,Uncategorized,0
+2018-08-13T13:00:00,35,1,en.wikipedia.org,General Reference & Learning,1
+2018-08-13T13:00:00,15,1,virtualbox vm,General Software Development,2
+2018-08-13T13:05:00,204,1,backup and sync from google,Uncategorized,0
+2018-08-13T13:05:00,68,1,virtualbox vm,General Software Development,2
+2018-08-13T13:05:00,19,1,google.com,Search,2
+2018-08-13T13:05:00,8,1,newtab,Browsers,0
+2018-08-13T13:05:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2018-08-13T13:10:00,253,1,virtualbox vm,General Software Development,2
+2018-08-13T13:10:00,47,1,backup and sync from google,Uncategorized,0
+2018-08-13T13:15:00,168,1,virtualbox vm,General Software Development,2
+2018-08-13T13:15:00,132,1,backup and sync from google,Uncategorized,0
+2018-08-13T13:20:00,169,1,virtualbox vm,General Software Development,2
+2018-08-13T13:20:00,131,1,backup and sync from google,Uncategorized,0
+2018-08-13T13:20:00,128,1,Mail,Email,2
+2018-08-13T13:20:00,44,1,screensaverengine,General Utilities,0
+2018-08-13T13:20:00,35,1,loginwindow,General Utilities,0
+2018-08-13T13:20:00,30,1,Finder,General Utilities,0
+2018-08-13T13:20:00,20,1,System Preferences,General Utilities,0
+2018-08-13T13:20:00,3,1,photos,Photos,0
+2018-08-13T13:25:00,201,1,virtualbox vm,General Software Development,2
+2018-08-13T13:25:00,187,1,Finder,General Utilities,0
+2018-08-13T13:25:00,183,1,Mail,Email,2
+2018-08-13T13:25:00,104,1,photos,Photos,0
+2018-08-13T13:25:00,99,1,backup and sync from google,Uncategorized,0
+2018-08-13T13:25:00,6,1,youtube.com,Video,-2
+2018-08-13T13:25:00,3,1,drive.google.com,General Business,2
+2018-08-13T13:30:00,177,1,backup and sync from google,Uncategorized,0
+2018-08-13T13:30:00,123,1,virtualbox vm,General Software Development,2
+2018-08-13T13:30:00,86,1,youtube.com,Video,-2
+2018-08-13T13:35:00,112,1,info.wasabi.com,Uncategorized,0
+2018-08-13T13:35:00,98,1,backup and sync from google,Uncategorized,0
+2018-08-13T13:35:00,62,1,virtualbox vm,General Software Development,2
+2018-08-13T13:35:00,4,1,Mail,Email,2
+2018-08-13T13:40:00,118,1,youtube.com,Video,-2
+2018-08-13T13:40:00,10,1,cockroachlabs.com,General Reference & Learning,1
+2018-08-13T13:40:00,8,1,Safari,Browsers,2
+2018-08-13T13:40:00,2,1,Preview,General Reference & Learning,2
+2018-08-13T13:40:00,2,1,dbrand.com,General Shopping,-2
+2018-08-13T13:40:00,1,1,att.com,General Business,2
+2018-08-13T13:40:00,1,1,amazon.com,General Shopping,-1
+2018-08-13T13:45:00,300,1,youtube.com,Video,-2
+2018-08-13T13:50:00,300,1,youtube.com,Video,-2
+2018-08-13T13:55:00,262,1,youtube.com,Video,-2
+2018-08-13T13:55:00,31,1,Finder,General Utilities,0
+2018-08-13T13:55:00,7,1,backup and sync from google,Uncategorized,0
+2018-08-13T14:00:00,82,1,Mail,Email,2
+2018-08-13T14:00:00,80,1,loginwindow,General Utilities,0
+2018-08-13T14:00:00,37,1,Skype,General Social Networking,-2
+2018-08-13T14:00:00,23,1,Finder,General Utilities,0
+2018-08-13T14:00:00,6,1,virtualbox vm,General Software Development,2
+2018-08-13T14:00:00,6,1,Preview,General Reference & Learning,2
+2018-08-13T14:00:00,6,1,backup and sync from google,Uncategorized,0
+2018-08-13T14:00:00,3,1,cockroachlabs.com,General Reference & Learning,1
+2018-08-13T14:00:00,1,1,screensaverengine,General Utilities,0
+2018-08-13T14:00:00,1,1,stackoverflow.com,General Software Development,2
+2018-08-13T14:25:00,42,1,Mail,Email,2
+2018-08-13T14:25:00,5,1,loginwindow,General Utilities,0
+2018-08-13T17:40:00,57,1,americaninno.typeform.com,Customer Relations,2
+2018-08-13T17:40:00,40,1,Mail,Email,2
+2018-08-13T17:40:00,2,1,loginwindow,General Utilities,0
+2018-08-13T17:45:00,300,1,americaninno.typeform.com,Customer Relations,2
+2018-08-13T17:50:00,173,1,thebeijinger.com,General News & Opinion,-2
+2018-08-13T17:50:00,124,1,americaninno.typeform.com,Customer Relations,2
+2018-08-13T17:50:00,3,1,Finder,General Utilities,0
+2018-08-13T17:55:00,300,1,thebeijinger.com,General News & Opinion,-2
+2018-08-13T18:00:00,300,1,thebeijinger.com,General News & Opinion,-2
+2018-08-13T18:05:00,14,1,thebeijinger.com,General News & Opinion,-2
+2018-08-13T18:10:00,27,1,youtube.com,Video,-2
+2018-08-13T18:10:00,2,1,loginwindow,General Utilities,0
+2018-08-13T18:15:00,300,1,youtube.com,Video,-2
+2018-08-13T18:20:00,198,1,netflix.com,Video,-2
+2018-08-13T18:20:00,40,1,messenger.com,General Social Networking,-2
+2018-08-13T18:20:00,33,1,geoguessr.com,Games,-2
+2018-08-13T18:20:00,6,1,drive.google.com,General Business,2
+2018-08-13T18:20:00,5,1,youtube.com,Video,-2
+2018-08-13T18:20:00,4,1,Mail,Email,2
+2018-08-13T18:20:00,4,1,newtab,Browsers,0
+2018-08-13T18:20:00,2,1,Safari,Browsers,2
+2018-08-13T18:25:00,217,1,youtube.com,Video,-2
+2018-08-13T18:25:00,65,1,netflix.com,Video,-2
+2018-08-13T18:25:00,17,1,messenger.com,General Social Networking,-2
+2018-08-13T18:30:00,300,1,youtube.com,Video,-2
+2018-08-13T18:35:00,300,1,youtube.com,Video,-2
+2018-08-13T18:40:00,292,1,youtube.com,Video,-2
+2018-08-13T18:40:00,8,1,facetime,Voice Chat,-2
+2018-08-13T18:45:00,294,1,youtube.com,Video,-2
+2018-08-13T18:45:00,6,1,facetime,Voice Chat,-2
+2018-08-13T18:50:00,38,1,youtube.com,Video,-2
+2018-08-13T18:50:00,7,1,gaoloumi.com,Regional,-2
+2018-08-13T18:50:00,1,1,loginwindow,General Utilities,0
+2018-08-13T20:30:00,161,1,youtube.com,Video,-2
+2018-08-13T20:30:00,3,1,loginwindow,General Utilities,0
+2018-08-13T20:35:00,299,1,youtube.com,Video,-2
+2018-08-13T20:40:00,292,1,youtube.com,Video,-2
+2018-08-13T20:40:00,8,1,backup and sync from google,Uncategorized,0
+2018-08-13T20:45:00,259,1,youtube.com,Video,-2
+2018-08-13T20:45:00,1,1,loginwindow,General Utilities,0
+2018-08-13T21:05:00,42,1,google.com,Search,2
+2018-08-13T21:05:00,4,1,youtube.com,Video,-2
+2018-08-13T21:05:00,3,1,loginwindow,General Utilities,0
+2018-08-13T21:20:00,143,1,instagram.com,General Social Networking,-2
+2018-08-13T21:20:00,5,1,Safari,Browsers,2
+2018-08-13T21:25:00,268,1,instagram.com,General Social Networking,-2
+2018-08-13T21:25:00,27,1,google.com,Search,2
+2018-08-13T21:25:00,5,1,Safari,Browsers,2
+2018-08-13T21:30:00,242,1,instagram.com,General Social Networking,-2
+2018-08-13T21:30:00,12,1,google.com,Search,2
+2018-08-13T22:20:00,13,1,backup and sync from google,Uncategorized,0
+2018-08-13T22:20:00,1,1,loginwindow,General Utilities,0
+2018-08-13T23:10:00,93,1,instagram.com,General Social Networking,-2
+2018-08-13T23:10:00,55,1,geoguessr.com,Games,-2
+2018-08-13T23:10:00,5,1,loginwindow,General Utilities,0
+2018-08-13T23:10:00,4,1,netflix.com,Video,-2
+2018-08-13T23:10:00,4,1,messenger.com,General Social Networking,-2
+2018-08-13T23:25:00,239,1,geoguessr.com,Games,-2
+2018-08-13T23:25:00,10,1,messenger.com,General Social Networking,-2
+2018-08-13T23:25:00,1,1,netflix.com,Video,-2
+2018-08-13T23:30:00,300,1,geoguessr.com,Games,-2
+2018-08-13T23:35:00,300,1,geoguessr.com,Games,-2
+2018-08-13T23:40:00,300,1,geoguessr.com,Games,-2
+2018-08-13T23:45:00,300,1,geoguessr.com,Games,-2
+2018-08-13T23:50:00,138,1,geoguessr.com,Games,-2
+2018-08-13T23:50:00,88,1,istat menus status,General Utilities,1
+2018-08-13T23:50:00,61,1,Finder,General Utilities,0
+2018-08-13T23:50:00,7,1,messenger.com,General Social Networking,-2
+2018-08-13T23:50:00,6,1,Safari,Browsers,2
+2018-08-13T23:55:00,184,1,Finder,General Utilities,0
+2018-08-13T23:55:00,106,1,geoguessr.com,Games,-2
+2018-08-13T23:55:00,7,1,newtab,Browsers,0
+2018-08-13T23:55:00,3,1,google.com,Search,2

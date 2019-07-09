@@ -1,0 +1,369 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-02-23T00:10:00,7,1,虾米音乐,Music,-2
+2018-02-23T00:20:00,112,1,facebook.com,General Social Networking,-2
+2018-02-23T00:20:00,5,1,messenger.com,General Social Networking,-2
+2018-02-23T00:20:00,3,1,lms.mitx.mit.edu,General Reference & Learning,2
+2018-02-23T00:20:00,3,1,google.com,Search,2
+2018-02-23T00:20:00,2,1,gradescope.com,General Reference & Learning,1
+2018-02-23T00:20:00,2,1,courses.csail.mit.edu,General Reference & Learning,1
+2018-02-23T00:20:00,1,1,youtube.com,Video,-2
+2018-02-23T00:20:00,1,1,idp.mit.edu,General Reference & Learning,1
+2018-02-23T00:20:00,1,1,stellar.mit.edu,General Reference & Learning,1
+2018-02-23T00:25:00,252,1,facebook.com,General Social Networking,-2
+2018-02-23T00:25:00,25,1,messenger.com,General Social Networking,-2
+2018-02-23T00:25:00,20,1,math.mit.edu,Engineering & Technology,1
+2018-02-23T00:25:00,2,1,youtube.com,Video,-2
+2018-02-23T00:25:00,1,1,l.facebook.com,General Social Networking,-2
+2018-02-23T00:30:00,235,1,messenger.com,General Social Networking,-2
+2018-02-23T00:30:00,59,1,虾米音乐,Music,-2
+2018-02-23T00:30:00,5,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-02-23T00:30:00,1,1,math.mit.edu,Engineering & Technology,1
+2018-02-23T00:35:00,137,1,en.wikipedia.org,General Reference & Learning,1
+2018-02-23T00:35:00,92,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-02-23T00:35:00,64,1,虾米音乐,Music,-2
+2018-02-23T00:35:00,4,1,lms.mitx.mit.edu,General Reference & Learning,2
+2018-02-23T00:35:00,2,1,google.com,Search,2
+2018-02-23T00:35:00,1,1,stellar.mit.edu,General Reference & Learning,1
+2018-02-23T00:40:00,147,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-02-23T00:40:00,76,1,math.mit.edu,Engineering & Technology,1
+2018-02-23T00:40:00,45,1,facebook.com,General Social Networking,-2
+2018-02-23T00:40:00,32,1,messenger.com,General Social Networking,-2
+2018-02-23T00:45:00,265,1,facebook.com,General Social Networking,-2
+2018-02-23T00:50:00,137,1,RescueTime,Intelligence,0
+2018-02-23T00:50:00,1,1,facebook.com,General Social Networking,-2
+2018-02-23T00:55:00,172,1,facebook.com,General Social Networking,-2
+2018-02-23T00:55:00,92,1,RescueTime,Intelligence,0
+2018-02-23T00:55:00,29,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T00:55:00,4,1,math.mit.edu,Engineering & Technology,1
+2018-02-23T00:55:00,3,1,oidc.mit.edu,Presentation,2
+2018-02-23T01:00:00,243,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T01:00:00,53,1,Google Spreadsheets,General Business,2
+2018-02-23T01:00:00,3,1,facebook.com,General Social Networking,-2
+2018-02-23T01:00:00,1,1,messenger.com,General Social Networking,-2
+2018-02-23T01:05:00,300,1,Google Spreadsheets,General Business,2
+2018-02-23T01:10:00,300,1,Google Spreadsheets,General Business,2
+2018-02-23T01:15:00,300,1,Google Spreadsheets,General Business,2
+2018-02-23T01:20:00,63,1,Google Spreadsheets,General Business,2
+2018-02-23T01:20:00,20,1,google.com,Search,2
+2018-02-23T01:20:00,19,1,en.wikipedia.org,General Reference & Learning,1
+2018-02-23T01:20:00,4,1,newtab,Browsers,0
+2018-02-23T01:20:00,3,1,magicallantern.uk,Uncategorized,0
+2018-02-23T01:35:00,162,1,gradescope.com,General Reference & Learning,1
+2018-02-23T01:35:00,2,1,Google Documents,Writing,2
+2018-02-23T01:35:00,1,1,lyricsmode.com,General Entertainment,-2
+2018-02-23T01:40:00,154,1,facebook.com,General Social Networking,-2
+2018-02-23T01:40:00,104,1,gradescope.com,General Reference & Learning,1
+2018-02-23T01:40:00,35,1,Mail,Email,2
+2018-02-23T01:40:00,3,1,Finder,General Utilities,0
+2018-02-23T01:45:00,267,1,facebook.com,General Social Networking,-2
+2018-02-23T01:45:00,28,1,users,General Software Development,2
+2018-02-23T01:45:00,3,1,Google Documents,Writing,2
+2018-02-23T01:45:00,2,1,idp.mit.edu,General Reference & Learning,1
+2018-02-23T01:50:00,287,1,users,General Software Development,2
+2018-02-23T01:50:00,7,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T01:50:00,4,1,oidc.mit.edu,Presentation,2
+2018-02-23T01:50:00,1,1,youtube.com,Video,-2
+2018-02-23T01:55:00,211,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T01:55:00,40,1,en.wikipedia.org,General Reference & Learning,1
+2018-02-23T01:55:00,32,1,Finder,General Utilities,0
+2018-02-23T01:55:00,16,1,idle,Editing & IDEs,2
+2018-02-23T01:55:00,1,1,archive utility,General Utilities,1
+2018-02-23T02:00:00,249,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T02:00:00,51,1,idle,Editing & IDEs,2
+2018-02-23T02:05:00,202,1,idle,Editing & IDEs,2
+2018-02-23T02:05:00,82,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T02:05:00,11,1,stackoverflow.com,General Software Development,2
+2018-02-23T02:05:00,3,1,google.com,Search,2
+2018-02-23T02:05:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2018-02-23T02:10:00,299,1,idle,Editing & IDEs,2
+2018-02-23T02:15:00,267,1,idle,Editing & IDEs,2
+2018-02-23T02:15:00,29,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T02:15:00,4,1,messenger.com,General Social Networking,-2
+2018-02-23T02:20:00,223,1,idle,Editing & IDEs,2
+2018-02-23T02:20:00,51,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T02:20:00,25,1,messenger.com,General Social Networking,-2
+2018-02-23T02:25:00,186,1,idle,Editing & IDEs,2
+2018-02-23T02:25:00,77,1,Terminal,Systems Operations,2
+2018-02-23T02:25:00,19,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T02:25:00,10,1,stackoverflow.com,General Software Development,2
+2018-02-23T02:25:00,3,1,newtab,Browsers,0
+2018-02-23T02:25:00,2,1,google.com,Search,2
+2018-02-23T02:25:00,2,1,Finder,General Utilities,0
+2018-02-23T02:30:00,220,1,Terminal,Systems Operations,2
+2018-02-23T02:30:00,80,1,idle,Editing & IDEs,2
+2018-02-23T02:35:00,149,1,idle,Editing & IDEs,2
+2018-02-23T02:35:00,49,1,Terminal,Systems Operations,2
+2018-02-23T02:35:00,18,1,loginwindow,General Utilities,0
+2018-02-23T02:35:00,6,1,Finder,General Utilities,0
+2018-02-23T02:35:00,4,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T02:35:00,2,1,microsoft error reporting,Science & Technology,-1
+2018-02-23T03:05:00,7,1,Google Spreadsheets,General Business,2
+2018-02-23T03:05:00,2,1,loginwindow,General Utilities,0
+2018-02-23T12:05:00,176,1,Terminal,Systems Operations,2
+2018-02-23T12:05:00,23,1,idle,Editing & IDEs,2
+2018-02-23T12:05:00,4,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T12:10:00,207,1,Terminal,Systems Operations,2
+2018-02-23T12:10:00,55,1,idle,Editing & IDEs,2
+2018-02-23T12:10:00,38,1,microsoft onenote,Intelligence,2
+2018-02-23T12:15:00,282,1,microsoft onenote,Intelligence,2
+2018-02-23T12:15:00,14,1,SecurityAgent,Systems Operations,0
+2018-02-23T12:25:00,123,1,Mail,Email,2
+2018-02-23T12:25:00,31,1,microsoft onenote,Intelligence,2
+2018-02-23T12:25:00,22,1,Terminal,Systems Operations,2
+2018-02-23T12:25:00,7,1,idle,Editing & IDEs,2
+2018-02-23T12:25:00,2,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T12:30:00,180,1,idle,Editing & IDEs,2
+2018-02-23T12:30:00,120,1,Terminal,Systems Operations,2
+2018-02-23T12:35:00,231,1,Terminal,Systems Operations,2
+2018-02-23T12:35:00,68,1,idle,Editing & IDEs,2
+2018-02-23T12:40:00,235,1,idle,Editing & IDEs,2
+2018-02-23T12:40:00,65,1,Terminal,Systems Operations,2
+2018-02-23T12:45:00,123,1,idle,Editing & IDEs,2
+2018-02-23T12:45:00,86,1,localhost:8000,Quality Assurance,2
+2018-02-23T12:45:00,76,1,Terminal,Systems Operations,2
+2018-02-23T12:45:00,7,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T12:45:00,4,1,stackoverflow.com,General Software Development,2
+2018-02-23T12:45:00,3,1,Finder,General Utilities,0
+2018-02-23T12:50:00,152,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T12:50:00,110,1,idle,Editing & IDEs,2
+2018-02-23T12:50:00,38,1,localhost:8000,Quality Assurance,2
+2018-02-23T12:55:00,176,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T12:55:00,18,1,loginwindow,General Utilities,0
+2018-02-23T12:55:00,8,1,gradescope.com,General Reference & Learning,1
+2018-02-23T12:55:00,1,1,users,General Software Development,2
+2018-02-23T13:00:00,5,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-02-23T13:00:00,2,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T13:00:00,2,1,gradescope.com,General Reference & Learning,1
+2018-02-23T13:00:00,2,1,idp.mit.edu,General Reference & Learning,1
+2018-02-23T13:00:00,1,1,facebook.com,General Social Networking,-2
+2018-02-23T13:05:00,234,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-02-23T13:05:00,37,1,courses.csail.mit.edu,General Reference & Learning,1
+2018-02-23T13:05:00,20,1,systemuiserver,General Utilities,1
+2018-02-23T13:05:00,4,1,newtab,Browsers,0
+2018-02-23T13:05:00,3,1,idp.mit.edu,General Reference & Learning,1
+2018-02-23T13:10:00,112,1,courses.csail.mit.edu,General Reference & Learning,1
+2018-02-23T13:10:00,59,1,Preview,General Reference & Learning,2
+2018-02-23T13:10:00,7,1,Finder,General Utilities,0
+2018-02-23T13:20:00,3,1,courses.csail.mit.edu,General Reference & Learning,1
+2018-02-23T14:40:00,211,1,dbrand.com,General Shopping,-2
+2018-02-23T14:40:00,5,1,stellar.mit.edu,General Reference & Learning,1
+2018-02-23T14:40:00,1,1,Google Spreadsheets,General Business,2
+2018-02-23T14:45:00,300,1,dbrand.com,General Shopping,-2
+2018-02-23T14:50:00,300,1,dbrand.com,General Shopping,-2
+2018-02-23T14:55:00,300,1,dbrand.com,General Shopping,-2
+2018-02-23T15:00:00,300,1,dbrand.com,General Shopping,-2
+2018-02-23T15:05:00,238,1,dbrand.com,General Shopping,-2
+2018-02-23T15:10:00,2,1,calendar,Calendars,1
+2018-02-23T15:45:00,38,1,idle,Editing & IDEs,2
+2018-02-23T15:45:00,1,1,loginwindow,General Utilities,0
+2018-02-23T15:45:00,1,1,Terminal,Systems Operations,2
+2018-02-23T15:50:00,196,1,idle,Editing & IDEs,2
+2018-02-23T15:50:00,60,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T15:50:00,39,1,Terminal,Systems Operations,2
+2018-02-23T15:50:00,3,1,users,General Software Development,2
+2018-02-23T15:50:00,2,1,courses.csail.mit.edu,General Reference & Learning,1
+2018-02-23T15:55:00,290,1,idle,Editing & IDEs,2
+2018-02-23T15:55:00,7,1,Finder,General Utilities,0
+2018-02-23T15:55:00,2,1,istat menus updater,General Utilities,1
+2018-02-23T16:00:00,268,1,idle,Editing & IDEs,2
+2018-02-23T16:00:00,23,1,stackoverflow.com,General Software Development,2
+2018-02-23T16:00:00,6,1,newtab,Browsers,0
+2018-02-23T16:00:00,2,1,google.com,Search,2
+2018-02-23T16:05:00,208,1,idle,Editing & IDEs,2
+2018-02-23T16:05:00,44,1,blog.teamtreehouse.com,Engineering & Technology,1
+2018-02-23T16:05:00,39,1,messenger.com,General Social Networking,-2
+2018-02-23T16:05:00,5,1,stackoverflow.com,General Software Development,2
+2018-02-23T16:05:00,3,1,google.com,Search,2
+2018-02-23T16:10:00,300,1,idle,Editing & IDEs,2
+2018-02-23T16:15:00,300,1,idle,Editing & IDEs,2
+2018-02-23T16:20:00,239,1,idle,Editing & IDEs,2
+2018-02-23T16:20:00,60,1,Terminal,Systems Operations,2
+2018-02-23T16:20:00,1,1,loginwindow,General Utilities,0
+2018-02-23T16:25:00,193,1,Terminal,Systems Operations,2
+2018-02-23T16:25:00,106,1,idle,Editing & IDEs,2
+2018-02-23T16:30:00,136,1,Terminal,Systems Operations,2
+2018-02-23T16:30:00,63,1,stackoverflow.com,General Software Development,2
+2018-02-23T16:30:00,62,1,idle,Editing & IDEs,2
+2018-02-23T16:30:00,29,1,messenger.com,General Social Networking,-2
+2018-02-23T16:30:00,6,1,youtube.com,Video,-2
+2018-02-23T16:30:00,2,1,google.com,Search,2
+2018-02-23T16:35:00,184,1,idle,Editing & IDEs,2
+2018-02-23T16:35:00,106,1,Terminal,Systems Operations,2
+2018-02-23T16:35:00,8,1,Finder,General Utilities,0
+2018-02-23T16:40:00,166,1,idle,Editing & IDEs,2
+2018-02-23T16:40:00,59,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T16:40:00,34,1,Terminal,Systems Operations,2
+2018-02-23T16:40:00,22,1,messenger.com,General Social Networking,-2
+2018-02-23T16:40:00,11,1,stackoverflow.com,General Software Development,2
+2018-02-23T16:40:00,5,1,google.com,Search,2
+2018-02-23T16:40:00,3,1,gradescope.com,General Reference & Learning,1
+2018-02-23T16:45:00,223,1,idle,Editing & IDEs,2
+2018-02-23T16:45:00,42,1,Terminal,Systems Operations,2
+2018-02-23T16:45:00,35,1,messenger.com,General Social Networking,-2
+2018-02-23T16:50:00,186,1,idle,Editing & IDEs,2
+2018-02-23T16:50:00,113,1,Terminal,Systems Operations,2
+2018-02-23T16:55:00,300,1,idle,Editing & IDEs,2
+2018-02-23T17:00:00,300,1,idle,Editing & IDEs,2
+2018-02-23T17:05:00,300,1,idle,Editing & IDEs,2
+2018-02-23T17:10:00,174,1,idle,Editing & IDEs,2
+2018-02-23T17:10:00,18,1,loginwindow,General Utilities,0
+2018-02-23T17:15:00,10,1,idle,Editing & IDEs,2
+2018-02-23T17:20:00,266,1,idle,Editing & IDEs,2
+2018-02-23T17:20:00,15,1,Finder,General Utilities,0
+2018-02-23T17:20:00,8,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T17:20:00,4,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-02-23T17:20:00,2,1,blog.teamtreehouse.com,Engineering & Technology,1
+2018-02-23T17:20:00,2,1,messenger.com,General Social Networking,-2
+2018-02-23T17:20:00,1,1,Terminal,Systems Operations,2
+2018-02-23T17:20:00,1,1,archive utility,General Utilities,1
+2018-02-23T17:25:00,188,1,idle,Editing & IDEs,2
+2018-02-23T17:25:00,74,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T17:25:00,35,1,messenger.com,General Social Networking,-2
+2018-02-23T17:25:00,2,1,grogo-store.mit.edu,Presentation,2
+2018-02-23T17:25:00,1,1,stackoverflow.com,General Software Development,2
+2018-02-23T17:30:00,281,1,idle,Editing & IDEs,2
+2018-02-23T17:30:00,19,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T17:35:00,300,1,idle,Editing & IDEs,2
+2018-02-23T17:40:00,289,1,idle,Editing & IDEs,2
+2018-02-23T17:40:00,11,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T17:45:00,270,1,idle,Editing & IDEs,2
+2018-02-23T17:45:00,28,1,Terminal,Systems Operations,2
+2018-02-23T17:50:00,237,1,idle,Editing & IDEs,2
+2018-02-23T17:50:00,29,1,Terminal,Systems Operations,2
+2018-02-23T17:50:00,20,1,Finder,General Utilities,0
+2018-02-23T17:50:00,14,1,TextEdit,Writing,2
+2018-02-23T17:55:00,300,1,idle,Editing & IDEs,2
+2018-02-23T18:00:00,151,1,idle,Editing & IDEs,2
+2018-02-23T18:00:00,95,1,owa.exchange.mit.edu,Email,0
+2018-02-23T18:00:00,17,1,idp.mit.edu,General Reference & Learning,1
+2018-02-23T18:00:00,16,1,wayf.mit.edu,Presentation,2
+2018-02-23T18:00:00,13,1,newtab,Browsers,0
+2018-02-23T18:00:00,6,1,stellar.mit.edu,General Reference & Learning,1
+2018-02-23T18:00:00,2,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T18:05:00,192,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T18:05:00,45,1,idp.mit.edu,General Reference & Learning,1
+2018-02-23T18:05:00,26,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-02-23T18:05:00,25,1,facebook.com,General Social Networking,-2
+2018-02-23T18:05:00,8,1,oidc.mit.edu,Presentation,2
+2018-02-23T18:05:00,4,1,stellar.mit.edu,General Reference & Learning,1
+2018-02-23T18:10:00,300,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T18:15:00,300,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T18:15:00,107,1,Finder,General Utilities,0
+2018-02-23T18:15:00,2,1,loginwindow,General Utilities,0
+2018-02-23T18:15:00,2,1,calendar,Calendars,1
+2018-02-23T18:20:00,284,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T18:20:00,16,1,en.wikipedia.org,General Reference & Learning,1
+2018-02-23T18:25:00,300,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T18:30:00,300,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T18:35:00,300,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T18:40:00,196,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T18:40:00,31,1,loginwindow,General Utilities,0
+2018-02-23T18:40:00,4,1,newtab,Browsers,0
+2018-02-23T21:10:00,72,1,messenger.com,General Social Networking,-2
+2018-02-23T21:10:00,43,1,youtube.com,Video,-2
+2018-02-23T21:10:00,35,1,backup and sync from google,Uncategorized,0
+2018-02-23T21:10:00,13,1,Finder,General Utilities,0
+2018-02-23T21:10:00,9,1,math.mit.edu,Engineering & Technology,1
+2018-02-23T21:10:00,5,1,loginwindow,General Utilities,0
+2018-02-23T21:10:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2018-02-23T21:10:00,2,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-02-23T21:10:00,1,1,facebook.com,General Social Networking,-2
+2018-02-23T21:15:00,300,1,youtube.com,Video,-2
+2018-02-23T21:20:00,300,1,youtube.com,Video,-2
+2018-02-23T21:25:00,266,1,youtube.com,Video,-2
+2018-02-23T21:25:00,29,1,en.wikipedia.org,General Reference & Learning,1
+2018-02-23T21:25:00,3,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-02-23T21:25:00,2,1,google.com,Search,2
+2018-02-23T21:30:00,153,1,popularmechanics.com,General News & Opinion,-2
+2018-02-23T21:30:00,54,1,chinatopix.com,Uncategorized,0
+2018-02-23T21:30:00,44,1,messenger.com,General Social Networking,-2
+2018-02-23T21:30:00,22,1,en.wikipedia.org,General Reference & Learning,1
+2018-02-23T21:30:00,16,1,google.com,Search,2
+2018-02-23T21:30:00,6,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-02-23T21:30:00,5,1,nytimes.com,General News & Opinion,-2
+2018-02-23T21:35:00,144,1,thedrive.com,General News & Opinion,-2
+2018-02-23T21:35:00,112,1,nytimes.com,General News & Opinion,-2
+2018-02-23T21:35:00,26,1,google.com,Search,2
+2018-02-23T21:35:00,18,1,messenger.com,General Social Networking,-2
+2018-02-23T21:40:00,300,1,thedrive.com,General News & Opinion,-2
+2018-02-23T21:45:00,87,1,straitstimes.com,General News & Opinion,-2
+2018-02-23T21:45:00,71,1,thedrive.com,General News & Opinion,-2
+2018-02-23T21:45:00,66,1,google.com,Search,2
+2018-02-23T21:45:00,42,1,electrek.co,Science & Technology,-1
+2018-02-23T21:45:00,34,1,messenger.com,General Social Networking,-2
+2018-02-23T21:50:00,149,1,messenger.com,General Social Networking,-2
+2018-02-23T21:50:00,44,1,electrek.co,Science & Technology,-1
+2018-02-23T21:50:00,42,1,netflix.com,Video,-2
+2018-02-23T21:50:00,32,1,insidehighered.com,General News & Opinion,-2
+2018-02-23T21:50:00,15,1,google.com,Search,2
+2018-02-23T21:50:00,9,1,keychain access,Systems Operations,2
+2018-02-23T21:50:00,4,1,BBC,International,2
+2018-02-23T21:50:00,4,1,newtab,Browsers,0
+2018-02-23T21:50:00,1,1,bbc.com,General News & Opinion,-2
+2018-02-23T21:55:00,142,1,messenger.com,General Social Networking,-2
+2018-02-23T21:55:00,107,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T21:55:00,23,1,bbc.com,General News & Opinion,-2
+2018-02-23T21:55:00,16,1,netflix.com,Video,-2
+2018-02-23T22:15:00,45,1,messenger.com,General Social Networking,-2
+2018-02-23T22:15:00,11,1,虾米音乐,Music,-2
+2018-02-23T22:20:00,133,1,facebook.com,General Social Networking,-2
+2018-02-23T22:20:00,92,1,messenger.com,General Social Networking,-2
+2018-02-23T22:20:00,55,1,youtube.com,Video,-2
+2018-02-23T22:20:00,15,1,Mail,Email,2
+2018-02-23T22:20:00,2,1,虾米音乐,Music,-2
+2018-02-23T22:20:00,1,1,courses.csail.mit.edu,General Reference & Learning,1
+2018-02-23T22:20:00,1,1,netflix.com,Video,-2
+2018-02-23T22:20:00,1,1,dbrand.com,General Shopping,-2
+2018-02-23T22:25:00,118,1,Mail,Email,2
+2018-02-23T22:25:00,78,1,messenger.com,General Social Networking,-2
+2018-02-23T22:25:00,50,1,urop.ust.hk,General News & Opinion,-2
+2018-02-23T22:25:00,17,1,uaap.mit.edu,Presentation,2
+2018-02-23T22:25:00,15,1,facebook.com,General Social Networking,-2
+2018-02-23T22:25:00,13,1,calendar,Calendars,1
+2018-02-23T22:25:00,9,1,google.com,Search,2
+2018-02-23T22:30:00,242,1,messenger.com,General Social Networking,-2
+2018-02-23T22:30:00,58,1,youtube.com,Video,-2
+2018-02-23T22:35:00,300,1,youtube.com,Video,-2
+2018-02-23T22:35:00,40,1,idle,Editing & IDEs,2
+2018-02-23T22:35:00,11,1,newtab,Browsers,0
+2018-02-23T22:40:00,300,1,youtube.com,Video,-2
+2018-02-23T22:40:00,229,1,idle,Editing & IDEs,2
+2018-02-23T22:40:00,60,1,localhost:8000,Quality Assurance,2
+2018-02-23T22:40:00,9,1,Terminal,Systems Operations,2
+2018-02-23T22:40:00,1,1,newtab,Browsers,0
+2018-02-23T22:45:00,300,1,youtube.com,Video,-2
+2018-02-23T22:45:00,161,1,idle,Editing & IDEs,2
+2018-02-23T22:45:00,68,1,localhost:8000,Quality Assurance,2
+2018-02-23T22:45:00,62,1,Terminal,Systems Operations,2
+2018-02-23T22:45:00,6,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T22:50:00,300,1,youtube.com,Video,-2
+2018-02-23T22:50:00,279,1,idle,Editing & IDEs,2
+2018-02-23T22:50:00,16,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T22:50:00,5,1,Terminal,Systems Operations,2
+2018-02-23T22:55:00,300,1,idle,Editing & IDEs,2
+2018-02-23T22:55:00,300,1,youtube.com,Video,-2
+2018-02-23T23:00:00,300,1,youtube.com,Video,-2
+2018-02-23T23:00:00,214,1,idle,Editing & IDEs,2
+2018-02-23T23:00:00,86,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T23:05:00,300,1,idle,Editing & IDEs,2
+2018-02-23T23:05:00,300,1,youtube.com,Video,-2
+2018-02-23T23:10:00,300,1,idle,Editing & IDEs,2
+2018-02-23T23:10:00,300,1,youtube.com,Video,-2
+2018-02-23T23:15:00,300,1,youtube.com,Video,-2
+2018-02-23T23:15:00,291,1,idle,Editing & IDEs,2
+2018-02-23T23:15:00,8,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T23:20:00,300,1,youtube.com,Video,-2
+2018-02-23T23:20:00,236,1,idle,Editing & IDEs,2
+2018-02-23T23:20:00,49,1,programiz.com,Uncategorized,0
+2018-02-23T23:20:00,5,1,stackoverflow.com,General Software Development,2
+2018-02-23T23:20:00,4,1,google.com,Search,2
+2018-02-23T23:20:00,3,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T23:20:00,3,1,localhost:8000,Quality Assurance,2
+2018-02-23T23:25:00,300,1,idle,Editing & IDEs,2
+2018-02-23T23:25:00,300,1,youtube.com,Video,-2
+2018-02-23T23:30:00,218,1,youtube.com,Video,-2
+2018-02-23T23:30:00,152,1,eecs6009.mit.edu,General Software Development,2
+2018-02-23T23:30:00,42,1,idle,Editing & IDEs,2
+2018-02-23T23:30:00,5,1,Finder,General Utilities,0
+2018-02-23T23:30:00,2,1,messenger.com,General Social Networking,-2
+2018-02-23T23:30:00,1,1,programiz.com,Uncategorized,0

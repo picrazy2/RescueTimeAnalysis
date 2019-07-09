@@ -1,0 +1,344 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-05-08T00:00:00,158,1,users,General Software Development,2
+2018-05-08T00:00:00,65,1,slader.com,General Reference & Learning,1
+2018-05-08T00:00:00,42,1,messenger.com,General Social Networking,-2
+2018-05-08T00:00:00,19,1,youtube.com,Video,-2
+2018-05-08T00:00:00,11,1,google.com,Search,2
+2018-05-08T00:00:00,2,1,piazza.com,General Reference & Learning,2
+2018-05-08T00:00:00,2,1,Google Documents,Writing,2
+2018-05-08T00:05:00,139,1,messenger.com,General Social Networking,-2
+2018-05-08T00:05:00,107,1,youtube.com,Video,-2
+2018-05-08T00:05:00,54,1,users,General Software Development,2
+2018-05-08T00:10:00,213,1,messenger.com,General Social Networking,-2
+2018-05-08T00:10:00,75,1,users,General Software Development,2
+2018-05-08T00:10:00,12,1,youtube.com,Video,-2
+2018-05-08T00:15:00,212,1,users,General Software Development,2
+2018-05-08T00:15:00,88,1,messenger.com,General Social Networking,-2
+2018-05-08T00:20:00,216,1,users,General Software Development,2
+2018-05-08T00:20:00,83,1,wolframalpha.com,Search,1
+2018-05-08T00:20:00,1,1,messenger.com,General Social Networking,-2
+2018-05-08T00:25:00,247,1,users,General Software Development,2
+2018-05-08T00:25:00,51,1,messenger.com,General Social Networking,-2
+2018-05-08T00:25:00,1,1,Finder,General Utilities,0
+2018-05-08T00:30:00,175,1,messenger.com,General Social Networking,-2
+2018-05-08T00:30:00,15,1,users,General Software Development,2
+2018-05-08T00:30:00,11,1,Finder,General Utilities,0
+2018-05-08T00:40:00,158,1,piazza.com,General Reference & Learning,2
+2018-05-08T00:45:00,183,1,users,General Software Development,2
+2018-05-08T00:45:00,114,1,piazza.com,General Reference & Learning,2
+2018-05-08T00:45:00,3,1,messenger.com,General Social Networking,-2
+2018-05-08T00:50:00,70,1,piazza.com,General Reference & Learning,2
+2018-05-08T00:50:00,31,1,messenger.com,General Social Networking,-2
+2018-05-08T00:50:00,10,1,users,General Software Development,2
+2018-05-08T01:05:00,101,1,globaltimes.cn,General News & Opinion,-2
+2018-05-08T01:05:00,57,1,globalsecurity.org,General News & Opinion,0
+2018-05-08T01:05:00,18,1,9to5mac.com,General News & Opinion,-2
+2018-05-08T01:05:00,11,1,google.com,Search,2
+2018-05-08T01:05:00,7,1,wechat,General Social Networking,-2
+2018-05-08T01:05:00,1,1,loginwindow,General Utilities,0
+2018-05-08T01:10:00,148,1,nationalinterest.org,General News & Opinion,-2
+2018-05-08T01:10:00,113,1,globalsecurity.org,General News & Opinion,0
+2018-05-08T01:10:00,26,1,youtube.com,Video,-2
+2018-05-08T01:10:00,13,1,google.com,Search,2
+2018-05-08T01:15:00,59,1,techcrunch.com,Science & Technology,-1
+2018-05-08T01:15:00,51,1,chinatopix.com,Uncategorized,0
+2018-05-08T01:15:00,47,1,nextbigfuture.com,Science & Technology,-1
+2018-05-08T01:15:00,42,1,scmp.com,General News & Opinion,-2
+2018-05-08T01:15:00,39,1,google.com,Search,2
+2018-05-08T01:15:00,31,1,nationalinterest.org,General News & Opinion,-2
+2018-05-08T01:15:00,31,1,cnbc.com,Business,-1
+2018-05-08T01:20:00,120,1,ftw.usatoday.com,Sports,-1
+2018-05-08T01:20:00,119,1,cnn.com,General News & Opinion,2
+2018-05-08T01:20:00,44,1,google.com,Search,2
+2018-05-08T01:20:00,12,1,money.cnn.com,General News & Opinion,-2
+2018-05-08T01:20:00,5,1,techcrunch.com,Science & Technology,-1
+2018-05-08T01:25:00,199,1,bloomberg.com,Business,-1
+2018-05-08T01:25:00,76,1,theweek.com,General News & Opinion,-2
+2018-05-08T01:25:00,23,1,google.com,Search,2
+2018-05-08T01:25:00,2,1,ftw.usatoday.com,Sports,-1
+2018-05-08T01:30:00,221,1,bloomberg.com,Business,-1
+2018-05-08T01:30:00,38,1,google.com,Search,2
+2018-05-08T01:30:00,19,1,warisboring.com,General Social Networking,-2
+2018-05-08T01:30:00,17,1,ndtv.com,General News & Opinion,-2
+2018-05-08T01:30:00,5,1,thestreet.com,General Business,2
+2018-05-08T01:35:00,124,1,thestreet.com,General Business,2
+2018-05-08T01:35:00,69,1,cnbc.com,Business,-1
+2018-05-08T01:35:00,39,1,en.wikipedia.org,General Reference & Learning,1
+2018-05-08T01:35:00,22,1,investopedia.com,Business & Finance,1
+2018-05-08T01:35:00,21,1,google.com,Search,2
+2018-05-08T01:35:00,18,1,inc.com,General News & Opinion,-2
+2018-05-08T01:35:00,7,1,nytimes.com,General News & Opinion,-2
+2018-05-08T01:40:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2018-05-08T01:45:00,253,1,en.wikipedia.org,General Reference & Learning,1
+2018-05-08T01:45:00,30,1,google.com,Search,2
+2018-05-08T01:45:00,9,1,newtab,Browsers,0
+2018-05-08T01:45:00,7,1,crunchbase.com,General Communication & Scheduling,0
+2018-05-08T01:50:00,120,1,en.wikipedia.org,General Reference & Learning,1
+2018-05-08T01:50:00,48,1,google.com,Search,2
+2018-05-08T01:50:00,12,1,newtab,Browsers,0
+2018-05-08T01:50:00,10,1,crunchbase.com,General Communication & Scheduling,0
+2018-05-08T01:50:00,3,1,jd.com,General Shopping,-2
+2018-05-08T01:50:00,1,1,bloomberg.com,Business,-1
+2018-05-08T02:05:00,147,1,en.wikipedia.org,General Reference & Learning,1
+2018-05-08T02:10:00,92,1,en.wikipedia.org,General Reference & Learning,1
+2018-05-08T02:10:00,78,1,verdict.co.uk,Uncategorized,0
+2018-05-08T02:10:00,5,1,newtab,Browsers,0
+2018-05-08T02:10:00,5,1,google.com,Search,2
+2018-05-08T12:05:00,50,1,users,General Software Development,2
+2018-05-08T12:05:00,38,1,technique.mit.edu:444,Uncategorized,0
+2018-05-08T12:05:00,24,1,Mail,Email,2
+2018-05-08T12:05:00,18,1,piazza.com,General Reference & Learning,2
+2018-05-08T12:05:00,5,1,loginwindow,General Utilities,0
+2018-05-08T12:05:00,3,1,drive.google.com,General Business,2
+2018-05-08T12:10:00,87,1,drive.google.com,General Business,2
+2018-05-08T12:10:00,73,1,technique.mit.edu:444,Uncategorized,0
+2018-05-08T12:10:00,63,1,messenger.com,General Social Networking,-2
+2018-05-08T12:10:00,49,1,Google Spreadsheets,General Business,2
+2018-05-08T12:10:00,25,1,Mail,Email,2
+2018-05-08T12:10:00,2,1,users,General Software Development,2
+2018-05-08T12:15:00,130,1,technique.mit.edu:444,Uncategorized,0
+2018-05-08T12:15:00,77,1,stellar.mit.edu,General Reference & Learning,1
+2018-05-08T12:15:00,31,1,microsoft word,Writing,2
+2018-05-08T12:15:00,20,1,SecurityAgent,Systems Operations,0
+2018-05-08T12:15:00,19,1,messenger.com,General Social Networking,-2
+2018-05-08T12:15:00,10,1,drive.google.com,General Business,2
+2018-05-08T12:15:00,4,1,idp.mit.edu,General Reference & Learning,1
+2018-05-08T12:15:00,3,1,Google Spreadsheets,General Business,2
+2018-05-08T12:15:00,1,1,facebook.com,General Social Networking,-2
+2018-05-08T12:20:00,200,1,users,General Software Development,2
+2018-05-08T12:20:00,45,1,Mail,Email,2
+2018-05-08T12:20:00,43,1,messenger.com,General Social Networking,-2
+2018-05-08T12:20:00,6,1,stellar.mit.edu,General Reference & Learning,1
+2018-05-08T12:20:00,2,1,technique.mit.edu:444,Uncategorized,0
+2018-05-08T12:25:00,43,1,users,General Software Development,2
+2018-05-08T12:25:00,13,1,messenger.com,General Social Networking,-2
+2018-05-08T12:30:00,33,1,technique.mit.edu:444,Uncategorized,0
+2018-05-08T12:30:00,31,1,loginwindow,General Utilities,0
+2018-05-08T12:30:00,18,1,messenger.com,General Social Networking,-2
+2018-05-08T13:00:00,91,1,technique.mit.edu:444,Uncategorized,0
+2018-05-08T13:05:00,167,1,gradescope.com,General Reference & Learning,1
+2018-05-08T13:05:00,99,1,technique.mit.edu:444,Uncategorized,0
+2018-05-08T13:05:00,19,1,loginwindow,General Utilities,0
+2018-05-08T13:05:00,4,1,drive.google.com,General Business,2
+2018-05-08T13:25:00,186,1,microsoft word,Writing,2
+2018-05-08T13:25:00,39,1,technique.mit.edu:444,Uncategorized,0
+2018-05-08T13:30:00,207,1,microsoft word,Writing,2
+2018-05-08T13:35:00,40,1,technique.mit.edu:444,Uncategorized,0
+2018-05-08T13:40:00,171,1,Mail,Email,2
+2018-05-08T13:40:00,100,1,technique.mit.edu:444,Uncategorized,0
+2018-05-08T13:40:00,26,1,microsoft word,Writing,2
+2018-05-08T13:45:00,6,1,microsoft word,Writing,2
+2018-05-08T13:50:00,126,1,rescuetime.com,Intelligence,0
+2018-05-08T13:50:00,7,1,Finder,General Utilities,0
+2018-05-08T13:50:00,5,1,technique.mit.edu:444,Uncategorized,0
+2018-05-08T13:50:00,4,1,gradescope.com,General Reference & Learning,1
+2018-05-08T13:55:00,113,1,Terminal,Systems Operations,2
+2018-05-08T13:55:00,98,1,Google Spreadsheets,General Business,2
+2018-05-08T13:55:00,76,1,rescuetime.com,Intelligence,0
+2018-05-08T13:55:00,9,1,Finder,General Utilities,0
+2018-05-08T14:00:00,75,1,Google Spreadsheets,General Business,2
+2018-05-08T14:00:00,6,1,microsoft word,Writing,2
+2018-05-08T14:00:00,5,1,technique.mit.edu:444,Uncategorized,0
+2018-05-08T14:00:00,2,1,users,General Software Development,2
+2018-05-08T14:10:00,51,1,Terminal,Systems Operations,2
+2018-05-08T14:15:00,31,1,messenger.com,General Social Networking,-2
+2018-05-08T14:15:00,2,1,technique.mit.edu:444,Uncategorized,0
+2018-05-08T14:20:00,157,1,messenger.com,General Social Networking,-2
+2018-05-08T14:20:00,100,1,google.com,Search,2
+2018-05-08T14:20:00,32,1,renfe.com,Travel & Outdoors,-2
+2018-05-08T14:20:00,6,1,en.wikipedia.org,General Reference & Learning,1
+2018-05-08T14:20:00,3,1,youtube.com,Video,-2
+2018-05-08T14:20:00,2,1,xinhuanet.com,General News & Opinion,-2
+2018-05-08T14:25:00,154,1,google.com,Search,2
+2018-05-08T14:25:00,76,1,technique.mit.edu:444,Uncategorized,0
+2018-05-08T14:25:00,36,1,renfe.com,Travel & Outdoors,-2
+2018-05-08T14:25:00,18,1,venta.renfe.com,Travel & Outdoors,-2
+2018-05-08T14:25:00,14,1,seat61.com,Travel & Outdoors,-2
+2018-05-08T14:25:00,2,1,users,General Software Development,2
+2018-05-08T14:30:00,97,1,nytimes.com,General News & Opinion,-2
+2018-05-08T14:30:00,46,1,ocio.renfe.com,Travel & Outdoors,-2
+2018-05-08T14:30:00,39,1,venta.renfe.com,Travel & Outdoors,-2
+2018-05-08T14:30:00,35,1,ft.com,General News & Opinion,-2
+2018-05-08T14:30:00,28,1,google.com,Search,2
+2018-05-08T14:30:00,24,1,technique.mit.edu:444,Uncategorized,0
+2018-05-08T14:30:00,15,1,renfe.com,Travel & Outdoors,-2
+2018-05-08T14:30:00,13,1,rescuetime.com,Intelligence,0
+2018-05-08T14:30:00,2,1,users,General Software Development,2
+2018-05-08T14:35:00,89,1,nationalinterest.org,General News & Opinion,-2
+2018-05-08T14:35:00,71,1,gaoloumi.com,Regional,-2
+2018-05-08T14:35:00,64,1,ft.com,General News & Opinion,-2
+2018-05-08T14:35:00,58,1,google.com,Search,2
+2018-05-08T14:35:00,9,1,9to5mac.com,General News & Opinion,-2
+2018-05-08T14:35:00,3,1,messenger.com,General Social Networking,-2
+2018-05-08T14:35:00,3,1,technique.mit.edu:444,Uncategorized,0
+2018-05-08T14:35:00,2,1,users,General Software Development,2
+2018-05-08T14:40:00,150,1,gaoloumi.com,Regional,-2
+2018-05-08T14:40:00,149,1,Google Spreadsheets,General Business,2
+2018-05-08T14:45:00,95,1,Google Spreadsheets,General Business,2
+2018-05-08T14:45:00,52,1,gaoloumi.com,Regional,-2
+2018-05-08T14:45:00,29,1,loginwindow,General Utilities,0
+2018-05-08T14:45:00,2,1,stellar.mit.edu,General Reference & Learning,1
+2018-05-08T19:05:00,97,1,en.wikipedia.org,General Reference & Learning,1
+2018-05-08T19:05:00,38,1,verdict.co.uk,Uncategorized,0
+2018-05-08T19:05:00,30,1,google.com,Search,2
+2018-05-08T19:05:00,4,1,wechat,General Social Networking,-2
+2018-05-08T19:05:00,3,1,newtab,Browsers,0
+2018-05-08T19:05:00,2,1,fortune.com,Business,-1
+2018-05-08T19:05:00,1,1,messages,General Social Networking,-2
+2018-05-08T19:10:00,184,1,en.wikipedia.org,General Reference & Learning,1
+2018-05-08T19:10:00,80,1,alexa.com,Search,0
+2018-05-08T19:10:00,17,1,google.com,Search,2
+2018-05-08T19:10:00,8,1,statista.com,Intelligence,2
+2018-05-08T19:10:00,8,1,businessinsider.com,General News & Opinion,-2
+2018-05-08T19:10:00,3,1,backup and sync from google,Uncategorized,0
+2018-05-08T19:15:00,104,1,makeawebsitehub.com,Uncategorized,0
+2018-05-08T19:15:00,52,1,scmp.com,General News & Opinion,-2
+2018-05-08T19:15:00,46,1,thebeijinger.com,General News & Opinion,-2
+2018-05-08T19:15:00,45,1,google.com,Search,2
+2018-05-08T19:15:00,21,1,en.wikipedia.org,General Reference & Learning,1
+2018-05-08T19:15:00,15,1,map.baidu.com,Maps & Regional,-2
+2018-05-08T19:15:00,10,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-05-08T19:15:00,4,1,idp.mit.edu,General Reference & Learning,1
+2018-05-08T19:15:00,2,1,newtab,Browsers,0
+2018-05-08T19:20:00,154,1,texshop,Writing,2
+2018-05-08T19:20:00,85,1,map.baidu.com,Maps & Regional,-2
+2018-05-08T19:20:00,31,1,Finder,General Utilities,0
+2018-05-08T19:20:00,22,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-05-08T19:20:00,6,1,users,General Software Development,2
+2018-05-08T19:20:00,2,1,localhost:8000,Quality Assurance,2
+2018-05-08T19:25:00,300,1,texshop,Writing,2
+2018-05-08T19:30:00,300,1,texshop,Writing,2
+2018-05-08T19:35:00,290,1,texshop,Writing,2
+2018-05-08T19:35:00,10,1,users,General Software Development,2
+2018-05-08T19:40:00,300,1,texshop,Writing,2
+2018-05-08T19:45:00,300,1,texshop,Writing,2
+2018-05-08T19:50:00,209,1,thebeijinger.com,General News & Opinion,-2
+2018-05-08T19:50:00,43,1,texshop,Writing,2
+2018-05-08T19:50:00,28,1,users,General Software Development,2
+2018-05-08T19:50:00,20,1,messenger.com,General Social Networking,-2
+2018-05-08T19:55:00,115,1,texshop,Writing,2
+2018-05-08T19:55:00,81,1,messenger.com,General Social Networking,-2
+2018-05-08T19:55:00,65,1,facebook.com,General Social Networking,-2
+2018-05-08T19:55:00,18,1,united.com,Travel & Outdoors,-2
+2018-05-08T19:55:00,10,1,users,General Software Development,2
+2018-05-08T19:55:00,7,1,localhost:8000,Quality Assurance,2
+2018-05-08T19:55:00,2,1,thebeijinger.com,General News & Opinion,-2
+2018-05-08T19:55:00,2,1,renfe.spainrail.com,Uncategorized,0
+2018-05-08T20:00:00,154,1,texshop,Writing,2
+2018-05-08T20:00:00,94,1,messenger.com,General Social Networking,-2
+2018-05-08T20:00:00,44,1,users,General Software Development,2
+2018-05-08T20:00:00,4,1,Mail,Email,2
+2018-05-08T20:00:00,3,1,localhost:8000,Quality Assurance,2
+2018-05-08T20:00:00,1,1,stackoverflow.com,General Software Development,2
+2018-05-08T20:05:00,300,1,texshop,Writing,2
+2018-05-08T20:10:00,201,1,texshop,Writing,2
+2018-05-08T20:10:00,97,1,youtube.com,Video,-2
+2018-05-08T20:10:00,2,1,users,General Software Development,2
+2018-05-08T20:15:00,250,1,youtube.com,Video,-2
+2018-05-08T20:15:00,44,1,facebook.com,General Social Networking,-2
+2018-05-08T20:15:00,6,1,9to5mac.com,General News & Opinion,-2
+2018-05-08T20:20:00,286,1,youtube.com,Video,-2
+2018-05-08T20:20:00,11,1,texshop,Writing,2
+2018-05-08T20:20:00,2,1,9to5mac.com,General News & Opinion,-2
+2018-05-08T20:25:00,300,1,youtube.com,Video,-2
+2018-05-08T20:30:00,300,1,youtube.com,Video,-2
+2018-05-08T20:35:00,265,1,youtube.com,Video,-2
+2018-05-08T20:35:00,29,1,users,General Software Development,2
+2018-05-08T20:35:00,6,1,texshop,Writing,2
+2018-05-08T20:40:00,72,1,Terminal,Systems Operations,2
+2018-05-08T20:40:00,42,1,users,General Software Development,2
+2018-05-08T20:55:00,268,1,users,General Software Development,2
+2018-05-08T20:55:00,17,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-05-08T21:00:00,132,1,users,General Software Development,2
+2018-05-08T21:00:00,100,1,Finder,General Utilities,0
+2018-05-08T21:00:00,68,1,sublime text,Editing & IDEs,2
+2018-05-08T21:05:00,158,1,sublime text,Editing & IDEs,2
+2018-05-08T21:05:00,109,1,idle,Editing & IDEs,2
+2018-05-08T21:05:00,21,1,users,General Software Development,2
+2018-05-08T21:05:00,12,1,Finder,General Utilities,0
+2018-05-08T21:10:00,160,1,sublime text,Editing & IDEs,2
+2018-05-08T21:10:00,140,1,users,General Software Development,2
+2018-05-08T21:15:00,197,1,sublime text,Editing & IDEs,2
+2018-05-08T21:15:00,70,1,users,General Software Development,2
+2018-05-08T21:15:00,16,1,stackoverflow.com,General Software Development,2
+2018-05-08T21:15:00,8,1,google.com,Search,2
+2018-05-08T21:15:00,6,1,findnerd.com,Uncategorized,0
+2018-05-08T21:15:00,2,1,newtab,Browsers,0
+2018-05-08T21:15:00,1,1,localhost:8000,Quality Assurance,2
+2018-05-08T21:20:00,300,1,sublime text,Editing & IDEs,2
+2018-05-08T21:25:00,300,1,sublime text,Editing & IDEs,2
+2018-05-08T21:30:00,176,1,sublime text,Editing & IDEs,2
+2018-05-08T21:30:00,112,1,Terminal,Systems Operations,2
+2018-05-08T21:30:00,7,1,Finder,General Utilities,0
+2018-05-08T21:30:00,4,1,users,General Software Development,2
+2018-05-08T21:35:00,151,1,sublime text,Editing & IDEs,2
+2018-05-08T21:35:00,149,1,Terminal,Systems Operations,2
+2018-05-08T21:40:00,211,1,sublime text,Editing & IDEs,2
+2018-05-08T21:40:00,82,1,idle,Editing & IDEs,2
+2018-05-08T21:40:00,7,1,Terminal,Systems Operations,2
+2018-05-08T21:45:00,191,1,sublime text,Editing & IDEs,2
+2018-05-08T21:45:00,88,1,Terminal,Systems Operations,2
+2018-05-08T21:45:00,21,1,idle,Editing & IDEs,2
+2018-05-08T21:50:00,250,1,Terminal,Systems Operations,2
+2018-05-08T21:50:00,50,1,sublime text,Editing & IDEs,2
+2018-05-08T21:55:00,112,1,Terminal,Systems Operations,2
+2018-05-08T21:55:00,107,1,sublime text,Editing & IDEs,2
+2018-05-08T21:55:00,81,1,users,General Software Development,2
+2018-05-08T22:00:00,169,1,Terminal,Systems Operations,2
+2018-05-08T22:00:00,106,1,sublime text,Editing & IDEs,2
+2018-05-08T22:00:00,25,1,users,General Software Development,2
+2018-05-08T22:05:00,52,1,Terminal,Systems Operations,2
+2018-05-08T22:05:00,18,1,sublime text,Editing & IDEs,2
+2018-05-08T22:25:00,185,1,Terminal,Systems Operations,2
+2018-05-08T22:25:00,33,1,sublime text,Editing & IDEs,2
+2018-05-08T22:30:00,291,1,Terminal,Systems Operations,2
+2018-05-08T22:30:00,9,1,sublime text,Editing & IDEs,2
+2018-05-08T22:35:00,216,1,Terminal,Systems Operations,2
+2018-05-08T22:35:00,84,1,sublime text,Editing & IDEs,2
+2018-05-08T22:40:00,164,1,sublime text,Editing & IDEs,2
+2018-05-08T22:40:00,84,1,Terminal,Systems Operations,2
+2018-05-08T22:40:00,43,1,py.mit.edu,Presentation,2
+2018-05-08T22:40:00,4,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-05-08T22:40:00,2,1,eecs6009.mit.edu,General Software Development,2
+2018-05-08T22:40:00,2,1,oidc.mit.edu,Presentation,2
+2018-05-08T22:40:00,1,1,localhost:8000,Quality Assurance,2
+2018-05-08T22:45:00,224,1,sublime text,Editing & IDEs,2
+2018-05-08T22:45:00,76,1,Terminal,Systems Operations,2
+2018-05-08T22:50:00,140,1,Terminal,Systems Operations,2
+2018-05-08T22:50:00,138,1,sublime text,Editing & IDEs,2
+2018-05-08T22:50:00,22,1,py.mit.edu,Presentation,2
+2018-05-08T22:55:00,211,1,sublime text,Editing & IDEs,2
+2018-05-08T22:55:00,49,1,wechat,General Social Networking,-2
+2018-05-08T22:55:00,34,1,Terminal,Systems Operations,2
+2018-05-08T22:55:00,5,1,py.mit.edu,Presentation,2
+2018-05-08T23:00:00,25,1,sublime text,Editing & IDEs,2
+2018-05-08T23:05:00,45,1,Terminal,Systems Operations,2
+2018-05-08T23:05:00,30,1,sublime text,Editing & IDEs,2
+2018-05-08T23:10:00,203,1,Terminal,Systems Operations,2
+2018-05-08T23:10:00,97,1,sublime text,Editing & IDEs,2
+2018-05-08T23:15:00,144,1,sublime text,Editing & IDEs,2
+2018-05-08T23:15:00,69,1,piazza.com,General Reference & Learning,2
+2018-05-08T23:15:00,53,1,py.mit.edu,Presentation,2
+2018-05-08T23:15:00,30,1,Terminal,Systems Operations,2
+2018-05-08T23:15:00,2,1,localhost:8000,Quality Assurance,2
+2018-05-08T23:20:00,240,1,sublime text,Editing & IDEs,2
+2018-05-08T23:20:00,43,1,py.mit.edu,Presentation,2
+2018-05-08T23:20:00,15,1,Terminal,Systems Operations,2
+2018-05-08T23:25:00,254,1,sublime text,Editing & IDEs,2
+2018-05-08T23:25:00,28,1,facebook.com,General Social Networking,-2
+2018-05-08T23:25:00,13,1,Terminal,Systems Operations,2
+2018-05-08T23:25:00,5,1,py.mit.edu,Presentation,2
+2018-05-08T23:30:00,236,1,sublime text,Editing & IDEs,2
+2018-05-08T23:30:00,40,1,facebook.com,General Social Networking,-2
+2018-05-08T23:30:00,24,1,Terminal,Systems Operations,2
+2018-05-08T23:35:00,170,1,facebook.com,General Social Networking,-2
+2018-05-08T23:35:00,62,1,sublime text,Editing & IDEs,2
+2018-05-08T23:35:00,4,1,Terminal,Systems Operations,2
+2018-05-08T23:50:00,108,1,facebook.com,General Social Networking,-2
+2018-05-08T23:50:00,77,1,sublime text,Editing & IDEs,2
+2018-05-08T23:50:00,7,1,messenger.com,General Social Networking,-2
+2018-05-08T23:50:00,2,1,backup and sync from google,Uncategorized,0
+2018-05-08T23:55:00,255,1,messenger.com,General Social Networking,-2
+2018-05-08T23:55:00,36,1,sublime text,Editing & IDEs,2
+2018-05-08T23:55:00,6,1,airnewzealand.com,Travel & Outdoors,-2
+2018-05-08T23:55:00,3,1,google.com,Search,2

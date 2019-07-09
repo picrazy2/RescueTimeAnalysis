@@ -1,0 +1,282 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2016-11-17T00:00:00,300,1,microsoft word,Writing,2
+2016-11-17T00:05:00,298,1,microsoft word,Writing,2
+2016-11-17T00:05:00,2,1,usernotificationcenter,General Utilities,0
+2016-11-17T00:10:00,300,1,microsoft word,Writing,2
+2016-11-17T00:15:00,294,1,microsoft word,Writing,2
+2016-11-17T00:15:00,6,1,usernotificationcenter,General Utilities,0
+2016-11-17T00:20:00,242,1,microsoft word,Writing,2
+2016-11-17T00:20:00,58,1,messages,General Social Networking,-2
+2016-11-17T00:25:00,271,1,microsoft word,Writing,2
+2016-11-17T00:25:00,18,1,messages,General Social Networking,-2
+2016-11-17T00:25:00,6,1,Mail,Email,2
+2016-11-17T00:25:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-17T00:30:00,174,1,microsoft word,Writing,2
+2016-11-17T00:30:00,52,1,photoshop cc,General Design & Composition,2
+2016-11-17T00:30:00,28,1,Finder,General Utilities,0
+2016-11-17T00:30:00,10,1,usernotificationcenter,General Utilities,0
+2016-11-17T00:35:00,90,1,photoshop cc,General Design & Composition,2
+2016-11-17T00:35:00,85,1,microsoft word,Writing,2
+2016-11-17T00:35:00,9,1,Finder,General Utilities,0
+2016-11-17T00:40:00,223,1,microsoft word,Writing,2
+2016-11-17T00:40:00,77,1,kindle,General Reference & Learning,2
+2016-11-17T00:45:00,169,1,youtube.com,Video,-2
+2016-11-17T00:45:00,117,1,microsoft word,Writing,2
+2016-11-17T00:45:00,6,1,Finder,General Utilities,0
+2016-11-17T00:45:00,3,1,kindle,General Reference & Learning,2
+2016-11-17T00:45:00,2,1,Safari,Browsers,2
+2016-11-17T00:45:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-17T00:45:00,1,1,usernotificationcenter,General Utilities,0
+2016-11-17T00:50:00,249,1,rescuetime.com,Intelligence,0
+2016-11-17T00:50:00,45,1,microsoft word,Writing,2
+2016-11-17T00:50:00,3,1,Safari,Browsers,2
+2016-11-17T00:50:00,2,1,youtube.com,Video,-2
+2016-11-17T00:55:00,350,1,rescuetime.com,Intelligence,0
+2016-11-17T00:55:00,125,1,eclipse,Editing & IDEs,2
+2016-11-17T00:55:00,38,1,usernotificationcenter,General Utilities,0
+2016-11-17T00:55:00,33,1,Finder,General Utilities,0
+2016-11-17T00:55:00,7,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-17T00:55:00,4,1,MS Excel,General Business,2
+2016-11-17T01:00:00,158,1,eclipse,Editing & IDEs,2
+2016-11-17T01:00:00,140,1,microsoft word,Writing,2
+2016-11-17T01:00:00,120,1,loginwindow,General Utilities,0
+2016-11-17T01:00:00,107,1,usernotificationcenter,General Utilities,0
+2016-11-17T01:00:00,10,1,rescuetime.com,Intelligence,0
+2016-11-17T01:00:00,1,1,Finder,General Utilities,0
+2016-11-17T08:40:00,165,1,microsoft word,Writing,2
+2016-11-17T08:40:00,52,1,Finder,General Utilities,0
+2016-11-17T08:40:00,50,1,rescuetime.com,Intelligence,0
+2016-11-17T08:40:00,6,1,Mail,Email,2
+2016-11-17T08:40:00,3,1,loginwindow,General Utilities,0
+2016-11-17T08:45:00,245,1,rescuetime.com,Intelligence,0
+2016-11-17T08:45:00,28,1,secure1.store.apple.com,Electronics,-2
+2016-11-17T08:45:00,5,1,apple.com,Engineering & Technology,-1
+2016-11-17T08:45:00,3,1,microsoft word,Writing,2
+2016-11-17T08:45:00,3,1,eclipse,Editing & IDEs,2
+2016-11-17T08:45:00,2,1,Safari,Browsers,2
+2016-11-17T08:50:00,27,1,microsoft word,Writing,2
+2016-11-17T08:50:00,17,1,loginwindow,General Utilities,0
+2016-11-17T08:50:00,12,1,Finder,General Utilities,0
+2016-11-17T08:50:00,6,1,eclipse,Editing & IDEs,2
+2016-11-17T08:50:00,2,1,microsoft autoupdate,General Utilities,1
+2016-11-17T08:55:00,32,1,loginwindow,General Utilities,0
+2016-11-17T08:55:00,32,1,microsoft word,Writing,2
+2016-11-17T09:00:00,297,1,microsoft word,Writing,2
+2016-11-17T09:05:00,299,1,microsoft word,Writing,2
+2016-11-17T09:10:00,300,1,microsoft word,Writing,2
+2016-11-17T09:15:00,299,1,microsoft word,Writing,2
+2016-11-17T09:20:00,292,1,microsoft word,Writing,2
+2016-11-17T09:20:00,8,1,Dictionary,General Reference & Learning,1
+2016-11-17T09:25:00,285,1,microsoft word,Writing,2
+2016-11-17T09:25:00,15,1,Dictionary,General Reference & Learning,1
+2016-11-17T09:30:00,286,1,microsoft word,Writing,2
+2016-11-17T09:30:00,14,1,Dictionary,General Reference & Learning,1
+2016-11-17T09:35:00,300,1,microsoft word,Writing,2
+2016-11-17T09:40:00,300,1,microsoft word,Writing,2
+2016-11-17T09:45:00,300,1,microsoft word,Writing,2
+2016-11-17T09:50:00,298,1,microsoft word,Writing,2
+2016-11-17T09:55:00,300,1,microsoft word,Writing,2
+2016-11-17T10:00:00,283,1,microsoft word,Writing,2
+2016-11-17T10:00:00,16,1,Dictionary,General Reference & Learning,1
+2016-11-17T10:05:00,271,1,microsoft word,Writing,2
+2016-11-17T10:05:00,29,1,kindle,General Reference & Learning,2
+2016-11-17T10:10:00,299,1,microsoft word,Writing,2
+2016-11-17T10:15:00,300,1,microsoft word,Writing,2
+2016-11-17T10:20:00,299,1,microsoft word,Writing,2
+2016-11-17T10:25:00,287,1,microsoft word,Writing,2
+2016-11-17T10:25:00,6,1,kindle,General Reference & Learning,2
+2016-11-17T10:25:00,5,1,Safari,Browsers,2
+2016-11-17T10:30:00,300,1,microsoft word,Writing,2
+2016-11-17T10:35:00,299,1,microsoft word,Writing,2
+2016-11-17T10:40:00,243,1,microsoft word,Writing,2
+2016-11-17T10:40:00,57,1,kindle,General Reference & Learning,2
+2016-11-17T10:45:00,300,1,microsoft word,Writing,2
+2016-11-17T10:50:00,297,1,microsoft word,Writing,2
+2016-11-17T10:50:00,3,1,Dictionary,General Reference & Learning,1
+2016-11-17T10:55:00,300,1,microsoft word,Writing,2
+2016-11-17T11:00:00,300,1,microsoft word,Writing,2
+2016-11-17T11:05:00,300,1,microsoft word,Writing,2
+2016-11-17T11:10:00,300,1,microsoft word,Writing,2
+2016-11-17T11:15:00,276,1,microsoft word,Writing,2
+2016-11-17T11:15:00,24,1,Dictionary,General Reference & Learning,1
+2016-11-17T11:20:00,240,1,microsoft word,Writing,2
+2016-11-17T11:20:00,50,1,Mail,Email,2
+2016-11-17T11:20:00,5,1,loginwindow,General Utilities,0
+2016-11-17T11:25:00,20,1,loginwindow,General Utilities,0
+2016-11-17T11:25:00,5,1,Mail,Email,2
+2016-11-17T16:40:00,92,1,gaoloumi.com,Regional,-2
+2016-11-17T16:40:00,12,1,rescuetime.com,Intelligence,0
+2016-11-17T16:40:00,12,1,messages,General Social Networking,-2
+2016-11-17T16:40:00,6,1,Safari,Browsers,2
+2016-11-17T16:40:00,5,1,microsoft word,Writing,2
+2016-11-17T16:40:00,4,1,Mail,Email,2
+2016-11-17T16:40:00,2,1,youtube.com,Video,-2
+2016-11-17T16:40:00,1,1,loginwindow,General Utilities,0
+2016-11-17T16:45:00,298,1,gaoloumi.com,Regional,-2
+2016-11-17T16:50:00,104,1,forbes.com,General News & Opinion,-2
+2016-11-17T16:50:00,86,1,abcnews.go.com,General News & Opinion,-2
+2016-11-17T16:50:00,70,1,time.com,General News & Opinion,-2
+2016-11-17T16:50:00,24,1,google.com,Search,2
+2016-11-17T16:50:00,11,1,gaoloumi.com,Regional,-2
+2016-11-17T16:50:00,3,1,Safari,Browsers,2
+2016-11-17T16:55:00,141,1,ft.com,General News & Opinion,-2
+2016-11-17T16:55:00,83,1,time.com,General News & Opinion,-2
+2016-11-17T16:55:00,45,1,washingtonpost.com,General News & Opinion,-2
+2016-11-17T16:55:00,21,1,google.com,Search,2
+2016-11-17T16:55:00,10,1,messages,General Social Networking,-2
+2016-11-17T17:00:00,107,1,reuters.com,General News & Opinion,-2
+2016-11-17T17:00:00,98,1,messages,General Social Networking,-2
+2016-11-17T17:00:00,58,1,washingtonpost.com,General News & Opinion,-2
+2016-11-17T17:00:00,17,1,google.com,Search,2
+2016-11-17T17:05:00,136,1,ft.com,General News & Opinion,-2
+2016-11-17T17:05:00,78,1,messages,General Social Networking,-2
+2016-11-17T17:05:00,28,1,google.com,Search,2
+2016-11-17T17:05:00,21,1,gov.cn,Legal & Gov't,1
+2016-11-17T17:05:00,19,1,ctvnews.ca,General News & Opinion,-2
+2016-11-17T17:05:00,13,1,reuters.com,General News & Opinion,-2
+2016-11-17T17:05:00,4,1,forces.ca,General News & Opinion,-2
+2016-11-17T17:10:00,88,1,google.com,Search,2
+2016-11-17T17:10:00,76,1,thehindu.com,General News & Opinion,-2
+2016-11-17T17:10:00,43,1,deerfield.edu,General Reference & Learning,1
+2016-11-17T17:10:00,31,1,messages,General Social Networking,-2
+2016-11-17T17:10:00,26,1,ctvnews.ca,General News & Opinion,-2
+2016-11-17T17:10:00,24,1,gov.cn,Legal & Gov't,1
+2016-11-17T17:10:00,12,1,nytimes.com,General News & Opinion,-2
+2016-11-17T17:15:00,121,1,qz.com,General News & Opinion,-2
+2016-11-17T17:15:00,65,1,nytimes.com,General News & Opinion,-2
+2016-11-17T17:15:00,52,1,newscientist.com,Science & Technology,-1
+2016-11-17T17:15:00,30,1,technologyreview.com,General Reference & Learning,1
+2016-11-17T17:15:00,29,1,google.com,Search,2
+2016-11-17T17:20:00,105,1,technologyreview.com,General Reference & Learning,1
+2016-11-17T18:40:00,212,1,youtube.com,Video,-2
+2016-11-17T18:40:00,41,1,technologyreview.com,General Reference & Learning,1
+2016-11-17T18:40:00,7,1,loginwindow,General Utilities,0
+2016-11-17T18:40:00,3,1,Safari,Browsers,2
+2016-11-17T18:45:00,300,1,youtube.com,Video,-2
+2016-11-17T18:50:00,300,1,youtube.com,Video,-2
+2016-11-17T18:55:00,300,1,youtube.com,Video,-2
+2016-11-17T19:00:00,300,1,youtube.com,Video,-2
+2016-11-17T19:05:00,300,1,youtube.com,Video,-2
+2016-11-17T19:10:00,290,1,youtube.com,Video,-2
+2016-11-17T19:10:00,10,1,facebook.com,General Social Networking,-2
+2016-11-17T19:15:00,87,1,facebook.com,General Social Networking,-2
+2016-11-17T19:15:00,84,1,9to5mac.com,General News & Opinion,-2
+2016-11-17T19:15:00,25,1,messages,General Social Networking,-2
+2016-11-17T19:15:00,14,1,cnn.com,General News & Opinion,2
+2016-11-17T19:15:00,5,1,Safari,Browsers,2
+2016-11-17T19:20:00,169,1,amazon.com,General Shopping,-1
+2016-11-17T19:20:00,46,1,theverge.com,Science & Technology,-1
+2016-11-17T19:20:00,37,1,world.taobao.com,General Business,2
+2016-11-17T19:20:00,19,1,google.com,Search,2
+2016-11-17T19:20:00,14,1,9to5mac.com,General News & Opinion,-2
+2016-11-17T19:20:00,8,1,Safari,Browsers,2
+2016-11-17T19:20:00,5,1,macrumors.com,General News & Opinion,-2
+2016-11-17T19:25:00,147,1,amazon.com,General Shopping,-1
+2016-11-17T19:25:00,87,1,macworld.com,Science & Technology,-1
+2016-11-17T19:25:00,35,1,google.com,Search,2
+2016-11-17T19:25:00,24,1,9to5mac.com,General News & Opinion,-2
+2016-11-17T19:25:00,5,1,world.taobao.com,General Business,2
+2016-11-17T19:25:00,2,1,macrumors.com,General News & Opinion,-2
+2016-11-17T19:30:00,251,1,amazon.com,General Shopping,-1
+2016-11-17T19:30:00,22,1,quora.com,General Reference & Learning,-1
+2016-11-17T19:30:00,20,1,google.com,Search,2
+2016-11-17T19:30:00,6,1,Safari,Browsers,2
+2016-11-17T19:35:00,300,1,quora.com,General Reference & Learning,-1
+2016-11-17T19:40:00,183,1,quora.com,General Reference & Learning,-1
+2016-11-17T19:40:00,89,1,amazon.com,General Shopping,-1
+2016-11-17T19:40:00,23,1,apple.com,Engineering & Technology,-1
+2016-11-17T19:40:00,4,1,google.com,Search,2
+2016-11-17T19:45:00,175,1,amazon.com,General Shopping,-1
+2016-11-17T19:45:00,37,1,thunderbolttechnology.net,Uncategorized,0
+2016-11-17T19:45:00,24,1,google.com,Search,2
+2016-11-17T19:45:00,22,1,support.apple.com,Search,0
+2016-11-17T19:45:00,11,1,Mail,Email,2
+2016-11-17T19:45:00,10,1,macworld.com,Science & Technology,-1
+2016-11-17T19:45:00,3,1,macrumors.com,General News & Opinion,-2
+2016-11-17T19:50:00,297,1,quora.com,General Reference & Learning,-1
+2016-11-17T19:50:00,2,1,amazon.com,General Shopping,-1
+2016-11-17T19:55:00,300,1,quora.com,General Reference & Learning,-1
+2016-11-17T20:00:00,300,1,quora.com,General Reference & Learning,-1
+2016-11-17T20:05:00,300,1,quora.com,General Reference & Learning,-1
+2016-11-17T20:10:00,174,1,quora.com,General Reference & Learning,-1
+2016-11-17T20:10:00,124,1,popsci.com,Science & Technology,-1
+2016-11-17T20:10:00,2,1,Safari,Browsers,2
+2016-11-17T20:15:00,299,1,quora.com,General Reference & Learning,-1
+2016-11-17T20:20:00,271,1,youtube.com,Video,-2
+2016-11-17T20:20:00,25,1,quora.com,General Reference & Learning,-1
+2016-11-17T20:20:00,4,1,Safari,Browsers,2
+2016-11-17T20:25:00,300,1,youtube.com,Video,-2
+2016-11-17T20:30:00,300,1,youtube.com,Video,-2
+2016-11-17T20:35:00,300,1,youtube.com,Video,-2
+2016-11-17T20:40:00,300,1,youtube.com,Video,-2
+2016-11-17T20:45:00,298,1,youtube.com,Video,-2
+2016-11-17T20:45:00,2,1,RescueTime,Intelligence,0
+2016-11-17T20:50:00,300,1,youtube.com,Video,-2
+2016-11-17T20:55:00,300,1,youtube.com,Video,-2
+2016-11-17T21:00:00,92,1,deerfield.instructure.com,General Reference & Learning,1
+2016-11-17T21:00:00,86,1,youtube.com,Video,-2
+2016-11-17T21:00:00,76,1,Preview,General Reference & Learning,2
+2016-11-17T21:00:00,38,1,microsoft word,Writing,2
+2016-11-17T21:00:00,5,1,Safari,Browsers,2
+2016-11-17T21:00:00,2,1,deerfield.edu,General Reference & Learning,1
+2016-11-17T21:00:00,1,1,dainfo.deerfield.edu,General Reference & Learning,1
+2016-11-17T21:05:00,108,1,Google Documents,Writing,2
+2016-11-17T21:05:00,84,1,Preview,General Reference & Learning,2
+2016-11-17T21:05:00,38,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-17T21:05:00,35,1,drive.google.com,General Business,2
+2016-11-17T21:05:00,13,1,microsoft word,Writing,2
+2016-11-17T21:05:00,10,1,deerfield.instructure.com,General Reference & Learning,1
+2016-11-17T21:05:00,7,1,Safari,Browsers,2
+2016-11-17T21:05:00,5,1,google.com,Search,2
+2016-11-17T21:10:00,241,1,Google Documents,Writing,2
+2016-11-17T21:10:00,27,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-17T21:10:00,24,1,google.com,Search,2
+2016-11-17T21:10:00,7,1,Safari,Browsers,2
+2016-11-17T21:15:00,263,1,Google Documents,Writing,2
+2016-11-17T21:15:00,11,1,google.com,Search,2
+2016-11-17T21:15:00,7,1,Safari,Browsers,2
+2016-11-17T21:15:00,1,1,drive.google.com,General Business,2
+2016-11-17T21:25:00,171,1,facebook.com,General Social Networking,-2
+2016-11-17T21:25:00,45,1,Preview,General Reference & Learning,2
+2016-11-17T21:45:00,201,1,microsoft word,Writing,2
+2016-11-17T21:45:00,1,1,Preview,General Reference & Learning,2
+2016-11-17T21:50:00,295,1,microsoft word,Writing,2
+2016-11-17T21:50:00,5,1,Dictionary,General Reference & Learning,1
+2016-11-17T21:55:00,300,1,microsoft word,Writing,2
+2016-11-17T22:00:00,300,1,microsoft word,Writing,2
+2016-11-17T22:05:00,300,1,microsoft word,Writing,2
+2016-11-17T22:10:00,300,1,microsoft word,Writing,2
+2016-11-17T22:15:00,237,1,microsoft word,Writing,2
+2016-11-17T22:15:00,63,1,Mail,Email,2
+2016-11-17T22:20:00,144,1,Mail,Email,2
+2016-11-17T22:25:00,137,1,Mail,Email,2
+2016-11-17T22:30:00,300,1,Mail,Email,2
+2016-11-17T22:35:00,109,1,ranker.com,Entertainment,-2
+2016-11-17T22:35:00,86,1,Mail,Email,2
+2016-11-17T22:35:00,71,1,facebook.com,General Social Networking,-2
+2016-11-17T22:40:00,231,1,facebook.com,General Social Networking,-2
+2016-11-17T22:45:00,297,1,loginwindow,General Utilities,0
+2016-11-17T22:45:00,3,1,facebook.com,General Social Networking,-2
+2016-11-17T22:50:00,163,1,facebook.com,General Social Networking,-2
+2016-11-17T22:50:00,137,1,loginwindow,General Utilities,0
+2016-11-17T22:55:00,300,1,facebook.com,General Social Networking,-2
+2016-11-17T23:00:00,166,1,youtube.com,Video,-2
+2016-11-17T23:00:00,48,1,Google Documents,Writing,2
+2016-11-17T23:00:00,44,1,microsoft word,Writing,2
+2016-11-17T23:00:00,35,1,facebook.com,General Social Networking,-2
+2016-11-17T23:00:00,3,1,google.com,Search,2
+2016-11-17T23:00:00,2,1,usernotificationcenter,General Utilities,0
+2016-11-17T23:00:00,2,1,Mail,Email,2
+2016-11-17T23:05:00,181,1,youtube.com,Video,-2
+2016-11-17T23:05:00,116,1,mail.deerfield.edu,General Reference & Learning,1
+2016-11-17T23:05:00,3,1,Safari,Browsers,2
+2016-11-17T23:10:00,271,1,youtube.com,Video,-2
+2016-11-17T23:10:00,24,1,google.com,Search,2
+2016-11-17T23:10:00,5,1,Safari,Browsers,2
+2016-11-17T23:15:00,2,1,youtube.com,Video,-2
+2016-11-17T23:25:00,75,1,geofhagopian.net,Uncategorized,0
+2016-11-17T23:25:00,53,1,youtube.com,Video,-2
+2016-11-17T23:25:00,18,1,google.com,Search,2
+2016-11-17T23:25:00,2,1,Safari,Browsers,2
+2016-11-17T23:55:00,163,1,messages,General Social Networking,-2
+2016-11-17T23:55:00,15,1,youtube.com,Video,-2

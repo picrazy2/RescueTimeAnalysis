@@ -1,0 +1,49 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2015-03-28T00:10:00,142,1,store.apple.com,Electronics,-2
+2015-03-28T00:10:00,9,1,apple.com,Engineering & Technology,-1
+2015-03-28T00:10:00,5,1,Skype,General Social Networking,-2
+2015-03-28T00:10:00,4,1,amazon.com,General Shopping,-1
+2015-03-28T00:25:00,2,1,loginwindow,General Utilities,0
+2015-03-28T10:50:00,61,1,Google Spreadsheets - Google Apps,General Business,2
+2015-03-28T10:50:00,28,1,Safari,Browsers,2
+2015-03-28T10:50:00,18,1,drive.google.com,General Business,2
+2015-03-28T10:50:00,17,1,loginwindow,General Utilities,0
+2015-03-28T10:50:00,3,1,applications,General Business,2
+2015-03-28T15:50:00,95,1,cengage.com,Operations,2
+2015-03-28T15:50:00,17,1,Safari,Browsers,2
+2015-03-28T15:50:00,12,1,Google Spreadsheets - Google Apps,General Business,2
+2015-03-28T15:55:00,22,1,cengage.com,Operations,2
+2015-03-28T17:20:00,143,1,Google Forms,General Business,2
+2015-03-28T17:20:00,12,1,Mail,Email,2
+2015-03-28T17:20:00,3,1,Safari,Browsers,2
+2015-03-28T17:20:00,3,1,cengage.com,Operations,2
+2015-03-28T17:20:00,2,1,loginwindow,General Utilities,0
+2015-03-28T17:25:00,19,1,loginwindow,General Utilities,0
+2015-03-28T17:25:00,11,1,Google Forms,General Business,2
+2015-03-28T22:45:00,257,1,Google Forms,General Business,2
+2015-03-28T22:45:00,8,1,Mail,Email,2
+2015-03-28T22:50:00,294,1,Google Forms,General Business,2
+2015-03-28T22:50:00,2,1,drive.google.com,General Business,2
+2015-03-28T22:55:00,180,1,Mail,Email,2
+2015-03-28T22:55:00,79,1,Google Forms,General Business,2
+2015-03-28T22:55:00,28,1,drive.google.com,General Business,2
+2015-03-28T22:55:00,6,1,Skype,General Social Networking,-2
+2015-03-28T22:55:00,3,1,brainyquote.com,Search,0
+2015-03-28T22:55:00,2,1,cengage.com,Operations,2
+2015-03-28T23:00:00,59,1,drive.google.com,General Business,2
+2015-03-28T23:00:00,1,1,brainyquote.com,Search,0
+2015-03-28T23:25:00,121,1,themathleague.com,Uncategorized,0
+2015-03-28T23:25:00,11,1,google.com,Search,2
+2015-03-28T23:25:00,3,1,Safari,Browsers,2
+2015-03-28T23:30:00,284,1,themathleague.com,Uncategorized,0
+2015-03-28T23:30:00,7,1,google.com,Search,2
+2015-03-28T23:30:00,4,1,Mail,Email,2
+2015-03-28T23:30:00,2,1,Safari,Browsers,2
+2015-03-28T23:35:00,298,1,themathleague.com,Uncategorized,0
+2015-03-28T23:40:00,153,1,themathleague.com,Uncategorized,0
+2015-03-28T23:40:00,114,1,Mail,Email,2
+2015-03-28T23:40:00,19,1,Skype,General Social Networking,-2
+2015-03-28T23:40:00,8,1,loginwindow,General Utilities,0
+2015-03-28T23:40:00,3,1,controlpanel,General Utilities,1
+2015-03-28T23:40:00,2,1,java updater,General Utilities,1
+2015-03-28T23:45:00,11,1,loginwindow,General Utilities,0

@@ -1,0 +1,100 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2015-03-25T09:40:00,108,1,Mail,Email,2
+2015-03-25T09:40:00,3,1,Preview,General Reference & Learning,2
+2015-03-25T09:40:00,1,1,usernotificationcenter,General Utilities,0
+2015-03-25T09:45:00,248,1,Mail,Email,2
+2015-03-25T09:45:00,52,1,Finder,General Utilities,0
+2015-03-25T09:50:00,66,1,Finder,General Utilities,0
+2015-03-25T09:50:00,4,1,Mail,Email,2
+2015-03-25T09:55:00,99,1,Skype,General Social Networking,-2
+2015-03-25T09:55:00,75,1,Finder,General Utilities,0
+2015-03-25T09:55:00,45,1,logger pro,Health & Medicine,1
+2015-03-25T09:55:00,1,1,RescueTime,Intelligence,0
+2015-03-25T10:00:00,37,1,logger pro,Health & Medicine,1
+2015-03-25T10:00:00,19,1,Preview,General Reference & Learning,2
+2015-03-25T10:00:00,6,1,Finder,General Utilities,0
+2015-03-25T10:05:00,37,1,microsoft word,Writing,2
+2015-03-25T10:05:00,17,1,TextEdit,Writing,2
+2015-03-25T10:05:00,1,1,Preview,General Reference & Learning,2
+2015-03-25T10:10:00,227,1,microsoft word,Writing,2
+2015-03-25T10:10:00,73,1,logger pro,Health & Medicine,1
+2015-03-25T10:15:00,222,1,logger pro,Health & Medicine,1
+2015-03-25T10:15:00,40,1,microsoft word,Writing,2
+2015-03-25T10:15:00,38,1,alfred 2,General Utilities,1
+2015-03-25T10:20:00,190,1,microsoft word,Writing,2
+2015-03-25T10:20:00,51,1,TextEdit,Writing,2
+2015-03-25T10:20:00,18,1,logger pro,Health & Medicine,1
+2015-03-25T10:20:00,15,1,Mail,Email,2
+2015-03-25T10:25:00,38,1,microsoft word,Writing,2
+2015-03-25T10:30:00,298,1,microsoft word,Writing,2
+2015-03-25T10:35:00,291,1,microsoft word,Writing,2
+2015-03-25T10:35:00,9,1,Mail,Email,2
+2015-03-25T10:40:00,177,1,microsoft word,Writing,2
+2015-03-25T10:45:00,73,1,loginwindow,General Utilities,0
+2015-03-25T12:20:00,69,1,Safari,Browsers,2
+2015-03-25T12:20:00,36,1,Google Documents - Google Apps,Writing,2
+2015-03-25T12:20:00,32,1,en.wikipedia.org,General Reference & Learning,1
+2015-03-25T12:20:00,23,1,google.com,Search,2
+2015-03-25T12:20:00,13,1,drive.google.com,General Business,2
+2015-03-25T12:20:00,4,1,Mail,Email,2
+2015-03-25T12:20:00,4,1,Finder,General Utilities,0
+2015-03-25T12:20:00,2,1,microsoft word,Writing,2
+2015-03-25T12:20:00,2,1,auth.deerfield.edu,General Reference & Learning,1
+2015-03-25T12:25:00,94,1,en.wikipedia.org,General Reference & Learning,1
+2015-03-25T12:25:00,86,1,Google Documents - Google Apps,Writing,2
+2015-03-25T12:25:00,50,1,google.com,Search,2
+2015-03-25T12:25:00,47,1,answers.yahoo.com,Search,0
+2015-03-25T12:25:00,21,1,Safari,Browsers,2
+2015-03-25T12:30:00,149,1,en.wikipedia.org,General Reference & Learning,1
+2015-03-25T12:30:00,99,1,google.com,Search,2
+2015-03-25T12:30:00,30,1,Google Documents - Google Apps,Writing,2
+2015-03-25T12:30:00,18,1,answers.yahoo.com,Search,0
+2015-03-25T12:30:00,3,1,Safari,Browsers,2
+2015-03-25T12:30:00,1,1,drive.google.com,General Business,2
+2015-03-25T12:35:00,215,1,brainyquote.com,Search,0
+2015-03-25T12:35:00,67,1,Google Documents - Google Apps,Writing,2
+2015-03-25T12:35:00,13,1,google.com,Search,2
+2015-03-25T12:35:00,3,1,en.wikipedia.org,General Reference & Learning,1
+2015-03-25T12:35:00,1,1,drive.google.com,General Business,2
+2015-03-25T12:40:00,239,1,brainyquote.com,Search,0
+2015-03-25T12:40:00,41,1,loginwindow,General Utilities,0
+2015-03-25T21:35:00,45,1,Mail,Email,2
+2015-03-25T21:35:00,23,1,Preview,General Reference & Learning,2
+2015-03-25T21:35:00,4,1,dalearn.deerfield.edu,General Reference & Learning,2
+2015-03-25T21:35:00,3,1,loginwindow,General Utilities,0
+2015-03-25T21:40:00,221,1,Mail,Email,2
+2015-03-25T21:40:00,47,1,en.wikipedia.org,General Reference & Learning,1
+2015-03-25T21:40:00,19,1,Skype,General Social Networking,-2
+2015-03-25T21:40:00,13,1,dalearn.deerfield.edu,General Reference & Learning,2
+2015-03-25T21:40:00,6,1,usernotificationcenter,General Utilities,0
+2015-03-25T21:45:00,133,1,Mail,Email,2
+2015-03-25T21:45:00,109,1,en.wikipedia.org,General Reference & Learning,1
+2015-03-25T21:45:00,42,1,upload.wikimedia.org,Search,0
+2015-03-25T21:45:00,16,1,Finder,General Utilities,0
+2015-03-25T21:50:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2015-03-25T21:55:00,145,1,facebook.com,General Social Networking,-2
+2015-03-25T21:55:00,75,1,en.wikipedia.org,General Reference & Learning,1
+2015-03-25T21:55:00,70,1,Mail,Email,2
+2015-03-25T21:55:00,9,1,dalearn.deerfield.edu,General Reference & Learning,2
+2015-03-25T22:00:00,300,1,facebook.com,General Social Networking,-2
+2015-03-25T22:05:00,300,1,facebook.com,General Social Networking,-2
+2015-03-25T22:10:00,300,1,facebook.com,General Social Networking,-2
+2015-03-25T22:15:00,52,1,facebook.com,General Social Networking,-2
+2015-03-25T22:35:00,7,1,facebook.com,General Social Networking,-2
+2015-03-25T22:35:00,2,1,Skype,General Social Networking,-2
+2015-03-25T22:50:00,35,1,en.wikipedia.org,General Reference & Learning,1
+2015-03-25T22:50:00,26,1,Skype,General Social Networking,-2
+2015-03-25T22:50:00,17,1,facebook.com,General Social Networking,-2
+2015-03-25T22:50:00,14,1,Activity Monitor,General Utilities,0
+2015-03-25T22:55:00,274,1,en.wikipedia.org,General Reference & Learning,1
+2015-03-25T22:55:00,26,1,bwfbadminton.org,Sports,-1
+2015-03-25T23:00:00,282,1,bwfbadminton.org,Sports,-1
+2015-03-25T23:00:00,9,1,Mail,Email,2
+2015-03-25T23:00:00,5,1,ewels.info,Uncategorized,0
+2015-03-25T23:00:00,4,1,rescuetime.com,Intelligence,0
+2015-03-25T23:05:00,241,1,Google Forms,General Business,2
+2015-03-25T23:05:00,18,1,loginwindow,General Utilities,0
+2015-03-25T23:05:00,2,1,sparknotes.com,Search,2
+2015-03-25T23:05:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2015-03-25T23:05:00,1,1,google.com,Search,2
+2015-03-25T23:05:00,1,1,rescuetime.com,Intelligence,0

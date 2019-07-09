@@ -1,0 +1,136 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2017-06-14T00:00:00,300,1,youtube.com,Video,-2
+2017-06-14T00:05:00,275,1,youtube.com,Video,-2
+2017-06-14T00:05:00,25,1,messages,General Social Networking,-2
+2017-06-14T00:10:00,254,1,youtube.com,Video,-2
+2017-06-14T00:10:00,37,1,facebook.com,General Social Networking,-2
+2017-06-14T00:10:00,6,1,map.baidu.com,Maps & Regional,-2
+2017-06-14T00:10:00,2,1,amazon.com,General Shopping,-1
+2017-06-14T00:15:00,220,1,facebook.com,General Social Networking,-2
+2017-06-14T00:15:00,49,1,youtube.com,Video,-2
+2017-06-14T00:15:00,26,1,expressvpn,General Utilities,1
+2017-06-14T00:15:00,2,1,Safari,Browsers,2
+2017-06-14T00:15:00,1,1,aqicn.org,General Reference & Learning,1
+2017-06-14T00:20:00,300,1,facebook.com,General Social Networking,-2
+2017-06-14T00:25:00,137,1,facebook.com,General Social Networking,-2
+2017-06-14T00:25:00,53,1,tripadvisor.com,Travel & Outdoors,-2
+2017-06-14T00:25:00,46,1,messages,General Social Networking,-2
+2017-06-14T00:25:00,27,1,en.tripadvisor.com.hk,Travel & Outdoors,-2
+2017-06-14T00:25:00,20,1,amazon.com,General Shopping,-1
+2017-06-14T00:25:00,13,1,youtube.com,Video,-2
+2017-06-14T00:25:00,2,1,travelchinaguide.com,Travel & Outdoors,-2
+2017-06-14T00:30:00,162,1,tripadvisor.com,Travel & Outdoors,-2
+2017-06-14T00:30:00,136,1,messages,General Social Networking,-2
+2017-06-14T00:30:00,2,1,Safari,Browsers,2
+2017-06-14T00:35:00,271,1,tripadvisor.com,Travel & Outdoors,-2
+2017-06-14T00:35:00,26,1,messages,General Social Networking,-2
+2017-06-14T00:35:00,3,1,Safari,Browsers,2
+2017-06-14T00:40:00,297,1,tripadvisor.com,Travel & Outdoors,-2
+2017-06-14T00:40:00,3,1,Safari,Browsers,2
+2017-06-14T00:45:00,293,1,tripadvisor.com,Travel & Outdoors,-2
+2017-06-14T00:45:00,5,1,messages,General Social Networking,-2
+2017-06-14T00:45:00,2,1,Safari,Browsers,2
+2017-06-14T00:50:00,298,1,tripadvisor.com,Travel & Outdoors,-2
+2017-06-14T00:50:00,2,1,Safari,Browsers,2
+2017-06-14T00:55:00,296,1,tripadvisor.com,Travel & Outdoors,-2
+2017-06-14T00:55:00,4,1,Safari,Browsers,2
+2017-06-14T01:00:00,297,1,tripadvisor.com,Travel & Outdoors,-2
+2017-06-14T01:00:00,3,1,Safari,Browsers,2
+2017-06-14T01:05:00,51,1,tripadvisor.com,Travel & Outdoors,-2
+2017-06-14T01:05:00,17,1,loginwindow,General Utilities,0
+2017-06-14T01:10:00,59,1,tripadvisor.com,Travel & Outdoors,-2
+2017-06-14T01:10:00,56,1,Safari,Browsers,2
+2017-06-14T01:10:00,1,1,System Preferences,General Utilities,0
+2017-06-14T01:15:00,21,1,expressvpn,General Utilities,1
+2017-06-14T01:15:00,17,1,Safari,Browsers,2
+2017-06-14T01:15:00,1,1,applications,General Business,2
+2017-06-14T01:20:00,66,1,Safari,Browsers,2
+2017-06-14T01:20:00,41,1,loginwindow,General Utilities,0
+2017-06-14T01:20:00,1,1,macshiny.com,Uncategorized,0
+2017-06-14T21:35:00,86,1,drive.google.com,General Business,2
+2017-06-14T21:35:00,64,1,Finder,General Utilities,0
+2017-06-14T21:35:00,10,1,tripadvisor.com,Travel & Outdoors,-2
+2017-06-14T21:35:00,10,1,Mail,Email,2
+2017-06-14T21:35:00,8,1,Safari,Browsers,2
+2017-06-14T21:35:00,4,1,messages,General Social Networking,-2
+2017-06-14T21:40:00,251,1,facebook.com,General Social Networking,-2
+2017-06-14T21:40:00,30,1,youtube.com,Video,-2
+2017-06-14T21:40:00,13,1,drive.google.com,General Business,2
+2017-06-14T21:40:00,3,1,messages,General Social Networking,-2
+2017-06-14T21:40:00,3,1,Safari,Browsers,2
+2017-06-14T21:45:00,230,1,youtube.com,Video,-2
+2017-06-14T21:45:00,67,1,expressvpn,General Utilities,1
+2017-06-14T21:45:00,3,1,usernotificationcenter,General Utilities,0
+2017-06-14T21:50:00,79,1,photoshop cc,General Design & Composition,2
+2017-06-14T21:50:00,79,1,youtube.com,Video,-2
+2017-06-14T21:50:00,76,1,blog.udemy.com,General Reference & Learning,1
+2017-06-14T21:50:00,23,1,drive.google.com,General Business,2
+2017-06-14T21:50:00,22,1,google.co.jp,Search,0
+2017-06-14T21:50:00,21,1,messages,General Social Networking,-2
+2017-06-14T21:50:00,14,1,expressvpn,General Utilities,1
+2017-06-14T21:50:00,11,1,Mail,Email,2
+2017-06-14T21:50:00,10,1,Safari,Browsers,2
+2017-06-14T21:55:00,227,1,photoshop cc,General Design & Composition,2
+2017-06-14T21:55:00,36,1,google.co.jp,Search,0
+2017-06-14T22:00:00,234,1,photoshop cc,General Design & Composition,2
+2017-06-14T22:00:00,17,1,messages,General Social Networking,-2
+2017-06-14T22:05:00,300,1,photoshop cc,General Design & Composition,2
+2017-06-14T22:10:00,282,1,photoshop cc,General Design & Composition,2
+2017-06-14T22:10:00,18,1,Finder,General Utilities,0
+2017-06-14T22:15:00,280,1,photoshop cc,General Design & Composition,2
+2017-06-14T22:20:00,196,1,photoshop cc,General Design & Composition,2
+2017-06-14T22:20:00,23,1,Finder,General Utilities,0
+2017-06-14T22:25:00,300,1,photoshop cc,General Design & Composition,2
+2017-06-14T22:30:00,300,1,photoshop cc,General Design & Composition,2
+2017-06-14T22:35:00,133,1,photoshop cc,General Design & Composition,2
+2017-06-14T22:35:00,98,1,drive.google.com,General Business,2
+2017-06-14T22:35:00,33,1,Finder,General Utilities,0
+2017-06-14T22:35:00,30,1,messages,General Social Networking,-2
+2017-06-14T22:35:00,3,1,expressvpn,General Utilities,1
+2017-06-14T22:35:00,2,1,lightroom,Presentation,2
+2017-06-14T22:35:00,1,1,google.co.jp,Search,0
+2017-06-14T22:40:00,230,1,Finder,General Utilities,0
+2017-06-14T22:40:00,70,1,drive.google.com,General Business,2
+2017-06-14T22:45:00,192,1,photoshop cc,General Design & Composition,2
+2017-06-14T22:45:00,106,1,Finder,General Utilities,0
+2017-06-14T22:45:00,2,1,messages,General Social Networking,-2
+2017-06-14T22:50:00,203,1,messages,General Social Networking,-2
+2017-06-14T22:50:00,47,1,drive.google.com,General Business,2
+2017-06-14T22:50:00,47,1,Finder,General Utilities,0
+2017-06-14T22:50:00,3,1,photoshop cc,General Design & Composition,2
+2017-06-14T22:55:00,249,1,photoshop cc,General Design & Composition,2
+2017-06-14T22:55:00,8,1,messages,General Social Networking,-2
+2017-06-14T23:05:00,194,1,photoshop cc,General Design & Composition,2
+2017-06-14T23:05:00,24,1,messages,General Social Networking,-2
+2017-06-14T23:05:00,24,1,Finder,General Utilities,0
+2017-06-14T23:05:00,15,1,drive.google.com,General Business,2
+2017-06-14T23:05:00,1,1,google.co.jp,Search,0
+2017-06-14T23:10:00,203,1,messages,General Social Networking,-2
+2017-06-14T23:10:00,59,1,Finder,General Utilities,0
+2017-06-14T23:10:00,38,1,photoshop cc,General Design & Composition,2
+2017-06-14T23:15:00,182,1,photoshop cc,General Design & Composition,2
+2017-06-14T23:15:00,118,1,messages,General Social Networking,-2
+2017-06-14T23:20:00,249,1,messages,General Social Networking,-2
+2017-06-14T23:20:00,39,1,Finder,General Utilities,0
+2017-06-14T23:20:00,12,1,photoshop cc,General Design & Composition,2
+2017-06-14T23:25:00,143,1,expressvpn,General Utilities,1
+2017-06-14T23:25:00,91,1,messages,General Social Networking,-2
+2017-06-14T23:25:00,62,1,drive.google.com,General Business,2
+2017-06-14T23:25:00,2,1,google.co.jp,Search,0
+2017-06-14T23:30:00,259,1,messages,General Social Networking,-2
+2017-06-14T23:30:00,31,1,drive.google.com,General Business,2
+2017-06-14T23:30:00,7,1,photoshop cc,General Design & Composition,2
+2017-06-14T23:30:00,3,1,facebook.com,General Social Networking,-2
+2017-06-14T23:35:00,173,1,facebook.com,General Social Networking,-2
+2017-06-14T23:35:00,127,1,messages,General Social Networking,-2
+2017-06-14T23:40:00,205,1,facebook.com,General Social Networking,-2
+2017-06-14T23:40:00,54,1,drive.google.com,General Business,2
+2017-06-14T23:40:00,35,1,messages,General Social Networking,-2
+2017-06-14T23:40:00,5,1,Mail,Email,2
+2017-06-14T23:40:00,1,1,google.co.jp,Search,0
+2017-06-14T23:45:00,199,1,facebook.com,General Social Networking,-2
+2017-06-14T23:45:00,56,1,messages,General Social Networking,-2
+2017-06-14T23:45:00,38,1,google.com,Search,2
+2017-06-14T23:45:00,7,1,Safari,Browsers,2
+2017-06-14T23:50:00,93,1,google.com,Search,2
+2017-06-14T23:50:00,6,1,google.co.jp,Search,0

@@ -1,0 +1,385 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2014-10-26T00:00:00,300,1,messages,General Social Networking,-2
+2014-10-26T00:05:00,300,1,messages,General Social Networking,-2
+2014-10-26T00:10:00,300,1,messages,General Social Networking,-2
+2014-10-26T00:15:00,177,1,Skype,General Social Networking,-2
+2014-10-26T00:15:00,123,1,messages,General Social Networking,-2
+2014-10-26T00:20:00,291,1,Skype,General Social Networking,-2
+2014-10-26T00:20:00,9,1,messages,General Social Networking,-2
+2014-10-26T00:25:00,25,1,messages,General Social Networking,-2
+2014-10-26T00:30:00,229,1,Skype,General Social Networking,-2
+2014-10-26T00:30:00,32,1,messages,General Social Networking,-2
+2014-10-26T00:35:00,174,1,messages,General Social Networking,-2
+2014-10-26T00:35:00,3,1,Skype,General Social Networking,-2
+2014-10-26T01:00:00,37,1,usernotificationcenter,General Utilities,0
+2014-10-26T02:10:00,16,1,usernotificationcenter,General Utilities,0
+2014-10-26T11:00:00,96,1,9gag.com,Comedy,-2
+2014-10-26T11:00:00,93,1,microsoft word,Writing,2
+2014-10-26T11:00:00,51,1,Skype,General Social Networking,-2
+2014-10-26T11:00:00,23,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-10-26T11:00:00,19,1,messages,General Social Networking,-2
+2014-10-26T11:00:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2014-10-26T11:05:00,201,1,9gag.com,Comedy,-2
+2014-10-26T11:05:00,80,1,microsoft word,Writing,2
+2014-10-26T11:05:00,8,1,messages,General Social Networking,-2
+2014-10-26T11:05:00,7,1,Skype,General Social Networking,-2
+2014-10-26T11:05:00,2,1,Safari,Browsers,2
+2014-10-26T11:10:00,138,1,microsoft word,Writing,2
+2014-10-26T11:10:00,110,1,messages,General Social Networking,-2
+2014-10-26T11:10:00,24,1,Keynote,Presentation,2
+2014-10-26T11:10:00,21,1,science.howstuffworks.com,General News & Opinion,2
+2014-10-26T11:10:00,2,1,home.howstuffworks.com,General Reference & Learning,1
+2014-10-26T11:10:00,2,1,Skype,General Social Networking,-2
+2014-10-26T11:10:00,1,1,9gag.com,Comedy,-2
+2014-10-26T11:15:00,116,1,microsoft word,Writing,2
+2014-10-26T11:15:00,101,1,home.howstuffworks.com,General Reference & Learning,1
+2014-10-26T11:15:00,70,1,Keynote,Presentation,2
+2014-10-26T11:20:00,209,1,9gag.com,Comedy,-2
+2014-10-26T11:20:00,41,1,Keynote,Presentation,2
+2014-10-26T11:20:00,23,1,Safari,Browsers,2
+2014-10-26T11:20:00,13,1,Skype,General Social Networking,-2
+2014-10-26T11:20:00,10,1,Mail,Email,2
+2014-10-26T11:20:00,4,1,microsoft word,Writing,2
+2014-10-26T11:25:00,97,1,swimmingpool.com,Uncategorized,0
+2014-10-26T11:25:00,66,1,microsoft word,Writing,2
+2014-10-26T11:25:00,46,1,wwwapps.ups.com,General Shopping,-2
+2014-10-26T11:25:00,29,1,en.wikipedia.org,General Reference & Learning,1
+2014-10-26T11:25:00,23,1,home.howstuffworks.com,General Reference & Learning,1
+2014-10-26T11:25:00,15,1,google.com,Search,2
+2014-10-26T11:25:00,7,1,trevorhess614.tripod.com,Uncategorized,0
+2014-10-26T11:25:00,6,1,maxwellsci.com,Uncategorized,0
+2014-10-26T11:25:00,5,1,9gag.com,Comedy,-2
+2014-10-26T11:25:00,2,1,science.howstuffworks.com,General News & Opinion,2
+2014-10-26T11:25:00,2,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-10-26T11:25:00,1,1,epa.gov,Legal & Gov't,1
+2014-10-26T11:30:00,96,1,lenntech.com,Search,0
+2014-10-26T11:30:00,90,1,en.wikipedia.org,General Reference & Learning,1
+2014-10-26T11:30:00,77,1,epa.gov,Legal & Gov't,1
+2014-10-26T11:30:00,18,1,microsoft word,Writing,2
+2014-10-26T11:30:00,9,1,Mail,Email,2
+2014-10-26T11:30:00,7,1,google.com,Search,2
+2014-10-26T11:30:00,3,1,Skype,General Social Networking,-2
+2014-10-26T11:35:00,123,1,home.howstuffworks.com,General Reference & Learning,1
+2014-10-26T11:35:00,110,1,microsoft word,Writing,2
+2014-10-26T11:35:00,19,1,google.com,Search,2
+2014-10-26T11:35:00,18,1,Mail,Email,2
+2014-10-26T11:35:00,15,1,epa.gov,Legal & Gov't,1
+2014-10-26T11:35:00,14,1,Keynote,Presentation,2
+2014-10-26T11:40:00,94,1,microsoft word,Writing,2
+2014-10-26T11:40:00,82,1,Keynote,Presentation,2
+2014-10-26T11:40:00,37,1,google.com,Search,2
+2014-10-26T11:40:00,33,1,mrthan.weebly.com,Presentation,2
+2014-10-26T11:40:00,22,1,home.howstuffworks.com,General Reference & Learning,1
+2014-10-26T11:40:00,19,1,lenntech.com,Search,0
+2014-10-26T11:40:00,11,1,Skype,General Social Networking,-2
+2014-10-26T11:40:00,1,1,swimmingpool.com,Uncategorized,0
+2014-10-26T11:45:00,162,1,microsoft word,Writing,2
+2014-10-26T11:45:00,74,1,Mail,Email,2
+2014-10-26T11:45:00,41,1,swimmingpool.com,Uncategorized,0
+2014-10-26T11:45:00,18,1,home.howstuffworks.com,General Reference & Learning,1
+2014-10-26T11:45:00,2,1,Skype,General Social Networking,-2
+2014-10-26T11:45:00,1,1,mrthan.weebly.com,Presentation,2
+2014-10-26T11:45:00,1,1,trevorhess614.tripod.com,Uncategorized,0
+2014-10-26T11:50:00,185,1,microsoft word,Writing,2
+2014-10-26T11:50:00,45,1,Keynote,Presentation,2
+2014-10-26T11:50:00,8,1,Mail,Email,2
+2014-10-26T11:50:00,8,1,Skype,General Social Networking,-2
+2014-10-26T11:50:00,1,1,swimmingpool.com,Uncategorized,0
+2014-10-26T12:00:00,15,1,loginwindow,General Utilities,0
+2014-10-26T12:00:00,9,1,Skype,General Social Networking,-2
+2014-10-26T12:30:00,245,1,microsoft word,Writing,2
+2014-10-26T12:30:00,7,1,Skype,General Social Networking,-2
+2014-10-26T12:35:00,399,1,Finder,General Utilities,0
+2014-10-26T12:35:00,67,1,microsoft word,Writing,2
+2014-10-26T12:35:00,48,1,Keynote,Presentation,2
+2014-10-26T12:35:00,25,1,deerfield.edu,General Reference & Learning,1
+2014-10-26T12:35:00,13,1,Skype,General Social Networking,-2
+2014-10-26T12:35:00,3,1,Mail,Email,2
+2014-10-26T12:35:00,1,1,messages,General Social Networking,-2
+2014-10-26T12:40:00,143,1,final cut pro,Video Editing,2
+2014-10-26T12:40:00,84,1,Mail,Email,2
+2014-10-26T12:40:00,68,1,Finder,General Utilities,0
+2014-10-26T12:40:00,2,1,usernotificationcenter,General Utilities,0
+2014-10-26T12:45:00,300,1,Mail,Email,2
+2014-10-26T12:50:00,181,1,Mail,Email,2
+2014-10-26T12:50:00,84,1,final cut pro,Video Editing,2
+2014-10-26T12:50:00,30,1,Finder,General Utilities,0
+2014-10-26T12:50:00,2,1,messages,General Social Networking,-2
+2014-10-26T12:55:00,300,1,final cut pro,Video Editing,2
+2014-10-26T13:00:00,165,1,final cut pro,Video Editing,2
+2014-10-26T13:00:00,89,1,quicktime player,General Entertainment,-1
+2014-10-26T13:00:00,23,1,Finder,General Utilities,0
+2014-10-26T13:00:00,2,1,messages,General Social Networking,-2
+2014-10-26T13:05:00,212,1,Finder,General Utilities,0
+2014-10-26T13:05:00,83,1,Keynote,Presentation,2
+2014-10-26T13:05:00,50,1,microsoft word,Writing,2
+2014-10-26T13:05:00,25,1,swimmingpool.com,Uncategorized,0
+2014-10-26T13:05:00,11,1,Skype,General Social Networking,-2
+2014-10-26T13:10:00,163,1,Keynote,Presentation,2
+2014-10-26T13:10:00,100,1,macrumors.com,General News & Opinion,-2
+2014-10-26T13:10:00,19,1,Hosted Google Docs,Writing,2
+2014-10-26T13:10:00,4,1,en.wikipedia.org,General Reference & Learning,1
+2014-10-26T13:10:00,3,1,9gag.com,Comedy,-2
+2014-10-26T13:10:00,2,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-10-26T13:10:00,2,1,wwwapps.ups.com,General Shopping,-2
+2014-10-26T13:10:00,2,1,swimmingpool.com,Uncategorized,0
+2014-10-26T13:10:00,2,1,science.howstuffworks.com,General News & Opinion,2
+2014-10-26T13:10:00,1,1,poolcenter.com,General Reference & Learning,1
+2014-10-26T13:10:00,1,1,trevorhess614.tripod.com,Uncategorized,0
+2014-10-26T13:15:00,300,1,macrumors.com,General News & Opinion,-2
+2014-10-26T13:20:00,208,1,macrumors.com,General News & Opinion,-2
+2014-10-26T13:20:00,51,1,store.apple.com,Electronics,-2
+2014-10-26T13:20:00,27,1,apple.com,Engineering & Technology,-1
+2014-10-26T13:20:00,13,1,9gag.com,Comedy,-2
+2014-10-26T13:25:00,122,1,funny-games.biz,Games,-2
+2014-10-26T13:25:00,40,1,google.com,Search,2
+2014-10-26T13:25:00,34,1,ancienthistory.about.com,Search,0
+2014-10-26T13:25:00,34,1,Safari,Browsers,2
+2014-10-26T13:25:00,29,1,wwwapps.ups.com,General Shopping,-2
+2014-10-26T13:25:00,9,1,store.apple.com,Electronics,-2
+2014-10-26T13:25:00,9,1,macrumors.com,General News & Opinion,-2
+2014-10-26T13:25:00,8,1,microsoft word,Writing,2
+2014-10-26T13:25:00,3,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-10-26T13:25:00,3,1,adobe flash player install manager,General Utilities,1
+2014-10-26T13:25:00,2,1,Hosted Google Docs,Writing,2
+2014-10-26T13:25:00,2,1,trevorhess614.tripod.com,Uncategorized,0
+2014-10-26T13:25:00,1,1,mrthan.weebly.com,Presentation,2
+2014-10-26T13:30:00,279,1,funny-games.biz,Games,-2
+2014-10-26T13:30:00,21,1,alfred 2,General Utilities,1
+2014-10-26T13:35:00,300,1,funny-games.biz,Games,-2
+2014-10-26T13:40:00,177,1,funny-games.biz,Games,-2
+2014-10-26T13:40:00,114,1,10fastfingers.com,General Reference & Learning,1
+2014-10-26T13:40:00,9,1,google.com,Search,2
+2014-10-26T13:45:00,93,1,motherjones.com,General News & Opinion,-2
+2014-10-26T13:45:00,31,1,facebook.com,General Social Networking,-2
+2014-10-26T13:45:00,17,1,10fastfingers.com,General Reference & Learning,1
+2014-10-26T13:45:00,3,1,Safari,Browsers,2
+2014-10-26T13:55:00,116,1,final cut pro,Video Editing,2
+2014-10-26T13:55:00,55,1,Mail,Email,2
+2014-10-26T13:55:00,18,1,loginwindow,General Utilities,0
+2014-10-26T13:55:00,3,1,quicktime player,General Entertainment,-1
+2014-10-26T13:55:00,2,1,Finder,General Utilities,0
+2014-10-26T14:00:00,296,1,Mail,Email,2
+2014-10-26T14:00:00,3,1,Finder,General Utilities,0
+2014-10-26T14:05:00,203,1,deerfield.edu,General Reference & Learning,1
+2014-10-26T14:05:00,52,1,Mail,Email,2
+2014-10-26T14:05:00,45,1,translate.google.com,Search,1
+2014-10-26T14:10:00,188,1,deerfield.edu,General Reference & Learning,1
+2014-10-26T14:10:00,94,1,en.wikipedia.org,General Reference & Learning,1
+2014-10-26T14:10:00,18,1,baike.baidu.com,Search,0
+2014-10-26T14:15:00,92,1,Google Drive - Google Apps,General Business,2
+2014-10-26T14:15:00,58,1,python.org,General Software Development,2
+2014-10-26T14:15:00,57,1,idle,Editing & IDEs,2
+2014-10-26T14:15:00,55,1,en.wikipedia.org,General Reference & Learning,1
+2014-10-26T14:15:00,29,1,baike.baidu.com,Search,0
+2014-10-26T14:15:00,7,1,python launcher,General Software Development,2
+2014-10-26T14:15:00,1,1,deerfield.edu,General Reference & Learning,1
+2014-10-26T14:20:00,299,1,idle,Editing & IDEs,2
+2014-10-26T14:25:00,217,1,idle,Editing & IDEs,2
+2014-10-26T14:25:00,69,1,Finder,General Utilities,0
+2014-10-26T14:25:00,10,1,Xcode,Editing & IDEs,2
+2014-10-26T14:30:00,181,1,MS Excel,General Business,2
+2014-10-26T14:30:00,80,1,eclipse,Editing & IDEs,2
+2014-10-26T14:30:00,19,1,Finder,General Utilities,0
+2014-10-26T14:35:00,300,1,MS Excel,General Business,2
+2014-10-26T14:40:00,300,1,MS Excel,General Business,2
+2014-10-26T14:45:00,186,1,eclipse,Editing & IDEs,2
+2014-10-26T14:45:00,110,1,MS Excel,General Business,2
+2014-10-26T14:45:00,3,1,desktoplauncher,General Software Development,2
+2014-10-26T14:50:00,283,1,eclipse,Editing & IDEs,2
+2014-10-26T14:50:00,10,1,github,General Software Development,2
+2014-10-26T14:55:00,213,1,maingui,Uncategorized,0
+2014-10-26T14:55:00,80,1,eclipse,Editing & IDEs,2
+2014-10-26T14:55:00,2,1,loginwindow,General Utilities,0
+2014-10-26T15:00:00,300,1,maingui,Uncategorized,0
+2014-10-26T15:05:00,164,1,eclipse,Editing & IDEs,2
+2014-10-26T15:05:00,115,1,Finder,General Utilities,0
+2014-10-26T15:05:00,18,1,Skype,General Social Networking,-2
+2014-10-26T15:05:00,1,1,loginwindow,General Utilities,0
+2014-10-26T15:05:00,1,1,maingui,Uncategorized,0
+2014-10-26T15:10:00,297,1,eclipse,Editing & IDEs,2
+2014-10-26T15:15:00,298,1,eclipse,Editing & IDEs,2
+2014-10-26T15:20:00,300,1,eclipse,Editing & IDEs,2
+2014-10-26T15:25:00,300,1,eclipse,Editing & IDEs,2
+2014-10-26T15:30:00,300,1,eclipse,Editing & IDEs,2
+2014-10-26T15:35:00,300,1,eclipse,Editing & IDEs,2
+2014-10-26T15:40:00,300,1,eclipse,Editing & IDEs,2
+2014-10-26T15:45:00,300,1,eclipse,Editing & IDEs,2
+2014-10-26T15:50:00,300,1,eclipse,Editing & IDEs,2
+2014-10-26T15:55:00,268,1,eclipse,Editing & IDEs,2
+2014-10-26T15:55:00,25,1,python.org,General Software Development,2
+2014-10-26T15:55:00,7,1,Google Drive - Google Apps,General Business,2
+2014-10-26T16:00:00,160,1,eclipse,Editing & IDEs,2
+2014-10-26T16:00:00,80,1,idle,Editing & IDEs,2
+2014-10-26T16:00:00,39,1,Google Drive - Google Apps,General Business,2
+2014-10-26T16:00:00,21,1,python.org,General Software Development,2
+2014-10-26T16:05:00,260,1,idle,Editing & IDEs,2
+2014-10-26T16:05:00,39,1,eclipse,Editing & IDEs,2
+2014-10-26T16:10:00,224,1,idle,Editing & IDEs,2
+2014-10-26T16:10:00,42,1,Google Drive - Google Apps,General Business,2
+2014-10-26T16:10:00,34,1,eclipse,Editing & IDEs,2
+2014-10-26T16:15:00,287,1,idle,Editing & IDEs,2
+2014-10-26T16:15:00,13,1,eclipse,Editing & IDEs,2
+2014-10-26T16:20:00,270,1,idle,Editing & IDEs,2
+2014-10-26T16:20:00,28,1,eclipse,Editing & IDEs,2
+2014-10-26T16:20:00,2,1,Google Drive - Google Apps,General Business,2
+2014-10-26T16:25:00,278,1,idle,Editing & IDEs,2
+2014-10-26T16:25:00,18,1,eclipse,Editing & IDEs,2
+2014-10-26T16:25:00,4,1,Google Drive - Google Apps,General Business,2
+2014-10-26T16:30:00,299,1,idle,Editing & IDEs,2
+2014-10-26T16:35:00,300,1,idle,Editing & IDEs,2
+2014-10-26T16:40:00,230,1,idle,Editing & IDEs,2
+2014-10-26T16:40:00,70,1,eclipse,Editing & IDEs,2
+2014-10-26T16:45:00,205,1,eclipse,Editing & IDEs,2
+2014-10-26T16:45:00,95,1,idle,Editing & IDEs,2
+2014-10-26T16:50:00,300,1,eclipse,Editing & IDEs,2
+2014-10-26T16:55:00,197,1,eclipse,Editing & IDEs,2
+2014-10-26T16:55:00,80,1,idle,Editing & IDEs,2
+2014-10-26T16:55:00,22,1,Finder,General Utilities,0
+2014-10-26T16:55:00,1,1,problem reporter,General News & Opinion,-2
+2014-10-26T17:00:00,300,1,eclipse,Editing & IDEs,2
+2014-10-26T17:05:00,299,1,eclipse,Editing & IDEs,2
+2014-10-26T17:10:00,300,1,eclipse,Editing & IDEs,2
+2014-10-26T17:15:00,299,1,eclipse,Editing & IDEs,2
+2014-10-26T17:20:00,300,1,eclipse,Editing & IDEs,2
+2014-10-26T17:25:00,300,1,eclipse,Editing & IDEs,2
+2014-10-26T17:30:00,300,1,eclipse,Editing & IDEs,2
+2014-10-26T17:35:00,300,1,eclipse,Editing & IDEs,2
+2014-10-26T17:40:00,300,1,eclipse,Editing & IDEs,2
+2014-10-26T17:45:00,106,1,eclipse,Editing & IDEs,2
+2014-10-26T19:45:00,35,1,dainfo.deerfield.edu,General Reference & Learning,1
+2014-10-26T19:45:00,12,1,applications,General Business,2
+2014-10-26T19:45:00,3,1,Google Drive - Google Apps,General Business,2
+2014-10-26T20:00:00,258,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-10-26T20:00:00,10,1,motherjones.com,General News & Opinion,-2
+2014-10-26T20:05:00,196,1,microsoft word,Writing,2
+2014-10-26T20:05:00,86,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-10-26T20:05:00,16,1,Mail,Email,2
+2014-10-26T20:05:00,1,1,coreservicesuiagent,General Utilities,0
+2014-10-26T20:10:00,132,1,microsoft word,Writing,2
+2014-10-26T20:10:00,122,1,en.wikipedia.org,General Reference & Learning,1
+2014-10-26T20:10:00,24,1,Dictionary,General Reference & Learning,1
+2014-10-26T20:10:00,6,1,swimmingpool.com,Uncategorized,0
+2014-10-26T20:10:00,6,1,google.com,Search,2
+2014-10-26T20:10:00,6,1,alfred 2,General Utilities,1
+2014-10-26T20:10:00,2,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-10-26T20:10:00,1,1,Finder,General Utilities,0
+2014-10-26T20:15:00,160,1,Dictionary,General Reference & Learning,1
+2014-10-26T20:15:00,140,1,microsoft word,Writing,2
+2014-10-26T20:20:00,300,1,Dictionary,General Reference & Learning,1
+2014-10-26T20:25:00,186,1,microsoft word,Writing,2
+2014-10-26T20:25:00,108,1,Dictionary,General Reference & Learning,1
+2014-10-26T20:25:00,6,1,alfred 2,General Utilities,1
+2014-10-26T20:30:00,280,1,microsoft word,Writing,2
+2014-10-26T20:30:00,20,1,Dictionary,General Reference & Learning,1
+2014-10-26T20:35:00,294,1,microsoft word,Writing,2
+2014-10-26T20:35:00,6,1,Skype,General Social Networking,-2
+2014-10-26T20:40:00,300,1,microsoft word,Writing,2
+2014-10-26T20:45:00,19,1,microsoft word,Writing,2
+2014-10-26T21:05:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2014-10-26T21:10:00,273,1,microsoft word,Writing,2
+2014-10-26T21:10:00,16,1,facebook.com,General Social Networking,-2
+2014-10-26T21:10:00,5,1,Mail,Email,2
+2014-10-26T21:10:00,3,1,Skype,General Social Networking,-2
+2014-10-26T21:10:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2014-10-26T21:15:00,107,1,Skype,General Social Networking,-2
+2014-10-26T21:15:00,104,1,microsoft word,Writing,2
+2014-10-26T21:15:00,63,1,Dictionary,General Reference & Learning,1
+2014-10-26T21:15:00,14,1,Keynote,Presentation,2
+2014-10-26T21:15:00,6,1,facebook.com,General Social Networking,-2
+2014-10-26T21:15:00,3,1,alfred 2,General Utilities,1
+2014-10-26T21:15:00,2,1,Finder,General Utilities,0
+2014-10-26T21:20:00,268,1,Dictionary,General Reference & Learning,1
+2014-10-26T21:20:00,32,1,Skype,General Social Networking,-2
+2014-10-26T21:25:00,123,1,Skype,General Social Networking,-2
+2014-10-26T21:25:00,116,1,facebook.com,General Social Networking,-2
+2014-10-26T21:25:00,60,1,Finder,General Utilities,0
+2014-10-26T21:30:00,186,1,Skype,General Social Networking,-2
+2014-10-26T21:30:00,114,1,Finder,General Utilities,0
+2014-10-26T21:35:00,95,1,Finder,General Utilities,0
+2014-10-26T21:35:00,86,1,en.wikipedia.org,General Reference & Learning,1
+2014-10-26T21:35:00,34,1,Skype,General Social Networking,-2
+2014-10-26T21:35:00,34,1,alfred 2,General Utilities,1
+2014-10-26T21:35:00,33,1,facebook.com,General Social Networking,-2
+2014-10-26T21:35:00,17,1,microsoft word,Writing,2
+2014-10-26T21:40:00,17,1,loginwindow,General Utilities,0
+2014-10-26T21:40:00,11,1,Skype,General Social Networking,-2
+2014-10-26T21:50:00,44,1,microsoft word,Writing,2
+2014-10-26T21:50:00,39,1,en.wikipedia.org,General Reference & Learning,1
+2014-10-26T21:50:00,15,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-10-26T21:50:00,5,1,dainfo.deerfield.edu,General Reference & Learning,1
+2014-10-26T21:50:00,3,1,Skype,General Social Networking,-2
+2014-10-26T21:55:00,150,1,en.wikipedia.org,General Reference & Learning,1
+2014-10-26T21:55:00,70,1,grammar.about.com,General Reference & Learning,1
+2014-10-26T21:55:00,39,1,ancienthistory.about.com,Search,0
+2014-10-26T21:55:00,11,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-10-26T21:55:00,9,1,google.com,Search,2
+2014-10-26T21:55:00,7,1,wwwapps.ups.com,General Shopping,-2
+2014-10-26T21:55:00,7,1,macrumors.com,General News & Opinion,-2
+2014-10-26T21:55:00,4,1,microsoft word,Writing,2
+2014-10-26T21:55:00,1,1,Safari,Browsers,2
+2014-10-26T22:00:00,172,1,microsoft word,Writing,2
+2014-10-26T22:00:00,52,1,facebook.com,General Social Networking,-2
+2014-10-26T22:00:00,45,1,Skype,General Social Networking,-2
+2014-10-26T22:00:00,11,1,wwwapps.ups.com,General Shopping,-2
+2014-10-26T22:00:00,7,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-10-26T22:00:00,6,1,en.wikipedia.org,General Reference & Learning,1
+2014-10-26T22:00:00,3,1,alfred 2,General Utilities,1
+2014-10-26T22:05:00,181,1,Skype,General Social Networking,-2
+2014-10-26T22:05:00,110,1,microsoft word,Writing,2
+2014-10-26T22:10:00,194,1,Skype,General Social Networking,-2
+2014-10-26T22:10:00,57,1,microsoft word,Writing,2
+2014-10-26T22:10:00,30,1,Dictionary,General Reference & Learning,1
+2014-10-26T22:10:00,16,1,Mail,Email,2
+2014-10-26T22:10:00,3,1,alfred 2,General Utilities,1
+2014-10-26T22:15:00,135,1,facebook.com,General Social Networking,-2
+2014-10-26T22:15:00,124,1,microsoft word,Writing,2
+2014-10-26T22:15:00,28,1,Skype,General Social Networking,-2
+2014-10-26T22:15:00,3,1,usernotificationcenter,General Utilities,0
+2014-10-26T22:20:00,227,1,microsoft word,Writing,2
+2014-10-26T22:20:00,62,1,facebook.com,General Social Networking,-2
+2014-10-26T22:20:00,10,1,Skype,General Social Networking,-2
+2014-10-26T22:20:00,1,1,messages,General Social Networking,-2
+2014-10-26T22:25:00,201,1,facebook.com,General Social Networking,-2
+2014-10-26T22:25:00,61,1,en.wikipedia.org,General Reference & Learning,1
+2014-10-26T22:25:00,15,1,microsoft word,Writing,2
+2014-10-26T22:25:00,12,1,google.com,Search,2
+2014-10-26T22:25:00,5,1,ancienthistory.about.com,Search,0
+2014-10-26T22:25:00,2,1,System Preferences,General Utilities,0
+2014-10-26T22:30:00,157,1,microsoft word,Writing,2
+2014-10-26T22:30:00,96,1,en.wikipedia.org,General Reference & Learning,1
+2014-10-26T22:30:00,20,1,facebook.com,General Social Networking,-2
+2014-10-26T22:30:00,16,1,books.google.com,Search,0
+2014-10-26T22:30:00,11,1,google.com,Search,2
+2014-10-26T22:35:00,246,1,microsoft word,Writing,2
+2014-10-26T22:35:00,25,1,books.google.com,Search,0
+2014-10-26T22:35:00,22,1,brainyquote.com,Search,0
+2014-10-26T22:35:00,3,1,store.apple.com,Electronics,-2
+2014-10-26T22:35:00,3,1,google.com,Search,2
+2014-10-26T22:40:00,203,1,microsoft word,Writing,2
+2014-10-26T22:40:00,49,1,brainyquote.com,Search,0
+2014-10-26T22:40:00,47,1,en.wikipedia.org,General Reference & Learning,1
+2014-10-26T22:45:00,165,1,microsoft word,Writing,2
+2014-10-26T22:45:00,67,1,en.wikipedia.org,General Reference & Learning,1
+2014-10-26T22:45:00,61,1,facebook.com,General Social Networking,-2
+2014-10-26T22:45:00,3,1,Skype,General Social Networking,-2
+2014-10-26T22:45:00,2,1,wwwapps.ups.com,General Shopping,-2
+2014-10-26T22:45:00,1,1,books.google.com,Search,0
+2014-10-26T22:50:00,224,1,microsoft word,Writing,2
+2014-10-26T22:50:00,35,1,facebook.com,General Social Networking,-2
+2014-10-26T22:50:00,25,1,en.wikipedia.org,General Reference & Learning,1
+2014-10-26T22:50:00,13,1,brainyquote.com,Search,0
+2014-10-26T22:50:00,1,1,home.howstuffworks.com,General Reference & Learning,1
+2014-10-26T22:50:00,1,1,10fastfingers.com,General Reference & Learning,1
+2014-10-26T22:55:00,184,1,microsoft word,Writing,2
+2014-10-26T22:55:00,112,1,facebook.com,General Social Networking,-2
+2014-10-26T22:55:00,4,1,Skype,General Social Networking,-2
+2014-10-26T23:00:00,157,1,facebook.com,General Social Networking,-2
+2014-10-26T23:00:00,86,1,microsoft word,Writing,2
+2014-10-26T23:00:00,56,1,wwwapps.ups.com,General Shopping,-2
+2014-10-26T23:05:00,182,1,microsoft word,Writing,2
+2014-10-26T23:05:00,104,1,facebook.com,General Social Networking,-2
+2014-10-26T23:05:00,11,1,Mail,Email,2
+2014-10-26T23:05:00,2,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-10-26T23:10:00,136,1,facebook.com,General Social Networking,-2
+2014-10-26T23:10:00,23,1,microsoft word,Writing,2

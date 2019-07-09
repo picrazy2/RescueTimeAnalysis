@@ -1,0 +1,235 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2013-12-25T00:05:00,268,1,contacts,Customer Relations,2
+2013-12-25T00:05:00,11,1,Finder,General Utilities,0
+2013-12-25T00:05:00,4,1,alfred,General Utilities,2
+2013-12-25T00:10:00,233,1,contacts,Customer Relations,2
+2013-12-25T00:10:00,67,1,Skype,General Social Networking,-2
+2013-12-25T00:15:00,106,1,Skype,General Social Networking,-2
+2013-12-25T00:15:00,54,1,contacts,Customer Relations,2
+2013-12-25T00:15:00,49,1,nature.com,Search,0
+2013-12-25T00:15:00,36,1,picrazy2.com,Uncategorized,2
+2013-12-25T00:15:00,33,1,Safari,Browsers,2
+2013-12-25T00:15:00,20,1,tincta,General Software Development,2
+2013-12-25T00:15:00,2,1,alfred,General Utilities,2
+2013-12-25T00:20:00,117,1,Skype,General Social Networking,-2
+2013-12-25T00:20:00,98,1,reviews.cnet.com,Science & Technology,-2
+2013-12-25T00:20:00,57,1,picrazy2.com,Uncategorized,2
+2013-12-25T00:20:00,28,1,cn.bing.com,Search,0
+2013-12-25T00:25:00,64,1,cn.bing.com,Search,0
+2013-12-25T00:25:00,22,1,loginwindow,General Utilities,0
+2013-12-25T00:25:00,15,1,Skype,General Social Networking,-2
+2013-12-25T00:25:00,8,1,alfred,General Utilities,2
+2013-12-25T00:25:00,7,1,apple.com,Engineering & Technology,-1
+2013-12-25T10:00:00,95,1,net.tsinghua.edu.cn,General Reference & Learning,1
+2013-12-25T10:00:00,40,1,apple.com,Engineering & Technology,-1
+2013-12-25T10:00:00,11,1,pages,Presentation,2
+2013-12-25T10:00:00,3,1,Mail,Email,2
+2013-12-25T10:00:00,3,1,tincta,General Software Development,2
+2013-12-25T10:00:00,2,1,matlab,General Software Development,2
+2013-12-25T10:05:00,111,1,final cut pro,Video Editing,2
+2013-12-25T10:05:00,106,1,Skype,General Social Networking,-2
+2013-12-25T10:05:00,52,1,net.tsinghua.edu.cn,General Reference & Learning,1
+2013-12-25T10:05:00,19,1,apple.com,Engineering & Technology,-1
+2013-12-25T10:05:00,12,1,usernotificationcenter,General Utilities,0
+2013-12-25T10:10:00,227,1,final cut pro,Video Editing,2
+2013-12-25T10:10:00,73,1,Skype,General Social Networking,-2
+2013-12-25T10:15:00,292,1,final cut pro,Video Editing,2
+2013-12-25T10:15:00,8,1,Skype,General Social Networking,-2
+2013-12-25T10:20:00,297,1,final cut pro,Video Editing,2
+2013-12-25T10:20:00,3,1,Skype,General Social Networking,-2
+2013-12-25T10:25:00,279,1,final cut pro,Video Editing,2
+2013-12-25T10:25:00,19,1,apple.com,Engineering & Technology,-1
+2013-12-25T10:25:00,2,1,forums.macrumors.com,General News & Opinion,-2
+2013-12-25T10:30:00,223,1,final cut pro,Video Editing,2
+2013-12-25T10:30:00,77,1,forums.macrumors.com,General News & Opinion,-2
+2013-12-25T10:35:00,168,1,final cut pro,Video Editing,2
+2013-12-25T10:35:00,132,1,forums.macrumors.com,General News & Opinion,-2
+2013-12-25T10:40:00,112,1,final cut pro,Video Editing,2
+2013-12-25T10:40:00,100,1,youtube.com,Video,-2
+2013-12-25T10:40:00,88,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-25T10:45:00,150,1,Activity Monitor,General Utilities,0
+2013-12-25T10:45:00,77,1,final cut pro,Video Editing,2
+2013-12-25T10:45:00,69,1,youtube.com,Video,-2
+2013-12-25T10:45:00,3,1,quicktime player,General Entertainment,-1
+2013-12-25T10:45:00,1,1,alfred,General Utilities,2
+2013-12-25T10:50:00,264,1,final cut pro,Video Editing,2
+2013-12-25T10:50:00,36,1,Adobe Photoshop,Graphic Design,2
+2013-12-25T10:55:00,246,1,Adobe Photoshop,Graphic Design,2
+2013-12-25T10:55:00,39,1,youtube.com,Video,-2
+2013-12-25T10:55:00,15,1,ehow.com,Search,0
+2013-12-25T11:00:00,262,1,Adobe Photoshop,Graphic Design,2
+2013-12-25T11:00:00,24,1,ehow.com,Search,0
+2013-12-25T11:00:00,14,1,smallbusiness.chron.com,General Business,2
+2013-12-25T11:05:00,271,1,Adobe Photoshop,Graphic Design,2
+2013-12-25T11:05:00,20,1,Finder,General Utilities,0
+2013-12-25T11:05:00,6,1,answers.yahoo.com,Search,0
+2013-12-25T11:05:00,3,1,cn.bing.com,Search,0
+2013-12-25T11:10:00,300,1,Adobe Photoshop,Graphic Design,2
+2013-12-25T11:15:00,215,1,Adobe Photoshop,Graphic Design,2
+2013-12-25T11:15:00,85,1,Finder,General Utilities,0
+2013-12-25T11:20:00,84,1,Preview,General Reference & Learning,2
+2013-12-25T11:20:00,82,1,Adobe Photoshop,Graphic Design,2
+2013-12-25T11:20:00,74,1,final cut pro,Video Editing,2
+2013-12-25T11:20:00,60,1,Finder,General Utilities,0
+2013-12-25T11:25:00,139,1,final cut pro,Video Editing,2
+2013-12-25T11:25:00,128,1,Finder,General Utilities,0
+2013-12-25T11:25:00,22,1,VLC Media Player,Video,-2
+2013-12-25T11:25:00,11,1,Preview,General Reference & Learning,2
+2013-12-25T11:30:00,262,1,VLC Media Player,Video,-2
+2013-12-25T11:30:00,25,1,Preview,General Reference & Learning,2
+2013-12-25T11:30:00,8,1,Finder,General Utilities,0
+2013-12-25T11:30:00,5,1,youtube.com,Video,-2
+2013-12-25T11:35:00,300,1,VLC Media Player,Video,-2
+2013-12-25T11:40:00,300,1,VLC Media Player,Video,-2
+2013-12-25T11:45:00,297,1,VLC Media Player,Video,-2
+2013-12-25T11:45:00,3,1,Preview,General Reference & Learning,2
+2013-12-25T11:50:00,153,1,VLC Media Player,Video,-2
+2013-12-25T11:50:00,147,1,apple.com,Engineering & Technology,-1
+2013-12-25T11:55:00,221,1,apple.com,Engineering & Technology,-1
+2013-12-25T11:55:00,47,1,Finder,General Utilities,0
+2013-12-25T11:55:00,32,1,final cut pro,Video Editing,2
+2013-12-25T12:00:00,237,1,Finder,General Utilities,0
+2013-12-25T12:55:00,177,1,cn.bing.com,Search,0
+2013-12-25T12:55:00,77,1,Mail,Email,2
+2013-12-25T12:55:00,24,1,kickass.to,File Sharing,-2
+2013-12-25T12:55:00,8,1,Skype,General Social Networking,-2
+2013-12-25T12:55:00,6,1,final cut pro,Video Editing,2
+2013-12-25T13:00:00,130,1,Finder,General Utilities,0
+2013-12-25T13:00:00,74,1,final cut pro,Video Editing,2
+2013-12-25T13:00:00,68,1,kickass.to,File Sharing,-2
+2013-12-25T13:00:00,27,1,apple.com,Engineering & Technology,-1
+2013-12-25T13:00:00,1,1,Skype,General Social Networking,-2
+2013-12-25T13:05:00,300,1,Finder,General Utilities,0
+2013-12-25T13:10:00,246,1,Finder,General Utilities,0
+2013-12-25T13:10:00,51,1,Preview,General Reference & Learning,2
+2013-12-25T13:10:00,3,1,Adobe Photoshop,Graphic Design,2
+2013-12-25T13:15:00,300,1,Adobe Photoshop,Graphic Design,2
+2013-12-25T13:20:00,113,1,VLC Media Player,Video,-2
+2013-12-25T13:20:00,85,1,Activity Monitor,General Utilities,0
+2013-12-25T13:20:00,65,1,Finder,General Utilities,0
+2013-12-25T13:20:00,22,1,Adobe Photoshop,Graphic Design,2
+2013-12-25T13:20:00,14,1,final cut pro,Video Editing,2
+2013-12-25T13:20:00,1,1,Preview,General Reference & Learning,2
+2013-12-25T13:25:00,300,1,VLC Media Player,Video,-2
+2013-12-25T13:30:00,300,1,VLC Media Player,Video,-2
+2013-12-25T13:35:00,300,1,VLC Media Player,Video,-2
+2013-12-25T13:40:00,273,1,VLC Media Player,Video,-2
+2013-12-25T13:40:00,27,1,Finder,General Utilities,0
+2013-12-25T13:45:00,201,1,VLC Media Player,Video,-2
+2013-12-25T13:45:00,48,1,macrumors.com,General News & Opinion,-2
+2013-12-25T13:45:00,34,1,cn.bing.com,Search,0
+2013-12-25T13:45:00,17,1,nikonusa.com,Search,-2
+2013-12-25T13:50:00,300,1,nikonusa.com,Search,-2
+2013-12-25T13:55:00,155,1,VLC Media Player,Video,-2
+2013-12-25T13:55:00,100,1,nikonusa.com,Search,-2
+2013-12-25T13:55:00,45,1,store.apple.com,Electronics,-2
+2013-12-25T14:00:00,152,1,VLC Media Player,Video,-2
+2013-12-25T14:00:00,135,1,store.apple.com,Electronics,-2
+2013-12-25T14:00:00,7,1,Preview,General Reference & Learning,2
+2013-12-25T14:00:00,6,1,matlab,General Software Development,2
+2013-12-25T14:05:00,282,1,store.apple.com,Electronics,-2
+2013-12-25T14:05:00,9,1,VLC Media Player,Video,-2
+2013-12-25T14:05:00,6,1,matlab,General Software Development,2
+2013-12-25T14:05:00,3,1,Finder,General Utilities,0
+2013-12-25T14:10:00,300,1,store.apple.com,Electronics,-2
+2013-12-25T14:15:00,229,1,promise.com,Search,0
+2013-12-25T14:15:00,62,1,store.apple.com,Electronics,-2
+2013-12-25T14:15:00,5,1,VLC Media Player,Video,-2
+2013-12-25T14:15:00,4,1,Finder,General Utilities,0
+2013-12-25T14:20:00,300,1,promise.com,Search,0
+2013-12-25T14:25:00,174,1,promise.com,Search,0
+2013-12-25T14:25:00,101,1,item.taobao.com,General Shopping,-1
+2013-12-25T14:25:00,25,1,VLC Media Player,Video,-2
+2013-12-25T14:30:00,300,1,item.taobao.com,General Shopping,-1
+2013-12-25T14:35:00,116,1,item.taobao.com,General Shopping,-1
+2013-12-25T14:35:00,72,1,final cut pro,Video Editing,2
+2013-12-25T14:35:00,58,1,Skype,General Social Networking,-2
+2013-12-25T14:35:00,45,1,promise.com,Search,0
+2013-12-25T14:35:00,7,1,Mail,Email,2
+2013-12-25T14:35:00,2,1,VLC Media Player,Video,-2
+2013-12-25T14:40:00,11,1,Mail,Email,2
+2013-12-25T14:40:00,6,1,final cut pro,Video Editing,2
+2013-12-25T14:40:00,6,1,youtube.com,Video,-2
+2013-12-25T14:55:00,136,1,final cut pro,Video Editing,2
+2013-12-25T14:55:00,88,1,matlab,General Software Development,2
+2013-12-25T14:55:00,16,1,Skype,General Social Networking,-2
+2013-12-25T14:55:00,10,1,Dropbox,File Sharing,-2
+2013-12-25T14:55:00,8,1,problem reporter,General News & Opinion,-2
+2013-12-25T14:55:00,7,1,RescueTime,Intelligence,0
+2013-12-25T14:55:00,2,1,reportpanic,Uncategorized,0
+2013-12-25T14:55:00,2,1,usernotificationcenter,General Utilities,0
+2013-12-25T14:55:00,2,1,System Preferences,General Utilities,0
+2013-12-25T15:00:00,262,1,final cut pro,Video Editing,2
+2013-12-25T15:00:00,34,1,nikonusa.com,Search,-2
+2013-12-25T15:00:00,4,1,matlab,General Software Development,2
+2013-12-25T15:05:00,148,1,store.apple.com,Electronics,-2
+2013-12-25T15:05:00,114,1,final cut pro,Video Editing,2
+2013-12-25T15:05:00,32,1,nikonusa.com,Search,-2
+2013-12-25T15:05:00,6,1,Mail,Email,2
+2013-12-25T15:10:00,171,1,store.apple.com,Electronics,-2
+2013-12-25T15:10:00,129,1,final cut pro,Video Editing,2
+2013-12-25T15:15:00,292,1,final cut pro,Video Editing,2
+2013-12-25T15:15:00,8,1,macrumors.com,General News & Opinion,-2
+2013-12-25T15:20:00,264,1,final cut pro,Video Editing,2
+2013-12-25T15:20:00,36,1,macrumors.com,General News & Opinion,-2
+2013-12-25T15:25:00,163,1,Skype,General Social Networking,-2
+2013-12-25T15:25:00,137,1,final cut pro,Video Editing,2
+2013-12-25T15:30:00,14,1,Skype,General Social Networking,-2
+2013-12-25T16:25:00,41,1,VLC Media Player,Video,-2
+2013-12-25T16:25:00,11,1,Finder,General Utilities,0
+2013-12-25T16:30:00,226,1,macrumors.com,General News & Opinion,-2
+2013-12-25T16:30:00,74,1,VLC Media Player,Video,-2
+2013-12-25T16:35:00,300,1,macrumors.com,General News & Opinion,-2
+2013-12-25T16:40:00,161,1,Mail,Email,2
+2013-12-25T16:40:00,120,1,macrumors.com,General News & Opinion,-2
+2013-12-25T16:40:00,19,1,VLC Media Player,Video,-2
+2013-12-25T16:45:00,206,1,Finder,General Utilities,0
+2013-12-25T16:45:00,94,1,Mail,Email,2
+2013-12-25T16:50:00,60,1,Finder,General Utilities,0
+2013-12-25T16:50:00,21,1,loginwindow,General Utilities,0
+2013-12-25T16:50:00,9,1,Mail,Email,2
+2013-12-25T16:50:00,3,1,TextEdit,Writing,2
+2013-12-25T16:50:00,2,1,final cut pro,Video Editing,2
+2013-12-25T18:40:00,43,1,Skype,General Social Networking,-2
+2013-12-25T18:40:00,2,1,Finder,General Utilities,0
+2013-12-25T18:45:00,101,1,Skype,General Social Networking,-2
+2013-12-25T18:45:00,97,1,Finder,General Utilities,0
+2013-12-25T18:45:00,80,1,microsoft word,Writing,2
+2013-12-25T18:45:00,20,1,Mail,Email,2
+2013-12-25T18:45:00,2,1,alfred,General Utilities,2
+2013-12-25T18:50:00,255,1,microsoft word,Writing,2
+2013-12-25T18:50:00,21,1,macrumors.com,General News & Opinion,-2
+2013-12-25T18:50:00,13,1,forums.macrumors.com,General News & Opinion,-2
+2013-12-25T18:50:00,11,1,Finder,General Utilities,0
+2013-12-25T18:55:00,300,1,microsoft word,Writing,2
+2013-12-25T19:00:00,285,1,microsoft word,Writing,2
+2013-12-25T19:00:00,15,1,Skype,General Social Networking,-2
+2013-12-25T19:05:00,268,1,microsoft word,Writing,2
+2013-12-25T19:05:00,25,1,alfred,General Utilities,2
+2013-12-25T19:05:00,7,1,Skype,General Social Networking,-2
+2013-12-25T19:10:00,300,1,microsoft word,Writing,2
+2013-12-25T19:15:00,300,1,microsoft word,Writing,2
+2013-12-25T19:20:00,130,1,Skype,General Social Networking,-2
+2013-12-25T19:20:00,124,1,microsoft word,Writing,2
+2013-12-25T19:20:00,46,1,macrumors.com,General News & Opinion,-2
+2013-12-25T19:25:00,300,1,macrumors.com,General News & Opinion,-2
+2013-12-25T19:30:00,300,1,macrumors.com,General News & Opinion,-2
+2013-12-25T19:35:00,300,1,macrumors.com,General News & Opinion,-2
+2013-12-25T19:40:00,300,1,macrumors.com,General News & Opinion,-2
+2013-12-25T19:45:00,300,1,macrumors.com,General News & Opinion,-2
+2013-12-25T19:50:00,300,1,macrumors.com,General News & Opinion,-2
+2013-12-25T19:55:00,300,1,macrumors.com,General News & Opinion,-2
+2013-12-25T20:00:00,300,1,macrumors.com,General News & Opinion,-2
+2013-12-25T20:05:00,300,1,macrumors.com,General News & Opinion,-2
+2013-12-25T20:10:00,300,1,macrumors.com,General News & Opinion,-2
+2013-12-25T20:15:00,300,1,macrumors.com,General News & Opinion,-2
+2013-12-25T20:20:00,300,1,macrumors.com,General News & Opinion,-2
+2013-12-25T20:25:00,300,1,macrumors.com,General News & Opinion,-2
+2013-12-25T20:30:00,300,1,macrumors.com,General News & Opinion,-2
+2013-12-25T20:35:00,110,1,macrumors.com,General News & Opinion,-2
+2013-12-25T20:35:00,86,1,Dictionary,General Reference & Learning,1
+2013-12-25T20:35:00,86,1,apple.com,Engineering & Technology,-1
+2013-12-25T20:35:00,18,1,alfred,General Utilities,2
+2013-12-25T20:40:00,192,1,apple.com,Engineering & Technology,-1
+2013-12-25T20:40:00,10,1,Dictionary,General Reference & Learning,1
+2013-12-25T21:35:00,23,1,loginwindow,General Utilities,0

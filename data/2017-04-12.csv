@@ -1,0 +1,448 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2017-04-12T00:10:00,73,1,Finder,General Utilities,0
+2017-04-12T00:10:00,9,1,usernotificationcenter,General Utilities,0
+2017-04-12T00:10:00,5,1,facetime,Voice Chat,-2
+2017-04-12T00:10:00,5,1,amazon.com,General Shopping,-1
+2017-04-12T00:10:00,2,1,Safari,Browsers,2
+2017-04-12T00:15:00,205,1,Finder,General Utilities,0
+2017-04-12T00:15:00,86,1,facetime,Voice Chat,-2
+2017-04-12T00:15:00,9,1,Mail,Email,2
+2017-04-12T00:20:00,24,1,facetime,Voice Chat,-2
+2017-04-12T00:20:00,24,1,map.baidu.com,Maps & Regional,-2
+2017-04-12T00:20:00,3,1,mathworks.com,Engineering & Technology,1
+2017-04-12T00:20:00,2,1,stateair.net,Uncategorized,0
+2017-04-12T00:20:00,2,1,amazon.com,General Shopping,-1
+2017-04-12T00:40:00,25,1,thebeijinger.com,General News & Opinion,-2
+2017-04-12T00:40:00,17,1,map.baidu.com,Maps & Regional,-2
+2017-04-12T00:40:00,5,1,mathworks.com,Engineering & Technology,1
+2017-04-12T00:40:00,2,1,applications,General Business,2
+2017-04-12T00:45:00,17,1,map.baidu.com,Maps & Regional,-2
+2017-04-12T00:50:00,16,1,loginwindow,General Utilities,0
+2017-04-12T08:15:00,54,1,Mail,Email,2
+2017-04-12T08:15:00,40,1,Gmail,Email,2
+2017-04-12T08:15:00,20,1,messages,General Social Networking,-2
+2017-04-12T08:15:00,10,1,matlab,General Software Development,2
+2017-04-12T08:15:00,6,1,Finder,General Utilities,0
+2017-04-12T08:15:00,5,1,Safari,Browsers,2
+2017-04-12T08:15:00,3,1,youtube.com,Video,-2
+2017-04-12T08:20:00,261,1,matlab,General Software Development,2
+2017-04-12T08:20:00,23,1,messages,General Social Networking,-2
+2017-04-12T08:20:00,15,1,Finder,General Utilities,0
+2017-04-12T08:25:00,226,1,matlab,General Software Development,2
+2017-04-12T08:25:00,60,1,mathworks.com,Engineering & Technology,1
+2017-04-12T08:25:00,4,1,Gmail,Email,2
+2017-04-12T08:25:00,4,1,google.com,Search,2
+2017-04-12T08:25:00,4,1,Safari,Browsers,2
+2017-04-12T08:30:00,271,1,matlab,General Software Development,2
+2017-04-12T08:30:00,29,1,mathworks.com,Engineering & Technology,1
+2017-04-12T08:35:00,250,1,matlab,General Software Development,2
+2017-04-12T08:35:00,50,1,messages,General Social Networking,-2
+2017-04-12T08:40:00,266,1,matlab,General Software Development,2
+2017-04-12T08:40:00,30,1,mathworks.com,Engineering & Technology,1
+2017-04-12T08:40:00,3,1,google.com,Search,2
+2017-04-12T08:45:00,246,1,matlab,General Software Development,2
+2017-04-12T08:45:00,52,1,mathworks.com,Engineering & Technology,1
+2017-04-12T08:50:00,247,1,matlab,General Software Development,2
+2017-04-12T08:50:00,41,1,mathworks.com,Engineering & Technology,1
+2017-04-12T08:50:00,9,1,google.com,Search,2
+2017-04-12T08:55:00,298,1,matlab,General Software Development,2
+2017-04-12T09:00:00,165,1,matlab,General Software Development,2
+2017-04-12T09:00:00,46,1,Mail,Email,2
+2017-04-12T09:00:00,35,1,indesign cc,General Design & Composition,2
+2017-04-12T09:00:00,24,1,facebook.com,General Social Networking,-2
+2017-04-12T09:00:00,21,1,messages,General Social Networking,-2
+2017-04-12T09:00:00,4,1,mathworks.com,Engineering & Technology,1
+2017-04-12T09:00:00,2,1,Safari,Browsers,2
+2017-04-12T09:05:00,156,1,matlab,General Software Development,2
+2017-04-12T09:05:00,57,1,MS Excel,General Business,2
+2017-04-12T09:05:00,39,1,messages,General Social Networking,-2
+2017-04-12T09:05:00,37,1,indesign cc,General Design & Composition,2
+2017-04-12T09:05:00,8,1,microsoft word,Writing,2
+2017-04-12T09:10:00,226,1,MS Excel,General Business,2
+2017-04-12T09:10:00,46,1,matlab,General Software Development,2
+2017-04-12T09:10:00,28,1,Mail,Email,2
+2017-04-12T09:15:00,285,1,matlab,General Software Development,2
+2017-04-12T09:15:00,9,1,photoshop cc,General Design & Composition,2
+2017-04-12T09:15:00,3,1,indesign cc,General Design & Composition,2
+2017-04-12T09:15:00,2,1,MS Excel,General Business,2
+2017-04-12T09:15:00,1,1,facebook.com,General Social Networking,-2
+2017-04-12T09:20:00,242,1,matlab,General Software Development,2
+2017-04-12T09:20:00,39,1,Finder,General Utilities,0
+2017-04-12T09:20:00,19,1,indesign cc,General Design & Composition,2
+2017-04-12T09:25:00,97,1,indesign cc,General Design & Composition,2
+2017-04-12T09:25:00,17,1,loginwindow,General Utilities,0
+2017-04-12T09:30:00,28,1,indesign cc,General Design & Composition,2
+2017-04-12T09:35:00,238,1,matlab,General Software Development,2
+2017-04-12T09:35:00,27,1,indesign cc,General Design & Composition,2
+2017-04-12T09:35:00,21,1,messages,General Social Networking,-2
+2017-04-12T09:35:00,12,1,MS Excel,General Business,2
+2017-04-12T09:35:00,2,1,microsoft word,Writing,2
+2017-04-12T09:40:00,206,1,MS Excel,General Business,2
+2017-04-12T09:40:00,79,1,photoshop cc,General Design & Composition,2
+2017-04-12T09:40:00,2,1,Finder,General Utilities,0
+2017-04-12T09:45:00,106,1,indesign cc,General Design & Composition,2
+2017-04-12T09:45:00,95,1,photoshop cc,General Design & Composition,2
+2017-04-12T09:45:00,8,1,Finder,General Utilities,0
+2017-04-12T09:50:00,83,1,indesign cc,General Design & Composition,2
+2017-04-12T09:50:00,71,1,photoshop cc,General Design & Composition,2
+2017-04-12T09:50:00,62,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-12T09:50:00,3,1,facebook.com,General Social Networking,-2
+2017-04-12T09:50:00,2,1,google.com,Search,2
+2017-04-12T09:50:00,2,1,Safari,Browsers,2
+2017-04-12T09:55:00,90,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-12T09:55:00,85,1,indesign cc,General Design & Composition,2
+2017-04-12T09:55:00,31,1,matlab,General Software Development,2
+2017-04-12T09:55:00,17,1,MS Excel,General Business,2
+2017-04-12T09:55:00,7,1,photoshop cc,General Design & Composition,2
+2017-04-12T10:00:00,220,1,indesign cc,General Design & Composition,2
+2017-04-12T10:00:00,69,1,microsoft word,Writing,2
+2017-04-12T10:00:00,6,1,MS Excel,General Business,2
+2017-04-12T10:00:00,3,1,matlab,General Software Development,2
+2017-04-12T10:05:00,178,1,Preview,General Reference & Learning,2
+2017-04-12T10:05:00,70,1,indesign cc,General Design & Composition,2
+2017-04-12T10:05:00,26,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-12T10:10:00,250,1,Preview,General Reference & Learning,2
+2017-04-12T10:10:00,49,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-12T10:15:00,133,1,Preview,General Reference & Learning,2
+2017-04-12T10:15:00,103,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T10:15:00,42,1,matlab,General Software Development,2
+2017-04-12T10:15:00,9,1,Safari,Browsers,2
+2017-04-12T10:15:00,4,1,google.com,Search,2
+2017-04-12T10:15:00,4,1,Mail,Email,2
+2017-04-12T10:15:00,3,1,mathworks.com,Engineering & Technology,1
+2017-04-12T10:20:00,204,1,matlab,General Software Development,2
+2017-04-12T10:20:00,50,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T10:20:00,33,1,mathworks.com,Engineering & Technology,1
+2017-04-12T10:20:00,6,1,youtube.com,Video,-2
+2017-04-12T10:20:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-12T10:20:00,1,1,rescuetime.com,Intelligence,0
+2017-04-12T10:20:00,1,1,google.com,Search,2
+2017-04-12T10:25:00,145,1,matlab,General Software Development,2
+2017-04-12T10:25:00,96,1,mathworks.com,Engineering & Technology,1
+2017-04-12T10:25:00,58,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T10:30:00,124,1,matlab,General Software Development,2
+2017-04-12T10:30:00,113,1,mathworks.com,Engineering & Technology,1
+2017-04-12T10:30:00,35,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T10:30:00,23,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-12T10:30:00,3,1,google.com,Search,2
+2017-04-12T10:30:00,2,1,rescuetime.com,Intelligence,0
+2017-04-12T10:35:00,203,1,matlab,General Software Development,2
+2017-04-12T10:35:00,76,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-12T10:35:00,21,1,mathworks.com,Engineering & Technology,1
+2017-04-12T10:40:00,200,1,matlab,General Software Development,2
+2017-04-12T10:40:00,18,1,loginwindow,General Utilities,0
+2017-04-12T10:40:00,7,1,mathworks.com,Engineering & Technology,1
+2017-04-12T11:25:00,35,1,Mail,Email,2
+2017-04-12T11:25:00,21,1,microsoft word,Writing,2
+2017-04-12T11:25:00,9,1,Finder,General Utilities,0
+2017-04-12T11:25:00,9,1,matlab,General Software Development,2
+2017-04-12T11:30:00,11,1,Mail,Email,2
+2017-04-12T11:30:00,7,1,microsoft word,Writing,2
+2017-04-12T15:40:00,185,1,matlab,General Software Development,2
+2017-04-12T15:40:00,40,1,amazon.com,General Shopping,-1
+2017-04-12T15:40:00,37,1,wwwapps.ups.com,General Shopping,-2
+2017-04-12T15:40:00,9,1,google.com,Search,2
+2017-04-12T15:40:00,8,1,Mail,Email,2
+2017-04-12T15:40:00,3,1,mathworks.com,Engineering & Technology,1
+2017-04-12T15:40:00,2,1,Safari,Browsers,2
+2017-04-12T15:45:00,250,1,matlab,General Software Development,2
+2017-04-12T15:45:00,47,1,facetime,Voice Chat,-2
+2017-04-12T15:50:00,147,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T15:50:00,98,1,matlab,General Software Development,2
+2017-04-12T15:50:00,53,1,facetime,Voice Chat,-2
+2017-04-12T15:50:00,1,1,wwwapps.ups.com,General Shopping,-2
+2017-04-12T15:55:00,209,1,matlab,General Software Development,2
+2017-04-12T15:55:00,82,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T16:00:00,247,1,mobile.united.com,Travel & Outdoors,-2
+2017-04-12T16:00:00,126,1,matlab,General Software Development,2
+2017-04-12T16:00:00,51,1,thebeijinger.com,General News & Opinion,-2
+2017-04-12T16:00:00,47,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T16:00:00,31,1,google.com,Search,2
+2017-04-12T16:00:00,30,1,fenix.tecnico.ulisboa.pt,General Reference & Learning,1
+2017-04-12T16:00:00,15,1,math.stackexchange.com,General Reference & Learning,1
+2017-04-12T16:00:00,15,1,map.baidu.com,Maps & Regional,-2
+2017-04-12T16:00:00,5,1,Safari,Browsers,2
+2017-04-12T16:00:00,3,1,Mail,Email,2
+2017-04-12T16:05:00,167,1,thebeijinger.com,General News & Opinion,-2
+2017-04-12T16:05:00,43,1,mobile.united.com,Travel & Outdoors,-2
+2017-04-12T16:05:00,41,1,matlab,General Software Development,2
+2017-04-12T16:05:00,21,1,willperkins.org,Uncategorized,0
+2017-04-12T16:05:00,19,1,google.com,Search,2
+2017-04-12T16:05:00,16,1,wwwapps.ups.com,General Shopping,-2
+2017-04-12T16:05:00,14,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-12T16:05:00,6,1,rescuetime.com,Intelligence,0
+2017-04-12T16:05:00,6,1,fenix.tecnico.ulisboa.pt,General Reference & Learning,1
+2017-04-12T16:05:00,5,1,amazon.com,General Shopping,-1
+2017-04-12T16:05:00,3,1,Mail,Email,2
+2017-04-12T16:05:00,2,1,Gmail,Email,2
+2017-04-12T16:05:00,1,1,ncbi.nlm.nih.gov,Engineering & Technology,1
+2017-04-12T16:10:00,267,1,thebeijinger.com,General News & Opinion,-2
+2017-04-12T16:10:00,32,1,map.baidu.com,Maps & Regional,-2
+2017-04-12T16:10:00,1,1,Mail,Email,2
+2017-04-12T16:15:00,124,1,gaoloumi.com,Regional,-2
+2017-04-12T16:15:00,98,1,thebeijinger.com,General News & Opinion,-2
+2017-04-12T16:15:00,62,1,usernotificationcenter,General Utilities,0
+2017-04-12T16:15:00,38,1,map.baidu.com,Maps & Regional,-2
+2017-04-12T16:15:00,23,1,math.stackexchange.com,General Reference & Learning,1
+2017-04-12T16:15:00,17,1,google.com,Search,2
+2017-04-12T16:20:00,54,1,usernotificationcenter,General Utilities,0
+2017-04-12T16:20:00,42,1,probabilitycourse.com,General Reference & Learning,1
+2017-04-12T16:20:00,4,1,google.com,Search,2
+2017-04-12T16:20:00,2,1,matlab,General Software Development,2
+2017-04-12T16:25:00,83,1,indesign cc,General Design & Composition,2
+2017-04-12T16:25:00,79,1,Preview,General Reference & Learning,2
+2017-04-12T16:30:00,197,1,Preview,General Reference & Learning,2
+2017-04-12T16:30:00,99,1,indesign cc,General Design & Composition,2
+2017-04-12T16:30:00,3,1,matlab,General Software Development,2
+2017-04-12T16:35:00,284,1,Preview,General Reference & Learning,2
+2017-04-12T16:35:00,16,1,indesign cc,General Design & Composition,2
+2017-04-12T16:40:00,222,1,indesign cc,General Design & Composition,2
+2017-04-12T16:40:00,75,1,Preview,General Reference & Learning,2
+2017-04-12T16:40:00,7,1,deerfield.edu,General Reference & Learning,1
+2017-04-12T16:40:00,3,1,probabilitycourse.com,General Reference & Learning,1
+2017-04-12T16:40:00,1,1,dainfo.deerfield.edu,General Reference & Learning,1
+2017-04-12T16:45:00,296,1,indesign cc,General Design & Composition,2
+2017-04-12T16:45:00,2,1,probabilitycourse.com,General Reference & Learning,1
+2017-04-12T16:45:00,2,1,Preview,General Reference & Learning,2
+2017-04-12T16:50:00,59,1,indesign cc,General Design & Composition,2
+2017-04-12T16:55:00,184,1,installer,General Utilities,1
+2017-04-12T16:55:00,8,1,Mail,Email,2
+2017-04-12T16:55:00,7,1,dessci.com,Uncategorized,0
+2017-04-12T16:55:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-12T16:55:00,2,1,Safari,Browsers,2
+2017-04-12T16:55:00,1,1,Finder,General Utilities,0
+2017-04-12T17:00:00,245,1,mathtype,Engineering & Technology,1
+2017-04-12T17:00:00,20,1,installer,General Utilities,1
+2017-04-12T17:00:00,13,1,dessci.com,Uncategorized,0
+2017-04-12T17:00:00,10,1,Preview,General Reference & Learning,2
+2017-04-12T17:00:00,1,1,microsoft word,Writing,2
+2017-04-12T17:05:00,200,1,microsoft word,Writing,2
+2017-04-12T17:05:00,65,1,indesign cc,General Design & Composition,2
+2017-04-12T17:05:00,25,1,Finder,General Utilities,0
+2017-04-12T17:05:00,9,1,Mail,Email,2
+2017-04-12T17:10:00,212,1,indesign cc,General Design & Composition,2
+2017-04-12T17:10:00,80,1,microsoft word,Writing,2
+2017-04-12T17:10:00,7,1,dessci.com,Uncategorized,0
+2017-04-12T17:15:00,289,1,indesign cc,General Design & Composition,2
+2017-04-12T17:20:00,294,1,indesign cc,General Design & Composition,2
+2017-04-12T17:20:00,5,1,dessci.com,Uncategorized,0
+2017-04-12T17:20:00,1,1,google.com,Search,2
+2017-04-12T17:25:00,181,1,indesign cc,General Design & Composition,2
+2017-04-12T17:25:00,14,1,google.com,Search,2
+2017-04-12T17:30:00,125,1,indesign cc,General Design & Composition,2
+2017-04-12T17:30:00,15,1,Mail,Email,2
+2017-04-12T17:35:00,115,1,indesign cc,General Design & Composition,2
+2017-04-12T17:35:00,8,1,google.com,Search,2
+2017-04-12T17:45:00,111,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-12T17:45:00,59,1,indesign cc,General Design & Composition,2
+2017-04-12T17:45:00,54,1,google.com,Search,2
+2017-04-12T17:45:00,33,1,fizz.phys.dal.ca,Uncategorized,0
+2017-04-12T17:45:00,21,1,pinterest.com,General Social Networking,-2
+2017-04-12T17:45:00,8,1,blissair.com,Uncategorized,0
+2017-04-12T17:45:00,8,1,treehugger.com,General News & Opinion,-2
+2017-04-12T17:45:00,3,1,ncbi.nlm.nih.gov,Engineering & Technology,1
+2017-04-12T17:45:00,2,1,Safari,Browsers,2
+2017-04-12T17:45:00,1,1,fenix.tecnico.ulisboa.pt,General Reference & Learning,1
+2017-04-12T17:50:00,142,1,google.com,Search,2
+2017-04-12T17:50:00,44,1,treehugger.com,General News & Opinion,-2
+2017-04-12T17:50:00,29,1,nasa.gov,General News & Opinion,-2
+2017-04-12T17:50:00,26,1,messages,General Social Networking,-2
+2017-04-12T17:50:00,19,1,Preview,General Reference & Learning,2
+2017-04-12T17:50:00,14,1,pinterest.com,General Social Networking,-2
+2017-04-12T17:50:00,6,1,sedac.ciesin.columbia.edu,General Reference & Learning,1
+2017-04-12T17:50:00,5,1,gaoloumi.com,Regional,-2
+2017-04-12T17:50:00,4,1,media.treehugger.com,General News & Opinion,-2
+2017-04-12T17:50:00,2,1,fenix.tecnico.ulisboa.pt,General Reference & Learning,1
+2017-04-12T17:50:00,2,1,Safari,Browsers,2
+2017-04-12T17:50:00,1,1,blissair.com,Uncategorized,0
+2017-04-12T17:50:00,1,1,bandgap.cs.rice.edu,General Reference & Learning,1
+2017-04-12T17:50:00,1,1,thebeijinger.com,General News & Opinion,-2
+2017-04-12T17:50:00,1,1,map.baidu.com,Maps & Regional,-2
+2017-04-12T17:50:00,1,1,deerfield.instructure.com,General Reference & Learning,1
+2017-04-12T17:55:00,78,1,google.com,Search,2
+2017-04-12T17:55:00,74,1,indesign cc,General Design & Composition,2
+2017-04-12T17:55:00,18,1,epa.gov,Legal & Gov't,1
+2017-04-12T17:55:00,9,1,blissair.com,Uncategorized,0
+2017-04-12T17:55:00,4,1,Preview,General Reference & Learning,2
+2017-04-12T17:55:00,3,1,photoshop cc,General Design & Composition,2
+2017-04-12T18:00:00,216,1,indesign cc,General Design & Composition,2
+2017-04-12T18:00:00,78,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T18:00:00,5,1,google.com,Search,2
+2017-04-12T18:05:00,166,1,indesign cc,General Design & Composition,2
+2017-04-12T18:05:00,25,1,google.com,Search,2
+2017-04-12T18:05:00,9,1,decodedscience.org,Uncategorized,0
+2017-04-12T18:05:00,3,1,Finder,General Utilities,0
+2017-04-12T18:05:00,2,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T18:05:00,1,1,photoshop cc,General Design & Composition,2
+2017-04-12T18:05:00,1,1,blissair.com,Uncategorized,0
+2017-04-12T18:10:00,144,1,messages,General Social Networking,-2
+2017-04-12T18:10:00,112,1,indesign cc,General Design & Composition,2
+2017-04-12T18:10:00,20,1,dainfo.deerfield.edu,General Reference & Learning,1
+2017-04-12T18:10:00,16,1,decodedscience.org,Uncategorized,0
+2017-04-12T18:10:00,8,1,Finder,General Utilities,0
+2017-04-12T18:15:00,52,1,messages,General Social Networking,-2
+2017-04-12T18:15:00,40,1,indesign cc,General Design & Composition,2
+2017-04-12T18:35:00,39,1,indesign cc,General Design & Composition,2
+2017-04-12T18:40:00,223,1,indesign cc,General Design & Composition,2
+2017-04-12T18:40:00,217,1,Finder,General Utilities,0
+2017-04-12T18:40:00,46,1,youtube.com,Video,-2
+2017-04-12T18:40:00,19,1,Dropbox,File Sharing,-2
+2017-04-12T18:40:00,3,1,loginwindow,General Utilities,0
+2017-04-12T18:40:00,2,1,Safari,Browsers,2
+2017-04-12T18:40:00,1,1,deerfield.edu,General Reference & Learning,1
+2017-04-12T18:45:00,300,1,youtube.com,Video,-2
+2017-04-12T18:50:00,129,1,youtube.com,Video,-2
+2017-04-12T18:50:00,45,1,google.com,Search,2
+2017-04-12T18:50:00,39,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-12T18:50:00,25,1,Finder,General Utilities,0
+2017-04-12T18:50:00,5,1,Safari,Browsers,2
+2017-04-12T18:55:00,17,1,indesign cc,General Design & Composition,2
+2017-04-12T18:55:00,5,1,loginwindow,General Utilities,0
+2017-04-12T19:00:00,49,1,indesign cc,General Design & Composition,2
+2017-04-12T19:00:00,17,1,loginwindow,General Utilities,0
+2017-04-12T19:05:00,8,1,adobe premiere pro cc 2015,Video Editing,2
+2017-04-12T19:10:00,81,1,adobe premiere pro cc 2015,Video Editing,2
+2017-04-12T19:10:00,17,1,loginwindow,General Utilities,0
+2017-04-12T19:10:00,15,1,indesign cc,General Design & Composition,2
+2017-04-12T19:15:00,48,1,indesign cc,General Design & Composition,2
+2017-04-12T19:15:00,10,1,Mail,Email,2
+2017-04-12T19:20:00,251,1,indesign cc,General Design & Composition,2
+2017-04-12T19:20:00,27,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T19:20:00,10,1,messages,General Social Networking,-2
+2017-04-12T19:20:00,5,1,MS Excel,General Business,2
+2017-04-12T19:20:00,4,1,probabilitycourse.com,General Reference & Learning,1
+2017-04-12T19:20:00,2,1,dainfo.deerfield.edu,General Reference & Learning,1
+2017-04-12T19:20:00,1,1,mathtype,Engineering & Technology,1
+2017-04-12T19:25:00,228,1,mathtype,Engineering & Technology,1
+2017-04-12T19:25:00,137,1,messages,General Social Networking,-2
+2017-04-12T19:25:00,9,1,gaoloumi.com,Regional,-2
+2017-04-12T19:25:00,9,1,MS Excel,General Business,2
+2017-04-12T19:25:00,7,1,dessci.com,Uncategorized,0
+2017-04-12T19:25:00,2,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T19:25:00,1,1,google.com,Search,2
+2017-04-12T19:30:00,211,1,messages,General Social Networking,-2
+2017-04-12T19:30:00,154,1,indesign cc,General Design & Composition,2
+2017-04-12T19:30:00,118,1,mathtype,Engineering & Technology,1
+2017-04-12T19:30:00,8,1,google.com,Search,2
+2017-04-12T19:30:00,8,1,gaoloumi.com,Regional,-2
+2017-04-12T19:30:00,6,1,forums.adobe.com,General Business,2
+2017-04-12T19:30:00,5,1,dessci.com,Uncategorized,0
+2017-04-12T19:35:00,101,1,matlab,General Software Development,2
+2017-04-12T19:35:00,100,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T19:35:00,48,1,forums.adobe.com,General Business,2
+2017-04-12T19:35:00,36,1,indesign cc,General Design & Composition,2
+2017-04-12T19:35:00,9,1,Mail,Email,2
+2017-04-12T19:35:00,5,1,google.com,Search,2
+2017-04-12T19:35:00,1,1,decodedscience.org,Uncategorized,0
+2017-04-12T19:40:00,290,1,matlab,General Software Development,2
+2017-04-12T19:40:00,29,1,Mail,Email,2
+2017-04-12T19:40:00,9,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T19:45:00,165,1,messages,General Social Networking,-2
+2017-04-12T19:45:00,100,1,Mail,Email,2
+2017-04-12T19:45:00,83,1,matlab,General Software Development,2
+2017-04-12T19:45:00,43,1,loginwindow,General Utilities,0
+2017-04-12T19:45:00,35,1,usernotificationcenter,General Utilities,0
+2017-04-12T19:45:00,10,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T19:50:00,77,1,messages,General Social Networking,-2
+2017-04-12T20:50:00,2,1,brainyquote.com,Search,0
+2017-04-12T20:55:00,116,1,facebook.com,General Social Networking,-2
+2017-04-12T20:55:00,75,1,google.com,Search,2
+2017-04-12T20:55:00,73,1,Mail,Email,2
+2017-04-12T20:55:00,46,1,indesign cc,General Design & Composition,2
+2017-04-12T20:55:00,22,1,messages,General Social Networking,-2
+2017-04-12T20:55:00,16,1,RescueTime,Intelligence,0
+2017-04-12T20:55:00,9,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T20:55:00,6,1,brainyquote.com,Search,0
+2017-04-12T20:55:00,3,1,digikey.com,General Software Development,2
+2017-04-12T20:55:00,3,1,matlab,General Software Development,2
+2017-04-12T20:55:00,2,1,calendar,Calendars,1
+2017-04-12T20:55:00,2,1,learn.sparkfun.com,Engineering & Technology,1
+2017-04-12T21:00:00,202,1,mathematica,Engineering & Technology,2
+2017-04-12T21:00:00,98,1,facebook.com,General Social Networking,-2
+2017-04-12T21:00:00,63,1,Mail,Email,2
+2017-04-12T21:00:00,38,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T21:00:00,21,1,deerfield.edu,General Reference & Learning,1
+2017-04-12T21:00:00,16,1,loginwindow,General Utilities,0
+2017-04-12T21:00:00,1,1,google.com,Search,2
+2017-04-12T21:05:00,296,1,mathematica,Engineering & Technology,2
+2017-04-12T21:10:00,182,1,mathematica,Engineering & Technology,2
+2017-04-12T21:10:00,95,1,facebook.com,General Social Networking,-2
+2017-04-12T21:10:00,13,1,messages,General Social Networking,-2
+2017-04-12T21:10:00,3,1,microsoft powerpoint,Presentation,2
+2017-04-12T21:15:00,300,1,mathematica,Engineering & Technology,2
+2017-04-12T21:20:00,299,1,mathematica,Engineering & Technology,2
+2017-04-12T21:25:00,289,1,mathematica,Engineering & Technology,2
+2017-04-12T21:30:00,41,1,loginwindow,General Utilities,0
+2017-04-12T21:30:00,6,1,mathematica,Engineering & Technology,2
+2017-04-12T21:45:00,167,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T21:45:00,104,1,mathematica,Engineering & Technology,2
+2017-04-12T21:45:00,70,1,mathtype,Engineering & Technology,1
+2017-04-12T21:45:00,30,1,facebook.com,General Social Networking,-2
+2017-04-12T21:45:00,3,1,matlab,General Software Development,2
+2017-04-12T21:45:00,2,1,google.com,Search,2
+2017-04-12T21:45:00,2,1,indesign cc,General Design & Composition,2
+2017-04-12T21:45:00,1,1,decodedscience.org,Uncategorized,0
+2017-04-12T21:50:00,243,1,mathtype,Engineering & Technology,1
+2017-04-12T21:50:00,44,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T21:50:00,4,1,decodedscience.org,Uncategorized,0
+2017-04-12T21:50:00,3,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-12T21:50:00,3,1,blissair.com,Uncategorized,0
+2017-04-12T21:50:00,2,1,google.com,Search,2
+2017-04-12T21:55:00,300,1,mathtype,Engineering & Technology,1
+2017-04-12T21:55:00,286,1,Preview,General Reference & Learning,2
+2017-04-12T21:55:00,3,1,mathematica,Engineering & Technology,2
+2017-04-12T22:00:00,280,1,Preview,General Reference & Learning,2
+2017-04-12T22:00:00,251,1,mathtype,Engineering & Technology,1
+2017-04-12T22:00:00,45,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T22:00:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2017-04-12T22:00:00,1,1,google.com,Search,2
+2017-04-12T22:00:00,1,1,decodedscience.org,Uncategorized,0
+2017-04-12T22:05:00,202,1,matlab,General Software Development,2
+2017-04-12T22:05:00,47,1,indesign cc,General Design & Composition,2
+2017-04-12T22:05:00,40,1,mathtype,Engineering & Technology,1
+2017-04-12T22:05:00,8,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T22:10:00,284,1,matlab,General Software Development,2
+2017-04-12T22:10:00,9,1,Preview,General Reference & Learning,2
+2017-04-12T22:10:00,3,1,creative cloud,General Design & Composition,2
+2017-04-12T22:10:00,3,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T22:15:00,210,1,matlab,General Software Development,2
+2017-04-12T22:15:00,85,1,indesign cc,General Design & Composition,2
+2017-04-12T22:15:00,3,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T22:15:00,1,1,mathtype,Engineering & Technology,1
+2017-04-12T22:20:00,300,1,matlab,General Software Development,2
+2017-04-12T22:25:00,295,1,matlab,General Software Development,2
+2017-04-12T22:30:00,207,1,matlab,General Software Development,2
+2017-04-12T22:30:00,77,1,indesign cc,General Design & Composition,2
+2017-04-12T22:30:00,14,1,photoshop cc,General Design & Composition,2
+2017-04-12T22:30:00,1,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T22:35:00,160,1,indesign cc,General Design & Composition,2
+2017-04-12T22:45:00,118,1,microsoft word,Writing,2
+2017-04-12T22:50:00,233,1,microsoft word,Writing,2
+2017-04-12T22:50:00,55,1,indesign cc,General Design & Composition,2
+2017-04-12T22:50:00,11,1,matlab,General Software Development,2
+2017-04-12T22:55:00,289,1,indesign cc,General Design & Composition,2
+2017-04-12T22:55:00,11,1,mathtype,Engineering & Technology,1
+2017-04-12T23:00:00,251,1,indesign cc,General Design & Composition,2
+2017-04-12T23:00:00,38,1,mathtype,Engineering & Technology,1
+2017-04-12T23:00:00,7,1,matlab,General Software Development,2
+2017-04-12T23:00:00,2,1,Finder,General Utilities,0
+2017-04-12T23:00:00,2,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T23:05:00,254,1,indesign cc,General Design & Composition,2
+2017-04-12T23:05:00,44,1,mathtype,Engineering & Technology,1
+2017-04-12T23:05:00,2,1,matlab,General Software Development,2
+2017-04-12T23:10:00,288,1,indesign cc,General Design & Composition,2
+2017-04-12T23:10:00,10,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T23:10:00,2,1,Mail,Email,2
+2017-04-12T23:15:00,175,1,mathtype,Engineering & Technology,1
+2017-04-12T23:15:00,112,1,indesign cc,General Design & Composition,2
+2017-04-12T23:15:00,13,1,matlab,General Software Development,2
+2017-04-12T23:20:00,300,1,indesign cc,General Design & Composition,2
+2017-04-12T23:25:00,300,1,indesign cc,General Design & Composition,2
+2017-04-12T23:30:00,232,1,indesign cc,General Design & Composition,2
+2017-04-12T23:30:00,33,1,matlab,General Software Development,2
+2017-04-12T23:30:00,31,1,mathtype,Engineering & Technology,1
+2017-04-12T23:30:00,3,1,dartmouth.edu,General Reference & Learning,1
+2017-04-12T23:35:00,20,1,indesign cc,General Design & Composition,2
+2017-04-12T23:45:00,140,1,indesign cc,General Design & Composition,2
+2017-04-12T23:50:00,239,1,indesign cc,General Design & Composition,2
+2017-04-12T23:55:00,299,1,indesign cc,General Design & Composition,2

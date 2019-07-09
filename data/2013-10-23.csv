@@ -1,0 +1,258 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2013-10-23T11:10:00,284,1,apple.com,Engineering & Technology,-1
+2013-10-23T11:10:00,10,1,Finder,General Utilities,0
+2013-10-23T11:10:00,4,1,google.com,Search,2
+2013-10-23T11:10:00,2,1,usernotificationcenter,General Utilities,0
+2013-10-23T11:15:00,212,1,apple.com,Engineering & Technology,-1
+2013-10-23T11:15:00,38,1,Finder,General Utilities,0
+2013-10-23T11:15:00,37,1,microsoft outlook,Email,2
+2013-10-23T11:15:00,9,1,usernotificationcenter,General Utilities,0
+2013-10-23T11:20:00,228,1,apple.com,Engineering & Technology,-1
+2013-10-23T11:20:00,57,1,Finder,General Utilities,0
+2013-10-23T11:20:00,3,1,iprocrastinate,Intelligence,2
+2013-10-23T11:25:00,300,1,apple.com,Engineering & Technology,-1
+2013-10-23T11:30:00,184,1,apple.com,Engineering & Technology,-1
+2013-10-23T11:35:00,246,1,apple.com,Engineering & Technology,-1
+2013-10-23T11:35:00,5,1,microsoft outlook,Email,2
+2013-10-23T11:35:00,4,1,iprocrastinate,Intelligence,2
+2013-10-23T11:40:00,108,1,microsoft word,Writing,2
+2013-10-23T11:40:00,92,1,Finder,General Utilities,0
+2013-10-23T11:40:00,68,1,apple.com,Engineering & Technology,-1
+2013-10-23T11:40:00,13,1,iprocrastinate,Intelligence,2
+2013-10-23T11:40:00,9,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-10-23T11:40:00,2,1,usernotificationcenter,General Utilities,0
+2013-10-23T11:40:00,2,1,edmodo.com,General Reference & Learning,1
+2013-10-23T11:45:00,288,1,Finder,General Utilities,0
+2013-10-23T11:45:00,10,1,microsoft word,Writing,2
+2013-10-23T11:45:00,1,1,apple.com,Engineering & Technology,-1
+2013-10-23T11:45:00,1,1,google.com,Search,2
+2013-10-23T11:50:00,220,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-10-23T11:50:00,53,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2013-10-23T11:50:00,19,1,g.isb.bj.edu.cn,General Reference & Learning,1
+2013-10-23T11:50:00,7,1,google.com,Search,2
+2013-10-23T11:55:00,239,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2013-10-23T11:55:00,53,1,edmodo.com,General Reference & Learning,1
+2013-10-23T11:55:00,8,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-10-23T12:00:00,172,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-10-23T12:00:00,128,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2013-10-23T12:05:00,177,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-10-23T12:05:00,5,1,microsoft word,Writing,2
+2013-10-23T12:20:00,172,1,microsoft word,Writing,2
+2013-10-23T12:20:00,53,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-10-23T12:20:00,38,1,Finder,General Utilities,0
+2013-10-23T12:20:00,3,1,iprocrastinate,Intelligence,2
+2013-10-23T12:25:00,147,1,edmodo.com,General Reference & Learning,1
+2013-10-23T12:25:00,73,1,apple.com,Engineering & Technology,-1
+2013-10-23T12:25:00,29,1,Finder,General Utilities,0
+2013-10-23T12:25:00,4,1,microsoft word,Writing,2
+2013-10-23T12:25:00,4,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-10-23T12:35:00,14,1,google.com,Search,2
+2013-10-23T12:35:00,13,1,facebook.com,General Social Networking,-2
+2013-10-23T12:35:00,7,1,youtube.com,Video,-2
+2013-10-23T12:35:00,6,1,microsoft word,Writing,2
+2013-10-23T12:35:00,2,1,edmodo.com,General Reference & Learning,1
+2013-10-23T12:40:00,191,1,edmodo.com,General Reference & Learning,1
+2013-10-23T12:40:00,48,1,apple.com,Engineering & Technology,-1
+2013-10-23T12:40:00,35,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2013-10-23T12:40:00,14,1,iprocrastinate,Intelligence,2
+2013-10-23T12:40:00,11,1,Skype,General Social Networking,-2
+2013-10-23T12:40:00,1,1,Finder,General Utilities,0
+2013-10-23T12:45:00,83,1,edmodo.com,General Reference & Learning,1
+2013-10-23T13:45:00,79,1,microsoft word,Writing,2
+2013-10-23T13:45:00,49,1,history,Browsers,0
+2013-10-23T13:45:00,16,1,circleofblue.org,General Reference & Learning,1
+2013-10-23T13:45:00,6,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2013-10-23T13:50:00,294,1,microsoft word,Writing,2
+2013-10-23T13:50:00,5,1,circleofblue.org,General Reference & Learning,1
+2013-10-23T13:55:00,229,1,microsoft word,Writing,2
+2013-10-23T13:55:00,41,1,easybib.com,Search,2
+2013-10-23T13:55:00,12,1,circleofblue.org,General Reference & Learning,1
+2013-10-23T13:55:00,8,1,Skype,General Social Networking,-2
+2013-10-23T13:55:00,3,1,google.com,Search,2
+2013-10-23T13:55:00,2,1,facebook.com,General Social Networking,-2
+2013-10-23T14:00:00,300,1,microsoft word,Writing,2
+2013-10-23T14:05:00,171,1,microsoft word,Writing,2
+2013-10-23T14:30:00,132,1,facebook.com,General Social Networking,-2
+2013-10-23T14:30:00,40,1,Skype,General Social Networking,-2
+2013-10-23T14:35:00,108,1,microsoft word,Writing,2
+2013-10-23T14:35:00,79,1,facebook.com,General Social Networking,-2
+2013-10-23T14:35:00,74,1,Skype,General Social Networking,-2
+2013-10-23T14:35:00,22,1,youtube.com,Video,-2
+2013-10-23T14:35:00,14,1,iprocrastinate,Intelligence,2
+2013-10-23T14:35:00,2,1,google.com,Search,2
+2013-10-23T14:40:00,207,1,apple.com,Engineering & Technology,-1
+2013-10-23T14:40:00,48,1,facebook.com,General Social Networking,-2
+2013-10-23T14:40:00,42,1,microsoft word,Writing,2
+2013-10-23T14:40:00,3,1,store.apple.com,Electronics,-2
+2013-10-23T14:45:00,163,1,apple.com,Engineering & Technology,-1
+2013-10-23T14:45:00,98,1,store.apple.com,Electronics,-2
+2013-10-23T14:45:00,37,1,microsoft word,Writing,2
+2013-10-23T14:45:00,2,1,iprocrastinate,Intelligence,2
+2013-10-23T14:50:00,267,1,microsoft word,Writing,2
+2013-10-23T14:50:00,23,1,store.apple.com,Electronics,-2
+2013-10-23T14:50:00,10,1,apple.com,Engineering & Technology,-1
+2013-10-23T14:55:00,295,1,store.apple.com,Electronics,-2
+2013-10-23T14:55:00,5,1,apple.com,Engineering & Technology,-1
+2013-10-23T15:00:00,300,1,store.apple.com,Electronics,-2
+2013-10-23T15:05:00,109,1,apple.com,Engineering & Technology,-1
+2013-10-23T15:05:00,63,1,store.apple.com,Electronics,-2
+2013-10-23T15:05:00,44,1,google.com,Search,2
+2013-10-23T15:05:00,38,1,microsoft word,Writing,2
+2013-10-23T15:05:00,20,1,facebook.com,General Social Networking,-2
+2013-10-23T15:05:00,10,1,Skype,General Social Networking,-2
+2013-10-23T15:05:00,8,1,g.isb.bj.edu.cn,General Reference & Learning,1
+2013-10-23T15:05:00,3,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-10-23T15:05:00,3,1,iprocrastinate,Intelligence,2
+2013-10-23T15:10:00,176,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2013-10-23T15:10:00,66,1,g.isb.bj.edu.cn,General Reference & Learning,1
+2013-10-23T15:10:00,45,1,youtube.com,Video,-2
+2013-10-23T15:10:00,6,1,usernotificationcenter,General Utilities,0
+2013-10-23T15:10:00,3,1,stickies,Writing,2
+2013-10-23T15:10:00,2,1,Safari,Browsers,2
+2013-10-23T15:10:00,1,1,alfred,General Utilities,2
+2013-10-23T15:15:00,142,1,kongregate.com,Games,-2
+2013-10-23T15:15:00,121,1,Finder,General Utilities,0
+2013-10-23T15:15:00,29,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2013-10-23T15:15:00,5,1,google.com,Search,2
+2013-10-23T15:20:00,290,1,kongregate.com,Games,-2
+2013-10-23T15:20:00,10,1,Finder,General Utilities,0
+2013-10-23T15:25:00,280,1,kongregate.com,Games,-2
+2013-10-23T15:25:00,20,1,Finder,General Utilities,0
+2013-10-23T15:30:00,300,1,kongregate.com,Games,-2
+2013-10-23T15:35:00,116,1,Finder,General Utilities,0
+2013-10-23T15:35:00,108,1,kongregate.com,Games,-2
+2013-10-23T15:35:00,51,1,apple.com,Engineering & Technology,-1
+2013-10-23T15:35:00,21,1,microsoft word,Writing,2
+2013-10-23T15:35:00,3,1,google.com,Search,2
+2013-10-23T15:40:00,123,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2013-10-23T15:40:00,73,1,kongregate.com,Games,-2
+2013-10-23T15:40:00,59,1,microsoft word,Writing,2
+2013-10-23T15:40:00,14,1,soku.com,Video,-2
+2013-10-23T15:40:00,11,1,youku.com,General Entertainment,-2
+2013-10-23T15:40:00,8,1,g.isb.bj.edu.cn,General Reference & Learning,1
+2013-10-23T15:40:00,7,1,apple.com,Engineering & Technology,-1
+2013-10-23T15:40:00,5,1,google.com,Search,2
+2013-10-23T15:45:00,300,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2013-10-23T15:50:00,204,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2013-10-23T15:50:00,93,1,facebook.com,General Social Networking,-2
+2013-10-23T15:50:00,3,1,google.com,Search,2
+2013-10-23T15:55:00,178,1,facebook.com,General Social Networking,-2
+2013-10-23T16:45:00,179,1,kongregate.com,Games,-2
+2013-10-23T16:45:00,21,1,Skype,General Social Networking,-2
+2013-10-23T16:45:00,16,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2013-10-23T16:50:00,166,1,kongregate.com,Games,-2
+2013-10-23T16:50:00,59,1,microsoft word,Writing,2
+2013-10-23T16:50:00,56,1,Skype,General Social Networking,-2
+2013-10-23T16:50:00,17,1,iprocrastinate,Intelligence,2
+2013-10-23T16:55:00,203,1,kongregate.com,Games,-2
+2013-10-23T16:55:00,68,1,apple.com,Engineering & Technology,-1
+2013-10-23T16:55:00,19,1,Skype,General Social Networking,-2
+2013-10-23T16:55:00,10,1,microsoft word,Writing,2
+2013-10-23T17:00:00,300,1,apple.com,Engineering & Technology,-1
+2013-10-23T17:05:00,249,1,reviews.cnet.com,Science & Technology,-2
+2013-10-23T17:05:00,30,1,apple.com,Engineering & Technology,-1
+2013-10-23T17:05:00,16,1,cn.bing.com,Search,0
+2013-10-23T17:05:00,5,1,google.com,Search,2
+2013-10-23T17:10:00,273,1,reviews.cnet.com,Science & Technology,-2
+2013-10-23T17:10:00,14,1,Skype,General Social Networking,-2
+2013-10-23T17:10:00,9,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2013-10-23T17:10:00,4,1,google.com,Search,2
+2013-10-23T17:15:00,222,1,reviews.cnet.com,Science & Technology,-2
+2013-10-23T17:15:00,32,1,accessories.us.dell.com,General Shopping,-2
+2013-10-23T17:15:00,14,1,dell.com,Employment,2
+2013-10-23T17:15:00,12,1,apple.com,Engineering & Technology,-1
+2013-10-23T17:15:00,12,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2013-10-23T17:15:00,6,1,google.com,Search,2
+2013-10-23T17:20:00,192,1,reviews.cnet.com,Science & Technology,-2
+2013-10-23T17:20:00,83,1,accessories.us.dell.com,General Shopping,-2
+2013-10-23T17:20:00,20,1,amazon.com,General Shopping,-1
+2013-10-23T17:20:00,3,1,google.com,Search,2
+2013-10-23T17:20:00,2,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2013-10-23T17:25:00,205,1,accessories.us.dell.com,General Shopping,-2
+2013-10-23T17:25:00,90,1,amazon.com,General Shopping,-1
+2013-10-23T17:25:00,4,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2013-10-23T17:30:00,300,1,accessories.us.dell.com,General Shopping,-2
+2013-10-23T17:35:00,300,1,accessories.us.dell.com,General Shopping,-2
+2013-10-23T17:40:00,300,1,accessories.us.dell.com,General Shopping,-2
+2013-10-23T17:45:00,300,1,accessories.us.dell.com,General Shopping,-2
+2013-10-23T17:50:00,300,1,accessories.us.dell.com,General Shopping,-2
+2013-10-23T17:55:00,300,1,accessories.us.dell.com,General Shopping,-2
+2013-10-23T18:00:00,300,1,accessories.us.dell.com,General Shopping,-2
+2013-10-23T18:05:00,300,1,accessories.us.dell.com,General Shopping,-2
+2013-10-23T18:10:00,156,1,accessories.us.dell.com,General Shopping,-2
+2013-10-23T18:10:00,92,1,Finder,General Utilities,0
+2013-10-23T18:10:00,52,1,Skype,General Social Networking,-2
+2013-10-23T18:15:00,300,1,Finder,General Utilities,0
+2013-10-23T18:20:00,300,1,Finder,General Utilities,0
+2013-10-23T18:25:00,79,1,Finder,General Utilities,0
+2013-10-23T18:35:00,61,1,kongregate.com,Games,-2
+2013-10-23T18:35:00,38,1,Skype,General Social Networking,-2
+2013-10-23T18:35:00,10,1,accessories.us.dell.com,General Shopping,-2
+2013-10-23T18:35:00,4,1,apple.com,Engineering & Technology,-1
+2013-10-23T18:40:00,300,1,kongregate.com,Games,-2
+2013-10-23T18:45:00,209,1,kongregate.com,Games,-2
+2013-10-23T18:45:00,56,1,microsoft outlook,Email,2
+2013-10-23T18:45:00,30,1,Skype,General Social Networking,-2
+2013-10-23T18:45:00,4,1,iprocrastinate,Intelligence,2
+2013-10-23T18:45:00,1,1,Finder,General Utilities,0
+2013-10-23T18:50:00,300,1,kongregate.com,Games,-2
+2013-10-23T18:55:00,269,1,kongregate.com,Games,-2
+2013-10-23T19:50:00,20,1,Skype,General Social Networking,-2
+2013-10-23T19:50:00,14,1,microsoft word,Writing,2
+2013-10-23T19:50:00,1,1,kongregate.com,Games,-2
+2013-10-23T19:55:00,171,1,microsoft word,Writing,2
+2013-10-23T19:55:00,126,1,Skype,General Social Networking,-2
+2013-10-23T19:55:00,2,1,apple.com,Engineering & Technology,-1
+2013-10-23T19:55:00,1,1,kongregate.com,Games,-2
+2013-10-23T20:00:00,144,1,Skype,General Social Networking,-2
+2013-10-23T20:00:00,122,1,microsoft word,Writing,2
+2013-10-23T20:00:00,11,1,Activity Monitor,General Utilities,0
+2013-10-23T20:05:00,243,1,Skype,General Social Networking,-2
+2013-10-23T20:05:00,57,1,microsoft word,Writing,2
+2013-10-23T20:10:00,232,1,microsoft word,Writing,2
+2013-10-23T20:10:00,60,1,Skype,General Social Networking,-2
+2013-10-23T20:10:00,8,1,apple.com,Engineering & Technology,-1
+2013-10-23T20:15:00,256,1,microsoft word,Writing,2
+2013-10-23T20:15:00,39,1,Skype,General Social Networking,-2
+2013-10-23T20:15:00,3,1,Finder,General Utilities,0
+2013-10-23T20:15:00,2,1,Activity Monitor,General Utilities,0
+2013-10-23T20:20:00,300,1,microsoft word,Writing,2
+2013-10-23T20:25:00,136,1,store.apple.com,Electronics,-2
+2013-10-23T20:25:00,89,1,apple.com,Engineering & Technology,-1
+2013-10-23T20:25:00,50,1,microsoft word,Writing,2
+2013-10-23T20:25:00,25,1,Skype,General Social Networking,-2
+2013-10-23T20:30:00,161,1,microsoft word,Writing,2
+2013-10-23T20:30:00,72,1,store.apple.com,Electronics,-2
+2013-10-23T20:30:00,65,1,Skype,General Social Networking,-2
+2013-10-23T20:30:00,1,1,Activity Monitor,General Utilities,0
+2013-10-23T20:35:00,108,1,pcworld.com,Science & Technology,-1
+2013-10-23T20:35:00,70,1,microsoft word,Writing,2
+2013-10-23T20:35:00,47,1,Skype,General Social Networking,-2
+2013-10-23T20:35:00,47,1,store.apple.com,Electronics,-2
+2013-10-23T20:35:00,26,1,cn.bing.com,Search,0
+2013-10-23T20:35:00,1,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2013-10-23T20:35:00,1,1,macrumors.com,General News & Opinion,-2
+2013-10-23T20:40:00,151,1,amd.com,Search,0
+2013-10-23T20:40:00,64,1,intel.com,Search,0
+2013-10-23T20:40:00,37,1,macrumors.com,General News & Opinion,-2
+2013-10-23T20:40:00,22,1,pcworld.com,Science & Technology,-1
+2013-10-23T20:40:00,21,1,cn.bing.com,Search,0
+2013-10-23T20:40:00,3,1,search.amd.com,Search,0
+2013-10-23T20:40:00,2,1,reviews.cnet.com,Science & Technology,-2
+2013-10-23T20:45:00,98,1,app store,General Shopping,-2
+2013-10-23T20:45:00,66,1,intel.com,Search,0
+2013-10-23T20:45:00,53,1,mactracker,Search,-2
+2013-10-23T20:45:00,40,1,microsoft word,Writing,2
+2013-10-23T20:45:00,35,1,macrumors.com,General News & Opinion,-2
+2013-10-23T20:45:00,6,1,Skype,General Social Networking,-2
+2013-10-23T20:45:00,1,1,cn.bing.com,Search,0
+2013-10-23T20:45:00,1,1,search.amd.com,Search,0
+2013-10-23T20:50:00,163,1,microsoft word,Writing,2
+2013-10-23T20:50:00,115,1,macrumors.com,General News & Opinion,-2
+2013-10-23T20:50:00,22,1,Skype,General Social Networking,-2
+2013-10-23T20:55:00,174,1,microsoft word,Writing,2
+2013-10-23T20:55:00,126,1,Skype,General Social Networking,-2
+2013-10-23T21:00:00,300,1,microsoft word,Writing,2
+2013-10-23T21:05:00,181,1,microsoft word,Writing,2
+2013-10-23T21:05:00,46,1,macrumors.com,General News & Opinion,-2
+2013-10-23T21:05:00,12,1,Skype,General Social Networking,-2

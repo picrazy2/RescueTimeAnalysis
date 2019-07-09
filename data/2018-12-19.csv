@@ -1,0 +1,178 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-12-19T08:10:00,14,1,Preview,General Reference & Learning,2
+2018-12-19T08:10:00,3,1,photos,Photos,0
+2018-12-19T08:15:00,53,1,photos,Photos,0
+2018-12-19T08:15:00,18,1,Preview,General Reference & Learning,2
+2018-12-19T08:15:00,1,1,loginwindow,General Utilities,0
+2018-12-19T11:25:00,12,1,loginwindow,General Utilities,0
+2018-12-19T11:25:00,6,1,Preview,General Reference & Learning,2
+2018-12-19T11:25:00,5,1,photos,Photos,0
+2018-12-19T11:30:00,105,1,introml.mit.edu,Presentation,2
+2018-12-19T11:30:00,4,1,piazza.com,General Reference & Learning,2
+2018-12-19T11:30:00,2,1,messenger.com,General Social Networking,-2
+2018-12-19T11:35:00,193,1,messenger.com,General Social Networking,-2
+2018-12-19T11:35:00,107,1,introml.mit.edu,Presentation,2
+2018-12-19T11:40:00,29,1,messenger.com,General Social Networking,-2
+2018-12-19T11:55:00,1,1,loginwindow,General Utilities,0
+2018-12-19T12:35:00,18,1,loginwindow,General Utilities,0
+2018-12-19T17:20:00,139,1,bbc.com,General News & Opinion,-2
+2018-12-19T17:20:00,71,1,messenger.com,General Social Networking,-2
+2018-12-19T17:20:00,55,1,9to5mac.com,General News & Opinion,-2
+2018-12-19T17:20:00,7,1,google.com,Search,2
+2018-12-19T17:20:00,3,1,firehose.guide,General Communication & Scheduling,2
+2018-12-19T17:20:00,1,1,loginwindow,General Utilities,0
+2018-12-19T17:25:00,129,1,messenger.com,General Social Networking,-2
+2018-12-19T17:25:00,85,1,Mail,Email,2
+2018-12-19T17:25:00,76,1,9to5mac.com,General News & Opinion,-2
+2018-12-19T17:25:00,5,1,messages,General Social Networking,-2
+2018-12-19T17:25:00,3,1,wechat,General Social Networking,-2
+2018-12-19T17:25:00,2,1,piazza.com,General Reference & Learning,2
+2018-12-19T17:30:00,123,1,reuters.com,General News & Opinion,-2
+2018-12-19T17:30:00,38,1,messages,General Social Networking,-2
+2018-12-19T17:30:00,35,1,polisci.mit.edu,Presentation,2
+2018-12-19T17:30:00,33,1,Mail,Email,2
+2018-12-19T17:30:00,24,1,wechat,General Social Networking,-2
+2018-12-19T17:30:00,14,1,messenger.com,General Social Networking,-2
+2018-12-19T17:30:00,11,1,google.com,Search,2
+2018-12-19T17:30:00,7,1,9to5mac.com,General News & Opinion,-2
+2018-12-19T17:30:00,4,1,introml.mit.edu,Presentation,2
+2018-12-19T17:30:00,3,1,dropbox.com,File Sharing,2
+2018-12-19T17:30:00,3,1,bbc.com,General News & Opinion,-2
+2018-12-19T17:30:00,3,1,idp.mit.edu,General Reference & Learning,1
+2018-12-19T17:30:00,2,1,math.mit.edu,Engineering & Technology,1
+2018-12-19T17:35:00,234,1,introml.mit.edu,Presentation,2
+2018-12-19T17:35:00,42,1,polisci.mit.edu,Presentation,2
+2018-12-19T17:35:00,19,1,wechat,General Social Networking,-2
+2018-12-19T17:35:00,5,1,Finder,General Utilities,0
+2018-12-19T17:40:00,218,1,polisci.mit.edu,Presentation,2
+2018-12-19T17:40:00,52,1,wechat,General Social Networking,-2
+2018-12-19T17:40:00,30,1,introml.mit.edu,Presentation,2
+2018-12-19T17:45:00,284,1,wechat,General Social Networking,-2
+2018-12-19T17:45:00,16,1,polisci.mit.edu,Presentation,2
+2018-12-19T17:50:00,163,1,polisci.mit.edu,Presentation,2
+2018-12-19T17:50:00,137,1,wechat,General Social Networking,-2
+2018-12-19T17:55:00,178,1,en.wikipedia.org,General Reference & Learning,1
+2018-12-19T17:55:00,77,1,polisci.mit.edu,Presentation,2
+2018-12-19T17:55:00,37,1,wechat,General Social Networking,-2
+2018-12-19T17:55:00,8,1,google.com,Search,2
+2018-12-19T18:00:00,183,1,en.wikipedia.org,General Reference & Learning,1
+2018-12-19T18:00:00,96,1,reuters.com,General News & Opinion,-2
+2018-12-19T18:00:00,12,1,stackoverflow.com,General Software Development,2
+2018-12-19T18:00:00,4,1,wechat,General Social Networking,-2
+2018-12-19T18:00:00,3,1,google.com,Search,2
+2018-12-19T18:00:00,2,1,introml.mit.edu,Presentation,2
+2018-12-19T18:05:00,160,1,Finder,General Utilities,0
+2018-12-19T18:05:00,130,1,stackoverflow.com,General Software Development,2
+2018-12-19T18:05:00,10,1,messenger.com,General Social Networking,-2
+2018-12-19T18:10:00,147,1,wechat,General Social Networking,-2
+2018-12-19T18:10:00,31,1,messenger.com,General Social Networking,-2
+2018-12-19T18:10:00,10,1,Finder,General Utilities,0
+2018-12-19T18:10:00,3,1,stackoverflow.com,General Software Development,2
+2018-12-19T18:10:00,1,1,loginwindow,General Utilities,0
+2018-12-19T18:15:00,18,1,stackoverflow.com,General Software Development,2
+2018-12-19T18:20:00,142,1,messenger.com,General Social Networking,-2
+2018-12-19T18:25:00,160,1,9to5mac.com,General News & Opinion,-2
+2018-12-19T18:25:00,53,1,reuters.com,General News & Opinion,-2
+2018-12-19T18:25:00,39,1,messenger.com,General Social Networking,-2
+2018-12-19T18:25:00,34,1,Preview,General Reference & Learning,2
+2018-12-19T18:25:00,14,1,Finder,General Utilities,0
+2018-12-19T18:30:00,146,1,messenger.com,General Social Networking,-2
+2018-12-19T18:30:00,75,1,Preview,General Reference & Learning,2
+2018-12-19T18:30:00,40,1,Mail,Email,2
+2018-12-19T18:30:00,32,1,help.uber.com,General Reference & Learning,1
+2018-12-19T18:30:00,2,1,reuters.com,General News & Opinion,-2
+2018-12-19T18:30:00,2,1,introml.mit.edu,Presentation,2
+2018-12-19T18:30:00,1,1,email.uber.com,General Business,2
+2018-12-19T18:30:00,1,1,9to5mac.com,General News & Opinion,-2
+2018-12-19T18:35:00,218,1,Preview,General Reference & Learning,2
+2018-12-19T18:35:00,57,1,Finder,General Utilities,0
+2018-12-19T18:35:00,25,1,messenger.com,General Social Networking,-2
+2018-12-19T18:40:00,65,1,Finder,General Utilities,0
+2018-12-19T18:40:00,20,1,Mail,Email,2
+2018-12-19T18:40:00,1,1,messenger.com,General Social Networking,-2
+2018-12-19T18:45:00,22,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-12-19T18:45:00,6,1,users,General Software Development,2
+2018-12-19T18:45:00,5,1,stellar.mit.edu,General Reference & Learning,1
+2018-12-19T18:45:00,3,1,idp.mit.edu,General Reference & Learning,1
+2018-12-19T18:45:00,2,1,messenger.com,General Social Networking,-2
+2018-12-19T18:45:00,2,1,introml.mit.edu,Presentation,2
+2018-12-19T18:50:00,300,1,users,General Software Development,2
+2018-12-19T18:55:00,214,1,users,General Software Development,2
+2018-12-19T18:55:00,19,1,messenger.com,General Social Networking,-2
+2018-12-19T18:55:00,8,1,9to5mac.com,General News & Opinion,-2
+2018-12-19T18:55:00,3,1,reuters.com,General News & Opinion,-2
+2018-12-19T18:55:00,2,1,Finder,General Utilities,0
+2018-12-19T18:55:00,1,1,introml.mit.edu,Presentation,2
+2018-12-19T19:15:00,13,1,Mail,Email,2
+2018-12-19T19:15:00,9,1,wechat,General Social Networking,-2
+2018-12-19T19:15:00,7,1,messenger.com,General Social Networking,-2
+2018-12-19T19:15:00,6,1,9to5mac.com,General News & Opinion,-2
+2018-12-19T19:15:00,3,1,users,General Software Development,2
+2018-12-19T21:10:00,129,1,messenger.com,General Social Networking,-2
+2018-12-19T21:10:00,16,1,Mail,Email,2
+2018-12-19T21:10:00,14,1,wechat,General Social Networking,-2
+2018-12-19T21:10:00,3,1,users,General Software Development,2
+2018-12-19T21:10:00,1,1,9to5mac.com,General News & Opinion,-2
+2018-12-19T21:15:00,117,1,messenger.com,General Social Networking,-2
+2018-12-19T21:15:00,50,1,finalexams.mit.edu,Presentation,2
+2018-12-19T21:15:00,43,1,piazza.com,General Reference & Learning,2
+2018-12-19T21:15:00,36,1,calendar,Calendars,1
+2018-12-19T21:15:00,27,1,Mail,Email,2
+2018-12-19T21:15:00,13,1,9to5mac.com,General News & Opinion,-2
+2018-12-19T21:15:00,5,1,users,General Software Development,2
+2018-12-19T21:15:00,2,1,introml.mit.edu,Presentation,2
+2018-12-19T21:15:00,2,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-12-19T21:15:00,2,1,registrar.mit.edu,Presentation,2
+2018-12-19T21:15:00,1,1,google.com,Search,2
+2018-12-19T21:20:00,188,1,google.com,Search,2
+2018-12-19T21:20:00,108,1,messenger.com,General Social Networking,-2
+2018-12-19T21:20:00,4,1,introml.mit.edu,Presentation,2
+2018-12-19T21:25:00,123,1,google.com,Search,2
+2018-12-19T21:25:00,75,1,messenger.com,General Social Networking,-2
+2018-12-19T21:25:00,54,1,dusp.mit.edu,General Reference & Learning,1
+2018-12-19T21:25:00,30,1,firehose.guide,General Communication & Scheduling,2
+2018-12-19T21:25:00,14,1,stellar.mit.edu,General Reference & Learning,1
+2018-12-19T21:25:00,2,1,piazza.com,General Reference & Learning,2
+2018-12-19T21:25:00,1,1,stackoverflow.com,General Software Development,2
+2018-12-19T21:30:00,130,1,dusp.mit.edu,General Reference & Learning,1
+2018-12-19T21:30:00,118,1,messenger.com,General Social Networking,-2
+2018-12-19T21:30:00,50,1,stackoverflow.com,General Software Development,2
+2018-12-19T21:30:00,2,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-12-19T21:35:00,122,1,9to5mac.com,General News & Opinion,-2
+2018-12-19T21:35:00,16,1,reuters.com,General News & Opinion,-2
+2018-12-19T21:35:00,13,1,messenger.com,General Social Networking,-2
+2018-12-19T21:35:00,7,1,users,General Software Development,2
+2018-12-19T21:35:00,2,1,gradescope.com,General Reference & Learning,1
+2018-12-19T21:35:00,1,1,stackoverflow.com,General Software Development,2
+2018-12-19T21:45:00,134,1,web.mit.edu,General Reference & Learning,2
+2018-12-19T21:45:00,34,1,dusp.mit.edu,General Reference & Learning,1
+2018-12-19T21:45:00,34,1,messenger.com,General Social Networking,-2
+2018-12-19T21:45:00,9,1,google.com,Search,2
+2018-12-19T21:45:00,6,1,stackoverflow.com,General Software Development,2
+2018-12-19T21:45:00,3,1,reuters.com,General News & Opinion,-2
+2018-12-19T21:45:00,2,1,firehose.guide,General Communication & Scheduling,2
+2018-12-19T21:50:00,217,1,users,General Software Development,2
+2018-12-19T21:50:00,46,1,dusp.mit.edu,General Reference & Learning,1
+2018-12-19T21:50:00,14,1,messenger.com,General Social Networking,-2
+2018-12-19T21:50:00,13,1,google.com,Search,2
+2018-12-19T21:50:00,5,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-12-19T21:50:00,3,1,firehose.guide,General Communication & Scheduling,2
+2018-12-19T21:50:00,2,1,Mail,Email,2
+2018-12-19T21:55:00,300,1,users,General Software Development,2
+2018-12-19T22:00:00,300,1,users,General Software Development,2
+2018-12-19T22:05:00,300,1,users,General Software Development,2
+2018-12-19T22:10:00,2,1,users,General Software Development,2
+2018-12-19T22:25:00,243,1,messenger.com,General Social Networking,-2
+2018-12-19T22:30:00,298,1,messenger.com,General Social Networking,-2
+2018-12-19T22:30:00,2,1,dusp.mit.edu,General Reference & Learning,1
+2018-12-19T22:35:00,300,1,messenger.com,General Social Networking,-2
+2018-12-19T22:40:00,269,1,messenger.com,General Social Networking,-2
+2018-12-19T22:40:00,31,1,wechat,General Social Networking,-2
+2018-12-19T22:45:00,297,1,messenger.com,General Social Networking,-2
+2018-12-19T22:45:00,3,1,wechat,General Social Networking,-2
+2018-12-19T22:50:00,250,1,messenger.com,General Social Networking,-2
+2018-12-19T22:50:00,49,1,Finder,General Utilities,0
+2018-12-19T22:50:00,1,1,dusp.mit.edu,General Reference & Learning,1
+2018-12-19T22:55:00,161,1,messenger.com,General Social Networking,-2
+2018-12-19T22:55:00,62,1,Finder,General Utilities,0
+2018-12-19T22:55:00,1,1,loginwindow,General Utilities,0

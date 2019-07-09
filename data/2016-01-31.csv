@@ -1,0 +1,128 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2016-01-31T17:15:00,107,1,loginwindow,General Utilities,0
+2016-01-31T17:40:00,11,1,facebook.com,General Social Networking,-2
+2016-01-31T17:40:00,5,1,microsoft word,Writing,2
+2016-01-31T17:40:00,3,1,RescueTime,Intelligence,0
+2016-01-31T17:40:00,2,1,state.gov,Search,0
+2016-01-31T17:45:00,270,1,Mail,Email,2
+2016-01-31T17:45:00,18,1,facebook.com,General Social Networking,-2
+2016-01-31T17:45:00,9,1,messages,General Social Networking,-2
+2016-01-31T17:50:00,155,1,Mail,Email,2
+2016-01-31T17:50:00,145,1,facebook.com,General Social Networking,-2
+2016-01-31T17:55:00,103,1,facebook.com,General Social Networking,-2
+2016-01-31T17:55:00,28,1,Mail,Email,2
+2016-01-31T18:45:00,233,1,Mail,Email,2
+2016-01-31T18:45:00,35,1,facebook.com,General Social Networking,-2
+2016-01-31T18:50:00,156,1,Mail,Email,2
+2016-01-31T18:50:00,143,1,facebook.com,General Social Networking,-2
+2016-01-31T18:55:00,276,1,facebook.com,General Social Networking,-2
+2016-01-31T18:55:00,23,1,Mail,Email,2
+2016-01-31T19:00:00,235,1,facebook.com,General Social Networking,-2
+2016-01-31T19:00:00,60,1,Mail,Email,2
+2016-01-31T19:00:00,5,1,newtab,Browsers,0
+2016-01-31T19:05:00,209,1,facebook.com,General Social Networking,-2
+2016-01-31T19:05:00,91,1,Mail,Email,2
+2016-01-31T19:10:00,237,1,facebook.com,General Social Networking,-2
+2016-01-31T19:20:00,172,1,facebook.com,General Social Networking,-2
+2016-01-31T19:25:00,300,1,facebook.com,General Social Networking,-2
+2016-01-31T19:30:00,23,1,facebook.com,General Social Networking,-2
+2016-01-31T19:30:00,1,1,Mail,Email,2
+2016-01-31T19:50:00,16,1,Mail,Email,2
+2016-01-31T21:25:00,31,1,loginwindow,General Utilities,0
+2016-01-31T21:35:00,145,1,Preview,General Reference & Learning,2
+2016-01-31T21:35:00,31,1,dalearn.deerfield.edu,General Reference & Learning,2
+2016-01-31T21:35:00,28,1,Mail,Email,2
+2016-01-31T21:35:00,22,1,loginwindow,General Utilities,0
+2016-01-31T21:35:00,18,1,facebook.com,General Social Networking,-2
+2016-01-31T21:35:00,7,1,newtab,Browsers,0
+2016-01-31T21:35:00,5,1,facetime,Voice Chat,-2
+2016-01-31T21:35:00,4,1,state.gov,Search,0
+2016-01-31T21:35:00,3,1,Safari,Browsers,2
+2016-01-31T21:35:00,2,1,microsoft word,Writing,2
+2016-01-31T21:40:00,258,1,facebook.com,General Social Networking,-2
+2016-01-31T21:40:00,41,1,Mail,Email,2
+2016-01-31T21:45:00,105,1,Mail,Email,2
+2016-01-31T21:45:00,101,1,facebook.com,General Social Networking,-2
+2016-01-31T21:45:00,93,1,dalearn.deerfield.edu,General Reference & Learning,2
+2016-01-31T21:50:00,128,1,Preview,General Reference & Learning,2
+2016-01-31T21:50:00,64,1,facebook.com,General Social Networking,-2
+2016-01-31T21:50:00,61,1,Mail,Email,2
+2016-01-31T21:50:00,47,1,dalearn.deerfield.edu,General Reference & Learning,2
+2016-01-31T21:55:00,112,1,Preview,General Reference & Learning,2
+2016-01-31T21:55:00,25,1,facebook.com,General Social Networking,-2
+2016-01-31T22:00:00,1,1,Preview,General Reference & Learning,2
+2016-01-31T22:10:00,219,1,Preview,General Reference & Learning,2
+2016-01-31T22:10:00,20,1,Skype,General Social Networking,-2
+2016-01-31T22:10:00,13,1,Mail,Email,2
+2016-01-31T22:10:00,3,1,facebook.com,General Social Networking,-2
+2016-01-31T22:15:00,300,1,Preview,General Reference & Learning,2
+2016-01-31T22:20:00,274,1,Preview,General Reference & Learning,2
+2016-01-31T22:20:00,20,1,Mail,Email,2
+2016-01-31T22:20:00,6,1,dalearn.deerfield.edu,General Reference & Learning,2
+2016-01-31T22:25:00,300,1,Preview,General Reference & Learning,2
+2016-01-31T22:30:00,300,1,Preview,General Reference & Learning,2
+2016-01-31T22:35:00,124,1,facebook.com,General Social Networking,-2
+2016-01-31T22:35:00,104,1,Preview,General Reference & Learning,2
+2016-01-31T22:35:00,64,1,messages,General Social Networking,-2
+2016-01-31T22:35:00,4,1,Mail,Email,2
+2016-01-31T22:35:00,3,1,dalearn.deerfield.edu,General Reference & Learning,2
+2016-01-31T22:35:00,1,1,state.gov,Search,0
+2016-01-31T22:40:00,102,1,en.wikipedia.org,General Reference & Learning,1
+2016-01-31T22:40:00,25,1,dalearn.deerfield.edu,General Reference & Learning,2
+2016-01-31T22:40:00,13,1,view.ebookplus.pearsoncmg.com,General Reference & Learning,1
+2016-01-31T22:40:00,7,1,norvig.com,Search,0
+2016-01-31T22:40:00,5,1,session.masteringphysics.com,Search,0
+2016-01-31T22:40:00,5,1,masteringphysics.com,Engineering & Technology,1
+2016-01-31T22:40:00,4,1,Safari,Browsers,2
+2016-01-31T22:40:00,3,1,pearsonmylabandmastering.com,General Reference & Learning,1
+2016-01-31T22:40:00,2,1,state.gov,Search,0
+2016-01-31T22:40:00,1,1,isb.bj.edu.cn,General Reference & Learning,1
+2016-01-31T22:40:00,1,1,youtube.com,Video,-2
+2016-01-31T22:40:00,1,1,auth.mastering.pearsoncmg.com,General Reference & Learning,1
+2016-01-31T22:45:00,24,1,en.wikipedia.org,General Reference & Learning,1
+2016-01-31T22:45:00,7,1,Safari,Browsers,2
+2016-01-31T22:45:00,4,1,google.com,Search,2
+2016-01-31T22:50:00,214,1,view.ebookplus.pearsoncmg.com,General Reference & Learning,1
+2016-01-31T22:50:00,70,1,wolframalpha.com,Search,1
+2016-01-31T22:50:00,14,1,en.wikipedia.org,General Reference & Learning,1
+2016-01-31T22:50:00,2,1,Safari,Browsers,2
+2016-01-31T22:55:00,152,1,view.ebookplus.pearsoncmg.com,General Reference & Learning,1
+2016-01-31T22:55:00,148,1,facebook.com,General Social Networking,-2
+2016-01-31T23:00:00,300,1,facebook.com,General Social Networking,-2
+2016-01-31T23:05:00,211,1,view.ebookplus.pearsoncmg.com,General Reference & Learning,1
+2016-01-31T23:05:00,89,1,facebook.com,General Social Networking,-2
+2016-01-31T23:10:00,164,1,wolframalpha.com,Search,1
+2016-01-31T23:10:00,127,1,view.ebookplus.pearsoncmg.com,General Reference & Learning,1
+2016-01-31T23:10:00,3,1,en.wikipedia.org,General Reference & Learning,1
+2016-01-31T23:10:00,2,1,boardingschools.com,Uncategorized,0
+2016-01-31T23:10:00,2,1,Safari,Browsers,2
+2016-01-31T23:10:00,1,1,isb.bj.edu.cn,General Reference & Learning,1
+2016-01-31T23:10:00,1,1,session.masteringphysics.com,Search,0
+2016-01-31T23:15:00,183,1,view.ebookplus.pearsoncmg.com,General Reference & Learning,1
+2016-01-31T23:15:00,115,1,wolframalpha.com,Search,1
+2016-01-31T23:15:00,2,1,session.masteringphysics.com,Search,0
+2016-01-31T23:20:00,243,1,wolframalpha.com,Search,1
+2016-01-31T23:20:00,53,1,view.ebookplus.pearsoncmg.com,General Reference & Learning,1
+2016-01-31T23:20:00,3,1,Safari,Browsers,2
+2016-01-31T23:20:00,1,1,session.masteringphysics.com,Search,0
+2016-01-31T23:25:00,199,1,view.ebookplus.pearsoncmg.com,General Reference & Learning,1
+2016-01-31T23:25:00,54,1,Finder,General Utilities,0
+2016-01-31T23:25:00,36,1,messages,General Social Networking,-2
+2016-01-31T23:25:00,11,1,facebook.com,General Social Networking,-2
+2016-01-31T23:30:00,122,1,Preview,General Reference & Learning,2
+2016-01-31T23:30:00,93,1,view.ebookplus.pearsoncmg.com,General Reference & Learning,1
+2016-01-31T23:30:00,63,1,wolframalpha.com,Search,1
+2016-01-31T23:30:00,17,1,Finder,General Utilities,0
+2016-01-31T23:30:00,3,1,facebook.com,General Social Networking,-2
+2016-01-31T23:30:00,2,1,session.masteringphysics.com,Search,0
+2016-01-31T23:35:00,125,1,wolframalpha.com,Search,1
+2016-01-31T23:35:00,124,1,google.com,Search,2
+2016-01-31T23:35:00,46,1,view.ebookplus.pearsoncmg.com,General Reference & Learning,1
+2016-01-31T23:35:00,5,1,Safari,Browsers,2
+2016-01-31T23:40:00,200,1,view.ebookplus.pearsoncmg.com,General Reference & Learning,1
+2016-01-31T23:40:00,95,1,wolframalpha.com,Search,1
+2016-01-31T23:40:00,2,1,dalearn.deerfield.edu,General Reference & Learning,2
+2016-01-31T23:40:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2016-01-31T23:40:00,1,1,google.com,Search,2
+2016-01-31T23:45:00,121,1,view.ebookplus.pearsoncmg.com,General Reference & Learning,1
+2016-01-31T23:45:00,3,1,facetime,Voice Chat,-2

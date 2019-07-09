@@ -1,0 +1,316 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2014-09-29T08:25:00,42,1,microsoft word,Writing,2
+2014-09-29T08:25:00,3,1,loginwindow,General Utilities,0
+2014-09-29T08:25:00,2,1,Mail,Email,2
+2014-09-29T08:30:00,104,1,Finder,General Utilities,0
+2014-09-29T08:30:00,43,1,microsoft word,Writing,2
+2014-09-29T08:30:00,20,1,loginwindow,General Utilities,0
+2014-09-29T08:30:00,2,1,Mail,Email,2
+2014-09-29T09:10:00,100,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-09-29T09:10:00,56,1,amazon.com,General Shopping,-1
+2014-09-29T09:10:00,52,1,Mail,Email,2
+2014-09-29T09:10:00,31,1,Safari,Browsers,2
+2014-09-29T09:10:00,24,1,google.com,Search,2
+2014-09-29T09:10:00,11,1,macworld.com,Science & Technology,-1
+2014-09-29T09:10:00,11,1,en.wikipedia.org,General Reference & Learning,1
+2014-09-29T09:10:00,4,1,Finder,General Utilities,0
+2014-09-29T09:15:00,202,1,macworld.com,Science & Technology,-1
+2014-09-29T09:15:00,48,1,Mail,Email,2
+2014-09-29T09:15:00,18,1,loginwindow,General Utilities,0
+2014-09-29T09:15:00,13,1,store.apple.com,Electronics,-2
+2014-09-29T09:15:00,9,1,Finder,General Utilities,0
+2014-09-29T09:15:00,7,1,google.com,Search,2
+2014-09-29T10:10:00,91,1,microsoft word,Writing,2
+2014-09-29T10:10:00,25,1,blurbomat.com,General News & Opinion,-2
+2014-09-29T10:10:00,14,1,google.com,Search,2
+2014-09-29T10:10:00,10,1,macworld.com,Science & Technology,-1
+2014-09-29T10:10:00,2,1,alfred,General Utilities,2
+2014-09-29T10:15:00,289,1,microsoft word,Writing,2
+2014-09-29T10:15:00,11,1,Mail,Email,2
+2014-09-29T10:20:00,258,1,microsoft word,Writing,2
+2014-09-29T10:20:00,42,1,blurbomat.com,General News & Opinion,-2
+2014-09-29T10:25:00,300,1,microsoft word,Writing,2
+2014-09-29T10:30:00,300,1,microsoft word,Writing,2
+2014-09-29T10:35:00,300,1,microsoft word,Writing,2
+2014-09-29T10:40:00,188,1,microsoft word,Writing,2
+2014-09-29T10:40:00,41,1,blurbomat.com,General News & Opinion,-2
+2014-09-29T10:40:00,29,1,buyersguide.macrumors.com,General News & Opinion,-2
+2014-09-29T10:40:00,20,1,macrumors.com,General News & Opinion,-2
+2014-09-29T10:40:00,18,1,Safari,Browsers,2
+2014-09-29T10:40:00,3,1,google.com,Search,2
+2014-09-29T10:45:00,62,1,en.wikipedia.org,General Reference & Learning,1
+2014-09-29T10:45:00,18,1,loginwindow,General Utilities,0
+2014-09-29T10:45:00,7,1,google.com,Search,2
+2014-09-29T10:50:00,61,1,macworld.com,Science & Technology,-1
+2014-09-29T10:50:00,60,1,Finder,General Utilities,0
+2014-09-29T10:50:00,16,1,en.wikipedia.org,General Reference & Learning,1
+2014-09-29T10:55:00,22,1,loginwindow,General Utilities,0
+2014-09-29T10:55:00,3,1,Finder,General Utilities,0
+2014-09-29T11:00:00,109,1,blurbomat.com,General News & Opinion,-2
+2014-09-29T11:00:00,50,1,academicapproach.com,Uncategorized,0
+2014-09-29T11:00:00,46,1,Skype,General Social Networking,-2
+2014-09-29T11:00:00,10,1,Finder,General Utilities,0
+2014-09-29T11:00:00,6,1,Safari,Browsers,2
+2014-09-29T11:00:00,4,1,google.com,Search,2
+2014-09-29T11:00:00,3,1,en.wikipedia.org,General Reference & Learning,1
+2014-09-29T11:00:00,1,1,alfred,General Utilities,2
+2014-09-29T11:05:00,164,1,bbc.com,General News & Opinion,-2
+2014-09-29T11:05:00,115,1,Skype,General Social Networking,-2
+2014-09-29T11:05:00,12,1,Safari,Browsers,2
+2014-09-29T11:05:00,7,1,google.com,Search,2
+2014-09-29T11:05:00,1,1,academicapproach.com,Uncategorized,0
+2014-09-29T11:10:00,300,1,bbc.com,General News & Opinion,-2
+2014-09-29T11:15:00,115,1,bbc.com,General News & Opinion,-2
+2014-09-29T11:15:00,77,1,flash player (safari internet plug-in),Video,-2
+2014-09-29T11:15:00,72,1,youtube.com,Video,-2
+2014-09-29T11:15:00,18,1,en.wikipedia.org,General Reference & Learning,1
+2014-09-29T11:15:00,17,1,Safari,Browsers,2
+2014-09-29T11:20:00,151,1,cnn.com,General News & Opinion,2
+2014-09-29T11:20:00,124,1,flash player (safari internet plug-in),Video,-2
+2014-09-29T11:20:00,23,1,bbc.com,General News & Opinion,-2
+2014-09-29T11:20:00,1,1,youtube.com,Video,-2
+2014-09-29T11:25:00,300,1,cnn.com,General News & Opinion,2
+2014-09-29T11:30:00,242,1,edition.cnn.com,General News & Opinion,-2
+2014-09-29T11:30:00,58,1,cnn.com,General News & Opinion,2
+2014-09-29T11:35:00,218,1,latimes.com,General News & Opinion,-2
+2014-09-29T11:35:00,35,1,google.com,Search,2
+2014-09-29T11:35:00,31,1,edition.cnn.com,General News & Opinion,-2
+2014-09-29T11:35:00,10,1,abcnews.go.com,General News & Opinion,-2
+2014-09-29T11:35:00,2,1,Skype,General Social Networking,-2
+2014-09-29T11:35:00,1,1,academicapproach.com,Uncategorized,0
+2014-09-29T11:40:00,126,1,rantpolitical.com,General News & Opinion,-2
+2014-09-29T11:40:00,95,1,abcnews.go.com,General News & Opinion,-2
+2014-09-29T11:40:00,41,1,google.com,Search,2
+2014-09-29T11:40:00,33,1,arabianbusiness.com,General News & Opinion,-2
+2014-09-29T11:40:00,3,1,youtube.com,Video,-2
+2014-09-29T11:45:00,26,1,arabianbusiness.com,General News & Opinion,-2
+2014-09-29T11:45:00,18,1,loginwindow,General Utilities,0
+2014-09-29T12:35:00,109,1,microsoft word,Writing,2
+2014-09-29T12:35:00,18,1,loginwindow,General Utilities,0
+2014-09-29T12:35:00,3,1,arabianbusiness.com,General News & Opinion,-2
+2014-09-29T12:35:00,1,1,Finder,General Utilities,0
+2014-09-29T15:15:00,156,1,google chrome,Browsers,0
+2014-09-29T15:15:00,30,1,microsoft word,Writing,2
+2014-09-29T15:15:00,7,1,Skype,General Social Networking,-2
+2014-09-29T15:15:00,3,1,Finder,General Utilities,0
+2014-09-29T15:15:00,2,1,certificate assistant,Systems Operations,2
+2014-09-29T15:20:00,300,1,google chrome,Browsers,0
+2014-09-29T15:25:00,300,1,google chrome,Browsers,0
+2014-09-29T15:30:00,299,1,google chrome,Browsers,0
+2014-09-29T15:35:00,300,1,google chrome,Browsers,0
+2014-09-29T15:40:00,300,1,google chrome,Browsers,0
+2014-09-29T15:45:00,299,1,google chrome,Browsers,0
+2014-09-29T15:50:00,300,1,google chrome,Browsers,0
+2014-09-29T15:55:00,194,1,google chrome,Browsers,0
+2014-09-29T15:55:00,106,1,microsoft word,Writing,2
+2014-09-29T16:00:00,167,1,microsoft word,Writing,2
+2014-09-29T16:10:00,275,1,Mail,Email,2
+2014-09-29T16:10:00,8,1,Skype,General Social Networking,-2
+2014-09-29T16:10:00,6,1,keychain access,Systems Operations,2
+2014-09-29T16:15:00,108,1,Terminal,Systems Operations,2
+2014-09-29T16:15:00,65,1,keychain access,Systems Operations,2
+2014-09-29T16:15:00,53,1,developer.apple.com,Engineering & Technology,1
+2014-09-29T16:15:00,18,1,TextEdit,Writing,2
+2014-09-29T16:15:00,18,1,Finder,General Utilities,0
+2014-09-29T16:15:00,11,1,en.wikipedia.org,General Reference & Learning,1
+2014-09-29T16:15:00,8,1,problem reporter,General News & Opinion,-2
+2014-09-29T16:15:00,5,1,github,General Software Development,2
+2014-09-29T16:15:00,2,1,daisydisk,General Utilities,0
+2014-09-29T16:15:00,2,1,google chrome,Browsers,0
+2014-09-29T16:15:00,2,1,gdxsetup,Uncategorized,0
+2014-09-29T16:15:00,2,1,maingui,Uncategorized,0
+2014-09-29T16:15:00,2,1,idmsa.apple.com,General Software Development,2
+2014-09-29T16:15:00,1,1,Mail,Email,2
+2014-09-29T16:15:00,1,1,android sdk manager,General Software Development,2
+2014-09-29T16:20:00,191,1,TextEdit,Writing,2
+2014-09-29T16:20:00,69,1,Terminal,Systems Operations,2
+2014-09-29T16:20:00,32,1,Finder,General Utilities,0
+2014-09-29T16:20:00,7,1,keychain access,Systems Operations,2
+2014-09-29T16:25:00,84,1,eclipse,Editing & IDEs,2
+2014-09-29T16:25:00,83,1,Terminal,Systems Operations,2
+2014-09-29T16:25:00,71,1,keychain access,Systems Operations,2
+2014-09-29T16:25:00,42,1,Finder,General Utilities,0
+2014-09-29T16:25:00,15,1,desktoplauncher,General Software Development,2
+2014-09-29T16:25:00,4,1,maingui,Uncategorized,0
+2014-09-29T16:30:00,253,1,eclipse,Editing & IDEs,2
+2014-09-29T16:30:00,42,1,Xcode,Editing & IDEs,2
+2014-09-29T16:30:00,4,1,desktoplauncher,General Software Development,2
+2014-09-29T16:35:00,194,1,Terminal,Systems Operations,2
+2014-09-29T16:35:00,89,1,Xcode,Editing & IDEs,2
+2014-09-29T16:35:00,14,1,Finder,General Utilities,0
+2014-09-29T16:40:00,168,1,keychain access,Systems Operations,2
+2014-09-29T16:40:00,109,1,Terminal,Systems Operations,2
+2014-09-29T16:40:00,21,1,Finder,General Utilities,0
+2014-09-29T16:45:00,287,1,Terminal,Systems Operations,2
+2014-09-29T16:45:00,13,1,keychain access,Systems Operations,2
+2014-09-29T16:50:00,240,1,Terminal,Systems Operations,2
+2014-09-29T16:50:00,40,1,TextEdit,Writing,2
+2014-09-29T16:50:00,18,1,Finder,General Utilities,0
+2014-09-29T16:55:00,215,1,Terminal,Systems Operations,2
+2014-09-29T16:55:00,43,1,keychain access,Systems Operations,2
+2014-09-29T16:55:00,20,1,SecurityAgent,Systems Operations,0
+2014-09-29T16:55:00,14,1,ios simulator,General Software Development,2
+2014-09-29T16:55:00,3,1,Xcode,Editing & IDEs,2
+2014-09-29T17:00:00,150,1,Terminal,Systems Operations,2
+2014-09-29T17:00:00,128,1,TextEdit,Writing,2
+2014-09-29T17:00:00,21,1,Finder,General Utilities,0
+2014-09-29T17:05:00,158,1,Terminal,Systems Operations,2
+2014-09-29T17:05:00,66,1,TextEdit,Writing,2
+2014-09-29T17:05:00,40,1,github.com,General Software Development,2
+2014-09-29T17:05:00,13,1,Finder,General Utilities,0
+2014-09-29T17:05:00,9,1,google.com,Search,2
+2014-09-29T17:05:00,4,1,Safari,Browsers,2
+2014-09-29T17:05:00,4,1,hide:unhide files,Uncategorized,0
+2014-09-29T17:05:00,2,1,developer.apple.com,Engineering & Technology,1
+2014-09-29T17:10:00,147,1,eclipse,Editing & IDEs,2
+2014-09-29T17:10:00,24,1,github.com,General Software Development,2
+2014-09-29T17:10:00,5,1,TextEdit,Writing,2
+2014-09-29T17:15:00,216,1,eclipse,Editing & IDEs,2
+2014-09-29T17:15:00,78,1,github.com,General Software Development,2
+2014-09-29T17:15:00,4,1,desktoplauncher,General Software Development,2
+2014-09-29T17:20:00,78,1,eclipse,Editing & IDEs,2
+2014-09-29T17:20:00,71,1,github.com,General Software Development,2
+2014-09-29T17:20:00,14,1,github,General Software Development,2
+2014-09-29T17:20:00,8,1,Terminal,Systems Operations,2
+2014-09-29T17:20:00,4,1,TextEdit,Writing,2
+2014-09-29T17:20:00,1,1,Finder,General Utilities,0
+2014-09-29T17:20:00,1,1,keychain access,Systems Operations,2
+2014-09-29T17:25:00,108,1,github,General Software Development,2
+2014-09-29T17:25:00,71,1,Terminal,Systems Operations,2
+2014-09-29T17:25:00,60,1,Finder,General Utilities,0
+2014-09-29T17:25:00,41,1,eclipse,Editing & IDEs,2
+2014-09-29T17:25:00,18,1,github.com,General Software Development,2
+2014-09-29T17:30:00,118,1,eclipse,Editing & IDEs,2
+2014-09-29T17:30:00,72,1,Terminal,Systems Operations,2
+2014-09-29T17:30:00,48,1,Finder,General Utilities,0
+2014-09-29T17:30:00,32,1,maven.apache.org,General Software Development,2
+2014-09-29T17:30:00,20,1,Safari,Browsers,2
+2014-09-29T17:30:00,3,1,google.com,Search,2
+2014-09-29T17:30:00,2,1,github.com,General Software Development,2
+2014-09-29T17:35:00,122,1,Finder,General Utilities,0
+2014-09-29T17:35:00,91,1,Terminal,Systems Operations,2
+2014-09-29T17:35:00,71,1,TextEdit,Writing,2
+2014-09-29T17:35:00,11,1,maven.apache.org,General Software Development,2
+2014-09-29T17:35:00,1,1,archive utility,General Utilities,1
+2014-09-29T17:40:00,230,1,Terminal,Systems Operations,2
+2014-09-29T17:40:00,35,1,maven.apache.org,General Software Development,2
+2014-09-29T17:40:00,31,1,Finder,General Utilities,0
+2014-09-29T17:40:00,3,1,TextEdit,Writing,2
+2014-09-29T17:45:00,182,1,Finder,General Utilities,0
+2014-09-29T17:45:00,95,1,Terminal,Systems Operations,2
+2014-09-29T17:45:00,9,1,TextEdit,Writing,2
+2014-09-29T17:45:00,7,1,jar launcher,General Software Development,2
+2014-09-29T17:50:00,164,1,Terminal,Systems Operations,2
+2014-09-29T17:50:00,99,1,Finder,General Utilities,0
+2014-09-29T17:50:00,29,1,TextEdit,Writing,2
+2014-09-29T17:50:00,3,1,jar launcher,General Software Development,2
+2014-09-29T17:55:00,188,1,github.com,General Software Development,2
+2014-09-29T17:55:00,59,1,eclipse,Editing & IDEs,2
+2014-09-29T17:55:00,36,1,Terminal,Systems Operations,2
+2014-09-29T17:55:00,11,1,Finder,General Utilities,0
+2014-09-29T17:55:00,3,1,maven.apache.org,General Software Development,2
+2014-09-29T18:00:00,88,1,Terminal,Systems Operations,2
+2014-09-29T18:00:00,38,1,github.com,General Software Development,2
+2014-09-29T18:00:00,2,1,TextEdit,Writing,2
+2014-09-29T18:25:00,158,1,Finder,General Utilities,0
+2014-09-29T18:25:00,15,1,Mail,Email,2
+2014-09-29T18:25:00,5,1,github.com,General Software Development,2
+2014-09-29T18:30:00,124,1,dainfo.deerfield.edu,General Reference & Learning,1
+2014-09-29T18:30:00,73,1,Finder,General Utilities,0
+2014-09-29T18:30:00,60,1,facebook.com,General Social Networking,-2
+2014-09-29T18:30:00,20,1,huffingtonpost.co.uk,General News & Opinion,-2
+2014-09-29T18:30:00,10,1,Mail,Email,2
+2014-09-29T18:30:00,8,1,maven.apache.org,General Software Development,2
+2014-09-29T18:30:00,1,1,voicebase.com,Uncategorized,0
+2014-09-29T18:30:00,1,1,Safari,Browsers,2
+2014-09-29T18:30:00,1,1,github.com,General Software Development,2
+2014-09-29T18:35:00,300,1,huffingtonpost.co.uk,General News & Opinion,-2
+2014-09-29T18:40:00,257,1,huffingtonpost.co.uk,General News & Opinion,-2
+2014-09-29T18:40:00,43,1,facebook.com,General Social Networking,-2
+2014-09-29T18:45:00,107,1,facebook.com,General Social Networking,-2
+2014-09-29T18:45:00,32,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-09-29T18:45:00,18,1,microsoft word,Writing,2
+2014-09-29T18:45:00,5,1,Safari,Browsers,2
+2014-09-29T18:50:00,109,1,Finder,General Utilities,0
+2014-09-29T18:55:00,189,1,Finder,General Utilities,0
+2014-09-29T18:55:00,18,1,loginwindow,General Utilities,0
+2014-09-29T18:55:00,18,1,microsoft word,Writing,2
+2014-09-29T19:00:00,134,1,Finder,General Utilities,0
+2014-09-29T19:00:00,7,1,loginwindow,General Utilities,0
+2014-09-29T19:05:00,12,1,loginwindow,General Utilities,0
+2014-09-29T19:40:00,24,1,microsoft word,Writing,2
+2014-09-29T19:40:00,17,1,Finder,General Utilities,0
+2014-09-29T19:45:00,300,1,microsoft word,Writing,2
+2014-09-29T19:50:00,66,1,microsoft word,Writing,2
+2014-09-29T19:50:00,29,1,Finder,General Utilities,0
+2014-09-29T19:50:00,4,1,netauthagent,Accounting,2
+2014-09-29T19:55:00,37,1,Finder,General Utilities,0
+2014-09-29T19:55:00,17,1,loginwindow,General Utilities,0
+2014-09-29T19:55:00,8,1,unmountassistantagent,General Utilities,1
+2014-09-29T20:00:00,1,1,loginwindow,General Utilities,0
+2014-09-29T20:40:00,53,1,microsoft word,Writing,2
+2014-09-29T20:40:00,23,1,Mail,Email,2
+2014-09-29T20:40:00,16,1,Finder,General Utilities,0
+2014-09-29T20:40:00,13,1,messages,General Social Networking,-2
+2014-09-29T20:55:00,85,1,messages,General Social Networking,-2
+2014-09-29T21:00:00,120,1,Skype,General Social Networking,-2
+2014-09-29T21:00:00,55,1,Finder,General Utilities,0
+2014-09-29T21:00:00,43,1,facebook.com,General Social Networking,-2
+2014-09-29T21:00:00,32,1,Mail,Email,2
+2014-09-29T21:00:00,8,1,arabianbusiness.com,General News & Opinion,-2
+2014-09-29T21:00:00,3,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-09-29T21:00:00,2,1,microsoft word,Writing,2
+2014-09-29T21:05:00,158,1,Skype,General Social Networking,-2
+2014-09-29T21:05:00,152,1,microsoft word,Writing,2
+2014-09-29T21:05:00,92,1,facebook.com,General Social Networking,-2
+2014-09-29T21:05:00,79,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-09-29T21:05:00,59,1,microsoft autoupdate,General Utilities,1
+2014-09-29T21:05:00,48,1,Mail,Email,2
+2014-09-29T21:05:00,7,1,Safari,Browsers,2
+2014-09-29T21:10:00,226,1,facebook.com,General Social Networking,-2
+2014-09-29T21:10:00,67,1,cbsnews.com,General News & Opinion,-2
+2014-09-29T21:10:00,30,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-09-29T21:10:00,7,1,Skype,General Social Networking,-2
+2014-09-29T21:15:00,148,1,cbsnews.com,General News & Opinion,-2
+2014-09-29T21:15:00,146,1,facebook.com,General Social Networking,-2
+2014-09-29T21:15:00,6,1,Mail,Email,2
+2014-09-29T21:20:00,34,1,facebook.com,General Social Networking,-2
+2014-09-29T21:20:00,15,1,google.com,Search,2
+2014-09-29T21:20:00,7,1,Safari,Browsers,2
+2014-09-29T21:40:00,38,1,Mail,Email,2
+2014-09-29T21:45:00,16,1,Mail,Email,2
+2014-09-29T22:00:00,143,1,buzzfeed.com,General News & Opinion,-2
+2014-09-29T22:00:00,26,1,facebook.com,General Social Networking,-2
+2014-09-29T22:00:00,1,1,google.com,Search,2
+2014-09-29T22:00:00,1,1,Safari,Browsers,2
+2014-09-29T22:05:00,201,1,microsoft word,Writing,2
+2014-09-29T22:05:00,143,1,facebook.com,General Social Networking,-2
+2014-09-29T22:05:00,70,1,buzzfeed.com,General News & Opinion,-2
+2014-09-29T22:05:00,28,1,huffingtonpost.co.uk,General News & Opinion,-2
+2014-09-29T22:05:00,4,1,Skype,General Social Networking,-2
+2014-09-29T22:05:00,1,1,github.com,General Software Development,2
+2014-09-29T22:10:00,72,1,microsoft word,Writing,2
+2014-09-29T22:10:00,25,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-09-29T22:15:00,214,1,Skype,General Social Networking,-2
+2014-09-29T22:20:00,156,1,Skype,General Social Networking,-2
+2014-09-29T22:20:00,142,1,facebook.com,General Social Networking,-2
+2014-09-29T22:20:00,1,1,huffingtonpost.co.uk,General News & Opinion,-2
+2014-09-29T22:25:00,73,1,Skype,General Social Networking,-2
+2014-09-29T22:35:00,138,1,Mail,Email,2
+2014-09-29T22:35:00,103,1,facebook.com,General Social Networking,-2
+2014-09-29T22:35:00,6,1,Skype,General Social Networking,-2
+2014-09-29T22:40:00,179,1,facebook.com,General Social Networking,-2
+2014-09-29T22:40:00,121,1,Skype,General Social Networking,-2
+2014-09-29T22:40:00,58,1,thetileapp.com,Uncategorized,0
+2014-09-29T22:40:00,49,1,macrumors.com,General News & Opinion,-2
+2014-09-29T22:40:00,7,1,Safari,Browsers,2
+2014-09-29T22:45:00,196,1,Skype,General Social Networking,-2
+2014-09-29T22:45:00,104,1,facebook.com,General Social Networking,-2
+2014-09-29T22:45:00,47,1,thetileapp.com,Uncategorized,0
+2014-09-29T22:50:00,294,1,facebook.com,General Social Networking,-2
+2014-09-29T22:50:00,6,1,Skype,General Social Networking,-2
+2014-09-29T22:55:00,124,1,Skype,General Social Networking,-2
+2014-09-29T22:55:00,74,1,facebook.com,General Social Networking,-2
+2014-09-29T22:55:00,4,1,microsoft word,Writing,2
+2014-09-29T23:05:00,105,1,Skype,General Social Networking,-2
+2014-09-29T23:05:00,48,1,facebook.com,General Social Networking,-2

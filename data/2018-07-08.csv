@@ -1,0 +1,69 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-07-08T15:45:00,43,1,docs.python.org,General Software Development,2
+2018-07-08T15:45:00,36,1,safari-resource:,Browsers,0
+2018-07-08T15:45:00,24,1,sublime text,Editing & IDEs,2
+2018-07-08T15:45:00,19,1,youtube.com,Video,-2
+2018-07-08T15:45:00,18,1,Terminal,Systems Operations,2
+2018-07-08T15:45:00,11,1,google.com,Search,2
+2018-07-08T15:45:00,10,1,loginwindow,General Utilities,0
+2018-07-08T15:45:00,3,1,Safari,Browsers,2
+2018-07-08T15:50:00,143,1,docs.python.org,General Software Development,2
+2018-07-08T15:50:00,70,1,python,General Software Development,2
+2018-07-08T15:50:00,62,1,sublime text,Editing & IDEs,2
+2018-07-08T15:50:00,23,1,Terminal,Systems Operations,2
+2018-07-08T15:50:00,2,1,iWork Numbers,General Business,2
+2018-07-08T15:55:00,162,1,sublime text,Editing & IDEs,2
+2018-07-08T15:55:00,50,1,docs.python.org,General Software Development,2
+2018-07-08T15:55:00,43,1,python,General Software Development,2
+2018-07-08T15:55:00,42,1,Terminal,Systems Operations,2
+2018-07-08T15:55:00,2,1,iWork Numbers,General Business,2
+2018-07-08T16:00:00,261,1,sublime text,Editing & IDEs,2
+2018-07-08T16:00:00,17,1,docs.python.org,General Software Development,2
+2018-07-08T16:00:00,15,1,en.wikipedia.org,General Reference & Learning,1
+2018-07-08T16:00:00,5,1,google.com,Search,2
+2018-07-08T16:00:00,1,1,Safari,Browsers,2
+2018-07-08T16:05:00,241,1,sublime text,Editing & IDEs,2
+2018-07-08T16:05:00,28,1,python,General Software Development,2
+2018-07-08T16:05:00,14,1,google.com,Search,2
+2018-07-08T16:05:00,13,1,Terminal,Systems Operations,2
+2018-07-08T16:05:00,4,1,fifa.com,Sports,-1
+2018-07-08T16:10:00,140,1,sublime text,Editing & IDEs,2
+2018-07-08T16:10:00,82,1,docs.python.org,General Software Development,2
+2018-07-08T16:10:00,63,1,python,General Software Development,2
+2018-07-08T16:10:00,15,1,Terminal,Systems Operations,2
+2018-07-08T16:15:00,267,1,sublime text,Editing & IDEs,2
+2018-07-08T16:15:00,17,1,google.com,Search,2
+2018-07-08T16:15:00,15,1,python,General Software Development,2
+2018-07-08T16:15:00,1,1,docs.python.org,General Software Development,2
+2018-07-08T16:20:00,239,1,sublime text,Editing & IDEs,2
+2018-07-08T16:20:00,33,1,Terminal,Systems Operations,2
+2018-07-08T16:20:00,18,1,docs.python.org,General Software Development,2
+2018-07-08T16:20:00,10,1,python,General Software Development,2
+2018-07-08T16:25:00,263,1,sublime text,Editing & IDEs,2
+2018-07-08T16:25:00,16,1,python,General Software Development,2
+2018-07-08T16:25:00,11,1,docs.python.org,General Software Development,2
+2018-07-08T16:25:00,10,1,Terminal,Systems Operations,2
+2018-07-08T16:30:00,242,1,sublime text,Editing & IDEs,2
+2018-07-08T16:30:00,58,1,docs.python.org,General Software Development,2
+2018-07-08T16:35:00,247,1,sublime text,Editing & IDEs,2
+2018-07-08T16:35:00,42,1,python,General Software Development,2
+2018-07-08T16:35:00,11,1,Terminal,Systems Operations,2
+2018-07-08T16:40:00,254,1,sublime text,Editing & IDEs,2
+2018-07-08T16:40:00,36,1,python,General Software Development,2
+2018-07-08T16:40:00,10,1,Terminal,Systems Operations,2
+2018-07-08T16:45:00,155,1,python,General Software Development,2
+2018-07-08T16:45:00,96,1,sublime text,Editing & IDEs,2
+2018-07-08T16:45:00,20,1,Terminal,Systems Operations,2
+2018-07-08T16:45:00,1,1,loginwindow,General Utilities,0
+2018-07-08T16:45:00,1,1,docs.python.org,General Software Development,2
+2018-07-08T23:10:00,45,1,sublime text,Editing & IDEs,2
+2018-07-08T23:10:00,35,1,loginwindow,General Utilities,0
+2018-07-08T23:10:00,2,1,docs.python.org,General Software Development,2
+2018-07-08T23:25:00,84,1,youtube.com,Video,-2
+2018-07-08T23:25:00,7,1,docs.python.org,General Software Development,2
+2018-07-08T23:30:00,300,1,youtube.com,Video,-2
+2018-07-08T23:35:00,300,1,youtube.com,Video,-2
+2018-07-08T23:40:00,300,1,youtube.com,Video,-2
+2018-07-08T23:45:00,300,1,youtube.com,Video,-2
+2018-07-08T23:50:00,300,1,youtube.com,Video,-2
+2018-07-08T23:55:00,300,1,youtube.com,Video,-2

@@ -1,0 +1,117 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2016-04-29T00:15:00,10,1,messages,General Social Networking,-2
+2016-04-29T00:20:00,76,1,Safari,Browsers,2
+2016-04-29T00:20:00,40,1,applications,General Business,2
+2016-04-29T00:20:00,9,1,google.com,Search,2
+2016-04-29T00:20:00,7,1,messages,General Social Networking,-2
+2016-04-29T00:25:00,279,1,sparknotes.com,Search,2
+2016-04-29T00:25:00,11,1,applications,General Business,2
+2016-04-29T00:25:00,6,1,google.com,Search,2
+2016-04-29T00:25:00,2,1,Safari,Browsers,2
+2016-04-29T00:25:00,1,1,messages,General Social Networking,-2
+2016-04-29T00:30:00,144,1,thegreatgatsby.wikia.com,Search,0
+2016-04-29T00:30:00,50,1,microsoft word,Writing,2
+2016-04-29T00:30:00,34,1,microsoft onenote,Intelligence,2
+2016-04-29T00:30:00,19,1,loginwindow,General Utilities,0
+2016-04-29T00:30:00,10,1,google.com,Search,2
+2016-04-29T00:30:00,4,1,study.com,General Reference & Learning,1
+2016-04-29T00:35:00,219,1,microsoft onenote,Intelligence,2
+2016-04-29T00:35:00,81,1,messages,General Social Networking,-2
+2016-04-29T00:40:00,170,1,microsoft word,Writing,2
+2016-04-29T00:40:00,43,1,messages,General Social Networking,-2
+2016-04-29T00:40:00,42,1,microsoft onenote,Intelligence,2
+2016-04-29T00:40:00,24,1,Finder,General Utilities,0
+2016-04-29T00:40:00,20,1,shmoop.com,General Reference & Learning,1
+2016-04-29T00:40:00,1,1,rewardsbrandssurvey.com,Uncategorized,0
+2016-04-29T00:45:00,220,1,microsoft word,Writing,2
+2016-04-29T00:45:00,52,1,messages,General Social Networking,-2
+2016-04-29T00:45:00,13,1,facebook.com,General Social Networking,-2
+2016-04-29T00:45:00,7,1,Dictionary,General Reference & Learning,1
+2016-04-29T00:45:00,3,1,microsoft onenote,Intelligence,2
+2016-04-29T00:45:00,3,1,Finder,General Utilities,0
+2016-04-29T00:45:00,2,1,shmoop.com,General Reference & Learning,1
+2016-04-29T00:50:00,286,1,microsoft word,Writing,2
+2016-04-29T00:50:00,14,1,Dictionary,General Reference & Learning,1
+2016-04-29T00:55:00,175,1,microsoft word,Writing,2
+2016-04-29T00:55:00,125,1,messages,General Social Networking,-2
+2016-04-29T01:00:00,154,1,microsoft onenote,Intelligence,2
+2016-04-29T01:00:00,143,1,microsoft word,Writing,2
+2016-04-29T01:00:00,3,1,usernotificationcenter,General Utilities,0
+2016-04-29T01:05:00,257,1,microsoft word,Writing,2
+2016-04-29T01:05:00,43,1,microsoft onenote,Intelligence,2
+2016-04-29T01:10:00,266,1,microsoft word,Writing,2
+2016-04-29T01:10:00,34,1,Dictionary,General Reference & Learning,1
+2016-04-29T01:15:00,294,1,microsoft word,Writing,2
+2016-04-29T01:15:00,6,1,Dictionary,General Reference & Learning,1
+2016-04-29T01:20:00,299,1,microsoft word,Writing,2
+2016-04-29T01:20:00,1,1,Dictionary,General Reference & Learning,1
+2016-04-29T01:25:00,297,1,microsoft word,Writing,2
+2016-04-29T01:25:00,3,1,Dictionary,General Reference & Learning,1
+2016-04-29T01:30:00,300,1,microsoft word,Writing,2
+2016-04-29T01:35:00,300,1,microsoft word,Writing,2
+2016-04-29T01:40:00,159,1,microsoft word,Writing,2
+2016-04-29T01:40:00,64,1,drive.google.com,General Business,2
+2016-04-29T01:40:00,29,1,usernotificationcenter,General Utilities,0
+2016-04-29T01:40:00,25,1,messages,General Social Networking,-2
+2016-04-29T01:40:00,17,1,Google Documents,Writing,2
+2016-04-29T01:40:00,4,1,facebook.com,General Social Networking,-2
+2016-04-29T01:40:00,2,1,Safari,Browsers,2
+2016-04-29T01:45:00,197,1,Google Documents,Writing,2
+2016-04-29T01:45:00,103,1,facebook.com,General Social Networking,-2
+2016-04-29T01:50:00,104,1,facebook.com,General Social Networking,-2
+2016-04-29T20:45:00,49,1,messages,General Social Networking,-2
+2016-04-29T20:45:00,22,1,facebook.com,General Social Networking,-2
+2016-04-29T20:45:00,2,1,microsoft autoupdate,General Utilities,1
+2016-04-29T20:45:00,1,1,Google Documents,Writing,2
+2016-04-29T20:50:00,185,1,deerfield.edu,General Reference & Learning,1
+2016-04-29T20:50:00,79,1,facebook.com,General Social Networking,-2
+2016-04-29T20:50:00,24,1,Mail,Email,2
+2016-04-29T20:50:00,3,1,messages,General Social Networking,-2
+2016-04-29T21:15:00,150,1,facebook.com,General Social Networking,-2
+2016-04-29T21:20:00,154,1,Google Forms - Google Apps,General Business,2
+2016-04-29T21:20:00,73,1,facebook.com,General Social Networking,-2
+2016-04-29T21:20:00,47,1,Mail,Email,2
+2016-04-29T21:20:00,12,1,Hosted Google Docs,Writing,2
+2016-04-29T21:20:00,9,1,Google Drive - Google Apps,General Business,2
+2016-04-29T21:20:00,3,1,messages,General Social Networking,-2
+2016-04-29T21:20:00,2,1,Safari,Browsers,2
+2016-04-29T21:25:00,239,1,Google Forms - Google Apps,General Business,2
+2016-04-29T21:25:00,61,1,facebook.com,General Social Networking,-2
+2016-04-29T21:30:00,300,1,Google Forms - Google Apps,General Business,2
+2016-04-29T21:35:00,129,1,facebook.com,General Social Networking,-2
+2016-04-29T21:35:00,127,1,Google Forms - Google Apps,General Business,2
+2016-04-29T21:35:00,29,1,microsoft word,Writing,2
+2016-04-29T21:35:00,9,1,microsoft onenote,Intelligence,2
+2016-04-29T21:35:00,3,1,Hosted Google Docs,Writing,2
+2016-04-29T21:35:00,3,1,shmoop.com,General Reference & Learning,1
+2016-04-29T21:40:00,254,1,Google Forms - Google Apps,General Business,2
+2016-04-29T21:40:00,44,1,microsoft word,Writing,2
+2016-04-29T21:40:00,2,1,Finder,General Utilities,0
+2016-04-29T21:45:00,276,1,Google Forms - Google Apps,General Business,2
+2016-04-29T21:45:00,20,1,messages,General Social Networking,-2
+2016-04-29T21:45:00,4,1,Mail,Email,2
+2016-04-29T21:50:00,300,1,Google Forms - Google Apps,General Business,2
+2016-04-29T21:55:00,221,1,Google Forms - Google Apps,General Business,2
+2016-04-29T21:55:00,24,1,microsoft word,Writing,2
+2016-04-29T22:15:00,71,1,microsoft word,Writing,2
+2016-04-29T22:15:00,2,1,Google Forms - Google Apps,General Business,2
+2016-04-29T22:20:00,300,1,microsoft word,Writing,2
+2016-04-29T22:25:00,291,1,microsoft word,Writing,2
+2016-04-29T22:25:00,7,1,Dictionary,General Reference & Learning,1
+2016-04-29T22:25:00,2,1,Google Forms - Google Apps,General Business,2
+2016-04-29T22:30:00,243,1,Google Forms - Google Apps,General Business,2
+2016-04-29T22:30:00,57,1,microsoft word,Writing,2
+2016-04-29T22:35:00,139,1,Google Forms - Google Apps,General Business,2
+2016-04-29T22:35:00,97,1,facebook.com,General Social Networking,-2
+2016-04-29T22:35:00,10,1,messages,General Social Networking,-2
+2016-04-29T22:45:00,56,1,Mail,Email,2
+2016-04-29T22:45:00,28,1,facebook.com,General Social Networking,-2
+2016-04-29T22:50:00,286,1,facebook.com,General Social Networking,-2
+2016-04-29T22:50:00,11,1,Mail,Email,2
+2016-04-29T22:50:00,3,1,Google Documents,Writing,2
+2016-04-29T22:55:00,97,1,medium.com,General News & Opinion,-2
+2016-04-29T22:55:00,46,1,facebook.com,General Social Networking,-2
+2016-04-29T22:55:00,45,1,Mail,Email,2
+2016-04-29T22:55:00,2,1,Google Documents,Writing,2
+2016-04-29T23:35:00,103,1,deerfield.instructure.com,General Reference & Learning,1
+2016-04-29T23:40:00,9,1,deerfield.instructure.com,General Reference & Learning,1

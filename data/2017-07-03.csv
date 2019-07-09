@@ -1,0 +1,179 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2017-07-03T00:00:00,232,1,photoshop cc,General Design & Composition,2
+2017-07-03T00:05:00,300,1,photoshop cc,General Design & Composition,2
+2017-07-03T00:10:00,291,1,photoshop cc,General Design & Composition,2
+2017-07-03T00:10:00,3,1,usernotificationcenter,General Utilities,0
+2017-07-03T00:15:00,300,1,photoshop cc,General Design & Composition,2
+2017-07-03T00:20:00,274,1,photoshop cc,General Design & Composition,2
+2017-07-03T00:25:00,156,1,mathematica,Engineering & Technology,2
+2017-07-03T00:25:00,90,1,photoshop cc,General Design & Composition,2
+2017-07-03T00:25:00,40,1,Finder,General Utilities,0
+2017-07-03T00:25:00,37,1,microsoft autoupdate,General Utilities,1
+2017-07-03T00:25:00,28,1,expressvpn,General Utilities,1
+2017-07-03T00:25:00,23,1,adobe desktop service,General Utilities,1
+2017-07-03T00:25:00,16,1,RescueTime,Intelligence,0
+2017-07-03T00:25:00,13,1,Safari,Browsers,2
+2017-07-03T00:30:00,159,1,Finder,General Utilities,0
+2017-07-03T00:30:00,39,1,photoshop cc,General Design & Composition,2
+2017-07-03T00:30:00,2,1,mathematica,Engineering & Technology,2
+2017-07-03T00:30:00,1,1,RescueTime,Intelligence,0
+2017-07-03T00:35:00,359,1,Finder,General Utilities,0
+2017-07-03T00:35:00,32,1,microsoft word,Writing,2
+2017-07-03T00:35:00,6,1,logic,General Software Development,2
+2017-07-03T00:40:00,217,1,Finder,General Utilities,0
+2017-07-03T00:40:00,210,1,expressvpn,General Utilities,1
+2017-07-03T00:40:00,86,1,dropbox.com,File Sharing,2
+2017-07-03T00:40:00,25,1,Safari,Browsers,2
+2017-07-03T00:40:00,1,1,google drive,General Business,2
+2017-07-03T00:45:00,89,1,expressvpn,General Utilities,1
+2017-07-03T00:45:00,10,1,photoshop cc,General Design & Composition,2
+2017-07-03T01:00:00,133,1,photos,Photos,0
+2017-07-03T01:00:00,86,1,dropbox.com,File Sharing,2
+2017-07-03T01:00:00,24,1,Finder,General Utilities,0
+2017-07-03T01:00:00,19,1,expressvpn,General Utilities,1
+2017-07-03T01:00:00,7,1,google.com,Search,2
+2017-07-03T01:00:00,6,1,storeuid,General Utilities,1
+2017-07-03T01:00:00,2,1,photoshop cc,General Design & Composition,2
+2017-07-03T01:05:00,72,1,photoshop cc,General Design & Composition,2
+2017-07-03T01:05:00,43,1,photos,Photos,0
+2017-07-03T01:05:00,10,1,expressvpn,General Utilities,1
+2017-07-03T01:05:00,5,1,Finder,General Utilities,0
+2017-07-03T01:10:00,170,1,photoshop cc,General Design & Composition,2
+2017-07-03T01:10:00,49,1,dropbox.com,File Sharing,2
+2017-07-03T01:10:00,39,1,Finder,General Utilities,0
+2017-07-03T01:10:00,9,1,google.com,Search,2
+2017-07-03T01:10:00,6,1,font book,Presentation,2
+2017-07-03T01:15:00,31,1,photoshop cc,General Design & Composition,2
+2017-07-03T01:20:00,45,1,photoshop cc,General Design & Composition,2
+2017-07-03T01:20:00,23,1,photos,Photos,0
+2017-07-03T01:20:00,1,1,Finder,General Utilities,0
+2017-07-03T01:25:00,300,1,photoshop cc,General Design & Composition,2
+2017-07-03T01:30:00,262,1,photoshop cc,General Design & Composition,2
+2017-07-03T01:30:00,21,1,mitadmissions.org,Science & Technology,-1
+2017-07-03T01:30:00,8,1,google.com,Search,2
+2017-07-03T01:30:00,7,1,Safari,Browsers,2
+2017-07-03T01:30:00,2,1,dropbox.com,File Sharing,2
+2017-07-03T01:35:00,100,1,mitadmissions.org,Science & Technology,-1
+2017-07-03T01:35:00,75,1,web.mit.edu,General Reference & Learning,2
+2017-07-03T01:35:00,71,1,google.com,Search,2
+2017-07-03T01:35:00,47,1,biology.mit.edu,Presentation,2
+2017-07-03T01:35:00,6,1,quora.com,General Reference & Learning,-1
+2017-07-03T01:35:00,1,1,chemistry.mit.edu,Presentation,2
+2017-07-03T01:40:00,107,1,biology.mit.edu,Presentation,2
+2017-07-03T01:40:00,78,1,chemistry.mit.edu,Presentation,2
+2017-07-03T01:40:00,42,1,loginwindow,General Utilities,0
+2017-07-03T01:40:00,19,1,math.mit.edu,Engineering & Technology,1
+2017-07-03T14:00:00,12,1,photoshop cc,General Design & Composition,2
+2017-07-03T14:00:00,7,1,Finder,General Utilities,0
+2017-07-03T14:00:00,5,1,math.mit.edu,Engineering & Technology,1
+2017-07-03T14:00:00,5,1,expressvpn,General Utilities,1
+2017-07-03T14:05:00,141,1,photoshop cc,General Design & Composition,2
+2017-07-03T14:05:00,106,1,math.mit.edu,Engineering & Technology,1
+2017-07-03T14:05:00,23,1,usernotificationcenter,General Utilities,0
+2017-07-03T14:05:00,16,1,Safari,Browsers,2
+2017-07-03T14:05:00,9,1,google drive,General Business,2
+2017-07-03T14:05:00,5,1,chemistry.mit.edu,Presentation,2
+2017-07-03T14:10:00,202,1,photoshop cc,General Design & Composition,2
+2017-07-03T14:10:00,37,1,Safari,Browsers,2
+2017-07-03T14:10:00,22,1,math.mit.edu,Engineering & Technology,1
+2017-07-03T14:10:00,20,1,Finder,General Utilities,0
+2017-07-03T14:10:00,13,1,expressvpn,General Utilities,1
+2017-07-03T14:10:00,3,1,quora.com,General Reference & Learning,-1
+2017-07-03T14:10:00,2,1,web.mit.edu,General Reference & Learning,2
+2017-07-03T14:10:00,1,1,biology.mit.edu,Presentation,2
+2017-07-03T14:15:00,164,1,applications,General Business,2
+2017-07-03T14:15:00,36,1,apple.com,Engineering & Technology,-1
+2017-07-03T14:15:00,27,1,photoshop cc,General Design & Composition,2
+2017-07-03T14:15:00,23,1,expressvpn,General Utilities,1
+2017-07-03T14:15:00,21,1,geofilters.snapchat.com,Marketing,2
+2017-07-03T14:15:00,11,1,Safari,Browsers,2
+2017-07-03T14:15:00,8,1,math.mit.edu,Engineering & Technology,1
+2017-07-03T14:15:00,4,1,messages,General Social Networking,-2
+2017-07-03T14:15:00,3,1,wechat,General Social Networking,-2
+2017-07-03T14:15:00,2,1,chemistry.mit.edu,Presentation,2
+2017-07-03T14:20:00,271,1,google.com,Search,2
+2017-07-03T14:20:00,23,1,photoshop cc,General Design & Composition,2
+2017-07-03T14:20:00,6,1,apple.com,Engineering & Technology,-1
+2017-07-03T14:25:00,100,1,google.com,Search,2
+2017-07-03T14:25:00,75,1,en.wikipedia.org,General Reference & Learning,1
+2017-07-03T14:25:00,59,1,commons.wikimedia.org,Search,0
+2017-07-03T14:25:00,23,1,expressvpn,General Utilities,1
+2017-07-03T14:25:00,13,1,baidu.com,Search,2
+2017-07-03T14:25:00,12,1,Safari,Browsers,2
+2017-07-03T14:25:00,9,1,google drive,General Business,2
+2017-07-03T14:25:00,5,1,bing.com,Search,2
+2017-07-03T14:25:00,3,1,applications,General Business,2
+2017-07-03T14:30:00,201,1,photoshop cc,General Design & Composition,2
+2017-07-03T14:30:00,55,1,image.baidu.com,Search,0
+2017-07-03T14:30:00,33,1,Preview,General Reference & Learning,2
+2017-07-03T14:30:00,5,1,163.com,General News & Opinion,-2
+2017-07-03T14:30:00,4,1,Safari,Browsers,2
+2017-07-03T14:30:00,1,1,baidu.com,Search,2
+2017-07-03T14:35:00,300,1,photoshop cc,General Design & Composition,2
+2017-07-03T14:40:00,142,1,photoshop cc,General Design & Composition,2
+2017-07-03T14:45:00,300,1,photoshop cc,General Design & Composition,2
+2017-07-03T14:50:00,214,1,photoshop cc,General Design & Composition,2
+2017-07-03T14:55:00,263,1,photoshop cc,General Design & Composition,2
+2017-07-03T14:55:00,16,1,Safari,Browsers,2
+2017-07-03T14:55:00,8,1,image.baidu.com,Search,0
+2017-07-03T15:00:00,65,1,photoshop cc,General Design & Composition,2
+2017-07-03T15:00:00,40,1,applications,General Business,2
+2017-07-03T15:00:00,31,1,Safari,Browsers,2
+2017-07-03T15:00:00,29,1,image.baidu.com,Search,0
+2017-07-03T15:00:00,6,1,systemuiserver,General Utilities,1
+2017-07-03T15:00:00,4,1,expressvpn,General Utilities,1
+2017-07-03T15:05:00,68,1,applications,General Business,2
+2017-07-03T15:05:00,36,1,apple.com,Engineering & Technology,-1
+2017-07-03T15:05:00,4,1,wechat,General Social Networking,-2
+2017-07-03T15:05:00,3,1,expressvpn,General Utilities,1
+2017-07-03T15:05:00,1,1,System Preferences,General Utilities,0
+2017-07-03T15:10:00,71,1,image.baidu.com,Search,0
+2017-07-03T15:10:00,69,1,photoshop cc,General Design & Composition,2
+2017-07-03T15:10:00,56,1,usernotificationcenter,General Utilities,0
+2017-07-03T15:10:00,1,1,thepornstudy.com,Uncategorized,0
+2017-07-03T15:15:00,19,1,photoshop cc,General Design & Composition,2
+2017-07-03T15:30:00,285,1,photoshop cc,General Design & Composition,2
+2017-07-03T15:35:00,300,1,photoshop cc,General Design & Composition,2
+2017-07-03T15:40:00,141,1,photoshop cc,General Design & Composition,2
+2017-07-03T16:00:00,11,1,photoshop cc,General Design & Composition,2
+2017-07-03T16:05:00,285,1,photoshop cc,General Design & Composition,2
+2017-07-03T16:50:00,195,1,photoshop cc,General Design & Composition,2
+2017-07-03T16:55:00,141,1,photoshop cc,General Design & Composition,2
+2017-07-03T17:00:00,181,1,photoshop cc,General Design & Composition,2
+2017-07-03T17:05:00,126,1,photoshop cc,General Design & Composition,2
+2017-07-03T17:10:00,83,1,biology.mit.edu,Presentation,2
+2017-07-03T17:10:00,66,1,photoshop cc,General Design & Composition,2
+2017-07-03T17:10:00,24,1,chemistry.mit.edu,Presentation,2
+2017-07-03T17:10:00,12,1,systemuiserver,General Utilities,1
+2017-07-03T17:10:00,4,1,image.baidu.com,Search,0
+2017-07-03T17:10:00,3,1,Safari,Browsers,2
+2017-07-03T17:10:00,1,1,applications,General Business,2
+2017-07-03T17:10:00,1,1,geofilters.snapchat.com,Marketing,2
+2017-07-03T17:15:00,58,1,chemistry.mit.edu,Presentation,2
+2017-07-03T17:15:00,49,1,edx.org,Engineering & Technology,1
+2017-07-03T17:15:00,46,1,math.mit.edu,Engineering & Technology,1
+2017-07-03T17:15:00,35,1,biology.mit.edu,Presentation,2
+2017-07-03T17:15:00,34,1,Safari,Browsers,2
+2017-07-03T17:15:00,25,1,photoshop cc,General Design & Composition,2
+2017-07-03T17:15:00,20,1,quora.com,General Reference & Learning,-1
+2017-07-03T17:15:00,10,1,web.mit.edu,General Reference & Learning,2
+2017-07-03T17:15:00,8,1,expressvpn,General Utilities,1
+2017-07-03T17:15:00,7,1,ocw.mit.edu,General Reference & Learning,1
+2017-07-03T17:15:00,7,1,google.com,Search,2
+2017-07-03T17:15:00,1,1,apple.com,Engineering & Technology,-1
+2017-07-03T17:20:00,300,1,math.mit.edu,Engineering & Technology,1
+2017-07-03T17:25:00,175,1,photoshop cc,General Design & Composition,2
+2017-07-03T17:25:00,5,1,math.mit.edu,Engineering & Technology,1
+2017-07-03T17:30:00,245,1,photoshop cc,General Design & Composition,2
+2017-07-03T17:35:00,236,1,photoshop cc,General Design & Composition,2
+2017-07-03T17:40:00,20,1,photoshop cc,General Design & Composition,2
+2017-07-03T17:45:00,171,1,photoshop cc,General Design & Composition,2
+2017-07-03T18:00:00,26,1,photoshop cc,General Design & Composition,2
+2017-07-03T18:05:00,163,1,photoshop cc,General Design & Composition,2
+2017-07-03T18:05:00,2,1,usernotificationcenter,General Utilities,0
+2017-07-03T18:10:00,133,1,photoshop cc,General Design & Composition,2
+2017-07-03T18:15:00,233,1,photoshop cc,General Design & Composition,2
+2017-07-03T18:20:00,207,1,photoshop cc,General Design & Composition,2
+2017-07-03T18:20:00,74,1,loginwindow,General Utilities,0
+2017-07-03T18:20:00,2,1,wechat,General Social Networking,-2
+2017-07-03T18:25:00,29,1,loginwindow,General Utilities,0

@@ -1,0 +1,168 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2014-06-05T00:00:00,204,1,Skype,General Social Networking,-2
+2014-06-05T00:00:00,56,1,en.wikipedia.org,General Reference & Learning,1
+2014-06-05T00:00:00,24,1,bing.com,Search,2
+2014-06-05T00:00:00,16,1,cn.bing.com,Search,0
+2014-06-05T00:05:00,300,1,Skype,General Social Networking,-2
+2014-06-05T00:10:00,300,1,Skype,General Social Networking,-2
+2014-06-05T00:15:00,300,1,Skype,General Social Networking,-2
+2014-06-05T00:20:00,300,1,Skype,General Social Networking,-2
+2014-06-05T00:25:00,270,1,Skype,General Social Networking,-2
+2014-06-05T00:25:00,30,1,Mail,Email,2
+2014-06-05T00:30:00,253,1,Skype,General Social Networking,-2
+2014-06-05T00:30:00,47,1,Safari,Browsers,2
+2014-06-05T00:35:00,300,1,Skype,General Social Networking,-2
+2014-06-05T00:40:00,300,1,Skype,General Social Networking,-2
+2014-06-05T00:45:00,139,1,calendar,Calendars,1
+2014-06-05T00:45:00,102,1,Skype,General Social Networking,-2
+2014-06-05T00:45:00,59,1,9gag.com,Comedy,-2
+2014-06-05T00:50:00,212,1,Skype,General Social Networking,-2
+2014-06-05T00:50:00,53,1,calendar,Calendars,1
+2014-06-05T00:50:00,31,1,Mail,Email,2
+2014-06-05T00:50:00,3,1,9gag.com,Comedy,-2
+2014-06-05T00:50:00,1,1,Finder,General Utilities,0
+2014-06-05T00:55:00,247,1,Skype,General Social Networking,-2
+2014-06-05T00:55:00,38,1,Preview,General Reference & Learning,2
+2014-06-05T00:55:00,15,1,messages,General Social Networking,-2
+2014-06-05T01:00:00,300,1,Skype,General Social Networking,-2
+2014-06-05T01:05:00,300,1,Skype,General Social Networking,-2
+2014-06-05T01:10:00,300,1,Skype,General Social Networking,-2
+2014-06-05T01:15:00,250,1,Skype,General Social Networking,-2
+2014-06-05T08:30:00,2,1,download java components,General Utilities,1
+2014-06-05T15:25:00,68,1,Finder,General Utilities,0
+2014-06-05T15:25:00,6,1,Skype,General Social Networking,-2
+2014-06-05T15:25:00,1,1,VLC Media Player,Video,-2
+2014-06-05T15:25:00,1,1,download java components,General Utilities,1
+2014-06-05T15:25:00,1,1,problem reporter,General News & Opinion,-2
+2014-06-05T15:25:00,1,1,coreservicesuiagent,General Utilities,0
+2014-06-05T15:30:00,212,1,Finder,General Utilities,0
+2014-06-05T15:30:00,81,1,VLC Media Player,Video,-2
+2014-06-05T15:30:00,7,1,Xcode,Editing & IDEs,2
+2014-06-05T15:35:00,143,1,9gag.com,Comedy,-2
+2014-06-05T15:35:00,136,1,Finder,General Utilities,0
+2014-06-05T15:35:00,12,1,Skype,General Social Networking,-2
+2014-06-05T15:35:00,9,1,VLC Media Player,Video,-2
+2014-06-05T15:40:00,196,1,Finder,General Utilities,0
+2014-06-05T15:40:00,104,1,9gag.com,Comedy,-2
+2014-06-05T15:45:00,293,1,Finder,General Utilities,0
+2014-06-05T15:45:00,7,1,Skype,General Social Networking,-2
+2014-06-05T15:50:00,290,1,Finder,General Utilities,0
+2014-06-05T15:50:00,7,1,quicktime player,General Entertainment,-1
+2014-06-05T15:50:00,3,1,Dropbox,File Sharing,-2
+2014-06-05T15:55:00,300,1,Finder,General Utilities,0
+2014-06-05T16:00:00,300,1,Finder,General Utilities,0
+2014-06-05T16:05:00,264,1,Finder,General Utilities,0
+2014-06-05T16:05:00,23,1,unmountassistantagent,General Utilities,1
+2014-06-05T16:05:00,10,1,Preview,General Reference & Learning,2
+2014-06-05T16:05:00,3,1,Dropbox,File Sharing,-2
+2014-06-05T16:10:00,147,1,Finder,General Utilities,0
+2014-06-05T19:15:00,42,1,virtualbox vm,General Software Development,2
+2014-06-05T19:15:00,6,1,virtualbox,Virtualization,0
+2014-06-05T19:35:00,134,1,Skype,General Social Networking,-2
+2014-06-05T19:35:00,98,1,Finder,General Utilities,0
+2014-06-05T19:35:00,13,1,messages,General Social Networking,-2
+2014-06-05T19:35:00,9,1,9gag.com,Comedy,-2
+2014-06-05T19:35:00,4,1,daisydisk,General Utilities,0
+2014-06-05T19:35:00,1,1,virtualbox,Virtualization,0
+2014-06-05T19:40:00,141,1,Skype,General Social Networking,-2
+2014-06-05T19:40:00,82,1,bing.com,Search,2
+2014-06-05T19:40:00,53,1,tripadvisor.com,Travel & Outdoors,-2
+2014-06-05T19:40:00,17,1,net.tsinghua.edu.cn,General Reference & Learning,1
+2014-06-05T19:40:00,7,1,Finder,General Utilities,0
+2014-06-05T19:45:00,169,1,Skype,General Social Networking,-2
+2014-06-05T19:45:00,85,1,Finder,General Utilities,0
+2014-06-05T19:45:00,31,1,VLC Media Player,Video,-2
+2014-06-05T19:45:00,10,1,tripadvisor.com,Travel & Outdoors,-2
+2014-06-05T19:45:00,3,1,thebeijinger.com,General News & Opinion,-2
+2014-06-05T19:45:00,2,1,Xcode,Editing & IDEs,2
+2014-06-05T19:50:00,141,1,Skype,General Social Networking,-2
+2014-06-05T19:50:00,123,1,thebeijinger.com,General News & Opinion,-2
+2014-06-05T19:50:00,28,1,messages,General Social Networking,-2
+2014-06-05T19:50:00,6,1,en.wikipedia.org,General Reference & Learning,1
+2014-06-05T19:50:00,2,1,Finder,General Utilities,0
+2014-06-05T19:55:00,218,1,Skype,General Social Networking,-2
+2014-06-05T19:55:00,65,1,messages,General Social Networking,-2
+2014-06-05T19:55:00,9,1,bj.happyvalley.cn,Uncategorized,0
+2014-06-05T19:55:00,8,1,Finder,General Utilities,0
+2014-06-05T20:00:00,149,1,bj.happyvalley.cn,Uncategorized,0
+2014-06-05T20:00:00,135,1,Skype,General Social Networking,-2
+2014-06-05T20:00:00,16,1,messages,General Social Networking,-2
+2014-06-05T20:05:00,174,1,Skype,General Social Networking,-2
+2014-06-05T20:05:00,87,1,System Preferences,General Utilities,0
+2014-06-05T20:05:00,34,1,apple.com,Engineering & Technology,-1
+2014-06-05T20:05:00,5,1,bj.happyvalley.cn,Uncategorized,0
+2014-06-05T20:10:00,165,1,virtualbox vm,General Software Development,2
+2014-06-05T20:10:00,62,1,apple.com,Engineering & Technology,-1
+2014-06-05T20:10:00,54,1,Skype,General Social Networking,-2
+2014-06-05T20:10:00,9,1,wiki.ros.org,Engineering & Technology,1
+2014-06-05T20:10:00,7,1,Finder,General Utilities,0
+2014-06-05T20:10:00,3,1,virtualbox,Virtualization,0
+2014-06-05T20:15:00,272,1,wiki.ros.org,Engineering & Technology,1
+2014-06-05T20:15:00,17,1,Skype,General Social Networking,-2
+2014-06-05T20:15:00,11,1,virtualbox vm,General Software Development,2
+2014-06-05T20:20:00,8,1,Activity Monitor,General Utilities,0
+2014-06-05T20:20:00,2,1,wiki.ros.org,Engineering & Technology,1
+2014-06-05T20:25:00,65,1,virtualbox vm,General Software Development,2
+2014-06-05T20:30:00,233,1,virtualbox vm,General Software Development,2
+2014-06-05T20:30:00,67,1,wiki.ros.org,Engineering & Technology,1
+2014-06-05T20:35:00,157,1,virtualbox vm,General Software Development,2
+2014-06-05T20:35:00,143,1,wiki.ros.org,Engineering & Technology,1
+2014-06-05T20:40:00,234,1,wiki.ros.org,Engineering & Technology,1
+2014-06-05T20:40:00,34,1,Skype,General Social Networking,-2
+2014-06-05T20:40:00,32,1,ee.surrey.ac.uk,General Reference & Learning,1
+2014-06-05T20:45:00,142,1,Skype,General Social Networking,-2
+2014-06-05T20:45:00,102,1,Terminal,Systems Operations,2
+2014-06-05T20:45:00,35,1,ee.surrey.ac.uk,General Reference & Learning,1
+2014-06-05T20:45:00,21,1,Finder,General Utilities,0
+2014-06-05T20:50:00,197,1,Terminal,Systems Operations,2
+2014-06-05T20:50:00,67,1,Skype,General Social Networking,-2
+2014-06-05T20:50:00,32,1,ee.surrey.ac.uk,General Reference & Learning,1
+2014-06-05T20:50:00,4,1,Finder,General Utilities,0
+2014-06-05T20:55:00,270,1,Terminal,Systems Operations,2
+2014-06-05T20:55:00,21,1,Skype,General Social Networking,-2
+2014-06-05T20:55:00,8,1,Preview,General Reference & Learning,2
+2014-06-05T20:55:00,1,1,ee.surrey.ac.uk,General Reference & Learning,1
+2014-06-05T21:00:00,105,1,Skype,General Social Networking,-2
+2014-06-05T21:00:00,66,1,Terminal,Systems Operations,2
+2014-06-05T21:00:00,43,1,ee.surrey.ac.uk,General Reference & Learning,1
+2014-06-05T21:00:00,39,1,systemuiserver,General Utilities,1
+2014-06-05T21:00:00,25,1,Mail,Email,2
+2014-06-05T21:00:00,10,1,net.tsinghua.edu.cn,General Reference & Learning,1
+2014-06-05T21:00:00,4,1,messages,General Social Networking,-2
+2014-06-05T21:00:00,3,1,Finder,General Utilities,0
+2014-06-05T21:00:00,2,1,apple.com,Engineering & Technology,-1
+2014-06-05T21:00:00,2,1,loginwindow,General Utilities,0
+2014-06-05T21:00:00,1,1,Safari,Browsers,2
+2014-06-05T21:05:00,267,1,Skype,General Social Networking,-2
+2014-06-05T21:05:00,20,1,apple.com,Engineering & Technology,-1
+2014-06-05T21:05:00,13,1,Finder,General Utilities,0
+2014-06-05T21:10:00,300,1,Skype,General Social Networking,-2
+2014-06-05T21:15:00,300,1,Skype,General Social Networking,-2
+2014-06-05T21:20:00,250,1,Skype,General Social Networking,-2
+2014-06-05T21:20:00,39,1,Mail,Email,2
+2014-06-05T21:20:00,10,1,Finder,General Utilities,0
+2014-06-05T21:20:00,1,1,bing.com,Search,2
+2014-06-05T21:25:00,27,1,Skype,General Social Networking,-2
+2014-06-05T23:10:00,2,1,Finder,General Utilities,0
+2014-06-05T23:15:00,163,1,Skype,General Social Networking,-2
+2014-06-05T23:15:00,64,1,Finder,General Utilities,0
+2014-06-05T23:15:00,42,1,microsoft autoupdate,General Utilities,1
+2014-06-05T23:15:00,15,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2014-06-05T23:15:00,8,1,bing.com,Search,2
+2014-06-05T23:15:00,4,1,Safari,Browsers,2
+2014-06-05T23:15:00,3,1,MS Excel,General Business,2
+2014-06-05T23:20:00,238,1,Skype,General Social Networking,-2
+2014-06-05T23:20:00,192,1,Finder,General Utilities,0
+2014-06-05T23:20:00,59,1,MS Excel,General Business,2
+2014-06-05T23:20:00,11,1,macrumors.com,General News & Opinion,-2
+2014-06-05T23:20:00,3,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2014-06-05T23:25:00,297,1,Finder,General Utilities,0
+2014-06-05T23:25:00,223,1,Skype,General Social Networking,-2
+2014-06-05T23:30:00,299,1,Finder,General Utilities,0
+2014-06-05T23:35:00,298,1,Finder,General Utilities,0
+2014-06-05T23:40:00,298,1,Finder,General Utilities,0
+2014-06-05T23:40:00,7,1,Skype,General Social Networking,-2
+2014-06-05T23:40:00,1,1,download java components,General Utilities,1
+2014-06-05T23:45:00,281,1,Finder,General Utilities,0
+2014-06-05T23:50:00,299,1,Finder,General Utilities,0
+2014-06-05T23:55:00,297,1,Finder,General Utilities,0

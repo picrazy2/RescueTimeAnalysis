@@ -1,0 +1,320 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2014-09-19T00:00:00,25,1,usernotificationcenter,General Utilities,0
+2014-09-19T10:10:00,55,1,microsoft word,Writing,2
+2014-09-19T10:10:00,4,1,Skype,General Social Networking,-2
+2014-09-19T10:10:00,3,1,assisstion.github.io,General Software Development,2
+2014-09-19T10:15:00,300,1,microsoft word,Writing,2
+2014-09-19T10:20:00,300,1,microsoft word,Writing,2
+2014-09-19T10:25:00,300,1,microsoft word,Writing,2
+2014-09-19T10:30:00,106,1,microsoft word,Writing,2
+2014-09-19T10:30:00,5,1,alfred,General Utilities,2
+2014-09-19T10:35:00,40,1,Skype,General Social Networking,-2
+2014-09-19T10:40:00,69,1,Mail,Email,2
+2014-09-19T10:40:00,21,1,app store,General Shopping,-2
+2014-09-19T10:40:00,15,1,microsoft word,Writing,2
+2014-09-19T10:45:00,68,1,microsoft word,Writing,2
+2014-09-19T10:45:00,46,1,app store,General Shopping,-2
+2014-09-19T10:55:00,35,1,loginwindow,General Utilities,0
+2014-09-19T12:05:00,40,1,Mail,Email,2
+2014-09-19T12:05:00,37,1,amazon.com,General Shopping,-1
+2014-09-19T12:05:00,28,1,Finder,General Utilities,0
+2014-09-19T12:05:00,2,1,deerfield.edu,General Reference & Learning,1
+2014-09-19T12:05:00,1,1,github.com,General Software Development,2
+2014-09-19T12:10:00,123,1,amazon.com,General Shopping,-1
+2014-09-19T12:10:00,63,1,secure.bankofamerica.com,Accounting,2
+2014-09-19T12:10:00,48,1,deerfield.edu,General Reference & Learning,1
+2014-09-19T12:10:00,13,1,Hosted Google Docs,Writing,2
+2014-09-19T12:10:00,11,1,accounts.google.com,General Communication & Scheduling,0
+2014-09-19T12:10:00,10,1,drive.google.com,General Business,2
+2014-09-19T12:10:00,6,1,github.com,General Software Development,2
+2014-09-19T12:10:00,5,1,Google Docs,Writing,2
+2014-09-19T12:10:00,3,1,wwwapps.ups.com,General Shopping,-2
+2014-09-19T12:10:00,2,1,auth.deerfield.edu,General Reference & Learning,1
+2014-09-19T12:10:00,2,1,bankofamerica.com,General Business,2
+2014-09-19T12:15:00,94,1,facebook.com,General Social Networking,-2
+2014-09-19T12:15:00,82,1,bhphotovideo.com,General Shopping,-2
+2014-09-19T12:15:00,63,1,dainfo.deerfield.edu,General Reference & Learning,1
+2014-09-19T12:15:00,36,1,deerfield.edu,General Reference & Learning,1
+2014-09-19T12:15:00,15,1,amazon.com,General Shopping,-1
+2014-09-19T12:15:00,9,1,secure.bankofamerica.com,Accounting,2
+2014-09-19T12:15:00,1,1,google.com,Search,2
+2014-09-19T12:20:00,88,1,sliptalk.com,Uncategorized,0
+2014-09-19T12:20:00,5,1,facebook.com,General Social Networking,-2
+2014-09-19T12:20:00,2,1,Safari,Browsers,2
+2014-09-19T12:50:00,2,1,Safari,Browsers,2
+2014-09-19T13:35:00,137,1,eclipse,Editing & IDEs,2
+2014-09-19T13:35:00,132,1,chatframe,Uncategorized,0
+2014-09-19T13:35:00,13,1,github,General Software Development,2
+2014-09-19T13:40:00,276,1,eclipse,Editing & IDEs,2
+2014-09-19T13:40:00,24,1,chatframe,Uncategorized,0
+2014-09-19T13:45:00,18,1,eclipse,Editing & IDEs,2
+2014-09-19T13:45:00,7,1,github,General Software Development,2
+2014-09-19T14:00:00,136,1,eclipse,Editing & IDEs,2
+2014-09-19T14:00:00,78,1,chatframe,Uncategorized,0
+2014-09-19T14:00:00,6,1,github,General Software Development,2
+2014-09-19T14:05:00,140,1,eclipse,Editing & IDEs,2
+2014-09-19T14:05:00,63,1,chatframe,Uncategorized,0
+2014-09-19T14:05:00,5,1,github,General Software Development,2
+2014-09-19T14:15:00,164,1,eclipse,Editing & IDEs,2
+2014-09-19T14:15:00,9,1,github,General Software Development,2
+2014-09-19T14:15:00,2,1,chatframe,Uncategorized,0
+2014-09-19T14:20:00,53,1,eclipse,Editing & IDEs,2
+2014-09-19T14:20:00,48,1,github,General Software Development,2
+2014-09-19T14:20:00,3,1,chatframe,Uncategorized,0
+2014-09-19T14:35:00,279,1,chatframe,Uncategorized,0
+2014-09-19T14:35:00,4,1,github,General Software Development,2
+2014-09-19T14:35:00,2,1,eclipse,Editing & IDEs,2
+2014-09-19T14:40:00,171,1,chatframe,Uncategorized,0
+2014-09-19T14:40:00,1,1,eclipse,Editing & IDEs,2
+2014-09-19T14:50:00,16,1,github,General Software Development,2
+2014-09-19T15:05:00,81,1,chatframe,Uncategorized,0
+2014-09-19T15:05:00,3,1,eclipse,Editing & IDEs,2
+2014-09-19T15:10:00,300,1,chatframe,Uncategorized,0
+2014-09-19T15:15:00,112,1,eclipse,Editing & IDEs,2
+2014-09-19T15:15:00,87,1,chatframe,Uncategorized,0
+2014-09-19T15:15:00,50,1,github,General Software Development,2
+2014-09-19T15:15:00,40,1,Mail,Email,2
+2014-09-19T15:15:00,5,1,Safari,Browsers,2
+2014-09-19T15:15:00,4,1,facebook.com,General Social Networking,-2
+2014-09-19T15:20:00,201,1,facebook.com,General Social Networking,-2
+2014-09-19T16:15:00,27,1,microsoft word,Writing,2
+2014-09-19T16:15:00,22,1,Finder,General Utilities,0
+2014-09-19T16:15:00,4,1,Dropbox,File Sharing,-2
+2014-09-19T16:20:00,51,1,Finder,General Utilities,0
+2014-09-19T16:25:00,98,1,Finder,General Utilities,0
+2014-09-19T16:30:00,300,1,Finder,General Utilities,0
+2014-09-19T16:30:00,8,1,facebook.com,General Social Networking,-2
+2014-09-19T16:35:00,300,1,Finder,General Utilities,0
+2014-09-19T16:40:00,136,1,Finder,General Utilities,0
+2014-09-19T16:40:00,104,1,facebook.com,General Social Networking,-2
+2014-09-19T16:45:00,262,1,facebook.com,General Social Networking,-2
+2014-09-19T16:45:00,22,1,Hosted Google Docs,Writing,2
+2014-09-19T16:45:00,10,1,Mail,Email,2
+2014-09-19T16:45:00,4,1,deerfield.edu,General Reference & Learning,1
+2014-09-19T16:45:00,2,1,sliptalk.com,Uncategorized,0
+2014-09-19T16:50:00,244,1,facebook.com,General Social Networking,-2
+2014-09-19T16:50:00,56,1,Skype,General Social Networking,-2
+2014-09-19T16:55:00,103,1,sliptalk.com,Uncategorized,0
+2014-09-19T16:55:00,86,1,facebook.com,General Social Networking,-2
+2014-09-19T16:55:00,37,1,Hosted Google Docs,Writing,2
+2014-09-19T16:55:00,25,1,dainfo.deerfield.edu,General Reference & Learning,1
+2014-09-19T16:55:00,23,1,deerfield.edu,General Reference & Learning,1
+2014-09-19T16:55:00,15,1,app store,General Shopping,-2
+2014-09-19T16:55:00,7,1,github.com,General Software Development,2
+2014-09-19T16:55:00,2,1,Safari,Browsers,2
+2014-09-19T16:55:00,1,1,Skype,General Social Networking,-2
+2014-09-19T17:00:00,277,1,Mail,Email,2
+2014-09-19T17:00:00,17,1,facebook.com,General Social Networking,-2
+2014-09-19T17:05:00,242,1,Mail,Email,2
+2014-09-19T17:05:00,49,1,facebook.com,General Social Networking,-2
+2014-09-19T17:05:00,9,1,Hosted Google Docs,Writing,2
+2014-09-19T17:10:00,125,1,Mail,Email,2
+2014-09-19T17:10:00,87,1,app store,General Shopping,-2
+2014-09-19T17:10:00,72,1,apple.com,Engineering & Technology,-1
+2014-09-19T17:10:00,9,1,Hosted Google Docs,Writing,2
+2014-09-19T17:10:00,3,1,deerfield.edu,General Reference & Learning,1
+2014-09-19T17:15:00,176,1,Mail,Email,2
+2014-09-19T17:15:00,54,1,app store,General Shopping,-2
+2014-09-19T17:15:00,41,1,apple.com,Engineering & Technology,-1
+2014-09-19T17:15:00,20,1,Finder,General Utilities,0
+2014-09-19T17:15:00,8,1,Skype,General Social Networking,-2
+2014-09-19T17:20:00,218,1,Mail,Email,2
+2014-09-19T17:20:00,33,1,Hosted Google Docs,Writing,2
+2014-09-19T17:20:00,29,1,Xcode,Editing & IDEs,2
+2014-09-19T17:20:00,12,1,SecurityAgent,Systems Operations,0
+2014-09-19T17:20:00,3,1,apple.com,Engineering & Technology,-1
+2014-09-19T17:20:00,3,1,app store,General Shopping,-2
+2014-09-19T17:20:00,1,1,dainfo.deerfield.edu,General Reference & Learning,1
+2014-09-19T17:20:00,1,1,Safari,Browsers,2
+2014-09-19T17:25:00,295,1,Xcode,Editing & IDEs,2
+2014-09-19T17:30:00,173,1,Xcode,Editing & IDEs,2
+2014-09-19T17:30:00,55,1,ibooks,General Reference & Learning,1
+2014-09-19T17:30:00,35,1,developer.apple.com,Engineering & Technology,1
+2014-09-19T17:30:00,29,1,dainfo.deerfield.edu,General Reference & Learning,1
+2014-09-19T17:30:00,4,1,google.com,Search,2
+2014-09-19T17:30:00,3,1,SecurityAgent,Systems Operations,0
+2014-09-19T17:35:00,248,1,Xcode,Editing & IDEs,2
+2014-09-19T17:35:00,32,1,developer.apple.com,Engineering & Technology,1
+2014-09-19T17:35:00,1,1,usernotificationcenter,General Utilities,0
+2014-09-19T17:40:00,225,1,Xcode,Editing & IDEs,2
+2014-09-19T17:40:00,39,1,google.com,Search,2
+2014-09-19T17:40:00,22,1,wolframalpha.com,Search,1
+2014-09-19T17:40:00,10,1,mathworld.wolfram.com,Search,0
+2014-09-19T17:40:00,4,1,developer.apple.com,Engineering & Technology,1
+2014-09-19T17:45:00,273,1,Xcode,Editing & IDEs,2
+2014-09-19T17:45:00,16,1,wolframalpha.com,Search,1
+2014-09-19T17:45:00,11,1,google.com,Search,2
+2014-09-19T17:50:00,283,1,Xcode,Editing & IDEs,2
+2014-09-19T17:50:00,15,1,wolframalpha.com,Search,1
+2014-09-19T17:55:00,38,1,Finder,General Utilities,0
+2014-09-19T17:55:00,34,1,Xcode,Editing & IDEs,2
+2014-09-19T17:55:00,26,1,wolframalpha.com,Search,1
+2014-09-19T17:55:00,4,1,loginwindow,General Utilities,0
+2014-09-19T18:00:00,104,1,microsoft word,Writing,2
+2014-09-19T18:00:00,56,1,picrazy2.com,Uncategorized,2
+2014-09-19T18:00:00,46,1,Finder,General Utilities,0
+2014-09-19T18:00:00,42,1,font book,Presentation,2
+2014-09-19T18:00:00,8,1,microsoft autoupdate,General Utilities,1
+2014-09-19T18:00:00,5,1,wolframalpha.com,Search,1
+2014-09-19T18:30:00,44,1,kongregate.com,Games,-2
+2014-09-19T18:30:00,30,1,Finder,General Utilities,0
+2014-09-19T18:30:00,5,1,loginwindow,General Utilities,0
+2014-09-19T18:30:00,2,1,assisstion.github.io,General Software Development,2
+2014-09-19T18:35:00,300,1,kongregate.com,Games,-2
+2014-09-19T18:40:00,300,1,kongregate.com,Games,-2
+2014-09-19T18:45:00,300,1,kongregate.com,Games,-2
+2014-09-19T18:45:00,69,1,Terminal,Systems Operations,2
+2014-09-19T18:50:00,220,1,Finder,General Utilities,0
+2014-09-19T18:50:00,79,1,kongregate.com,Games,-2
+2014-09-19T18:50:00,1,1,quicktime player,General Entertainment,-1
+2014-09-19T18:55:00,215,1,kongregate.com,Games,-2
+2014-09-19T18:55:00,83,1,Finder,General Utilities,0
+2014-09-19T18:55:00,2,1,quicktime player,General Entertainment,-1
+2014-09-19T19:00:00,289,1,kongregate.com,Games,-2
+2014-09-19T19:00:00,11,1,facebook.com,General Social Networking,-2
+2014-09-19T19:05:00,300,1,kongregate.com,Games,-2
+2014-09-19T19:10:00,300,1,kongregate.com,Games,-2
+2014-09-19T19:15:00,300,1,kongregate.com,Games,-2
+2014-09-19T19:20:00,300,1,kongregate.com,Games,-2
+2014-09-19T19:25:00,300,1,kongregate.com,Games,-2
+2014-09-19T19:30:00,300,1,kongregate.com,Games,-2
+2014-09-19T19:35:00,143,1,kongregate.com,Games,-2
+2014-09-19T19:35:00,142,1,arithmetic.zetamac.com,General Reference & Learning,1
+2014-09-19T19:35:00,7,1,youtube.com,Video,-2
+2014-09-19T19:35:00,7,1,facebook.com,General Social Networking,-2
+2014-09-19T19:40:00,161,1,macrumors.com,General News & Opinion,-2
+2014-09-19T19:40:00,93,1,regex.alf.nu,General Reference & Learning,1
+2014-09-19T19:40:00,22,1,arithmetic.zetamac.com,General Reference & Learning,1
+2014-09-19T19:40:00,12,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-09-19T19:40:00,5,1,academicapproach.com,Uncategorized,0
+2014-09-19T19:40:00,5,1,facebook.com,General Social Networking,-2
+2014-09-19T19:40:00,1,1,amazon.com,General Shopping,-1
+2014-09-19T19:45:00,300,1,macrumors.com,General News & Opinion,-2
+2014-09-19T19:50:00,300,1,macrumors.com,General News & Opinion,-2
+2014-09-19T19:55:00,267,1,macrumors.com,General News & Opinion,-2
+2014-09-19T20:00:00,107,1,Mail,Email,2
+2014-09-19T20:10:00,186,1,maps,Maps & Regional,1
+2014-09-19T20:10:00,23,1,att.com,General Business,2
+2014-09-19T20:10:00,8,1,picrazy2.com,Uncategorized,2
+2014-09-19T20:10:00,4,1,Mail,Email,2
+2014-09-19T20:10:00,3,1,app store,General Shopping,-2
+2014-09-19T20:20:00,185,1,att.com,General Business,2
+2014-09-19T20:20:00,53,1,wireless.att.com,General Business,2
+2014-09-19T20:25:00,147,1,apple.com,Engineering & Technology,-1
+2014-09-19T20:25:00,93,1,att.com,General Business,2
+2014-09-19T20:25:00,32,1,bhphotovideo.com,General Shopping,-2
+2014-09-19T20:25:00,9,1,secure.bankofamerica.com,Accounting,2
+2014-09-19T20:25:00,5,1,amazon.com,General Shopping,-1
+2014-09-19T20:25:00,1,1,bankofamerica.com,General Business,2
+2014-09-19T20:30:00,139,1,reuserecycle.poweron.com,Uncategorized,0
+2014-09-19T20:30:00,76,1,apple.com,Engineering & Technology,-1
+2014-09-19T20:30:00,71,1,bhphotovideo.com,General Shopping,-2
+2014-09-19T20:30:00,7,1,system information,General Utilities,0
+2014-09-19T20:30:00,5,1,store.apple.com,Electronics,-2
+2014-09-19T20:30:00,2,1,Safari,Browsers,2
+2014-09-19T20:35:00,177,1,bankofamerica.com,General Business,2
+2014-09-19T20:35:00,68,1,bhphotovideo.com,General Shopping,-2
+2014-09-19T20:35:00,16,1,amazon.com,General Shopping,-1
+2014-09-19T20:35:00,11,1,secure.bankofamerica.com,Accounting,2
+2014-09-19T20:35:00,8,1,dainfo.deerfield.edu,General Reference & Learning,1
+2014-09-19T20:35:00,8,1,store.apple.com,Electronics,-2
+2014-09-19T20:35:00,4,1,Hosted Google Docs,Writing,2
+2014-09-19T20:35:00,2,1,google.com,Search,2
+2014-09-19T20:35:00,2,1,deerfield.edu,General Reference & Learning,1
+2014-09-19T20:35:00,1,1,facebook.com,General Social Networking,-2
+2014-09-19T20:35:00,1,1,wwwapps.ups.com,General Shopping,-2
+2014-09-19T20:40:00,67,1,apple.com,Engineering & Technology,-1
+2014-09-19T20:40:00,53,1,google.com,Search,2
+2014-09-19T20:40:00,53,1,secure.bankofamerica.com,Accounting,2
+2014-09-19T20:40:00,35,1,amazon.com,General Shopping,-1
+2014-09-19T20:40:00,16,1,wwwapps.ups.com,General Shopping,-2
+2014-09-19T20:40:00,4,1,reuserecycle.abbti.brightstarcorp.com,General Shopping,-2
+2014-09-19T20:40:00,3,1,bhphotovideo.com,General Shopping,-2
+2014-09-19T20:40:00,2,1,deerfield.edu,General Reference & Learning,1
+2014-09-19T20:40:00,1,1,bankofamerica.com,General Business,2
+2014-09-19T20:40:00,1,1,store.apple.com,Electronics,-2
+2014-09-19T20:45:00,298,1,macrumors.com,General News & Opinion,-2
+2014-09-19T20:50:00,177,1,flash player (safari internet plug-in),Video,-2
+2014-09-19T20:50:00,103,1,macrumors.com,General News & Opinion,-2
+2014-09-19T20:50:00,17,1,Mail,Email,2
+2014-09-19T20:50:00,3,1,app store,General Shopping,-2
+2014-09-19T20:55:00,65,1,flash player (safari internet plug-in),Video,-2
+2014-09-19T20:55:00,2,1,macrumors.com,General News & Opinion,-2
+2014-09-19T21:00:00,129,1,10fastfingers.com,General Reference & Learning,1
+2014-09-19T21:00:00,17,1,Skype,General Social Networking,-2
+2014-09-19T21:05:00,191,1,10fastfingers.com,General Reference & Learning,1
+2014-09-19T21:05:00,77,1,github.com,General Software Development,2
+2014-09-19T21:05:00,24,1,github,General Software Development,2
+2014-09-19T21:05:00,5,1,eclipse,Editing & IDEs,2
+2014-09-19T21:05:00,2,1,facebook.com,General Social Networking,-2
+2014-09-19T21:10:00,220,1,eclipse,Editing & IDEs,2
+2014-09-19T21:10:00,31,1,github.com,General Software Development,2
+2014-09-19T21:10:00,30,1,github,General Software Development,2
+2014-09-19T21:10:00,14,1,Mail,Email,2
+2014-09-19T21:15:00,300,1,eclipse,Editing & IDEs,2
+2014-09-19T21:20:00,214,1,eclipse,Editing & IDEs,2
+2014-09-19T21:20:00,86,1,Skype,General Social Networking,-2
+2014-09-19T21:25:00,253,1,eclipse,Editing & IDEs,2
+2014-09-19T21:25:00,19,1,Hosted Google Docs,Writing,2
+2014-09-19T21:25:00,7,1,Skype,General Social Networking,-2
+2014-09-19T21:25:00,7,1,github.com,General Software Development,2
+2014-09-19T21:25:00,5,1,Mail,Email,2
+2014-09-19T21:25:00,4,1,applications,General Business,2
+2014-09-19T21:25:00,4,1,deerfield.edu,General Reference & Learning,1
+2014-09-19T21:30:00,196,1,eclipse,Editing & IDEs,2
+2014-09-19T21:30:00,46,1,Skype,General Social Networking,-2
+2014-09-19T21:30:00,27,1,Mail,Email,2
+2014-09-19T21:30:00,18,1,Hosted Google Docs,Writing,2
+2014-09-19T21:30:00,10,1,facebook.com,General Social Networking,-2
+2014-09-19T21:30:00,2,1,applications,General Business,2
+2014-09-19T21:35:00,300,1,eclipse,Editing & IDEs,2
+2014-09-19T21:40:00,300,1,eclipse,Editing & IDEs,2
+2014-09-19T21:40:00,73,1,google earth,Maps & Regional,1
+2014-09-19T21:40:00,2,1,alfred,General Utilities,2
+2014-09-19T21:45:00,300,1,google earth,Maps & Regional,1
+2014-09-19T21:45:00,272,1,eclipse,Editing & IDEs,2
+2014-09-19T21:50:00,300,1,google earth,Maps & Regional,1
+2014-09-19T21:55:00,300,1,google earth,Maps & Regional,1
+2014-09-19T22:00:00,192,1,google earth,Maps & Regional,1
+2014-09-19T22:00:00,141,1,github,General Software Development,2
+2014-09-19T22:00:00,79,1,kongregate.com,Games,-2
+2014-09-19T22:00:00,15,1,loginwindow,General Utilities,0
+2014-09-19T22:00:00,8,1,Skype,General Social Networking,-2
+2014-09-19T22:00:00,5,1,macrumors.com,General News & Opinion,-2
+2014-09-19T22:00:00,5,1,Hosted Google Docs,Writing,2
+2014-09-19T22:00:00,4,1,facebook.com,General Social Networking,-2
+2014-09-19T22:00:00,2,1,amazon.com,General Shopping,-1
+2014-09-19T22:05:00,300,1,kongregate.com,Games,-2
+2014-09-19T22:10:00,300,1,kongregate.com,Games,-2
+2014-09-19T22:15:00,300,1,kongregate.com,Games,-2
+2014-09-19T22:20:00,269,1,kongregate.com,Games,-2
+2014-09-19T22:20:00,25,1,installer,General Utilities,1
+2014-09-19T22:20:00,7,1,SecurityAgent,Systems Operations,0
+2014-09-19T22:20:00,6,1,Finder,General Utilities,0
+2014-09-19T22:25:00,300,1,kongregate.com,Games,-2
+2014-09-19T22:30:00,233,1,kongregate.com,Games,-2
+2014-09-19T22:30:00,67,1,Skype,General Social Networking,-2
+2014-09-19T22:35:00,280,1,kongregate.com,Games,-2
+2014-09-19T22:35:00,20,1,Skype,General Social Networking,-2
+2014-09-19T22:40:00,300,1,kongregate.com,Games,-2
+2014-09-19T22:45:00,300,1,kongregate.com,Games,-2
+2014-09-19T22:50:00,154,1,kongregate.com,Games,-2
+2014-09-19T22:50:00,29,1,Skype,General Social Networking,-2
+2014-09-19T23:25:00,147,1,Finder,General Utilities,0
+2014-09-19T23:25:00,1,1,quicktime player,General Entertainment,-1
+2014-09-19T23:30:00,215,1,Finder,General Utilities,0
+2014-09-19T23:30:00,82,1,kongregate.com,Games,-2
+2014-09-19T23:30:00,2,1,Skype,General Social Networking,-2
+2014-09-19T23:30:00,1,1,quicktime player,General Entertainment,-1
+2014-09-19T23:35:00,295,1,kongregate.com,Games,-2
+2014-09-19T23:35:00,5,1,Skype,General Social Networking,-2
+2014-09-19T23:40:00,300,1,kongregate.com,Games,-2
+2014-09-19T23:45:00,294,1,kongregate.com,Games,-2
+2014-09-19T23:45:00,6,1,Skype,General Social Networking,-2
+2014-09-19T23:50:00,224,1,kongregate.com,Games,-2
+2014-09-19T23:50:00,62,1,Skype,General Social Networking,-2
+2014-09-19T23:50:00,14,1,Mail,Email,2
+2014-09-19T23:55:00,218,1,Skype,General Social Networking,-2
+2014-09-19T23:55:00,131,1,eclipse,Editing & IDEs,2
+2014-09-19T23:55:00,82,1,Mail,Email,2
+2014-09-19T23:55:00,1,1,deerfield.edu,General Reference & Learning,1

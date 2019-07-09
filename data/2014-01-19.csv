@@ -1,0 +1,151 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2014-01-19T00:15:00,1,1,screensaverengine,General Utilities,0
+2014-01-19T11:15:00,15,1,Mail,Email,2
+2014-01-19T11:15:00,4,1,Keynote,Presentation,2
+2014-01-19T11:20:00,238,1,Keynote,Presentation,2
+2014-01-19T11:20:00,26,1,Skype,General Social Networking,-2
+2014-01-19T11:20:00,18,1,Mail,Email,2
+2014-01-19T11:20:00,9,1,clashofclans.wikia.com,Games,-2
+2014-01-19T11:20:00,9,1,matlab,General Software Development,2
+2014-01-19T11:25:00,300,1,clashofclans.wikia.com,Games,-2
+2014-01-19T11:30:00,161,1,clashofclans.wikia.com,Games,-2
+2014-01-19T11:30:00,86,1,Finder,General Utilities,0
+2014-01-19T11:30:00,50,1,Keynote,Presentation,2
+2014-01-19T11:30:00,3,1,Dropbox,File Sharing,-2
+2014-01-19T11:35:00,130,1,Keynote,Presentation,2
+2014-01-19T11:35:00,130,1,Finder,General Utilities,0
+2014-01-19T11:35:00,40,1,clashofclans.wikia.com,Games,-2
+2014-01-19T11:40:00,300,1,clashofclans.wikia.com,Games,-2
+2014-01-19T11:45:00,45,1,clashofclans.wikia.com,Games,-2
+2014-01-19T12:05:00,18,1,Skype,General Social Networking,-2
+2014-01-19T12:10:00,300,1,Skype,General Social Networking,-2
+2014-01-19T12:15:00,58,1,Skype,General Social Networking,-2
+2014-01-19T12:30:00,6,1,Finder,General Utilities,0
+2014-01-19T13:35:00,213,1,Keynote,Presentation,2
+2014-01-19T13:35:00,26,1,Finder,General Utilities,0
+2014-01-19T13:35:00,17,1,Skype,General Social Networking,-2
+2014-01-19T13:35:00,6,1,loginwindow,General Utilities,0
+2014-01-19T13:35:00,1,1,screensaverengine,General Utilities,0
+2014-01-19T13:40:00,282,1,Keynote,Presentation,2
+2014-01-19T13:40:00,14,1,clashofclans.wikia.com,Games,-2
+2014-01-19T13:40:00,4,1,matlab,General Software Development,2
+2014-01-19T13:45:00,175,1,Keynote,Presentation,2
+2014-01-19T13:45:00,75,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2014-01-19T13:45:00,28,1,nanotech-now.com,Uncategorized,0
+2014-01-19T13:45:00,22,1,clashofclans.wikia.com,Games,-2
+2014-01-19T13:50:00,182,1,bhphotovideo.com,General Shopping,-2
+2014-01-19T13:50:00,68,1,Skype,General Social Networking,-2
+2014-01-19T13:50:00,50,1,nanotech-now.com,Uncategorized,0
+2014-01-19T13:55:00,255,1,bhphotovideo.com,General Shopping,-2
+2014-01-19T13:55:00,45,1,Keynote,Presentation,2
+2014-01-19T14:00:00,125,1,Keynote,Presentation,2
+2014-01-19T14:00:00,115,1,bhphotovideo.com,General Shopping,-2
+2014-01-19T14:00:00,60,1,Mail,Email,2
+2014-01-19T14:05:00,300,1,bhphotovideo.com,General Shopping,-2
+2014-01-19T14:10:00,300,1,bhphotovideo.com,General Shopping,-2
+2014-01-19T14:15:00,300,1,bhphotovideo.com,General Shopping,-2
+2014-01-19T14:20:00,143,1,bhphotovideo.com,General Shopping,-2
+2014-01-19T14:20:00,31,1,loginwindow,General Utilities,0
+2014-01-19T14:35:00,80,1,Keynote,Presentation,2
+2014-01-19T14:35:00,20,1,clashofclans.wikia.com,Games,-2
+2014-01-19T14:35:00,4,1,Mail,Email,2
+2014-01-19T14:40:00,176,1,matlab,General Software Development,2
+2014-01-19T14:40:00,86,1,Keynote,Presentation,2
+2014-01-19T14:40:00,24,1,TextEdit,Writing,2
+2014-01-19T14:40:00,14,1,Finder,General Utilities,0
+2014-01-19T14:45:00,171,1,clashofclans.wikia.com,Games,-2
+2014-01-19T14:45:00,76,1,Finder,General Utilities,0
+2014-01-19T14:45:00,40,1,Keynote,Presentation,2
+2014-01-19T14:45:00,6,1,TextEdit,Writing,2
+2014-01-19T14:45:00,4,1,matlab,General Software Development,2
+2014-01-19T14:45:00,3,1,pages,Presentation,2
+2014-01-19T14:50:00,300,1,clashofclans.wikia.com,Games,-2
+2014-01-19T14:55:00,142,1,clashofclans.wikia.com,Games,-2
+2014-01-19T14:55:00,72,1,Preview,General Reference & Learning,2
+2014-01-19T14:55:00,52,1,Keynote,Presentation,2
+2014-01-19T14:55:00,34,1,Finder,General Utilities,0
+2014-01-19T15:00:00,279,1,Keynote,Presentation,2
+2014-01-19T15:00:00,21,1,Preview,General Reference & Learning,2
+2014-01-19T15:05:00,168,1,Finder,General Utilities,0
+2014-01-19T15:05:00,128,1,Keynote,Presentation,2
+2014-01-19T15:05:00,4,1,Preview,General Reference & Learning,2
+2014-01-19T15:10:00,300,1,Keynote,Presentation,2
+2014-01-19T15:15:00,25,1,Preview,General Reference & Learning,2
+2014-01-19T15:15:00,23,1,Keynote,Presentation,2
+2014-01-19T20:20:00,97,1,Skype,General Social Networking,-2
+2014-01-19T20:20:00,3,1,loginwindow,General Utilities,0
+2014-01-19T20:20:00,2,1,Preview,General Reference & Learning,2
+2014-01-19T20:25:00,300,1,Skype,General Social Networking,-2
+2014-01-19T20:30:00,239,1,Skype,General Social Networking,-2
+2014-01-19T20:40:00,185,1,Keynote,Presentation,2
+2014-01-19T20:40:00,22,1,Finder,General Utilities,0
+2014-01-19T20:40:00,3,1,pages,Presentation,2
+2014-01-19T20:40:00,1,1,timex.com,General Shopping,-2
+2014-01-19T20:45:00,300,1,Keynote,Presentation,2
+2014-01-19T20:50:00,251,1,Keynote,Presentation,2
+2014-01-19T20:50:00,39,1,Preview,General Reference & Learning,2
+2014-01-19T20:50:00,10,1,Finder,General Utilities,0
+2014-01-19T20:55:00,299,1,Keynote,Presentation,2
+2014-01-19T20:55:00,1,1,pages,Presentation,2
+2014-01-19T21:00:00,300,1,Keynote,Presentation,2
+2014-01-19T21:05:00,298,1,Keynote,Presentation,2
+2014-01-19T21:05:00,2,1,usernotificationcenter,General Utilities,0
+2014-01-19T21:10:00,197,1,Keynote,Presentation,2
+2014-01-19T21:10:00,100,1,timex.com,General Shopping,-2
+2014-01-19T21:10:00,3,1,pages,Presentation,2
+2014-01-19T21:15:00,300,1,Keynote,Presentation,2
+2014-01-19T21:20:00,251,1,clashofclans.wikia.com,Games,-2
+2014-01-19T21:20:00,49,1,Keynote,Presentation,2
+2014-01-19T21:25:00,236,1,Keynote,Presentation,2
+2014-01-19T21:25:00,59,1,clashofclans.wikia.com,Games,-2
+2014-01-19T21:25:00,5,1,matlab,General Software Development,2
+2014-01-19T21:30:00,172,1,Keynote,Presentation,2
+2014-01-19T21:30:00,77,1,Skype,General Social Networking,-2
+2014-01-19T21:30:00,46,1,matlab,General Software Development,2
+2014-01-19T21:30:00,5,1,Finder,General Utilities,0
+2014-01-19T21:35:00,232,1,Skype,General Social Networking,-2
+2014-01-19T21:35:00,61,1,Keynote,Presentation,2
+2014-01-19T21:35:00,7,1,Preview,General Reference & Learning,2
+2014-01-19T21:40:00,295,1,Skype,General Social Networking,-2
+2014-01-19T21:40:00,5,1,Preview,General Reference & Learning,2
+2014-01-19T21:45:00,272,1,Skype,General Social Networking,-2
+2014-01-19T21:45:00,18,1,Keynote,Presentation,2
+2014-01-19T21:45:00,10,1,Preview,General Reference & Learning,2
+2014-01-19T21:50:00,298,1,Skype,General Social Networking,-2
+2014-01-19T21:50:00,2,1,Keynote,Presentation,2
+2014-01-19T21:55:00,266,1,Skype,General Social Networking,-2
+2014-01-19T21:55:00,34,1,Keynote,Presentation,2
+2014-01-19T22:00:00,295,1,Skype,General Social Networking,-2
+2014-01-19T22:00:00,5,1,Preview,General Reference & Learning,2
+2014-01-19T22:05:00,266,1,Skype,General Social Networking,-2
+2014-01-19T22:05:00,34,1,Preview,General Reference & Learning,2
+2014-01-19T22:10:00,273,1,Skype,General Social Networking,-2
+2014-01-19T22:10:00,20,1,microsoft word,Writing,2
+2014-01-19T22:10:00,7,1,alfred,General Utilities,2
+2014-01-19T22:15:00,239,1,Skype,General Social Networking,-2
+2014-01-19T22:15:00,61,1,Finder,General Utilities,0
+2014-01-19T22:20:00,234,1,Skype,General Social Networking,-2
+2014-01-19T22:20:00,35,1,Finder,General Utilities,0
+2014-01-19T22:20:00,31,1,microsoft word,Writing,2
+2014-01-19T22:25:00,201,1,Keynote,Presentation,2
+2014-01-19T22:25:00,82,1,Skype,General Social Networking,-2
+2014-01-19T22:25:00,17,1,microsoft word,Writing,2
+2014-01-19T22:30:00,300,1,Keynote,Presentation,2
+2014-01-19T22:35:00,276,1,Keynote,Presentation,2
+2014-01-19T22:35:00,24,1,Finder,General Utilities,0
+2014-01-19T22:40:00,202,1,en.wikipedia.org,General Reference & Learning,1
+2014-01-19T22:40:00,98,1,Keynote,Presentation,2
+2014-01-19T22:45:00,224,1,Keynote,Presentation,2
+2014-01-19T22:45:00,63,1,Skype,General Social Networking,-2
+2014-01-19T22:45:00,13,1,en.wikipedia.org,General Reference & Learning,1
+2014-01-19T22:50:00,208,1,Keynote,Presentation,2
+2014-01-19T22:50:00,92,1,Mail,Email,2
+2014-01-19T22:55:00,300,1,Mail,Email,2
+2014-01-19T23:00:00,300,1,Mail,Email,2
+2014-01-19T23:05:00,170,1,Finder,General Utilities,0
+2014-01-19T23:05:00,95,1,Mail,Email,2
+2014-01-19T23:05:00,17,1,Skype,General Social Networking,-2
+2014-01-19T23:05:00,11,1,microsoft powerpoint,Presentation,2
+2014-01-19T23:05:00,7,1,Keynote,Presentation,2
+2014-01-19T23:10:00,300,1,Finder,General Utilities,0
+2014-01-19T23:15:00,41,1,Finder,General Utilities,0

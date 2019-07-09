@@ -1,0 +1,453 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2015-12-02T14:15:00,42,1,Mail,Email,2
+2015-12-02T14:15:00,27,1,google drive,General Business,2
+2015-12-02T14:15:00,15,1,Finder,General Utilities,0
+2015-12-02T14:15:00,2,1,RescueTime,Intelligence,0
+2015-12-02T14:15:00,2,1,spotify,General Entertainment,-2
+2015-12-02T14:20:00,135,1,facebook.com,General Social Networking,-2
+2015-12-02T14:20:00,64,1,messages,General Social Networking,-2
+2015-12-02T14:20:00,34,1,creative cloud,General Design & Composition,2
+2015-12-02T14:20:00,31,1,Mail,Email,2
+2015-12-02T14:20:00,26,1,calendar,Calendars,1
+2015-12-02T14:20:00,4,1,Safari,Browsers,2
+2015-12-02T14:20:00,3,1,Finder,General Utilities,0
+2015-12-02T14:25:00,259,1,facebook.com,General Social Networking,-2
+2015-12-02T14:25:00,41,1,messages,General Social Networking,-2
+2015-12-02T14:30:00,176,1,facebook.com,General Social Networking,-2
+2015-12-02T14:30:00,63,1,calendar,Calendars,1
+2015-12-02T14:30:00,61,1,Mail,Email,2
+2015-12-02T14:35:00,179,1,calendar,Calendars,1
+2015-12-02T14:35:00,111,1,Safari,Browsers,2
+2015-12-02T14:35:00,6,1,Finder,General Utilities,0
+2015-12-02T14:35:00,4,1,facebook.com,General Social Networking,-2
+2015-12-02T14:40:00,242,1,Safari,Browsers,2
+2015-12-02T14:40:00,58,1,deerfield.edu,General Reference & Learning,1
+2015-12-02T14:45:00,300,1,deerfield.edu,General Reference & Learning,1
+2015-12-02T14:50:00,300,1,deerfield.edu,General Reference & Learning,1
+2015-12-02T14:55:00,4,1,deerfield.edu,General Reference & Learning,1
+2015-12-02T15:15:00,21,1,facebook.com,General Social Networking,-2
+2015-12-02T15:15:00,8,1,deerfield.edu,General Reference & Learning,1
+2015-12-02T15:15:00,8,1,Finder,General Utilities,0
+2015-12-02T15:20:00,147,1,facebook.com,General Social Networking,-2
+2015-12-02T15:20:00,123,1,Finder,General Utilities,0
+2015-12-02T15:20:00,29,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T15:25:00,169,1,facebook.com,General Social Networking,-2
+2015-12-02T15:25:00,91,1,Finder,General Utilities,0
+2015-12-02T15:25:00,38,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T15:30:00,220,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T15:30:00,77,1,Finder,General Utilities,0
+2015-12-02T15:35:00,298,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T15:40:00,78,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T15:40:00,5,1,iTunes,Music,0
+2015-12-02T17:00:00,106,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T17:00:00,15,1,Mail,Email,2
+2015-12-02T17:00:00,4,1,loginwindow,General Utilities,0
+2015-12-02T17:05:00,241,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T17:05:00,35,1,sctf.io,Uncategorized,0
+2015-12-02T17:05:00,19,1,facebook.com,General Social Networking,-2
+2015-12-02T17:05:00,5,1,Safari,Browsers,2
+2015-12-02T17:10:00,109,1,compete.sctf.io,Uncategorized,0
+2015-12-02T17:10:00,77,1,TextEdit,Writing,2
+2015-12-02T17:10:00,65,1,sctf.io,Uncategorized,0
+2015-12-02T17:10:00,19,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T17:10:00,14,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T17:10:00,7,1,google.com,Search,2
+2015-12-02T17:10:00,7,1,coreservicesuiagent,General Utilities,0
+2015-12-02T17:10:00,2,1,Safari,Browsers,2
+2015-12-02T17:15:00,296,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T17:15:00,3,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T17:20:00,62,1,Finder,General Utilities,0
+2015-12-02T17:20:00,55,1,linkedin.com,Professional Networking,1
+2015-12-02T17:20:00,47,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T17:20:00,40,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T17:20:00,38,1,compete.sctf.io,Uncategorized,0
+2015-12-02T17:20:00,30,1,google.com,Search,2
+2015-12-02T17:20:00,26,1,search.ancestry.com,Search,0
+2015-12-02T17:25:00,97,1,compete.sctf.io,Uncategorized,0
+2015-12-02T17:25:00,84,1,facebook.com,General Social Networking,-2
+2015-12-02T17:25:00,43,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T17:25:00,22,1,whitepages.com,Search,0
+2015-12-02T17:25:00,18,1,sctf.io,Uncategorized,0
+2015-12-02T17:25:00,13,1,google.com,Search,2
+2015-12-02T17:25:00,8,1,Safari,Browsers,2
+2015-12-02T17:25:00,8,1,linkedin.com,Professional Networking,1
+2015-12-02T17:25:00,3,1,slantmagazine.com,General News & Opinion,-2
+2015-12-02T17:25:00,2,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T17:25:00,1,1,search.ancestry.com,Search,0
+2015-12-02T17:30:00,137,1,facebook.com,General Social Networking,-2
+2015-12-02T17:30:00,64,1,compete.sctf.io,Uncategorized,0
+2015-12-02T17:30:00,39,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T17:30:00,26,1,linkedin.com,Professional Networking,1
+2015-12-02T17:30:00,19,1,Mail,Email,2
+2015-12-02T17:30:00,9,1,search.ancestry.com,Search,0
+2015-12-02T17:30:00,4,1,sctf.io,Uncategorized,0
+2015-12-02T17:30:00,1,1,Safari,Browsers,2
+2015-12-02T17:35:00,129,1,compete.sctf.io,Uncategorized,0
+2015-12-02T17:35:00,128,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T17:35:00,24,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T17:35:00,14,1,TextEdit,Writing,2
+2015-12-02T17:35:00,4,1,coreservicesuiagent,General Utilities,0
+2015-12-02T17:35:00,1,1,Mail,Email,2
+2015-12-02T17:40:00,159,1,compete.sctf.io,Uncategorized,0
+2015-12-02T17:40:00,73,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T17:40:00,32,1,skyandtelescope.com,General News & Opinion,-2
+2015-12-02T17:40:00,29,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T17:40:00,3,1,Safari,Browsers,2
+2015-12-02T17:40:00,2,1,google.com,Search,2
+2015-12-02T17:45:00,115,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T17:45:00,101,1,compete.sctf.io,Uncategorized,0
+2015-12-02T17:45:00,49,1,google.com,Search,2
+2015-12-02T17:45:00,10,1,sctf.io,Uncategorized,0
+2015-12-02T17:45:00,1,1,Safari,Browsers,2
+2015-12-02T17:45:00,1,1,forums.anandtech.com,Science & Technology,-1
+2015-12-02T17:45:00,1,1,whitepages.com,Search,0
+2015-12-02T17:50:00,135,1,csaw.engineering.nyu.edu,General Reference & Learning,1
+2015-12-02T17:50:00,60,1,google.com,Search,2
+2015-12-02T17:50:00,38,1,github.com,General Software Development,2
+2015-12-02T17:50:00,35,1,compete.sctf.io,Uncategorized,0
+2015-12-02T17:50:00,22,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T17:50:00,7,1,Safari,Browsers,2
+2015-12-02T17:50:00,2,1,whitepages.com,Search,0
+2015-12-02T17:50:00,1,1,facebook.com,General Social Networking,-2
+2015-12-02T17:55:00,120,1,github.com,General Software Development,2
+2015-12-02T17:55:00,115,1,net-force.nl,Uncategorized,0
+2015-12-02T17:55:00,26,1,asciitable.com,General Software Development,2
+2015-12-02T17:55:00,23,1,compete.sctf.io,Uncategorized,0
+2015-12-02T17:55:00,12,1,google.com,Search,2
+2015-12-02T17:55:00,4,1,Safari,Browsers,2
+2015-12-02T18:00:00,205,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T18:00:00,47,1,facebook.com,General Social Networking,-2
+2015-12-02T18:00:00,17,1,asciitable.com,General Software Development,2
+2015-12-02T18:00:00,11,1,google.com,Search,2
+2015-12-02T18:00:00,9,1,Finder,General Utilities,0
+2015-12-02T18:00:00,4,1,compete.sctf.io,Uncategorized,0
+2015-12-02T18:00:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T18:00:00,1,1,net-force.nl,Uncategorized,0
+2015-12-02T18:00:00,1,1,linkedin.com,Professional Networking,1
+2015-12-02T18:00:00,1,1,csaw.engineering.nyu.edu,General Reference & Learning,1
+2015-12-02T18:05:00,46,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T18:15:00,49,1,compete.sctf.io,Uncategorized,0
+2015-12-02T18:15:00,22,1,huffingtonpost.com,General News & Opinion,-2
+2015-12-02T18:15:00,18,1,Finder,General Utilities,0
+2015-12-02T18:15:00,12,1,Safari,Browsers,2
+2015-12-02T18:15:00,8,1,loginwindow,General Utilities,0
+2015-12-02T18:20:00,255,1,compete.sctf.io,Uncategorized,0
+2015-12-02T18:20:00,43,1,Mail,Email,2
+2015-12-02T18:25:00,257,1,compete.sctf.io,Uncategorized,0
+2015-12-02T18:25:00,31,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T18:25:00,7,1,facebook.com,General Social Networking,-2
+2015-12-02T18:25:00,3,1,google.com,Search,2
+2015-12-02T18:30:00,103,1,reddit.com,General News & Opinion,-2
+2015-12-02T18:30:00,96,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T18:30:00,67,1,google.com,Search,2
+2015-12-02T18:30:00,24,1,compete.sctf.io,Uncategorized,0
+2015-12-02T18:30:00,5,1,aduna.com,Uncategorized,0
+2015-12-02T18:30:00,5,1,mathworks.com,Engineering & Technology,1
+2015-12-02T18:35:00,189,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T18:35:00,91,1,compete.sctf.io,Uncategorized,0
+2015-12-02T18:35:00,18,1,reddit.com,General News & Opinion,-2
+2015-12-02T18:40:00,103,1,Preview,General Reference & Learning,2
+2015-12-02T18:40:00,85,1,compete.sctf.io,Uncategorized,0
+2015-12-02T18:40:00,43,1,virtualbox vm,General Software Development,2
+2015-12-02T18:40:00,26,1,Finder,General Utilities,0
+2015-12-02T18:40:00,19,1,virtualbox,Virtualization,0
+2015-12-02T18:40:00,19,1,TextEdit,Writing,2
+2015-12-02T18:40:00,1,1,spotlight,General Utilities,1
+2015-12-02T18:45:00,139,1,compete.sctf.io,Uncategorized,0
+2015-12-02T18:45:00,77,1,TextEdit,Writing,2
+2015-12-02T18:45:00,61,1,github.com,General Software Development,2
+2015-12-02T18:45:00,17,1,google.com,Search,2
+2015-12-02T18:45:00,3,1,Safari,Browsers,2
+2015-12-02T18:45:00,3,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T18:50:00,135,1,facebook.com,General Social Networking,-2
+2015-12-02T18:50:00,56,1,reddit.com,General News & Opinion,-2
+2015-12-02T18:50:00,48,1,google.com,Search,2
+2015-12-02T18:50:00,41,1,github.com,General Software Development,2
+2015-12-02T18:50:00,6,1,gist.github.com,General Software Development,2
+2015-12-02T18:50:00,2,1,zdnet.com,Science & Technology,-1
+2015-12-02T18:50:00,2,1,huffingtonpost.com,General News & Opinion,-2
+2015-12-02T18:50:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T18:50:00,1,1,apple.com,Engineering & Technology,-1
+2015-12-02T18:50:00,1,1,mathworks.com,Engineering & Technology,1
+2015-12-02T18:50:00,1,1,microsoft.com,Engineering & Technology,1
+2015-12-02T18:50:00,1,1,bhphotovideo.com,General Shopping,-2
+2015-12-02T18:50:00,1,1,youtube.com,Video,-2
+2015-12-02T18:50:00,1,1,browser.primatelabs.com,Browsers,-1
+2015-12-02T18:55:00,98,1,Mail,Email,2
+2015-12-02T18:55:00,50,1,linkedin.com,Professional Networking,1
+2015-12-02T18:55:00,49,1,keybase.io,General Software Development,2
+2015-12-02T18:55:00,33,1,youtube.com,Video,-2
+2015-12-02T18:55:00,19,1,facebook.com,General Social Networking,-2
+2015-12-02T18:55:00,19,1,twitter.com,General Social Networking,-2
+2015-12-02T18:55:00,15,1,google.com,Search,2
+2015-12-02T18:55:00,9,1,github.com,General Software Development,2
+2015-12-02T18:55:00,5,1,reddit.com,General News & Opinion,-2
+2015-12-02T18:55:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T19:00:00,77,1,keybase.io,General Software Development,2
+2015-12-02T19:00:00,58,1,linkedin.com,Professional Networking,1
+2015-12-02T19:00:00,42,1,compete.sctf.io,Uncategorized,0
+2015-12-02T19:00:00,24,1,twitter.com,General Social Networking,-2
+2015-12-02T19:00:00,22,1,facebook.com,General Social Networking,-2
+2015-12-02T19:00:00,21,1,scutify.com,Uncategorized,0
+2015-12-02T19:00:00,13,1,omnimaga.org,Uncategorized,0
+2015-12-02T19:00:00,11,1,coinbase.com,Accounting,2
+2015-12-02T19:00:00,9,1,quantopian.com,Business & Finance,1
+2015-12-02T19:00:00,5,1,github.com,General Software Development,2
+2015-12-02T19:00:00,5,1,reddit.com,General News & Opinion,-2
+2015-12-02T19:00:00,5,1,google.com,Search,2
+2015-12-02T19:00:00,4,1,news.ycombinator.com,General News & Opinion,-2
+2015-12-02T19:00:00,2,1,youtube.com,Video,-2
+2015-12-02T19:05:00,244,1,compete.sctf.io,Uncategorized,0
+2015-12-02T19:05:00,46,1,facebook.com,General Social Networking,-2
+2015-12-02T19:05:00,6,1,twitter.com,General Social Networking,-2
+2015-12-02T19:05:00,3,1,github.com,General Software Development,2
+2015-12-02T19:10:00,117,1,google.com,Search,2
+2015-12-02T19:10:00,67,1,linkedin.com,Professional Networking,1
+2015-12-02T19:10:00,59,1,youtube.com,Video,-2
+2015-12-02T19:10:00,30,1,facebook.com,General Social Networking,-2
+2015-12-02T19:10:00,15,1,twitter.com,General Social Networking,-2
+2015-12-02T19:10:00,5,1,github.com,General Software Development,2
+2015-12-02T19:10:00,3,1,whitepages.com,Search,0
+2015-12-02T19:10:00,2,1,reddit.com,General News & Opinion,-2
+2015-12-02T19:15:00,162,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T19:15:00,45,1,compete.sctf.io,Uncategorized,0
+2015-12-02T19:15:00,38,1,whitepages.com,Search,0
+2015-12-02T19:15:00,23,1,facebook.com,General Social Networking,-2
+2015-12-02T19:15:00,15,1,google.com,Search,2
+2015-12-02T19:15:00,8,1,github.com,General Software Development,2
+2015-12-02T19:15:00,3,1,Safari,Browsers,2
+2015-12-02T19:15:00,1,1,twitter.com,General Social Networking,-2
+2015-12-02T19:15:00,1,1,reddit.com,General News & Opinion,-2
+2015-12-02T19:20:00,285,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T19:20:00,6,1,compete.sctf.io,Uncategorized,0
+2015-12-02T19:20:00,4,1,google.com,Search,2
+2015-12-02T19:20:00,2,1,Safari,Browsers,2
+2015-12-02T19:25:00,89,1,peoplebyname.com,Uncategorized,0
+2015-12-02T19:25:00,79,1,google.com,Search,2
+2015-12-02T19:25:00,54,1,whitepages.com,Search,0
+2015-12-02T19:25:00,35,1,yellowpages.com,Search,0
+2015-12-02T19:25:00,11,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T19:25:00,5,1,Safari,Browsers,2
+2015-12-02T19:25:00,4,1,scutify.com,Uncategorized,0
+2015-12-02T19:25:00,2,1,omnimaga.org,Uncategorized,0
+2015-12-02T19:25:00,1,1,facebook.com,General Social Networking,-2
+2015-12-02T19:25:00,1,1,quantopian.com,Business & Finance,1
+2015-12-02T19:25:00,1,1,compete.sctf.io,Uncategorized,0
+2015-12-02T19:30:00,197,1,google.com,Search,2
+2015-12-02T19:30:00,56,1,Google+,General Social Networking,-2
+2015-12-02T19:30:00,10,1,linkedin.com,Professional Networking,1
+2015-12-02T19:30:00,6,1,facebook.com,General Social Networking,-2
+2015-12-02T19:30:00,6,1,applications,General Business,2
+2015-12-02T19:30:00,5,1,scutify.com,Uncategorized,0
+2015-12-02T19:30:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T19:30:00,3,1,yellowpages.com,Search,0
+2015-12-02T19:30:00,3,1,compete.sctf.io,Uncategorized,0
+2015-12-02T19:30:00,2,1,twitter.com,General Social Networking,-2
+2015-12-02T19:30:00,1,1,github.com,General Software Development,2
+2015-12-02T19:35:00,115,1,Google+,General Social Networking,-2
+2015-12-02T19:35:00,36,1,aaronweiss.us,Uncategorized,0
+2015-12-02T19:35:00,29,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T19:35:00,26,1,google.com,Search,2
+2015-12-02T19:35:00,19,1,twitter.com,General Social Networking,-2
+2015-12-02T19:35:00,17,1,github.com,General Software Development,2
+2015-12-02T19:35:00,16,1,keybase.io,General Software Development,2
+2015-12-02T19:35:00,11,1,facebook.com,General Social Networking,-2
+2015-12-02T19:35:00,8,1,compete.sctf.io,Uncategorized,0
+2015-12-02T19:35:00,4,1,omnimaga.org,Uncategorized,0
+2015-12-02T19:35:00,4,1,quantopian.com,Business & Finance,1
+2015-12-02T19:35:00,4,1,whitepages.com,Search,0
+2015-12-02T19:35:00,3,1,dailycollegian.com,General News & Opinion,-2
+2015-12-02T19:35:00,2,1,scutify.com,Uncategorized,0
+2015-12-02T19:35:00,1,1,yellowpages.com,Search,0
+2015-12-02T19:40:00,79,1,google.com,Search,2
+2015-12-02T19:40:00,78,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T19:40:00,73,1,aaronweiss.us,Uncategorized,0
+2015-12-02T19:40:00,17,1,twitter.com,General Social Networking,-2
+2015-12-02T19:40:00,14,1,Google+,General Social Networking,-2
+2015-12-02T19:40:00,8,1,facebook.com,General Social Networking,-2
+2015-12-02T19:40:00,7,1,maps,Maps & Regional,1
+2015-12-02T19:40:00,5,1,hackers-of-umass.github.io,General Software Development,2
+2015-12-02T19:40:00,4,1,compete.sctf.io,Uncategorized,0
+2015-12-02T19:40:00,2,1,Safari,Browsers,2
+2015-12-02T19:40:00,1,1,spotlight,General Utilities,1
+2015-12-02T19:40:00,1,1,yellowpages.com,Search,0
+2015-12-02T19:45:00,38,1,hackers-of-umass.github.io,General Software Development,2
+2015-12-02T19:45:00,19,1,loginwindow,General Utilities,0
+2015-12-02T19:50:00,57,1,Mail,Email,2
+2015-12-02T19:50:00,9,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T19:50:00,5,1,loginwindow,General Utilities,0
+2015-12-02T19:55:00,174,1,messages,General Social Networking,-2
+2015-12-02T19:55:00,83,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T19:55:00,17,1,Mail,Email,2
+2015-12-02T19:55:00,17,1,Google Forms - Google Apps,General Business,2
+2015-12-02T19:55:00,6,1,auth.deerfield.edu,General Reference & Learning,1
+2015-12-02T19:55:00,2,1,Safari,Browsers,2
+2015-12-02T19:55:00,1,1,google.com,Search,2
+2015-12-02T20:00:00,237,1,Google Forms - Google Apps,General Business,2
+2015-12-02T20:00:00,39,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T20:00:00,24,1,Mail,Email,2
+2015-12-02T20:05:00,164,1,Mail,Email,2
+2015-12-02T20:05:00,108,1,messages,General Social Networking,-2
+2015-12-02T20:05:00,27,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T20:10:00,267,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T20:30:00,78,1,System Preferences,General Utilities,0
+2015-12-02T20:30:00,51,1,messages,General Social Networking,-2
+2015-12-02T20:30:00,1,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T20:35:00,102,1,messages,General Social Networking,-2
+2015-12-02T20:35:00,25,1,Mail,Email,2
+2015-12-02T20:45:00,47,1,messages,General Social Networking,-2
+2015-12-02T20:45:00,19,1,Mail,Email,2
+2015-12-02T20:50:00,120,1,messages,General Social Networking,-2
+2015-12-02T20:55:00,30,1,microsoft word,Writing,2
+2015-12-02T20:55:00,15,1,Mail,Email,2
+2015-12-02T20:55:00,7,1,microsoft autoupdate,General Utilities,1
+2015-12-02T21:05:00,204,1,quicktime player,General Entertainment,-1
+2015-12-02T21:05:00,21,1,Finder,General Utilities,0
+2015-12-02T21:05:00,10,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T21:10:00,300,1,quicktime player,General Entertainment,-1
+2015-12-02T21:15:00,291,1,quicktime player,General Entertainment,-1
+2015-12-02T21:15:00,9,1,Finder,General Utilities,0
+2015-12-02T21:20:00,295,1,facebook.com,General Social Networking,-2
+2015-12-02T21:20:00,3,1,quicktime player,General Entertainment,-1
+2015-12-02T21:20:00,2,1,Google Forms - Google Apps,General Business,2
+2015-12-02T21:25:00,184,1,facebook.com,General Social Networking,-2
+2015-12-02T21:25:00,59,1,quicktime player,General Entertainment,-1
+2015-12-02T21:25:00,33,1,messages,General Social Networking,-2
+2015-12-02T21:25:00,16,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-12-02T21:25:00,3,1,Safari,Browsers,2
+2015-12-02T21:30:00,216,1,facebook.com,General Social Networking,-2
+2015-12-02T21:30:00,81,1,messages,General Social Networking,-2
+2015-12-02T21:30:00,2,1,microsoft word,Writing,2
+2015-12-02T21:35:00,24,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-12-02T21:35:00,9,1,microsoft word,Writing,2
+2015-12-02T21:35:00,1,1,facebook.com,General Social Networking,-2
+2015-12-02T22:00:00,168,1,Keynote,Presentation,2
+2015-12-02T22:00:00,24,1,google.com,Search,2
+2015-12-02T22:00:00,22,1,Safari,Browsers,2
+2015-12-02T22:00:00,12,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-12-02T22:00:00,10,1,guggenheim.org,General News & Opinion,-2
+2015-12-02T22:00:00,4,1,galeriekamm.de,Uncategorized,0
+2015-12-02T22:00:00,4,1,Mail,Email,2
+2015-12-02T22:00:00,3,1,madeingermanyzwei.de,Uncategorized,0
+2015-12-02T22:00:00,2,1,microsoft word,Writing,2
+2015-12-02T22:00:00,2,1,messages,General Social Networking,-2
+2015-12-02T22:05:00,132,1,Keynote,Presentation,2
+2015-12-02T22:05:00,48,1,guggenheim.org,General News & Opinion,-2
+2015-12-02T22:05:00,46,1,google.com,Search,2
+2015-12-02T22:05:00,39,1,artsy.net,General Business,2
+2015-12-02T22:05:00,12,1,galeriekamm.de,Uncategorized,0
+2015-12-02T22:05:00,10,1,dundee.ac.uk,General Reference & Learning,1
+2015-12-02T22:05:00,7,1,s3.amazonaws.com,Internet Utilities,1
+2015-12-02T22:05:00,4,1,Google Forms - Google Apps,General Business,2
+2015-12-02T22:05:00,1,1,Safari,Browsers,2
+2015-12-02T22:10:00,180,1,Keynote,Presentation,2
+2015-12-02T22:10:00,102,1,guggenheim.org,General News & Opinion,-2
+2015-12-02T22:10:00,6,1,facebook.com,General Social Networking,-2
+2015-12-02T22:10:00,4,1,artsy.net,General Business,2
+2015-12-02T22:10:00,4,1,Safari,Browsers,2
+2015-12-02T22:10:00,3,1,messages,General Social Networking,-2
+2015-12-02T22:10:00,1,1,galeriekamm.de,Uncategorized,0
+2015-12-02T22:15:00,133,1,Keynote,Presentation,2
+2015-12-02T22:15:00,98,1,guggenheim.org,General News & Opinion,-2
+2015-12-02T22:15:00,40,1,google.com,Search,2
+2015-12-02T22:15:00,12,1,artsy.net,General Business,2
+2015-12-02T22:15:00,9,1,galeriekamm.de,Uncategorized,0
+2015-12-02T22:15:00,5,1,Safari,Browsers,2
+2015-12-02T22:15:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2015-12-02T22:20:00,108,1,thisistomorrow.info,Uncategorized,0
+2015-12-02T22:20:00,82,1,google.com,Search,2
+2015-12-02T22:20:00,62,1,frieze.com,General Reference & Learning,1
+2015-12-02T22:20:00,44,1,Keynote,Presentation,2
+2015-12-02T22:20:00,4,1,tit-assets.s3.amazonaws.com,Internet Utilities,1
+2015-12-02T22:25:00,191,1,Keynote,Presentation,2
+2015-12-02T22:25:00,62,1,thisistomorrow.info,Uncategorized,0
+2015-12-02T22:25:00,23,1,guggenheim.org,General News & Opinion,-2
+2015-12-02T22:25:00,8,1,tit-assets.s3.amazonaws.com,Internet Utilities,1
+2015-12-02T22:25:00,7,1,dundee.ac.uk,General Reference & Learning,1
+2015-12-02T22:25:00,4,1,google.com,Search,2
+2015-12-02T22:25:00,4,1,Safari,Browsers,2
+2015-12-02T22:30:00,64,1,Keynote,Presentation,2
+2015-12-02T22:30:00,58,1,aperture.org,Photos,-2
+2015-12-02T22:30:00,48,1,guggenheim.org,General News & Opinion,-2
+2015-12-02T22:30:00,45,1,microsoft word,Writing,2
+2015-12-02T22:30:00,35,1,dundee.ac.uk,General Reference & Learning,1
+2015-12-02T22:30:00,13,1,messages,General Social Networking,-2
+2015-12-02T22:30:00,13,1,google.com,Search,2
+2015-12-02T22:30:00,12,1,Mail,Email,2
+2015-12-02T22:30:00,7,1,skyandtelescope.com,General News & Opinion,-2
+2015-12-02T22:30:00,3,1,s3.amazonaws.com,Internet Utilities,1
+2015-12-02T22:30:00,2,1,thisistomorrow.info,Uncategorized,0
+2015-12-02T22:35:00,224,1,Keynote,Presentation,2
+2015-12-02T22:35:00,35,1,google.com,Search,2
+2015-12-02T22:35:00,18,1,microsoft word,Writing,2
+2015-12-02T22:35:00,17,1,guggenheim.org,General News & Opinion,-2
+2015-12-02T22:35:00,4,1,kunstverein-hannover.de,Uncategorized,0
+2015-12-02T22:35:00,1,1,aperture.org,Photos,-2
+2015-12-02T22:35:00,1,1,s3.amazonaws.com,Internet Utilities,1
+2015-12-02T22:40:00,96,1,microsoft word,Writing,2
+2015-12-02T22:40:00,73,1,Keynote,Presentation,2
+2015-12-02T22:40:00,65,1,facebook.com,General Social Networking,-2
+2015-12-02T22:40:00,20,1,Finder,General Utilities,0
+2015-12-02T22:40:00,14,1,google.com,Search,2
+2015-12-02T22:40:00,14,1,2.bp.blogspot.com,General News & Opinion,-2
+2015-12-02T22:40:00,10,1,kunstverein-hannover.de,Uncategorized,0
+2015-12-02T22:40:00,3,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T22:40:00,2,1,Safari,Browsers,2
+2015-12-02T22:40:00,2,1,calendar,Calendars,1
+2015-12-02T22:45:00,115,1,study.com,General Reference & Learning,1
+2015-12-02T22:45:00,93,1,microsoft word,Writing,2
+2015-12-02T22:45:00,82,1,facebook.com,General Social Networking,-2
+2015-12-02T22:45:00,6,1,Keynote,Presentation,2
+2015-12-02T22:45:00,2,1,Safari,Browsers,2
+2015-12-02T22:45:00,2,1,google.com,Search,2
+2015-12-02T22:50:00,228,1,microsoft word,Writing,2
+2015-12-02T22:50:00,37,1,guggenheim.org,General News & Opinion,-2
+2015-12-02T22:50:00,22,1,facebook.com,General Social Networking,-2
+2015-12-02T22:50:00,2,1,Keynote,Presentation,2
+2015-12-02T22:50:00,1,1,thisistomorrow.info,Uncategorized,0
+2015-12-02T22:55:00,130,1,facebook.com,General Social Networking,-2
+2015-12-02T22:55:00,82,1,microsoft word,Writing,2
+2015-12-02T22:55:00,38,1,guggenheim.org,General News & Opinion,-2
+2015-12-02T22:55:00,21,1,soundcloud.com,Internet Utilities,1
+2015-12-02T22:55:00,7,1,Safari,Browsers,2
+2015-12-02T22:55:00,7,1,google.com,Search,2
+2015-12-02T22:55:00,3,1,galeriekamm.de,Uncategorized,0
+2015-12-02T22:55:00,3,1,Keynote,Presentation,2
+2015-12-02T22:55:00,3,1,aperture.org,Photos,-2
+2015-12-02T22:55:00,2,1,artsy.net,General Business,2
+2015-12-02T22:55:00,2,1,dundee.ac.uk,General Reference & Learning,1
+2015-12-02T22:55:00,2,1,2.bp.blogspot.com,General News & Opinion,-2
+2015-12-02T23:00:00,115,1,google.com,Search,2
+2015-12-02T23:00:00,113,1,microsoft word,Writing,2
+2015-12-02T23:00:00,26,1,Keynote,Presentation,2
+2015-12-02T23:00:00,19,1,guggenheim.org,General News & Opinion,-2
+2015-12-02T23:00:00,11,1,soundcloud.com,Internet Utilities,1
+2015-12-02T23:00:00,10,1,dundee.ac.uk,General Reference & Learning,1
+2015-12-02T23:00:00,3,1,artsy.net,General Business,2
+2015-12-02T23:00:00,2,1,dq9ucdqjq6nrk.cloudfront.net,Uncategorized,0
+2015-12-02T23:00:00,1,1,2.bp.blogspot.com,General News & Opinion,-2
+2015-12-02T23:05:00,150,1,microsoft word,Writing,2
+2015-12-02T23:05:00,78,1,thisistomorrow.info,Uncategorized,0
+2015-12-02T23:05:00,44,1,Keynote,Presentation,2
+2015-12-02T23:05:00,12,1,dq9ucdqjq6nrk.cloudfront.net,Uncategorized,0
+2015-12-02T23:05:00,5,1,aperture.org,Photos,-2
+2015-12-02T23:05:00,5,1,google.com,Search,2
+2015-12-02T23:05:00,4,1,guggenheim.org,General News & Opinion,-2
+2015-12-02T23:05:00,2,1,Safari,Browsers,2
+2015-12-02T23:10:00,154,1,microsoft word,Writing,2
+2015-12-02T23:10:00,63,1,calendar,Calendars,1
+2015-12-02T23:10:00,16,1,Keynote,Presentation,2
+2015-12-02T23:10:00,13,1,thisistomorrow.info,Uncategorized,0
+2015-12-02T23:20:00,5,1,thisistomorrow.info,Uncategorized,0
+2015-12-02T23:25:00,14,1,microsoft onenote,Intelligence,2
+2015-12-02T23:25:00,8,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T23:25:00,4,1,thisistomorrow.info,Uncategorized,0
+2015-12-02T23:30:00,198,1,facebook.com,General Social Networking,-2
+2015-12-02T23:30:00,90,1,microsoft onenote,Intelligence,2
+2015-12-02T23:30:00,5,1,calendar,Calendars,1
+2015-12-02T23:30:00,5,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T23:30:00,2,1,thisistomorrow.info,Uncategorized,0
+2015-12-02T23:35:00,55,1,facebook.com,General Social Networking,-2
+2015-12-02T23:55:00,173,1,adobe premiere pro cc 2015,Video Editing,2
+2015-12-02T23:55:00,50,1,Finder,General Utilities,0
+2015-12-02T23:55:00,1,1,facebook.com,General Social Networking,-2

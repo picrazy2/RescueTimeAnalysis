@@ -1,0 +1,162 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2015-04-17T08:25:00,11,1,Mail,Email,2
+2015-04-17T08:25:00,4,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-04-17T08:25:00,2,1,loginwindow,General Utilities,0
+2015-04-17T08:30:00,177,1,dalearn.deerfield.edu,General Reference & Learning,2
+2015-04-17T08:30:00,42,1,alfred 2,General Utilities,1
+2015-04-17T08:30:00,40,1,microsoft word,Writing,2
+2015-04-17T08:30:00,32,1,Mail,Email,2
+2015-04-17T08:30:00,4,1,Safari,Browsers,2
+2015-04-17T08:30:00,2,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-04-17T08:35:00,129,1,microsoft word,Writing,2
+2015-04-17T08:35:00,98,1,Google Documents,Writing,2
+2015-04-17T08:35:00,33,1,alfred 2,General Utilities,1
+2015-04-17T08:35:00,23,1,drive.google.com,General Business,2
+2015-04-17T08:35:00,6,1,Safari,Browsers,2
+2015-04-17T08:35:00,3,1,dalearn.deerfield.edu,General Reference & Learning,2
+2015-04-17T08:40:00,292,1,microsoft word,Writing,2
+2015-04-17T08:45:00,238,1,microsoft word,Writing,2
+2015-04-17T08:45:00,37,1,Mail,Email,2
+2015-04-17T08:45:00,24,1,Google Documents,Writing,2
+2015-04-17T08:50:00,276,1,microsoft word,Writing,2
+2015-04-17T08:50:00,24,1,Google Documents,Writing,2
+2015-04-17T08:55:00,138,1,link.springer.com,General Reference & Learning,1
+2015-04-17T08:55:00,67,1,microsoft word,Writing,2
+2015-04-17T08:55:00,42,1,scholar.google.com,General Reference & Learning,1
+2015-04-17T08:55:00,15,1,nature.com,Search,0
+2015-04-17T08:55:00,9,1,google.com,Search,2
+2015-04-17T08:55:00,8,1,Safari,Browsers,2
+2015-04-17T08:55:00,7,1,Mail,Email,2
+2015-04-17T08:55:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2015-04-17T08:55:00,5,1,Google Documents,Writing,2
+2015-04-17T09:00:00,270,1,microsoft word,Writing,2
+2015-04-17T09:00:00,27,1,en.wikipedia.org,General Reference & Learning,1
+2015-04-17T09:05:00,297,1,microsoft word,Writing,2
+2015-04-17T09:10:00,128,1,microsoft word,Writing,2
+2015-04-17T09:15:00,133,1,en.wikipedia.org,General Reference & Learning,1
+2015-04-17T09:15:00,66,1,microsoft word,Writing,2
+2015-04-17T09:15:00,20,1,web.archive.org,Search,0
+2015-04-17T09:15:00,11,1,Google Documents,Writing,2
+2015-04-17T09:15:00,9,1,scholar.google.com,General Reference & Learning,1
+2015-04-17T09:15:00,6,1,link.springer.com,General Reference & Learning,1
+2015-04-17T09:15:00,5,1,materialstoday.com,Engineering & Technology,1
+2015-04-17T09:15:00,2,1,Safari,Browsers,2
+2015-04-17T09:15:00,2,1,google.com,Search,2
+2015-04-17T09:20:00,91,1,google.com,Search,2
+2015-04-17T09:20:00,83,1,understandingnano.com,Uncategorized,0
+2015-04-17T09:20:00,28,1,Google Documents,Writing,2
+2015-04-17T09:20:00,27,1,nanocyl.com,Uncategorized,0
+2015-04-17T09:20:00,26,1,scholar.google.com,General Reference & Learning,1
+2015-04-17T09:20:00,24,1,link.springer.com,General Reference & Learning,1
+2015-04-17T09:20:00,15,1,microsoft word,Writing,2
+2015-04-17T09:20:00,2,1,Safari,Browsers,2
+2015-04-17T09:20:00,2,1,drive.google.com,General Business,2
+2015-04-17T09:25:00,162,1,drive.google.com,General Business,2
+2015-04-17T09:25:00,100,1,microsoft word,Writing,2
+2015-04-17T09:25:00,27,1,Google Documents,Writing,2
+2015-04-17T09:25:00,10,1,loginwindow,General Utilities,0
+2015-04-17T09:25:00,1,1,Safari,Browsers,2
+2015-04-17T09:30:00,125,1,facebook.com,General Social Networking,-2
+2015-04-17T09:30:00,98,1,Finder,General Utilities,0
+2015-04-17T09:30:00,31,1,drive.google.com,General Business,2
+2015-04-17T09:30:00,25,1,microsoft word,Writing,2
+2015-04-17T09:30:00,6,1,Mail,Email,2
+2015-04-17T09:30:00,5,1,understandingnano.com,Uncategorized,0
+2015-04-17T09:30:00,3,1,Google Documents,Writing,2
+2015-04-17T09:30:00,3,1,Safari,Browsers,2
+2015-04-17T09:35:00,184,1,Finder,General Utilities,0
+2015-04-17T09:35:00,69,1,facebook.com,General Social Networking,-2
+2015-04-17T09:35:00,33,1,9to5mac.com,General News & Opinion,-2
+2015-04-17T09:35:00,11,1,Safari,Browsers,2
+2015-04-17T09:40:00,284,1,9to5mac.com,General News & Opinion,-2
+2015-04-17T09:40:00,16,1,microsoft word,Writing,2
+2015-04-17T09:45:00,72,1,Mail,Email,2
+2015-04-17T09:45:00,64,1,microsoft word,Writing,2
+2015-04-17T09:45:00,33,1,loginwindow,General Utilities,0
+2015-04-17T09:50:00,101,1,dropbox.com,File Sharing,2
+2015-04-17T09:50:00,24,1,Finder,General Utilities,0
+2015-04-17T09:50:00,6,1,9to5mac.com,General News & Opinion,-2
+2015-04-17T09:55:00,146,1,dropbox.com,File Sharing,2
+2015-04-17T09:55:00,18,1,loginwindow,General Utilities,0
+2015-04-17T09:55:00,3,1,alfred 2,General Utilities,1
+2015-04-17T09:55:00,2,1,Safari,Browsers,2
+2015-04-17T10:00:00,36,1,loginwindow,General Utilities,0
+2015-04-17T10:00:00,31,1,dalearn.deerfield.edu,General Reference & Learning,2
+2015-04-17T10:00:00,21,1,alfred 2,General Utilities,1
+2015-04-17T10:00:00,10,1,Finder,General Utilities,0
+2015-04-17T10:00:00,5,1,dropbox.com,File Sharing,2
+2015-04-17T10:00:00,4,1,Mail,Email,2
+2015-04-17T10:00:00,1,1,deerfield.edu,General Reference & Learning,1
+2015-04-17T10:10:00,186,1,microsoft onenote,Intelligence,2
+2015-04-17T10:10:00,61,1,Finder,General Utilities,0
+2015-04-17T10:10:00,6,1,dalearn.deerfield.edu,General Reference & Learning,2
+2015-04-17T10:15:00,300,1,microsoft onenote,Intelligence,2
+2015-04-17T10:20:00,263,1,microsoft onenote,Intelligence,2
+2015-04-17T10:20:00,31,1,amazon.com,General Shopping,-1
+2015-04-17T10:20:00,5,1,Safari,Browsers,2
+2015-04-17T10:25:00,260,1,microsoft onenote,Intelligence,2
+2015-04-17T10:25:00,38,1,amazon.com,General Shopping,-1
+2015-04-17T10:25:00,1,1,Finder,General Utilities,0
+2015-04-17T10:30:00,287,1,microsoft onenote,Intelligence,2
+2015-04-17T10:30:00,7,1,Safari,Browsers,2
+2015-04-17T10:30:00,3,1,amazon.com,General Shopping,-1
+2015-04-17T10:35:00,300,1,microsoft onenote,Intelligence,2
+2015-04-17T10:40:00,300,1,microsoft onenote,Intelligence,2
+2015-04-17T10:45:00,214,1,Finder,General Utilities,0
+2015-04-17T10:45:00,86,1,microsoft onenote,Intelligence,2
+2015-04-17T10:50:00,69,1,Finder,General Utilities,0
+2015-04-17T10:50:00,26,1,loginwindow,General Utilities,0
+2015-04-17T13:35:00,23,1,rescuetime.com,Intelligence,0
+2015-04-17T13:35:00,17,1,loginwindow,General Utilities,0
+2015-04-17T13:35:00,3,1,Finder,General Utilities,0
+2015-04-17T13:40:00,22,1,quicktime player,General Entertainment,-1
+2015-04-17T13:40:00,2,1,rescuetime.com,Intelligence,0
+2015-04-17T13:45:00,300,1,quicktime player,General Entertainment,-1
+2015-04-17T13:50:00,295,1,quicktime player,General Entertainment,-1
+2015-04-17T13:55:00,66,1,quicktime player,General Entertainment,-1
+2015-04-17T13:55:00,4,1,amazon.com,General Shopping,-1
+2015-04-17T14:00:00,24,1,Mail,Email,2
+2015-04-17T14:00:00,5,1,rescuetime.com,Intelligence,0
+2015-04-17T14:00:00,3,1,amazon.com,General Shopping,-1
+2015-04-17T14:10:00,173,1,quicktime player,General Entertainment,-1
+2015-04-17T14:10:00,29,1,alfred 2,General Utilities,1
+2015-04-17T14:10:00,20,1,loginwindow,General Utilities,0
+2015-04-17T22:50:00,37,1,microsoft word,Writing,2
+2015-04-17T22:50:00,19,1,youtube.com,Video,-2
+2015-04-17T22:50:00,14,1,Mail,Email,2
+2015-04-17T22:50:00,3,1,RescueTime,Intelligence,0
+2015-04-17T22:55:00,300,1,microsoft word,Writing,2
+2015-04-17T23:00:00,185,1,microsoft word,Writing,2
+2015-04-17T23:00:00,104,1,Finder,General Utilities,0
+2015-04-17T23:00:00,5,1,facetime,Voice Chat,-2
+2015-04-17T23:00:00,3,1,youtube.com,Video,-2
+2015-04-17T23:00:00,2,1,google.com,Search,2
+2015-04-17T23:05:00,300,1,microsoft word,Writing,2
+2015-04-17T23:10:00,287,1,microsoft word,Writing,2
+2015-04-17T23:10:00,13,1,Dictionary,General Reference & Learning,1
+2015-04-17T23:15:00,300,1,microsoft word,Writing,2
+2015-04-17T23:20:00,300,1,microsoft word,Writing,2
+2015-04-17T23:25:00,218,1,microsoft word,Writing,2
+2015-04-17T23:25:00,67,1,amazon.com,General Shopping,-1
+2015-04-17T23:25:00,9,1,google.com,Search,2
+2015-04-17T23:30:00,95,1,defense.gov,Uncategorized,-1
+2015-04-17T23:30:00,81,1,amazon.com,General Shopping,-1
+2015-04-17T23:30:00,50,1,Mail,Email,2
+2015-04-17T23:30:00,25,1,microsoft word,Writing,2
+2015-04-17T23:30:00,13,1,Adobe Photoshop,Graphic Design,2
+2015-04-17T23:30:00,11,1,garedsports.com,Uncategorized,0
+2015-04-17T23:30:00,10,1,youtube.com,Video,-2
+2015-04-17T23:30:00,5,1,google.com,Search,2
+2015-04-17T23:30:00,2,1,deerfield.edu,General Reference & Learning,1
+2015-04-17T23:30:00,2,1,youku.com,General Entertainment,-2
+2015-04-17T23:30:00,1,1,useconomy.about.com,General Reference & Learning,1
+2015-04-17T23:35:00,300,1,microsoft word,Writing,2
+2015-04-17T23:40:00,253,1,microsoft word,Writing,2
+2015-04-17T23:40:00,45,1,MS Excel,General Business,2
+2015-04-17T23:40:00,12,1,quicktime player,General Entertainment,-1
+2015-04-17T23:45:00,218,1,microsoft word,Writing,2
+2015-04-17T23:45:00,110,1,MS Excel,General Business,2
+2015-04-17T23:45:00,36,1,quicktime player,General Entertainment,-1
+2015-04-17T23:45:00,8,1,Safari,Browsers,2
+2015-04-17T23:50:00,298,1,microsoft word,Writing,2
+2015-04-17T23:55:00,300,1,microsoft word,Writing,2

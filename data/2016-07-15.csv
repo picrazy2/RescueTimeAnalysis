@@ -1,0 +1,157 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2016-07-15T10:30:00,85,1,google.com,Search,2
+2016-07-15T10:30:00,16,1,eaptlstrust,General Utilities,1
+2016-07-15T10:30:00,1,1,loginwindow,General Utilities,0
+2016-07-15T10:35:00,215,1,google.com,Search,2
+2016-07-15T10:35:00,34,1,eaptlstrust,General Utilities,1
+2016-07-15T10:35:00,17,1,shanghaiist.com,International,-2
+2016-07-15T10:35:00,10,1,facebook.com,General Social Networking,-2
+2016-07-15T10:35:00,10,1,aws.amazon.com,General Software Development,2
+2016-07-15T10:35:00,10,1,systemuiserver,General Utilities,1
+2016-07-15T10:35:00,4,1,amazon.com,General Shopping,-1
+2016-07-15T10:40:00,160,1,amazon.com,General Shopping,-1
+2016-07-15T10:40:00,91,1,portal.aws.amazon.com,Systems Operations,2
+2016-07-15T10:40:00,5,1,aws.amazon.com,General Software Development,2
+2016-07-15T10:50:00,25,1,messages,General Social Networking,-2
+2016-07-15T10:55:00,245,1,messages,General Social Networking,-2
+2016-07-15T10:55:00,39,1,nmr.mgh.harvard.edu,General Reference & Learning,1
+2016-07-15T10:55:00,12,1,amazon.com,General Shopping,-1
+2016-07-15T10:55:00,2,1,google.com,Search,2
+2016-07-15T10:55:00,2,1,portal.aws.amazon.com,Systems Operations,2
+2016-07-15T11:00:00,152,1,nmr.mgh.harvard.edu,General Reference & Learning,1
+2016-07-15T11:00:00,61,1,portal.aws.amazon.com,Systems Operations,2
+2016-07-15T11:10:00,48,1,cs.duke.edu,General Reference & Learning,1
+2016-07-15T11:10:00,5,1,ryanstutorials.net,Engineering & Technology,1
+2016-07-15T11:10:00,2,1,Google Documents,Writing,2
+2016-07-15T11:10:00,1,1,google.com,Search,2
+2016-07-15T11:15:00,155,1,grymoire.com,Engineering & Technology,1
+2016-07-15T11:15:00,46,1,tutorialspoint.com,General Reference & Learning,1
+2016-07-15T11:15:00,43,1,cs.duke.edu,General Reference & Learning,1
+2016-07-15T11:15:00,36,1,google.com,Search,2
+2016-07-15T11:15:00,12,1,stat.rice.edu,General Reference & Learning,1
+2016-07-15T11:15:00,7,1,supportweb.cs.bham.ac.uk,Video Editing,2
+2016-07-15T11:15:00,1,1,Google Documents,Writing,2
+2016-07-15T11:20:00,233,1,linux-tutorial.info,Search,0
+2016-07-15T11:20:00,44,1,supportweb.cs.bham.ac.uk,Video Editing,2
+2016-07-15T11:20:00,8,1,google.com,Search,2
+2016-07-15T11:40:00,24,1,Mail,Email,2
+2016-07-15T11:40:00,11,1,messages,General Social Networking,-2
+2016-07-15T11:40:00,9,1,linux-tutorial.info,Search,0
+2016-07-15T11:45:00,11,1,messages,General Social Networking,-2
+2016-07-15T12:10:00,116,1,tournamentsoftware.com,General Entertainment,-2
+2016-07-15T12:10:00,6,1,Safari,Browsers,2
+2016-07-15T12:10:00,2,1,loginwindow,General Utilities,0
+2016-07-15T12:10:00,2,1,Mail,Email,2
+2016-07-15T12:10:00,1,1,messages,General Social Networking,-2
+2016-07-15T12:15:00,269,1,tournamentsoftware.com,General Entertainment,-2
+2016-07-15T12:15:00,21,1,tripadvisor.com,Travel & Outdoors,-2
+2016-07-15T12:15:00,5,1,google.com,Search,2
+2016-07-15T12:15:00,4,1,Mail,Email,2
+2016-07-15T12:20:00,247,1,teamusa.org,Uncategorized,0
+2016-07-15T12:20:00,26,1,tournamentsoftware.com,General Entertainment,-2
+2016-07-15T12:20:00,17,1,baystategames.org,Uncategorized,0
+2016-07-15T12:20:00,4,1,google.com,Search,2
+2016-07-15T12:20:00,2,1,Safari,Browsers,2
+2016-07-15T12:20:00,1,1,Mail,Email,2
+2016-07-15T12:25:00,200,1,teamusa.org,Uncategorized,0
+2016-07-15T12:25:00,54,1,rio2016.com,General News & Opinion,-2
+2016-07-15T12:25:00,36,1,google.com,Search,2
+2016-07-15T12:25:00,9,1,Mail,Email,2
+2016-07-15T12:30:00,229,1,rio2016.com,General News & Opinion,-2
+2016-07-15T12:30:00,51,1,ingressos.rio2016.com,General News & Opinion,-2
+2016-07-15T12:30:00,13,1,tournamentsoftware.com,General Entertainment,-2
+2016-07-15T12:30:00,5,1,google.com,Search,2
+2016-07-15T12:30:00,2,1,Safari,Browsers,2
+2016-07-15T12:35:00,15,1,rio2016.com,General News & Opinion,-2
+2016-07-15T13:30:00,151,1,Google Documents,Writing,2
+2016-07-15T13:30:00,3,1,loginwindow,General Utilities,0
+2016-07-15T13:30:00,2,1,rio2016.com,General News & Opinion,-2
+2016-07-15T13:30:00,1,1,eaptlstrust,General Utilities,1
+2016-07-15T13:30:00,1,1,nmr.mgh.harvard.edu,General Reference & Learning,1
+2016-07-15T13:35:00,217,1,Mail,Email,2
+2016-07-15T13:35:00,82,1,Google Documents,Writing,2
+2016-07-15T13:35:00,1,1,nmr.mgh.harvard.edu,General Reference & Learning,1
+2016-07-15T13:40:00,134,1,Mail,Email,2
+2016-07-15T13:50:00,7,1,facebook.com,General Social Networking,-2
+2016-07-15T13:50:00,3,1,Google Documents,Writing,2
+2016-07-15T13:50:00,1,1,portal.aws.amazon.com,Systems Operations,2
+2016-07-15T14:00:00,170,1,facebook.com,General Social Networking,-2
+2016-07-15T14:05:00,172,1,numbeo.com,General Reference & Learning,1
+2016-07-15T14:05:00,118,1,facebook.com,General Social Networking,-2
+2016-07-15T14:05:00,6,1,Safari,Browsers,2
+2016-07-15T14:05:00,4,1,google.com,Search,2
+2016-07-15T14:10:00,300,1,numbeo.com,General Reference & Learning,1
+2016-07-15T14:15:00,300,1,numbeo.com,General Reference & Learning,1
+2016-07-15T14:20:00,300,1,numbeo.com,General Reference & Learning,1
+2016-07-15T14:25:00,299,1,numbeo.com,General Reference & Learning,1
+2016-07-15T14:30:00,177,1,numbeo.com,General Reference & Learning,1
+2016-07-15T14:30:00,115,1,Notes,Email,0
+2016-07-15T14:30:00,8,1,facebook.com,General Social Networking,-2
+2016-07-15T14:35:00,296,1,numbeo.com,General Reference & Learning,1
+2016-07-15T14:35:00,4,1,facebook.com,General Social Networking,-2
+2016-07-15T14:40:00,265,1,numbeo.com,General Reference & Learning,1
+2016-07-15T14:40:00,3,1,nmr.mgh.harvard.edu,General Reference & Learning,1
+2016-07-15T14:40:00,2,1,facebook.com,General Social Networking,-2
+2016-07-15T14:40:00,2,1,Safari,Browsers,2
+2016-07-15T14:40:00,1,1,portal.aws.amazon.com,Systems Operations,2
+2016-07-15T14:55:00,39,1,facebook.com,General Social Networking,-2
+2016-07-15T14:55:00,33,1,Skype,General Social Networking,-2
+2016-07-15T14:55:00,3,1,numbeo.com,General Reference & Learning,1
+2016-07-15T16:20:00,150,1,facebook.com,General Social Networking,-2
+2016-07-15T16:20:00,37,1,Mail,Email,2
+2016-07-15T16:20:00,5,1,loginwindow,General Utilities,0
+2016-07-15T16:20:00,1,1,Skype,General Social Networking,-2
+2016-07-15T16:50:00,77,1,google.com,Search,2
+2016-07-15T16:50:00,59,1,stackoverflow.com,General Software Development,2
+2016-07-15T16:50:00,50,1,unix.stackexchange.com,General Reference & Learning,1
+2016-07-15T16:50:00,37,1,Mail,Email,2
+2016-07-15T16:50:00,7,1,Safari,Browsers,2
+2016-07-15T16:50:00,3,1,Finder,General Utilities,0
+2016-07-15T16:50:00,2,1,loginwindow,General Utilities,0
+2016-07-15T16:50:00,1,1,facebook.com,General Social Networking,-2
+2016-07-15T16:55:00,218,1,unix.stackexchange.com,General Reference & Learning,1
+2016-07-15T16:55:00,17,1,loginwindow,General Utilities,0
+2016-07-15T17:40:00,108,1,amazon.com,General Shopping,-1
+2016-07-15T17:40:00,37,1,bestbuy.com,General Shopping,-2
+2016-07-15T17:40:00,24,1,applications,General Business,2
+2016-07-15T17:40:00,22,1,google.com,Search,2
+2016-07-15T17:40:00,16,1,loginwindow,General Utilities,0
+2016-07-15T17:40:00,2,1,unix.stackexchange.com,General Reference & Learning,1
+2016-07-15T17:40:00,1,1,Google Documents,Writing,2
+2016-07-15T22:10:00,130,1,portal.aws.amazon.com,Systems Operations,2
+2016-07-15T22:10:00,33,1,us-west-2.console.aws.amazon.com,Systems Operations,2
+2016-07-15T22:10:00,19,1,surfer.nmr.mgh.harvard.edu,General Reference & Learning,1
+2016-07-15T22:10:00,12,1,aws.amazon.com,General Software Development,2
+2016-07-15T22:10:00,6,1,bestbuy.com,General Shopping,-2
+2016-07-15T22:10:00,6,1,amazon.com,General Shopping,-1
+2016-07-15T22:10:00,6,1,youtube.com,Video,-2
+2016-07-15T22:10:00,1,1,Amazon AWS Console,General Software Development,2
+2016-07-15T22:15:00,150,1,numbeo.com,General Reference & Learning,1
+2016-07-15T22:15:00,91,1,microsoft word,Writing,2
+2016-07-15T22:15:00,23,1,us-west-2.console.aws.amazon.com,Systems Operations,2
+2016-07-15T22:15:00,22,1,Google Documents,Writing,2
+2016-07-15T22:15:00,4,1,nmr.mgh.harvard.edu,General Reference & Learning,1
+2016-07-15T22:15:00,2,1,drive.google.com,General Business,2
+2016-07-15T22:15:00,1,1,surfer.nmr.mgh.harvard.edu,General Reference & Learning,1
+2016-07-15T22:15:00,1,1,sba.gov,General Business,2
+2016-07-15T22:15:00,1,1,linux-tutorial.info,Search,0
+2016-07-15T22:15:00,1,1,get.videolan.org,General Entertainment,-2
+2016-07-15T22:15:00,1,1,tutorialspoint.com,General Reference & Learning,1
+2016-07-15T22:15:00,1,1,nikonusa.com,Search,-2
+2016-07-15T22:20:00,288,1,microsoft word,Writing,2
+2016-07-15T22:20:00,12,1,Google Documents,Writing,2
+2016-07-15T22:25:00,53,1,microsoft word,Writing,2
+2016-07-15T22:25:00,23,1,Google Documents,Writing,2
+2016-07-15T22:30:00,132,1,microsoft word,Writing,2
+2016-07-15T22:30:00,14,1,Google Documents,Writing,2
+2016-07-15T22:35:00,269,1,microsoft word,Writing,2
+2016-07-15T22:35:00,31,1,Google Documents,Writing,2
+2016-07-15T22:40:00,78,1,Google Documents,Writing,2
+2016-07-15T22:40:00,71,1,microsoft word,Writing,2
+2016-07-15T22:40:00,8,1,loginwindow,General Utilities,0
+2016-07-15T22:40:00,6,1,Mail,Email,2
+2016-07-15T22:40:00,2,1,tournamentsoftware.com,General Entertainment,-2
+2016-07-15T22:45:00,50,1,tournamentsoftware.com,General Entertainment,-2
+2016-07-15T22:50:00,300,1,tournamentsoftware.com,General Entertainment,-2
+2016-07-15T22:55:00,30,1,loginwindow,General Utilities,0
+2016-07-15T22:55:00,21,1,tournamentsoftware.com,General Entertainment,-2

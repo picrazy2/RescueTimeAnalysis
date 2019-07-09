@@ -1,0 +1,279 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2014-01-01T00:10:00,172,1,Skype,General Social Networking,-2
+2014-01-01T00:10:00,4,1,Finder,General Utilities,0
+2014-01-01T00:15:00,120,1,Skype,General Social Networking,-2
+2014-01-01T00:15:00,117,1,Gmail,Email,2
+2014-01-01T00:15:00,46,1,loginwindow,General Utilities,0
+2014-01-01T00:15:00,17,1,Finder,General Utilities,0
+2014-01-01T00:20:00,37,1,Gmail,Email,2
+2014-01-01T00:20:00,22,1,loginwindow,General Utilities,0
+2014-01-01T00:20:00,3,1,Skype,General Social Networking,-2
+2014-01-01T11:20:00,26,1,Mail,Email,2
+2014-01-01T11:20:00,19,1,picrazy2.com,Uncategorized,2
+2014-01-01T11:20:00,3,1,Skype,General Social Networking,-2
+2014-01-01T11:25:00,155,1,tincta,General Software Development,2
+2014-01-01T11:25:00,63,1,users,General Software Development,2
+2014-01-01T11:25:00,62,1,Mail,Email,2
+2014-01-01T11:25:00,20,1,picrazy2.com,Uncategorized,2
+2014-01-01T11:30:00,107,1,users,General Software Development,2
+2014-01-01T11:30:00,64,1,Skype,General Social Networking,-2
+2014-01-01T11:30:00,63,1,Mail,Email,2
+2014-01-01T11:30:00,59,1,tincta,General Software Development,2
+2014-01-01T11:30:00,7,1,evernote,Intelligence,2
+2014-01-01T11:35:00,86,1,pages,Presentation,2
+2014-01-01T11:35:00,66,1,tincta,General Software Development,2
+2014-01-01T11:35:00,61,1,Mail,Email,2
+2014-01-01T11:35:00,33,1,Finder,General Utilities,0
+2014-01-01T11:35:00,23,1,Safari,Browsers,2
+2014-01-01T11:35:00,15,1,users,General Software Development,2
+2014-01-01T11:35:00,13,1,bing.com,Search,2
+2014-01-01T11:35:00,3,1,alfred,General Utilities,2
+2014-01-01T11:40:00,145,1,Adobe Photoshop,Graphic Design,2
+2014-01-01T11:40:00,110,1,Mail,Email,2
+2014-01-01T11:40:00,45,1,Finder,General Utilities,0
+2014-01-01T11:45:00,166,1,Mail,Email,2
+2014-01-01T11:45:00,60,1,users,General Software Development,2
+2014-01-01T11:45:00,51,1,tincta,General Software Development,2
+2014-01-01T11:45:00,23,1,Finder,General Utilities,0
+2014-01-01T11:50:00,92,1,iPhoto,Photos,-2
+2014-01-01T11:50:00,65,1,users,General Software Development,2
+2014-01-01T11:50:00,59,1,tincta,General Software Development,2
+2014-01-01T11:50:00,45,1,Mail,Email,2
+2014-01-01T11:50:00,18,1,Preview,General Reference & Learning,2
+2014-01-01T11:50:00,13,1,Adobe Photoshop,Graphic Design,2
+2014-01-01T11:50:00,6,1,Finder,General Utilities,0
+2014-01-01T11:50:00,2,1,alfred,General Utilities,2
+2014-01-01T11:55:00,121,1,picrazy2.com,Uncategorized,2
+2014-01-01T11:55:00,92,1,Adobe Photoshop,Graphic Design,2
+2014-01-01T11:55:00,36,1,Mail,Email,2
+2014-01-01T11:55:00,23,1,tincta,General Software Development,2
+2014-01-01T11:55:00,17,1,users,General Software Development,2
+2014-01-01T11:55:00,6,1,Skype,General Social Networking,-2
+2014-01-01T11:55:00,4,1,Finder,General Utilities,0
+2014-01-01T11:55:00,1,1,htmlcodetutorial.com,General Software Development,2
+2014-01-01T12:00:00,149,1,tincta,General Software Development,2
+2014-01-01T12:00:00,120,1,users,General Software Development,2
+2014-01-01T12:00:00,31,1,Adobe Photoshop,Graphic Design,2
+2014-01-01T12:05:00,210,1,users,General Software Development,2
+2014-01-01T12:05:00,70,1,tincta,General Software Development,2
+2014-01-01T12:05:00,14,1,Skype,General Social Networking,-2
+2014-01-01T12:05:00,6,1,htmlcodetutorial.com,General Software Development,2
+2014-01-01T12:10:00,105,1,users,General Software Development,2
+2014-01-01T13:40:00,55,1,Mail,Email,2
+2014-01-01T13:40:00,44,1,picrazy2.com,Uncategorized,2
+2014-01-01T13:40:00,16,1,tincta,General Software Development,2
+2014-01-01T13:40:00,3,1,users,General Software Development,2
+2014-01-01T13:40:00,3,1,Skype,General Social Networking,-2
+2014-01-01T13:45:00,124,1,tincta,General Software Development,2
+2014-01-01T13:45:00,120,1,Mail,Email,2
+2014-01-01T13:45:00,42,1,users,General Software Development,2
+2014-01-01T13:45:00,14,1,Finder,General Utilities,0
+2014-01-01T13:50:00,242,1,users,General Software Development,2
+2014-01-01T13:50:00,39,1,Mail,Email,2
+2014-01-01T13:50:00,14,1,tincta,General Software Development,2
+2014-01-01T13:50:00,5,1,matlab,General Software Development,2
+2014-01-01T13:55:00,135,1,ehow.com,Search,0
+2014-01-01T13:55:00,94,1,users,General Software Development,2
+2014-01-01T13:55:00,50,1,Mail,Email,2
+2014-01-01T13:55:00,13,1,microsoft word,Writing,2
+2014-01-01T13:55:00,7,1,picrazy2.com,Uncategorized,2
+2014-01-01T13:55:00,1,1,Preview,General Reference & Learning,2
+2014-01-01T14:00:00,146,1,microsoft word,Writing,2
+2014-01-01T14:00:00,56,1,users,General Software Development,2
+2014-01-01T14:00:00,56,1,picrazy2.com,Uncategorized,2
+2014-01-01T14:00:00,24,1,Amazon AWS Console,General Software Development,2
+2014-01-01T14:00:00,18,1,tincta,General Software Development,2
+2014-01-01T14:05:00,163,1,tincta,General Software Development,2
+2014-01-01T14:05:00,67,1,users,General Software Development,2
+2014-01-01T14:05:00,54,1,Mail,Email,2
+2014-01-01T14:05:00,11,1,picrazy2.com,Uncategorized,2
+2014-01-01T14:05:00,4,1,Safari,Browsers,2
+2014-01-01T14:05:00,1,1,andover.edu,Search,0
+2014-01-01T14:10:00,217,1,tincta,General Software Development,2
+2014-01-01T14:10:00,64,1,ehow.com,Search,0
+2014-01-01T14:10:00,19,1,users,General Software Development,2
+2014-01-01T14:15:00,80,1,tincta,General Software Development,2
+2014-01-01T14:15:00,73,1,users,General Software Development,2
+2014-01-01T14:15:00,71,1,Safari,Browsers,2
+2014-01-01T14:15:00,22,1,Mail,Email,2
+2014-01-01T14:15:00,20,1,transio.com,Uncategorized,0
+2014-01-01T14:15:00,14,1,ehow.com,Search,0
+2014-01-01T14:15:00,9,1,loginwindow,General Utilities,0
+2014-01-01T14:15:00,9,1,applications,General Business,2
+2014-01-01T14:15:00,1,1,alfred,General Utilities,2
+2014-01-01T14:15:00,1,1,Finder,General Utilities,0
+2014-01-01T14:20:00,139,1,tincta,General Software Development,2
+2014-01-01T14:20:00,61,1,users,General Software Development,2
+2014-01-01T14:20:00,36,1,transio.com,Uncategorized,0
+2014-01-01T14:20:00,35,1,w3schools.com,Engineering & Technology,1
+2014-01-01T14:20:00,26,1,ehow.com,Search,0
+2014-01-01T14:20:00,3,1,Mail,Email,2
+2014-01-01T14:25:00,165,1,tincta,General Software Development,2
+2014-01-01T14:25:00,102,1,users,General Software Development,2
+2014-01-01T14:25:00,33,1,ehow.com,Search,0
+2014-01-01T14:30:00,181,1,tincta,General Software Development,2
+2014-01-01T14:30:00,55,1,ehow.com,Search,0
+2014-01-01T14:30:00,40,1,cn.bing.com,Search,0
+2014-01-01T14:30:00,24,1,users,General Software Development,2
+2014-01-01T14:35:00,165,1,tincta,General Software Development,2
+2014-01-01T14:35:00,103,1,users,General Software Development,2
+2014-01-01T14:35:00,24,1,ehow.com,Search,0
+2014-01-01T14:35:00,8,1,Skype,General Social Networking,-2
+2014-01-01T14:40:00,289,1,users,General Software Development,2
+2014-01-01T14:40:00,9,1,Skype,General Social Networking,-2
+2014-01-01T14:40:00,2,1,tincta,General Software Development,2
+2014-01-01T14:45:00,113,1,Skype,General Social Networking,-2
+2014-01-01T14:45:00,113,1,tincta,General Software Development,2
+2014-01-01T14:45:00,54,1,picrazy2.com,Uncategorized,2
+2014-01-01T14:45:00,15,1,users,General Software Development,2
+2014-01-01T14:45:00,5,1,Finder,General Utilities,0
+2014-01-01T14:50:00,132,1,users,General Software Development,2
+2014-01-01T14:50:00,130,1,tincta,General Software Development,2
+2014-01-01T14:50:00,23,1,Safari,Browsers,2
+2014-01-01T14:50:00,10,1,picrazy2.com,Uncategorized,2
+2014-01-01T14:50:00,5,1,Finder,General Utilities,0
+2014-01-01T14:55:00,230,1,tincta,General Software Development,2
+2014-01-01T14:55:00,70,1,users,General Software Development,2
+2014-01-01T15:00:00,209,1,tincta,General Software Development,2
+2014-01-01T15:00:00,82,1,users,General Software Development,2
+2014-01-01T15:00:00,9,1,picrazy2.com,Uncategorized,2
+2014-01-01T15:05:00,135,1,tincta,General Software Development,2
+2014-01-01T15:05:00,86,1,picrazy2.com,Uncategorized,2
+2014-01-01T15:05:00,73,1,users,General Software Development,2
+2014-01-01T15:05:00,4,1,ehow.com,Search,0
+2014-01-01T15:05:00,2,1,Skype,General Social Networking,-2
+2014-01-01T15:10:00,170,1,tincta,General Software Development,2
+2014-01-01T15:10:00,77,1,bing.com,Search,2
+2014-01-01T15:10:00,42,1,users,General Software Development,2
+2014-01-01T15:10:00,9,1,picrazy2.com,Uncategorized,2
+2014-01-01T15:10:00,1,1,Skype,General Social Networking,-2
+2014-01-01T15:10:00,1,1,htmlcodetutorial.com,General Software Development,2
+2014-01-01T15:15:00,151,1,VLC Media Player,Video,-2
+2014-01-01T15:15:00,120,1,handbrake,Video Editing,2
+2014-01-01T15:15:00,17,1,tincta,General Software Development,2
+2014-01-01T15:15:00,4,1,Finder,General Utilities,0
+2014-01-01T15:15:00,4,1,alfred,General Utilities,2
+2014-01-01T15:15:00,4,1,bing.com,Search,2
+2014-01-01T15:20:00,107,1,pages,Presentation,2
+2014-01-01T15:20:00,89,1,tincta,General Software Development,2
+2014-01-01T15:20:00,54,1,VLC Media Player,Video,-2
+2014-01-01T15:20:00,34,1,users,General Software Development,2
+2014-01-01T15:20:00,12,1,css-tricks.com,General News & Opinion,-2
+2014-01-01T15:20:00,4,1,Finder,General Utilities,0
+2014-01-01T15:25:00,200,1,pages,Presentation,2
+2014-01-01T15:25:00,61,1,Skype,General Social Networking,-2
+2014-01-01T15:25:00,39,1,users,General Software Development,2
+2014-01-01T15:30:00,272,1,pages,Presentation,2
+2014-01-01T15:30:00,19,1,Skype,General Social Networking,-2
+2014-01-01T15:30:00,8,1,htmlcodetutorial.com,General Software Development,2
+2014-01-01T15:30:00,1,1,users,General Software Development,2
+2014-01-01T15:35:00,219,1,pages,Presentation,2
+2014-01-01T15:35:00,49,1,Finder,General Utilities,0
+2014-01-01T15:35:00,32,1,users,General Software Development,2
+2014-01-01T15:40:00,243,1,pages,Presentation,2
+2014-01-01T15:40:00,57,1,Skype,General Social Networking,-2
+2014-01-01T15:45:00,207,1,users,General Software Development,2
+2014-01-01T15:45:00,90,1,pages,Presentation,2
+2014-01-01T15:55:00,65,1,Mail,Email,2
+2014-01-01T16:00:00,204,1,Skype,General Social Networking,-2
+2014-01-01T16:00:00,76,1,users,General Software Development,2
+2014-01-01T16:00:00,20,1,Mail,Email,2
+2014-01-01T16:05:00,205,1,Mail,Email,2
+2014-01-01T16:05:00,72,1,Skype,General Social Networking,-2
+2014-01-01T16:05:00,19,1,users,General Software Development,2
+2014-01-01T16:05:00,4,1,pages,Presentation,2
+2014-01-01T16:10:00,300,1,Skype,General Social Networking,-2
+2014-01-01T16:15:00,214,1,Skype,General Social Networking,-2
+2014-01-01T16:15:00,86,1,arduino,Intelligence,2
+2014-01-01T16:20:00,300,1,arduino,Intelligence,2
+2014-01-01T16:25:00,300,1,arduino,Intelligence,2
+2014-01-01T16:30:00,300,1,arduino,Intelligence,2
+2014-01-01T16:35:00,195,1,Mail,Email,2
+2014-01-01T16:35:00,99,1,arduino,Intelligence,2
+2014-01-01T16:35:00,6,1,Skype,General Social Networking,-2
+2014-01-01T16:40:00,300,1,arduino,Intelligence,2
+2014-01-01T16:45:00,213,1,arduino,Intelligence,2
+2014-01-01T16:45:00,38,1,arduino.cc,Engineering & Technology,1
+2014-01-01T16:45:00,32,1,TextEdit,Writing,2
+2014-01-01T16:45:00,17,1,Finder,General Utilities,0
+2014-01-01T16:50:00,267,1,arduino,Intelligence,2
+2014-01-01T16:50:00,33,1,arduino.cc,Engineering & Technology,1
+2014-01-01T16:55:00,273,1,arduino,Intelligence,2
+2014-01-01T16:55:00,18,1,loginwindow,General Utilities,0
+2014-01-01T21:55:00,92,1,matlab,General Software Development,2
+2014-01-01T21:55:00,53,1,arduino,Intelligence,2
+2014-01-01T21:55:00,21,1,Finder,General Utilities,0
+2014-01-01T21:55:00,10,1,Xcode,Editing & IDEs,2
+2014-01-01T21:55:00,7,1,Mail,Email,2
+2014-01-01T21:55:00,1,1,Safari,Browsers,2
+2014-01-01T22:00:00,167,1,users,General Software Development,2
+2014-01-01T22:00:00,91,1,cn.bing.com,Search,0
+2014-01-01T22:00:00,27,1,Mail,Email,2
+2014-01-01T22:00:00,12,1,Safari,Browsers,2
+2014-01-01T22:00:00,3,1,tincta,General Software Development,2
+2014-01-01T22:05:00,181,1,andover.edu,Search,0
+2014-01-01T22:05:00,109,1,Skype,General Social Networking,-2
+2014-01-01T22:05:00,10,1,Mail,Email,2
+2014-01-01T22:10:00,118,1,Skype,General Social Networking,-2
+2014-01-01T22:10:00,92,1,picrazy2.com,Uncategorized,2
+2014-01-01T22:10:00,72,1,fitbit.com,Health & Medicine,1
+2014-01-01T22:10:00,9,1,fitbit connect,Health & Medicine,1
+2014-01-01T22:10:00,9,1,andover.edu,Search,0
+2014-01-01T22:15:00,270,1,fitbit.com,Health & Medicine,1
+2014-01-01T22:15:00,27,1,Skype,General Social Networking,-2
+2014-01-01T22:15:00,3,1,Mail,Email,2
+2014-01-01T22:20:00,105,1,Mail,Email,2
+2014-01-01T22:20:00,67,1,Skype,General Social Networking,-2
+2014-01-01T22:20:00,57,1,picrazy2.com,Uncategorized,2
+2014-01-01T22:20:00,39,1,users,General Software Development,2
+2014-01-01T22:20:00,32,1,fitbit.com,Health & Medicine,1
+2014-01-01T22:25:00,157,1,Skype,General Social Networking,-2
+2014-01-01T22:25:00,68,1,picrazy2.com,Uncategorized,2
+2014-01-01T22:25:00,32,1,users,General Software Development,2
+2014-01-01T22:25:00,27,1,Finder,General Utilities,0
+2014-01-01T22:25:00,14,1,evernote,Intelligence,2
+2014-01-01T22:25:00,2,1,tincta,General Software Development,2
+2014-01-01T22:30:00,248,1,Skype,General Social Networking,-2
+2014-01-01T22:30:00,52,1,fitbit.com,Health & Medicine,1
+2014-01-01T22:35:00,217,1,Skype,General Social Networking,-2
+2014-01-01T22:35:00,37,1,help.fitbit.com,Health & Medicine,1
+2014-01-01T22:35:00,37,1,fitbit.com,Health & Medicine,1
+2014-01-01T22:35:00,9,1,Dictionary,General Reference & Learning,1
+2014-01-01T22:40:00,164,1,help.fitbit.com,Health & Medicine,1
+2014-01-01T22:40:00,73,1,users,General Software Development,2
+2014-01-01T22:40:00,41,1,tincta,General Software Development,2
+2014-01-01T22:40:00,20,1,microsoft word,Writing,2
+2014-01-01T22:40:00,2,1,Dictionary,General Reference & Learning,1
+2014-01-01T22:45:00,121,1,microsoft word,Writing,2
+2014-01-01T22:45:00,86,1,tincta,General Software Development,2
+2014-01-01T22:45:00,72,1,users,General Software Development,2
+2014-01-01T22:45:00,14,1,Skype,General Social Networking,-2
+2014-01-01T22:45:00,7,1,freetexthost.com,Internet Utilities,1
+2014-01-01T22:50:00,85,1,Skype,General Social Networking,-2
+2014-01-01T22:50:00,65,1,picrazy2.com,Uncategorized,2
+2014-01-01T22:50:00,60,1,tincta,General Software Development,2
+2014-01-01T22:50:00,52,1,users,General Software Development,2
+2014-01-01T22:50:00,32,1,microsoft word,Writing,2
+2014-01-01T22:50:00,6,1,Finder,General Utilities,0
+2014-01-01T22:55:00,217,1,Skype,General Social Networking,-2
+2014-01-01T22:55:00,83,1,picrazy2.com,Uncategorized,2
+2014-01-01T23:00:00,263,1,Skype,General Social Networking,-2
+2014-01-01T23:00:00,20,1,poll.pollcode.com,Uncategorized,0
+2014-01-01T23:00:00,17,1,Safari,Browsers,2
+2014-01-01T23:05:00,203,1,Finder,General Utilities,0
+2014-01-01T23:05:00,97,1,Skype,General Social Networking,-2
+2014-01-01T23:10:00,13,1,Finder,General Utilities,0
+2014-01-01T23:10:00,1,1,Skype,General Social Networking,-2
+2014-01-01T23:15:00,190,1,Finder,General Utilities,0
+2014-01-01T23:15:00,29,1,Skype,General Social Networking,-2
+2014-01-01T23:20:00,231,1,Skype,General Social Networking,-2
+2014-01-01T23:20:00,68,1,picrazy2.com,Uncategorized,2
+2014-01-01T23:20:00,1,1,Finder,General Utilities,0
+2014-01-01T23:25:00,168,1,help.fitbit.com,Health & Medicine,1
+2014-01-01T23:25:00,97,1,Dictionary,General Reference & Learning,1
+2014-01-01T23:25:00,23,1,alfred,General Utilities,2
+2014-01-01T23:25:00,12,1,picrazy2.com,Uncategorized,2
+2014-01-01T23:30:00,120,1,users,General Software Development,2
+2014-01-01T23:30:00,87,1,help.fitbit.com,Health & Medicine,1
+2014-01-01T23:30:00,40,1,System Preferences,General Utilities,0
+2014-01-01T23:30:00,23,1,loginwindow,General Utilities,0

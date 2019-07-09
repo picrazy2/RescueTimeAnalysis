@@ -1,0 +1,430 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-07-30T10:25:00,45,1,sublime text,Editing & IDEs,2
+2018-07-30T10:25:00,5,1,Terminal,Systems Operations,2
+2018-07-30T10:25:00,4,1,loginwindow,General Utilities,0
+2018-07-30T10:30:00,193,1,messenger.com,General Social Networking,-2
+2018-07-30T10:30:00,44,1,calendar,Calendars,1
+2018-07-30T10:30:00,1,1,loginwindow,General Utilities,0
+2018-07-30T10:35:00,52,1,Slack,Instant Message,2
+2018-07-30T10:35:00,35,1,github.com,General Software Development,2
+2018-07-30T10:35:00,30,1,grafana.com,Uncategorized,0
+2018-07-30T10:35:00,29,1,Mail,Email,2
+2018-07-30T10:35:00,15,1,sublime text,Editing & IDEs,2
+2018-07-30T10:35:00,10,1,photoshop cc,General Design & Composition,2
+2018-07-30T10:35:00,8,1,Skype,General Social Networking,-2
+2018-07-30T10:35:00,6,1,rescuetime.com,Intelligence,0
+2018-07-30T10:35:00,6,1,virtualbox vm,General Software Development,2
+2018-07-30T10:35:00,4,1,messages,General Social Networking,-2
+2018-07-30T10:35:00,3,1,virtualbox,Virtualization,0
+2018-07-30T10:35:00,3,1,systemuiserver,General Utilities,1
+2018-07-30T10:35:00,2,1,MS Excel,General Business,2
+2018-07-30T10:35:00,1,1,RescueTime,Intelligence,0
+2018-07-30T10:35:00,1,1,docs.grafana.org,General Reference & Learning,1
+2018-07-30T10:40:00,167,1,grafana.com,Uncategorized,0
+2018-07-30T10:40:00,117,1,github.com,General Software Development,2
+2018-07-30T10:40:00,16,1,Mail,Email,2
+2018-07-30T10:45:00,245,1,Preview,General Reference & Learning,2
+2018-07-30T10:45:00,48,1,Mail,Email,2
+2018-07-30T10:45:00,7,1,github.com,General Software Development,2
+2018-07-30T10:50:00,108,1,baike.baidu.com,Search,0
+2018-07-30T10:50:00,65,1,Preview,General Reference & Learning,2
+2018-07-30T10:50:00,54,1,gruntjs.com,General Software Development,2
+2018-07-30T10:50:00,16,1,en.wikipedia.org,General Reference & Learning,1
+2018-07-30T10:50:00,16,1,newtab,Browsers,0
+2018-07-30T10:50:00,15,1,grafana.com,Uncategorized,0
+2018-07-30T10:50:00,10,1,baidu.com,Search,2
+2018-07-30T10:50:00,9,1,docs.grafana.org,General Reference & Learning,1
+2018-07-30T10:50:00,3,1,github.com,General Software Development,2
+2018-07-30T10:50:00,2,1,npmjs.com,General Software Development,2
+2018-07-30T10:50:00,2,1,google.com,Search,2
+2018-07-30T10:55:00,97,1,grafana.com,Uncategorized,0
+2018-07-30T10:55:00,77,1,Preview,General Reference & Learning,2
+2018-07-30T10:55:00,60,1,map.baidu.com,Maps & Regional,-2
+2018-07-30T10:55:00,21,1,gruntjs.com,General Software Development,2
+2018-07-30T10:55:00,20,1,baike.baidu.com,Search,0
+2018-07-30T10:55:00,12,1,newtab,Browsers,0
+2018-07-30T10:55:00,10,1,novell.com,General Utilities,1
+2018-07-30T10:55:00,3,1,docs.docker.com,Engineering & Technology,1
+2018-07-30T11:00:00,264,1,baike.baidu.com,Search,0
+2018-07-30T11:00:00,26,1,ditiezu.com,Uncategorized,0
+2018-07-30T11:00:00,5,1,Preview,General Reference & Learning,2
+2018-07-30T11:00:00,5,1,newtab,Browsers,0
+2018-07-30T11:05:00,213,1,ditiezu.com,Uncategorized,0
+2018-07-30T11:05:00,56,1,baike.baidu.com,Search,0
+2018-07-30T11:05:00,19,1,grafana.com,Uncategorized,0
+2018-07-30T11:05:00,11,1,google.com,Search,2
+2018-07-30T11:05:00,1,1,newtab,Browsers,0
+2018-07-30T11:10:00,274,1,ditiezu.com,Uncategorized,0
+2018-07-30T11:10:00,16,1,map.baidu.com,Maps & Regional,-2
+2018-07-30T11:10:00,6,1,google.com,Search,2
+2018-07-30T11:10:00,2,1,baike.baidu.com,Search,0
+2018-07-30T11:10:00,1,1,newtab,Browsers,0
+2018-07-30T11:15:00,159,1,grafana.com,Uncategorized,0
+2018-07-30T11:15:00,84,1,ditiezu.com,Uncategorized,0
+2018-07-30T11:15:00,38,1,worldpingdemo.grafana.net,General Software Development,2
+2018-07-30T11:15:00,7,1,newtab,Browsers,0
+2018-07-30T11:15:00,6,1,google.com,Search,2
+2018-07-30T11:15:00,6,1,worldping.raintank.io,Uncategorized,0
+2018-07-30T11:20:00,108,1,github.com,General Software Development,2
+2018-07-30T11:20:00,85,1,worldpingdemo.grafana.net,General Software Development,2
+2018-07-30T11:20:00,51,1,grafana.com,Uncategorized,0
+2018-07-30T11:20:00,44,1,virtualbox vm,General Software Development,2
+2018-07-30T11:20:00,11,1,Notes,Email,0
+2018-07-30T11:20:00,1,1,Mail,Email,2
+2018-07-30T11:25:00,219,1,ditiezu.com,Uncategorized,0
+2018-07-30T11:25:00,70,1,virtualbox vm,General Software Development,2
+2018-07-30T11:30:00,235,1,ditiezu.com,Uncategorized,0
+2018-07-30T11:30:00,27,1,github.com,General Software Development,2
+2018-07-30T11:30:00,20,1,Slack,Instant Message,2
+2018-07-30T11:30:00,13,1,grafana.com,Uncategorized,0
+2018-07-30T11:30:00,3,1,worldpingdemo.grafana.net,General Software Development,2
+2018-07-30T11:30:00,2,1,google.com,Search,2
+2018-07-30T11:35:00,134,1,thebeijinger.com,General News & Opinion,-2
+2018-07-30T11:35:00,112,1,ditiezu.com,Uncategorized,0
+2018-07-30T11:35:00,15,1,virtualbox vm,General Software Development,2
+2018-07-30T11:35:00,13,1,github.com,General Software Development,2
+2018-07-30T11:35:00,9,1,docs.docker.com,Engineering & Technology,1
+2018-07-30T11:35:00,5,1,google.com,Search,2
+2018-07-30T11:35:00,5,1,newtab,Browsers,0
+2018-07-30T11:35:00,3,1,gruntjs.com,General Software Development,2
+2018-07-30T11:35:00,2,1,docs.grafana.org,General Reference & Learning,1
+2018-07-30T11:35:00,2,1,grafana.com,Uncategorized,0
+2018-07-30T11:40:00,218,1,ditiezu.com,Uncategorized,0
+2018-07-30T11:40:00,42,1,virtualbox vm,General Software Development,2
+2018-07-30T11:40:00,21,1,map.baidu.com,Maps & Regional,-2
+2018-07-30T11:40:00,14,1,github.com,General Software Development,2
+2018-07-30T11:40:00,3,1,google.com,Search,2
+2018-07-30T11:40:00,1,1,baike.baidu.com,Search,0
+2018-07-30T11:40:00,1,1,newtab,Browsers,0
+2018-07-30T11:45:00,251,1,ditiezu.com,Uncategorized,0
+2018-07-30T11:45:00,46,1,map.baidu.com,Maps & Regional,-2
+2018-07-30T11:45:00,2,1,baike.baidu.com,Search,0
+2018-07-30T11:45:00,1,1,newtab,Browsers,0
+2018-07-30T11:50:00,118,1,ditiezu.com,Uncategorized,0
+2018-07-30T11:50:00,115,1,map.baidu.com,Maps & Regional,-2
+2018-07-30T11:50:00,33,1,google.com,Search,2
+2018-07-30T11:50:00,13,1,github.com,General Software Development,2
+2018-07-30T11:50:00,7,1,docs.grafana.org,General Reference & Learning,1
+2018-07-30T11:50:00,6,1,baike.baidu.com,Search,0
+2018-07-30T11:50:00,6,1,newtab,Browsers,0
+2018-07-30T11:50:00,1,1,novell.com,General Utilities,1
+2018-07-30T11:50:00,1,1,youtube.com,Video,-2
+2018-07-30T11:55:00,221,1,ditiezu.com,Uncategorized,0
+2018-07-30T11:55:00,24,1,google.com,Search,2
+2018-07-30T11:55:00,16,1,baike.baidu.com,Search,0
+2018-07-30T11:55:00,12,1,img.ditiezu.com,Uncategorized,0
+2018-07-30T11:55:00,7,1,github.com,General Software Development,2
+2018-07-30T11:55:00,7,1,grafana.com,Uncategorized,0
+2018-07-30T11:55:00,6,1,bj.bendibao.com,Uncategorized,0
+2018-07-30T11:55:00,3,1,docs.grafana.org,General Reference & Learning,1
+2018-07-30T11:55:00,2,1,gruntjs.com,General Software Development,2
+2018-07-30T11:55:00,2,1,hostingadvice.com,Uncategorized,0
+2018-07-30T12:00:00,144,1,Preview,General Reference & Learning,2
+2018-07-30T12:00:00,71,1,github.com,General Software Development,2
+2018-07-30T12:00:00,33,1,grafana.com,Uncategorized,0
+2018-07-30T12:00:00,13,1,baike.baidu.com,Search,0
+2018-07-30T12:00:00,11,1,map.baidu.com,Maps & Regional,-2
+2018-07-30T12:00:00,6,1,Finder,General Utilities,0
+2018-07-30T12:00:00,3,1,gruntjs.com,General Software Development,2
+2018-07-30T12:00:00,3,1,support.rackspace.com,Internet Utilities,1
+2018-07-30T12:00:00,2,1,google.com,Search,2
+2018-07-30T12:00:00,1,1,wikihow.com,Search,0
+2018-07-30T12:05:00,8,1,google.com,Search,2
+2018-07-30T12:05:00,5,1,loginwindow,General Utilities,0
+2018-07-30T12:05:00,3,1,Finder,General Utilities,0
+2018-07-30T12:10:00,1,1,wechat,General Social Networking,-2
+2018-07-30T12:15:00,188,1,9to5mac.com,General News & Opinion,-2
+2018-07-30T12:15:00,112,1,wechat,General Social Networking,-2
+2018-07-30T12:20:00,154,1,cvws.icloud-content.com,Uncategorized,0
+2018-07-30T12:20:00,133,1,9to5mac.com,General News & Opinion,-2
+2018-07-30T12:20:00,13,1,pages,Presentation,2
+2018-07-30T12:25:00,300,1,cvws.icloud-content.com,Uncategorized,0
+2018-07-30T12:30:00,169,1,cvws.icloud-content.com,Uncategorized,0
+2018-07-30T12:30:00,102,1,pages,Presentation,2
+2018-07-30T12:30:00,19,1,Preview,General Reference & Learning,2
+2018-07-30T12:30:00,8,1,Finder,General Utilities,0
+2018-07-30T12:30:00,2,1,google.com,Search,2
+2018-07-30T12:35:00,223,1,Preview,General Reference & Learning,2
+2018-07-30T12:35:00,77,1,map.baidu.com,Maps & Regional,-2
+2018-07-30T12:40:00,121,1,map.baidu.com,Maps & Regional,-2
+2018-07-30T13:00:00,91,1,google.com,Search,2
+2018-07-30T13:00:00,88,1,Skype,General Social Networking,-2
+2018-07-30T13:00:00,25,1,map.baidu.com,Maps & Regional,-2
+2018-07-30T13:00:00,4,1,novell.com,General Utilities,1
+2018-07-30T13:05:00,263,1,google.com,Search,2
+2018-07-30T13:05:00,36,1,map.baidu.com,Maps & Regional,-2
+2018-07-30T13:05:00,1,1,newtab,Browsers,0
+2018-07-30T13:10:00,226,1,google.com,Search,2
+2018-07-30T13:10:00,51,1,photoshop cc,General Design & Composition,2
+2018-07-30T13:10:00,22,1,Finder,General Utilities,0
+2018-07-30T13:15:00,57,1,photoshop cc,General Design & Composition,2
+2018-07-30T13:15:00,21,1,Finder,General Utilities,0
+2018-07-30T13:20:00,51,1,photoshop cc,General Design & Composition,2
+2018-07-30T13:20:00,35,1,grafana.com,Uncategorized,0
+2018-07-30T13:20:00,18,1,Finder,General Utilities,0
+2018-07-30T13:20:00,15,1,wechat,General Social Networking,-2
+2018-07-30T13:20:00,7,1,sublime text,Editing & IDEs,2
+2018-07-30T13:25:00,240,1,sublime text,Editing & IDEs,2
+2018-07-30T13:25:00,120,1,Finder,General Utilities,0
+2018-07-30T13:25:00,103,1,github.com,General Software Development,2
+2018-07-30T13:25:00,67,1,virtualbox vm,General Software Development,2
+2018-07-30T13:25:00,49,1,grafana.com,Uncategorized,0
+2018-07-30T13:25:00,14,1,google.com,Search,2
+2018-07-30T13:25:00,4,1,wechat,General Social Networking,-2
+2018-07-30T13:25:00,2,1,worldpingdemo.grafana.net,General Software Development,2
+2018-07-30T13:25:00,1,1,map.baidu.com,Maps & Regional,-2
+2018-07-30T13:30:00,301,1,Finder,General Utilities,0
+2018-07-30T13:30:00,182,1,wechat,General Social Networking,-2
+2018-07-30T13:35:00,104,1,Finder,General Utilities,0
+2018-07-30T13:35:00,56,1,Slack,Instant Message,2
+2018-07-30T13:35:00,28,1,virtualbox vm,General Software Development,2
+2018-07-30T13:40:00,129,1,virtualbox vm,General Software Development,2
+2018-07-30T13:40:00,13,1,github.com,General Software Development,2
+2018-07-30T13:40:00,6,1,grafana.com,Uncategorized,0
+2018-07-30T13:45:00,299,1,virtualbox vm,General Software Development,2
+2018-07-30T13:45:00,8,1,Terminal,Systems Operations,2
+2018-07-30T13:50:00,289,1,virtualbox vm,General Software Development,2
+2018-07-30T13:55:00,133,1,sublime text,Editing & IDEs,2
+2018-07-30T13:55:00,112,1,virtualbox vm,General Software Development,2
+2018-07-30T13:55:00,1,1,github.com,General Software Development,2
+2018-07-30T14:00:00,211,1,sublime text,Editing & IDEs,2
+2018-07-30T14:00:00,48,1,Terminal,Systems Operations,2
+2018-07-30T14:00:00,41,1,google.com,Search,2
+2018-07-30T14:05:00,151,1,Terminal,Systems Operations,2
+2018-07-30T14:05:00,149,1,sublime text,Editing & IDEs,2
+2018-07-30T14:10:00,203,1,Terminal,Systems Operations,2
+2018-07-30T14:10:00,57,1,sublime text,Editing & IDEs,2
+2018-07-30T14:10:00,40,1,facebook.com,General Social Networking,-2
+2018-07-30T14:10:00,4,1,github.com,General Software Development,2
+2018-07-30T14:10:00,1,1,docs.grafana.org,General Reference & Learning,1
+2018-07-30T14:10:00,1,1,gruntjs.com,General Software Development,2
+2018-07-30T14:15:00,199,1,facebook.com,General Social Networking,-2
+2018-07-30T14:15:00,83,1,hostingadvice.com,Uncategorized,0
+2018-07-30T14:15:00,60,1,Terminal,Systems Operations,2
+2018-07-30T14:15:00,56,1,grafana.com,Uncategorized,0
+2018-07-30T14:15:00,48,1,github.com,General Software Development,2
+2018-07-30T14:15:00,22,1,Finder,General Utilities,0
+2018-07-30T14:15:00,19,1,Preview,General Reference & Learning,2
+2018-07-30T14:15:00,3,1,docs.grafana.org,General Reference & Learning,1
+2018-07-30T14:15:00,2,1,youtube.com,Video,-2
+2018-07-30T14:15:00,1,1,gruntjs.com,General Software Development,2
+2018-07-30T14:20:00,240,1,Terminal,Systems Operations,2
+2018-07-30T14:20:00,60,1,Preview,General Reference & Learning,2
+2018-07-30T14:25:00,244,1,Terminal,Systems Operations,2
+2018-07-30T14:25:00,43,1,wechat,General Social Networking,-2
+2018-07-30T14:25:00,9,1,sublime text,Editing & IDEs,2
+2018-07-30T14:25:00,4,1,Preview,General Reference & Learning,2
+2018-07-30T14:30:00,198,1,Terminal,Systems Operations,2
+2018-07-30T14:30:00,74,1,wechat,General Social Networking,-2
+2018-07-30T14:30:00,28,1,sublime text,Editing & IDEs,2
+2018-07-30T14:30:00,17,1,Mail,Email,2
+2018-07-30T14:35:00,268,1,sublime text,Editing & IDEs,2
+2018-07-30T14:35:00,128,1,google.com,Search,2
+2018-07-30T14:35:00,90,1,bjsubway.com,Uncategorized,0
+2018-07-30T14:35:00,46,1,mafengwo.cn,Travel & Outdoors,-2
+2018-07-30T14:35:00,18,1,Mail,Email,2
+2018-07-30T14:35:00,17,1,wechat,General Social Networking,-2
+2018-07-30T14:35:00,16,1,messages,General Social Networking,-2
+2018-07-30T14:35:00,15,1,Terminal,Systems Operations,2
+2018-07-30T14:35:00,2,1,grafana.com,Uncategorized,0
+2018-07-30T14:40:00,257,1,bjsubway.com,Uncategorized,0
+2018-07-30T14:40:00,134,1,pypi.org,General Reference & Learning,1
+2018-07-30T14:40:00,55,1,Terminal,Systems Operations,2
+2018-07-30T14:40:00,43,1,github.com,General Software Development,2
+2018-07-30T14:40:00,33,1,facebook.com,General Social Networking,-2
+2018-07-30T14:40:00,17,1,sublime text,Editing & IDEs,2
+2018-07-30T14:40:00,9,1,Mail,Email,2
+2018-07-30T14:45:00,147,1,virtualbox vm,General Software Development,2
+2018-07-30T14:45:00,109,1,github.com,General Software Development,2
+2018-07-30T14:45:00,32,1,pandas.pydata.org,Engineering & Technology,1
+2018-07-30T14:45:00,6,1,newtab,Browsers,0
+2018-07-30T14:45:00,6,1,google.com,Search,2
+2018-07-30T14:50:00,217,1,github.com,General Software Development,2
+2018-07-30T14:50:00,46,1,virtualbox vm,General Software Development,2
+2018-07-30T14:50:00,18,1,grafana.com,Uncategorized,0
+2018-07-30T14:50:00,11,1,docs.grafana.org,General Reference & Learning,1
+2018-07-30T14:50:00,8,1,google.com,Search,2
+2018-07-30T14:55:00,169,1,virtualbox vm,General Software Development,2
+2018-07-30T14:55:00,131,1,github.com,General Software Development,2
+2018-07-30T15:00:00,174,1,newtab,Browsers,0
+2018-07-30T15:00:00,85,1,virtualbox vm,General Software Development,2
+2018-07-30T15:00:00,27,1,docs.grafana.org,General Reference & Learning,1
+2018-07-30T15:00:00,9,1,google.com,Search,2
+2018-07-30T15:00:00,4,1,Notes,Email,0
+2018-07-30T15:00:00,1,1,github.com,General Software Development,2
+2018-07-30T15:05:00,152,1,newtab,Browsers,0
+2018-07-30T15:05:00,78,1,virtualbox vm,General Software Development,2
+2018-07-30T15:05:00,63,1,docs.grafana.org,General Reference & Learning,1
+2018-07-30T15:05:00,7,1,google.com,Search,2
+2018-07-30T15:10:00,203,1,virtualbox vm,General Software Development,2
+2018-07-30T15:10:00,90,1,blog.golang.org,General Software Development,2
+2018-07-30T15:10:00,5,1,newtab,Browsers,0
+2018-07-30T15:10:00,2,1,google.com,Search,2
+2018-07-30T15:15:00,185,1,9to5mac.com,General News & Opinion,-2
+2018-07-30T15:15:00,88,1,blog.golang.org,General Software Development,2
+2018-07-30T15:15:00,10,1,instagram.com,General Social Networking,-2
+2018-07-30T15:15:00,6,1,Slack,Instant Message,2
+2018-07-30T15:15:00,5,1,virtualbox vm,General Software Development,2
+2018-07-30T15:15:00,4,1,github.com,General Software Development,2
+2018-07-30T15:15:00,2,1,Mail,Email,2
+2018-07-30T15:20:00,229,1,Notes,Email,0
+2018-07-30T15:20:00,71,1,virtualbox vm,General Software Development,2
+2018-07-30T15:25:00,158,1,Notes,Email,0
+2018-07-30T15:25:00,67,1,quora.com,General Reference & Learning,-1
+2018-07-30T15:25:00,48,1,stackoverflow.com,General Software Development,2
+2018-07-30T15:25:00,17,1,google.com,Search,2
+2018-07-30T15:25:00,7,1,gopl.io,Engineering & Technology,1
+2018-07-30T15:25:00,2,1,newtab,Browsers,0
+2018-07-30T15:25:00,1,1,9to5mac.com,General News & Opinion,-2
+2018-07-30T15:30:00,148,1,virtualbox vm,General Software Development,2
+2018-07-30T15:30:00,50,1,axios.com,General News & Opinion,-2
+2018-07-30T15:30:00,50,1,google.com,Search,2
+2018-07-30T15:30:00,44,1,Notes,Email,0
+2018-07-30T15:30:00,4,1,bjsubway.com,Uncategorized,0
+2018-07-30T15:30:00,4,1,quora.com,General Reference & Learning,-1
+2018-07-30T15:35:00,80,1,google.com,Search,2
+2018-07-30T15:35:00,77,1,money.cnn.com,General News & Opinion,-2
+2018-07-30T15:35:00,68,1,economist.com,General News & Opinion,-2
+2018-07-30T15:35:00,36,1,inkstonenews.com,Uncategorized,0
+2018-07-30T15:35:00,26,1,variety.com,General News & Opinion,-2
+2018-07-30T15:35:00,13,1,axios.com,General News & Opinion,-2
+2018-07-30T15:40:00,130,1,nationalinterest.org,General News & Opinion,-2
+2018-07-30T15:40:00,84,1,1843magazine.com,General News & Opinion,-2
+2018-07-30T15:40:00,44,1,economist.com,General News & Opinion,-2
+2018-07-30T15:40:00,22,1,google.com,Search,2
+2018-07-30T15:40:00,20,1,virtualbox vm,General Software Development,2
+2018-07-30T15:45:00,203,1,docs.grafana.org,General Reference & Learning,1
+2018-07-30T15:45:00,46,1,bloomberg.com,Business,-1
+2018-07-30T15:45:00,41,1,1843magazine.com,General News & Opinion,-2
+2018-07-30T15:45:00,8,1,google.com,Search,2
+2018-07-30T15:45:00,2,1,grafana.com,Uncategorized,0
+2018-07-30T15:50:00,168,1,virtualbox vm,General Software Development,2
+2018-07-30T15:50:00,40,1,Notes,Email,0
+2018-07-30T15:50:00,34,1,docs.grafana.org,General Reference & Learning,1
+2018-07-30T15:50:00,31,1,blog.golang.org,General Software Development,2
+2018-07-30T15:50:00,12,1,pandas.pydata.org,Engineering & Technology,1
+2018-07-30T15:50:00,7,1,quora.com,General Reference & Learning,-1
+2018-07-30T15:50:00,4,1,google.com,Search,2
+2018-07-30T15:50:00,2,1,stackoverflow.com,General Software Development,2
+2018-07-30T15:50:00,2,1,newtab,Browsers,0
+2018-07-30T15:55:00,278,1,virtualbox vm,General Software Development,2
+2018-07-30T15:55:00,10,1,Notes,Email,0
+2018-07-30T15:55:00,7,1,loginwindow,General Utilities,0
+2018-07-30T15:55:00,3,1,wechat,General Social Networking,-2
+2018-07-30T15:55:00,2,1,pandas.pydata.org,Engineering & Technology,1
+2018-07-30T16:00:00,218,1,virtualbox vm,General Software Development,2
+2018-07-30T16:00:00,82,1,Notes,Email,0
+2018-07-30T16:05:00,168,1,virtualbox vm,General Software Development,2
+2018-07-30T16:05:00,115,1,stackoverflow.com,General Software Development,2
+2018-07-30T16:05:00,8,1,google.com,Search,2
+2018-07-30T16:05:00,7,1,newtab,Browsers,0
+2018-07-30T16:05:00,2,1,blog.golang.org,General Software Development,2
+2018-07-30T16:10:00,190,1,lifehacks.stackexchange.com,Engineering & Technology,1
+2018-07-30T16:10:00,78,1,stackoverflow.com,General Software Development,2
+2018-07-30T16:10:00,32,1,latin.stackexchange.com,Engineering & Technology,1
+2018-07-30T16:15:00,246,1,virtualbox vm,General Software Development,2
+2018-07-30T16:15:00,37,1,blog.golang.org,General Software Development,2
+2018-07-30T16:15:00,9,1,stackoverflow.com,General Software Development,2
+2018-07-30T16:15:00,5,1,newtab,Browsers,0
+2018-07-30T16:15:00,3,1,google.com,Search,2
+2018-07-30T16:20:00,291,1,virtualbox vm,General Software Development,2
+2018-07-30T16:20:00,5,1,blog.golang.org,General Software Development,2
+2018-07-30T16:20:00,4,1,golang.org,Engineering & Technology,1
+2018-07-30T16:25:00,258,1,virtualbox vm,General Software Development,2
+2018-07-30T16:25:00,18,1,gobyexample.com,General Software Development,2
+2018-07-30T16:25:00,10,1,golangcode.com,Uncategorized,0
+2018-07-30T16:25:00,9,1,google.com,Search,2
+2018-07-30T16:25:00,4,1,newtab,Browsers,0
+2018-07-30T16:25:00,1,1,blog.golang.org,General Software Development,2
+2018-07-30T16:30:00,238,1,virtualbox vm,General Software Development,2
+2018-07-30T16:30:00,40,1,stackoverflow.com,General Software Development,2
+2018-07-30T16:30:00,10,1,blog.golang.org,General Software Development,2
+2018-07-30T16:30:00,7,1,golangcode.com,Uncategorized,0
+2018-07-30T16:30:00,4,1,google.com,Search,2
+2018-07-30T16:30:00,1,1,golang.org,Engineering & Technology,1
+2018-07-30T16:35:00,290,1,virtualbox vm,General Software Development,2
+2018-07-30T16:35:00,5,1,tour.golang.org,Engineering & Technology,1
+2018-07-30T16:35:00,2,1,newtab,Browsers,0
+2018-07-30T16:35:00,2,1,google.com,Search,2
+2018-07-30T16:35:00,1,1,blog.golang.org,General Software Development,2
+2018-07-30T16:40:00,91,1,stackoverflow.com,General Software Development,2
+2018-07-30T16:40:00,88,1,google.com,Search,2
+2018-07-30T16:40:00,71,1,virtualbox vm,General Software Development,2
+2018-07-30T16:40:00,35,1,newtab,Browsers,0
+2018-07-30T16:40:00,15,1,tour.golang.org,Engineering & Technology,1
+2018-07-30T16:45:00,73,1,scmp.com,General News & Opinion,-2
+2018-07-30T16:45:00,69,1,google.com,Search,2
+2018-07-30T16:45:00,64,1,reuters.com,General News & Opinion,-2
+2018-07-30T16:45:00,43,1,tour.golang.org,Engineering & Technology,1
+2018-07-30T16:45:00,41,1,thebeijinger.com,General News & Opinion,-2
+2018-07-30T16:45:00,6,1,nytimes.com,General News & Opinion,-2
+2018-07-30T16:45:00,4,1,newtab,Browsers,0
+2018-07-30T16:50:00,221,1,virtualbox vm,General Software Development,2
+2018-07-30T16:50:00,57,1,thebeijinger.com,General News & Opinion,-2
+2018-07-30T16:50:00,22,1,stackoverflow.com,General Software Development,2
+2018-07-30T16:55:00,300,1,virtualbox vm,General Software Development,2
+2018-07-30T17:00:00,198,1,virtualbox vm,General Software Development,2
+2018-07-30T17:00:00,2,1,stackoverflow.com,General Software Development,2
+2018-07-30T17:10:00,61,1,Notes,Email,0
+2018-07-30T17:10:00,41,1,stackoverflow.com,General Software Development,2
+2018-07-30T17:10:00,1,1,virtualbox vm,General Software Development,2
+2018-07-30T17:15:00,86,1,virtualbox vm,General Software Development,2
+2018-07-30T17:15:00,80,1,blog.golang.org,General Software Development,2
+2018-07-30T17:15:00,6,1,stackoverflow.com,General Software Development,2
+2018-07-30T17:15:00,3,1,google.com,Search,2
+2018-07-30T17:15:00,2,1,golang.org,Engineering & Technology,1
+2018-07-30T17:20:00,3,1,virtualbox vm,General Software Development,2
+2018-07-30T21:45:00,245,1,pandas.pydata.org,Engineering & Technology,1
+2018-07-30T21:45:00,17,1,newtab,Browsers,0
+2018-07-30T21:45:00,14,1,Finder,General Utilities,0
+2018-07-30T21:45:00,8,1,facebook.com,General Social Networking,-2
+2018-07-30T21:45:00,4,1,iphone backup extractor,General Utilities,1
+2018-07-30T21:45:00,3,1,pages,Presentation,2
+2018-07-30T21:45:00,3,1,wechat,General Social Networking,-2
+2018-07-30T21:50:00,248,1,newtab,Browsers,0
+2018-07-30T21:50:00,37,1,en.wikipedia.org,General Reference & Learning,1
+2018-07-30T21:50:00,14,1,Safari,Browsers,2
+2018-07-30T21:50:00,1,1,cs.mcgill.ca,General Reference & Learning,1
+2018-07-30T21:55:00,293,1,en.wikipedia.org,General Reference & Learning,1
+2018-07-30T21:55:00,7,1,cs.mcgill.ca,General Reference & Learning,1
+2018-07-30T22:00:00,233,1,en.wikipedia.org,General Reference & Learning,1
+2018-07-30T22:00:00,67,1,cs.mcgill.ca,General Reference & Learning,1
+2018-07-30T22:05:00,249,1,en.wikipedia.org,General Reference & Learning,1
+2018-07-30T22:05:00,45,1,cs.mcgill.ca,General Reference & Learning,1
+2018-07-30T22:05:00,6,1,Safari,Browsers,2
+2018-07-30T22:10:00,192,1,en.wikipedia.org,General Reference & Learning,1
+2018-07-30T22:10:00,93,1,cs.mcgill.ca,General Reference & Learning,1
+2018-07-30T22:10:00,15,1,wikiroulette.co,Uncategorized,0
+2018-07-30T22:15:00,268,1,en.wikipedia.org,General Reference & Learning,1
+2018-07-30T22:15:00,30,1,wikiroulette.co,Uncategorized,0
+2018-07-30T22:15:00,2,1,Finder,General Utilities,0
+2018-07-30T22:20:00,252,1,en.wikipedia.org,General Reference & Learning,1
+2018-07-30T22:20:00,32,1,wikiroulette.co,Uncategorized,0
+2018-07-30T22:20:00,16,1,history,Browsers,0
+2018-07-30T22:25:00,264,1,en.wikipedia.org,General Reference & Learning,1
+2018-07-30T22:25:00,36,1,wikiroulette.co,Uncategorized,0
+2018-07-30T22:30:00,287,1,en.wikipedia.org,General Reference & Learning,1
+2018-07-30T22:30:00,13,1,wikiroulette.co,Uncategorized,0
+2018-07-30T22:35:00,256,1,en.wikipedia.org,General Reference & Learning,1
+2018-07-30T22:35:00,44,1,wikiroulette.co,Uncategorized,0
+2018-07-30T22:40:00,171,1,geoguessr.com,Games,-2
+2018-07-30T22:40:00,87,1,en.wikipedia.org,General Reference & Learning,1
+2018-07-30T22:40:00,42,1,wikiroulette.co,Uncategorized,0
+2018-07-30T22:45:00,300,1,geoguessr.com,Games,-2
+2018-07-30T22:50:00,300,1,geoguessr.com,Games,-2
+2018-07-30T22:55:00,300,1,geoguessr.com,Games,-2
+2018-07-30T23:00:00,300,1,geoguessr.com,Games,-2
+2018-07-30T23:05:00,295,1,geoguessr.com,Games,-2
+2018-07-30T23:05:00,5,1,messenger.com,General Social Networking,-2
+2018-07-30T23:10:00,298,1,geoguessr.com,Games,-2
+2018-07-30T23:10:00,2,1,Dictionary,General Reference & Learning,1
+2018-07-30T23:15:00,300,1,geoguessr.com,Games,-2
+2018-07-30T23:20:00,300,1,geoguessr.com,Games,-2
+2018-07-30T23:25:00,300,1,geoguessr.com,Games,-2
+2018-07-30T23:30:00,297,1,geoguessr.com,Games,-2
+2018-07-30T23:30:00,3,1,messenger.com,General Social Networking,-2
+2018-07-30T23:35:00,300,1,geoguessr.com,Games,-2
+2018-07-30T23:40:00,300,1,geoguessr.com,Games,-2
+2018-07-30T23:45:00,300,1,geoguessr.com,Games,-2
+2018-07-30T23:50:00,300,1,geoguessr.com,Games,-2
+2018-07-30T23:55:00,300,1,geoguessr.com,Games,-2

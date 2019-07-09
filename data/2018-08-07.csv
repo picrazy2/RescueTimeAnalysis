@@ -1,0 +1,400 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-08-07T00:00:00,300,1,google.com,Search,2
+2018-08-07T00:05:00,300,1,google.com,Search,2
+2018-08-07T00:10:00,300,1,google.com,Search,2
+2018-08-07T00:15:00,300,1,google.com,Search,2
+2018-08-07T00:20:00,300,1,google.com,Search,2
+2018-08-07T00:25:00,300,1,google.com,Search,2
+2018-08-07T00:30:00,300,1,google.com,Search,2
+2018-08-07T00:35:00,300,1,google.com,Search,2
+2018-08-07T00:40:00,300,1,google.com,Search,2
+2018-08-07T00:45:00,300,1,google.com,Search,2
+2018-08-07T00:50:00,36,1,google.com,Search,2
+2018-08-07T00:50:00,1,1,loginwindow,General Utilities,0
+2018-08-07T00:55:00,191,1,google.com,Search,2
+2018-08-07T00:55:00,2,1,loginwindow,General Utilities,0
+2018-08-07T01:00:00,300,1,google.com,Search,2
+2018-08-07T01:05:00,300,1,google.com,Search,2
+2018-08-07T01:10:00,300,1,google.com,Search,2
+2018-08-07T01:15:00,300,1,google.com,Search,2
+2018-08-07T01:20:00,286,1,google.com,Search,2
+2018-08-07T01:20:00,1,1,loginwindow,General Utilities,0
+2018-08-07T01:25:00,233,1,google.com,Search,2
+2018-08-07T01:25:00,25,1,Notes,Email,0
+2018-08-07T01:25:00,2,1,loginwindow,General Utilities,0
+2018-08-07T10:35:00,149,1,photos,Photos,0
+2018-08-07T10:35:00,42,1,virtualbox vm,General Software Development,2
+2018-08-07T10:35:00,2,1,Slack,Instant Message,2
+2018-08-07T10:40:00,133,1,9to5mac.com,General News & Opinion,-2
+2018-08-07T10:40:00,70,1,Slack,Instant Message,2
+2018-08-07T10:40:00,48,1,tutorialedge.net,Uncategorized,0
+2018-08-07T10:40:00,31,1,virtualbox vm,General Software Development,2
+2018-08-07T10:40:00,9,1,businessinsider.com,General News & Opinion,-2
+2018-08-07T10:40:00,6,1,google.com,Search,2
+2018-08-07T10:40:00,2,1,newtab,Browsers,0
+2018-08-07T10:40:00,1,1,youtube.com,Video,-2
+2018-08-07T10:45:00,206,1,Skype,General Social Networking,-2
+2018-08-07T10:45:00,34,1,virtualbox vm,General Software Development,2
+2018-08-07T10:45:00,31,1,9to5mac.com,General News & Opinion,-2
+2018-08-07T10:45:00,22,1,Slack,Instant Message,2
+2018-08-07T10:45:00,5,1,Preview,General Reference & Learning,2
+2018-08-07T10:50:00,293,1,virtualbox vm,General Software Development,2
+2018-08-07T10:50:00,3,1,messages,General Social Networking,-2
+2018-08-07T10:50:00,3,1,Mail,Email,2
+2018-08-07T10:50:00,1,1,Preview,General Reference & Learning,2
+2018-08-07T10:55:00,219,1,virtualbox vm,General Software Development,2
+2018-08-07T10:55:00,74,1,photos,Photos,0
+2018-08-07T10:55:00,7,1,Skype,General Social Networking,-2
+2018-08-07T11:00:00,237,1,virtualbox vm,General Software Development,2
+2018-08-07T11:00:00,39,1,photos,Photos,0
+2018-08-07T11:00:00,12,1,Notes,Email,0
+2018-08-07T11:00:00,9,1,businessinsider.com,General News & Opinion,-2
+2018-08-07T11:00:00,3,1,google.com,Search,2
+2018-08-07T11:05:00,228,1,virtualbox vm,General Software Development,2
+2018-08-07T11:05:00,72,1,google.com,Search,2
+2018-08-07T11:10:00,263,1,virtualbox vm,General Software Development,2
+2018-08-07T11:10:00,26,1,godoc.org,Engineering & Technology,1
+2018-08-07T11:10:00,8,1,Skype,General Social Networking,-2
+2018-08-07T11:10:00,3,1,google.com,Search,2
+2018-08-07T11:15:00,289,1,virtualbox vm,General Software Development,2
+2018-08-07T11:15:00,3,1,godoc.org,Engineering & Technology,1
+2018-08-07T11:15:00,2,1,google.com,Search,2
+2018-08-07T11:20:00,139,1,virtualbox vm,General Software Development,2
+2018-08-07T11:20:00,47,1,Google Documents,Writing,2
+2018-08-07T11:20:00,9,1,Safari,Browsers,2
+2018-08-07T11:20:00,7,1,accounts.google.com,General Communication & Scheduling,0
+2018-08-07T11:20:00,4,1,Slack,Instant Message,2
+2018-08-07T11:20:00,2,1,Skype,General Social Networking,-2
+2018-08-07T11:20:00,1,1,Notes,Email,0
+2018-08-07T11:20:00,1,1,google.com,Search,2
+2018-08-07T11:25:00,10,1,Slack,Instant Message,2
+2018-08-07T11:25:00,1,1,virtualbox vm,General Software Development,2
+2018-08-07T11:25:00,1,1,Notes,Email,0
+2018-08-07T11:30:00,300,1,virtualbox vm,General Software Development,2
+2018-08-07T11:35:00,98,1,Mail,Email,2
+2018-08-07T11:35:00,81,1,translate.google.com,Search,1
+2018-08-07T11:35:00,68,1,virtualbox vm,General Software Development,2
+2018-08-07T11:35:00,43,1,foodeasygo.com,Uncategorized,0
+2018-08-07T11:35:00,7,1,Safari,Browsers,2
+2018-08-07T11:35:00,2,1,Google Documents,Writing,2
+2018-08-07T11:35:00,1,1,Preview,General Reference & Learning,2
+2018-08-07T11:40:00,300,1,Mail,Email,2
+2018-08-07T11:45:00,174,1,Mail,Email,2
+2018-08-07T11:45:00,102,1,virtualbox vm,General Software Development,2
+2018-08-07T11:45:00,15,1,fedex.com,Employment,2
+2018-08-07T11:45:00,6,1,secure1.store.apple.com,Electronics,-2
+2018-08-07T11:45:00,2,1,store.apple.com,Electronics,-2
+2018-08-07T11:50:00,289,1,virtualbox vm,General Software Development,2
+2018-08-07T11:50:00,8,1,Slack,Instant Message,2
+2018-08-07T11:50:00,3,1,Preview,General Reference & Learning,2
+2018-08-07T11:55:00,283,1,virtualbox vm,General Software Development,2
+2018-08-07T12:00:00,221,1,virtualbox vm,General Software Development,2
+2018-08-07T12:35:00,114,1,github.com,General Software Development,2
+2018-08-07T12:35:00,7,1,fedex.com,Employment,2
+2018-08-07T12:40:00,272,1,google.com,Search,2
+2018-08-07T12:40:00,8,1,github.com,General Software Development,2
+2018-08-07T12:40:00,3,1,newtab,Browsers,0
+2018-08-07T12:45:00,300,1,google.com,Search,2
+2018-08-07T12:50:00,263,1,google.com,Search,2
+2018-08-07T12:50:00,37,1,Notes,Email,0
+2018-08-07T12:55:00,300,1,google.com,Search,2
+2018-08-07T13:00:00,300,1,google.com,Search,2
+2018-08-07T13:05:00,300,1,google.com,Search,2
+2018-08-07T13:10:00,288,1,google.com,Search,2
+2018-08-07T13:10:00,12,1,Mail,Email,2
+2018-08-07T13:15:00,145,1,google.com,Search,2
+2018-08-07T13:15:00,137,1,translate.google.com,Search,1
+2018-08-07T13:15:00,14,1,Notes,Email,0
+2018-08-07T13:15:00,4,1,wechat,General Social Networking,-2
+2018-08-07T13:20:00,300,1,google.com,Search,2
+2018-08-07T13:25:00,140,1,google.com,Search,2
+2018-08-07T13:25:00,15,1,Notes,Email,0
+2018-08-07T13:35:00,13,1,google.com,Search,2
+2018-08-07T13:40:00,300,1,google.com,Search,2
+2018-08-07T13:45:00,263,1,google.com,Search,2
+2018-08-07T13:45:00,37,1,Notes,Email,0
+2018-08-07T13:50:00,250,1,google.com,Search,2
+2018-08-07T13:50:00,50,1,Notes,Email,0
+2018-08-07T13:55:00,300,1,google.com,Search,2
+2018-08-07T14:00:00,206,1,thebeijinger.com,General News & Opinion,-2
+2018-08-07T14:00:00,66,1,google.com,Search,2
+2018-08-07T14:00:00,28,1,Notes,Email,0
+2018-08-07T14:00:00,2,1,loginwindow,General Utilities,0
+2018-08-07T14:00:00,1,1,github.com,General Software Development,2
+2018-08-07T14:05:00,300,1,thebeijinger.com,General News & Opinion,-2
+2018-08-07T14:10:00,191,1,thebeijinger.com,General News & Opinion,-2
+2018-08-07T14:10:00,104,1,google.com,Search,2
+2018-08-07T14:10:00,5,1,wechat,General Social Networking,-2
+2018-08-07T14:15:00,300,1,google.com,Search,2
+2018-08-07T14:20:00,285,1,google.com,Search,2
+2018-08-07T14:20:00,15,1,Notes,Email,0
+2018-08-07T14:25:00,209,1,google.com,Search,2
+2018-08-07T14:25:00,91,1,wechat,General Social Networking,-2
+2018-08-07T14:30:00,266,1,google.com,Search,2
+2018-08-07T14:30:00,24,1,Notes,Email,0
+2018-08-07T14:30:00,10,1,Mail,Email,2
+2018-08-07T14:35:00,300,1,google.com,Search,2
+2018-08-07T14:40:00,266,1,google.com,Search,2
+2018-08-07T14:40:00,24,1,wechat,General Social Networking,-2
+2018-08-07T14:40:00,10,1,Notes,Email,0
+2018-08-07T14:45:00,189,1,google.com,Search,2
+2018-08-07T14:45:00,111,1,Notes,Email,0
+2018-08-07T14:50:00,289,1,en.wikipedia.org,General Reference & Learning,1
+2018-08-07T14:50:00,11,1,Notes,Email,0
+2018-08-07T14:55:00,176,1,Notes,Email,0
+2018-08-07T14:55:00,94,1,google.com,Search,2
+2018-08-07T14:55:00,30,1,en.wikipedia.org,General Reference & Learning,1
+2018-08-07T15:00:00,259,1,google.com,Search,2
+2018-08-07T15:00:00,41,1,Notes,Email,0
+2018-08-07T15:05:00,300,1,google.com,Search,2
+2018-08-07T15:10:00,300,1,google.com,Search,2
+2018-08-07T15:15:00,204,1,google.com,Search,2
+2018-08-07T15:15:00,96,1,Notes,Email,0
+2018-08-07T15:20:00,274,1,google.com,Search,2
+2018-08-07T15:20:00,26,1,Notes,Email,0
+2018-08-07T15:25:00,158,1,google.com,Search,2
+2018-08-07T15:25:00,126,1,github.com,General Software Development,2
+2018-08-07T15:25:00,10,1,justincalleja.com,Uncategorized,0
+2018-08-07T15:25:00,9,1,godoc.org,Engineering & Technology,1
+2018-08-07T15:25:00,2,1,apple.com,Engineering & Technology,-1
+2018-08-07T15:25:00,2,1,newtab,Browsers,0
+2018-08-07T15:25:00,1,1,loginwindow,General Utilities,0
+2018-08-07T15:30:00,190,1,github.com,General Software Development,2
+2018-08-07T15:30:00,88,1,en.wikipedia.org,General Reference & Learning,1
+2018-08-07T15:30:00,13,1,yaml.org,General Software Development,2
+2018-08-07T15:30:00,7,1,google.com,Search,2
+2018-08-07T15:30:00,2,1,newtab,Browsers,0
+2018-08-07T15:35:00,162,1,yaml.org,General Software Development,2
+2018-08-07T15:35:00,121,1,accounts.google.com,General Communication & Scheduling,0
+2018-08-07T15:35:00,66,1,Mail,Email,2
+2018-08-07T15:35:00,6,1,Gmail,Email,2
+2018-08-07T15:35:00,6,1,loginwindow,General Utilities,0
+2018-08-07T15:35:00,3,1,newtab,Browsers,0
+2018-08-07T15:40:00,205,1,yaml.org,General Software Development,2
+2018-08-07T15:40:00,92,1,google.com,Search,2
+2018-08-07T15:40:00,2,1,newtab,Browsers,0
+2018-08-07T15:40:00,1,1,Gmail,Email,2
+2018-08-07T15:45:00,300,1,google.com,Search,2
+2018-08-07T15:50:00,216,1,TextEdit,Writing,2
+2018-08-07T15:50:00,49,1,google.com,Search,2
+2018-08-07T15:50:00,13,1,virtualbox vm,General Software Development,2
+2018-08-07T15:50:00,11,1,System Preferences,General Utilities,0
+2018-08-07T15:50:00,11,1,yaml.org,General Software Development,2
+2018-08-07T15:55:00,176,1,sublime text,Editing & IDEs,2
+2018-08-07T15:55:00,101,1,TextEdit,Writing,2
+2018-08-07T15:55:00,13,1,yaml.org,General Software Development,2
+2018-08-07T15:55:00,5,1,Notes,Email,0
+2018-08-07T15:55:00,3,1,Finder,General Utilities,0
+2018-08-07T16:00:00,235,1,sublime text,Editing & IDEs,2
+2018-08-07T16:00:00,63,1,google.com,Search,2
+2018-08-07T16:00:00,2,1,yaml.org,General Software Development,2
+2018-08-07T16:05:00,276,1,google.com,Search,2
+2018-08-07T16:05:00,16,1,Notes,Email,0
+2018-08-07T16:05:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2018-08-07T16:05:00,3,1,Finder,General Utilities,0
+2018-08-07T16:10:00,178,1,google.com,Search,2
+2018-08-07T16:10:00,113,1,sublime text,Editing & IDEs,2
+2018-08-07T16:10:00,9,1,en.wikipedia.org,General Reference & Learning,1
+2018-08-07T16:15:00,209,1,sublime text,Editing & IDEs,2
+2018-08-07T16:15:00,39,1,virtualbox vm,General Software Development,2
+2018-08-07T16:15:00,19,1,github.com,General Software Development,2
+2018-08-07T16:15:00,14,1,Gmail,Email,2
+2018-08-07T16:15:00,11,1,yaml.org,General Software Development,2
+2018-08-07T16:15:00,4,1,en.wikipedia.org,General Reference & Learning,1
+2018-08-07T16:15:00,3,1,google.com,Search,2
+2018-08-07T16:15:00,1,1,godoc.org,Engineering & Technology,1
+2018-08-07T16:20:00,234,1,virtualbox vm,General Software Development,2
+2018-08-07T16:20:00,58,1,github.com,General Software Development,2
+2018-08-07T16:20:00,3,1,yaml.org,General Software Development,2
+2018-08-07T16:20:00,2,1,godoc.org,Engineering & Technology,1
+2018-08-07T16:20:00,2,1,Gmail,Email,2
+2018-08-07T16:20:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2018-08-07T16:25:00,66,1,virtualbox vm,General Software Development,2
+2018-08-07T16:25:00,40,1,stackoverflow.com,General Software Development,2
+2018-08-07T16:25:00,13,1,github.com,General Software Development,2
+2018-08-07T16:25:00,11,1,newtab,Browsers,0
+2018-08-07T16:25:00,3,1,google.com,Search,2
+2018-08-07T16:30:00,105,1,virtualbox vm,General Software Development,2
+2018-08-07T16:30:00,53,1,github.com,General Software Development,2
+2018-08-07T16:30:00,49,1,yamllint.com,General Software Development,2
+2018-08-07T16:30:00,33,1,stackoverflow.com,General Software Development,2
+2018-08-07T16:30:00,20,1,google.com,Search,2
+2018-08-07T16:30:00,15,1,forums.docker.com,General Software Development,2
+2018-08-07T16:30:00,15,1,Gmail,Email,2
+2018-08-07T16:30:00,4,1,sublime text,Editing & IDEs,2
+2018-08-07T16:30:00,4,1,newtab,Browsers,0
+2018-08-07T16:30:00,2,1,reddit.com,General News & Opinion,-2
+2018-08-07T16:35:00,183,1,reddit.com,General News & Opinion,-2
+2018-08-07T16:35:00,49,1,virtualbox vm,General Software Development,2
+2018-08-07T16:35:00,41,1,github.com,General Software Development,2
+2018-08-07T16:35:00,16,1,Gmail,Email,2
+2018-08-07T16:35:00,6,1,Mail,Email,2
+2018-08-07T16:35:00,3,1,en.wikipedia.org,General Reference & Learning,1
+2018-08-07T16:35:00,2,1,godoc.org,Engineering & Technology,1
+2018-08-07T16:40:00,291,1,Mail,Email,2
+2018-08-07T16:40:00,9,1,google.com,Search,2
+2018-08-07T16:45:00,210,1,virtualbox vm,General Software Development,2
+2018-08-07T16:45:00,89,1,google.com,Search,2
+2018-08-07T16:45:00,1,1,virtualbox,Virtualization,0
+2018-08-07T16:50:00,259,1,virtualbox vm,General Software Development,2
+2018-08-07T16:50:00,30,1,codebeautify.org,Editing & IDEs,2
+2018-08-07T16:50:00,5,1,google.com,Search,2
+2018-08-07T16:50:00,3,1,newtab,Browsers,0
+2018-08-07T16:50:00,2,1,github.com,General Software Development,2
+2018-08-07T16:50:00,1,1,sublime text,Editing & IDEs,2
+2018-08-07T16:55:00,171,1,virtualbox vm,General Software Development,2
+2018-08-07T16:55:00,112,1,thebeijinger.com,General News & Opinion,-2
+2018-08-07T16:55:00,6,1,google.com,Search,2
+2018-08-07T16:55:00,5,1,newtab,Browsers,0
+2018-08-07T16:55:00,4,1,Keynote,Presentation,2
+2018-08-07T16:55:00,1,1,codebeautify.org,Editing & IDEs,2
+2018-08-07T16:55:00,1,1,Preview,General Reference & Learning,2
+2018-08-07T17:00:00,205,1,virtualbox vm,General Software Development,2
+2018-08-07T17:00:00,59,1,google.com,Search,2
+2018-08-07T17:00:00,27,1,github.com,General Software Development,2
+2018-08-07T17:00:00,6,1,thebeijinger.com,General News & Opinion,-2
+2018-08-07T17:00:00,3,1,godoc.org,Engineering & Technology,1
+2018-08-07T17:05:00,300,1,google.com,Search,2
+2018-08-07T17:10:00,300,1,google.com,Search,2
+2018-08-07T17:15:00,300,1,google.com,Search,2
+2018-08-07T17:20:00,300,1,google.com,Search,2
+2018-08-07T17:25:00,294,1,google.com,Search,2
+2018-08-07T17:25:00,6,1,Notes,Email,0
+2018-08-07T17:30:00,286,1,google.com,Search,2
+2018-08-07T17:30:00,24,1,Mail,Email,2
+2018-08-07T17:30:00,11,1,Notes,Email,0
+2018-08-07T17:30:00,5,1,Dictionary,General Reference & Learning,1
+2018-08-07T17:30:00,3,1,newtab,Browsers,0
+2018-08-07T17:30:00,1,1,loginwindow,General Utilities,0
+2018-08-07T17:35:00,167,1,google.com,Search,2
+2018-08-07T17:35:00,103,1,virtualbox vm,General Software Development,2
+2018-08-07T17:35:00,27,1,tour-beijing.com,Uncategorized,0
+2018-08-07T17:35:00,2,1,newtab,Browsers,0
+2018-08-07T17:35:00,1,1,reddit.com,General News & Opinion,-2
+2018-08-07T17:40:00,272,1,virtualbox vm,General Software Development,2
+2018-08-07T17:40:00,18,1,github.com,General Software Development,2
+2018-08-07T17:40:00,8,1,sublime text,Editing & IDEs,2
+2018-08-07T17:40:00,1,1,google.com,Search,2
+2018-08-07T17:40:00,1,1,godoc.org,Engineering & Technology,1
+2018-08-07T17:45:00,218,1,virtualbox vm,General Software Development,2
+2018-08-07T17:45:00,21,1,blog.chewxy.com,General News & Opinion,-2
+2018-08-07T17:45:00,19,1,medium.com,General News & Opinion,-2
+2018-08-07T17:45:00,18,1,github.com,General Software Development,2
+2018-08-07T17:45:00,9,1,google.com,Search,2
+2018-08-07T17:45:00,8,1,kunalkushwaha.github.io,General Software Development,2
+2018-08-07T17:45:00,7,1,newtab,Browsers,0
+2018-08-07T17:50:00,147,1,virtualbox vm,General Software Development,2
+2018-08-07T17:50:00,53,1,godoc.org,Engineering & Technology,1
+2018-08-07T17:50:00,52,1,golang-book.com,Engineering & Technology,1
+2018-08-07T17:50:00,23,1,stackoverflow.com,General Software Development,2
+2018-08-07T17:50:00,11,1,kunalkushwaha.github.io,General Software Development,2
+2018-08-07T17:50:00,9,1,google.com,Search,2
+2018-08-07T17:50:00,3,1,en.wikipedia.org,General Reference & Learning,1
+2018-08-07T17:50:00,2,1,newtab,Browsers,0
+2018-08-07T17:55:00,185,1,virtualbox vm,General Software Development,2
+2018-08-07T17:55:00,58,1,reddit.com,General News & Opinion,-2
+2018-08-07T17:55:00,46,1,stackoverflow.com,General Software Development,2
+2018-08-07T17:55:00,7,1,google.com,Search,2
+2018-08-07T17:55:00,4,1,newtab,Browsers,0
+2018-08-07T18:00:00,200,1,virtualbox vm,General Software Development,2
+2018-08-07T18:00:00,54,1,stackoverflow.com,General Software Development,2
+2018-08-07T18:00:00,26,1,google.com,Search,2
+2018-08-07T18:00:00,11,1,reddit.com,General News & Opinion,-2
+2018-08-07T18:00:00,9,1,medium.com,General News & Opinion,-2
+2018-08-07T18:05:00,300,1,virtualbox vm,General Software Development,2
+2018-08-07T18:10:00,300,1,virtualbox vm,General Software Development,2
+2018-08-07T18:15:00,255,1,virtualbox vm,General Software Development,2
+2018-08-07T18:15:00,33,1,golang.org,Engineering & Technology,1
+2018-08-07T18:15:00,5,1,google.com,Search,2
+2018-08-07T18:15:00,4,1,newtab,Browsers,0
+2018-08-07T18:15:00,3,1,stackoverflow.com,General Software Development,2
+2018-08-07T18:20:00,289,1,virtualbox vm,General Software Development,2
+2018-08-07T18:20:00,5,1,github.com,General Software Development,2
+2018-08-07T18:20:00,5,1,sublime text,Editing & IDEs,2
+2018-08-07T18:20:00,1,1,godoc.org,Engineering & Technology,1
+2018-08-07T18:25:00,170,1,virtualbox vm,General Software Development,2
+2018-08-07T18:25:00,36,1,noeffclue.blogspot.com,General Business,2
+2018-08-07T18:25:00,35,1,stackoverflow.com,General Software Development,2
+2018-08-07T18:25:00,30,1,groups.google.com,General Communication & Scheduling,0
+2018-08-07T18:25:00,21,1,google.com,Search,2
+2018-08-07T18:25:00,6,1,newtab,Browsers,0
+2018-08-07T18:25:00,2,1,github.com,General Software Development,2
+2018-08-07T18:30:00,248,1,virtualbox vm,General Software Development,2
+2018-08-07T18:30:00,26,1,github.com,General Software Development,2
+2018-08-07T18:30:00,15,1,google.com,Search,2
+2018-08-07T18:30:00,10,1,tour.golang.org,Engineering & Technology,1
+2018-08-07T18:30:00,1,1,godoc.org,Engineering & Technology,1
+2018-08-07T18:35:00,185,1,virtualbox vm,General Software Development,2
+2018-08-07T18:35:00,82,1,groups.google.com,General Communication & Scheduling,0
+2018-08-07T18:35:00,14,1,google.com,Search,2
+2018-08-07T18:35:00,11,1,godoc.org,Engineering & Technology,1
+2018-08-07T18:35:00,8,1,gist.github.com,General Software Development,2
+2018-08-07T18:40:00,251,1,virtualbox vm,General Software Development,2
+2018-08-07T19:35:00,106,1,google.com,Search,2
+2018-08-07T19:35:00,15,1,Mail,Email,2
+2018-08-07T19:35:00,6,1,loginwindow,General Utilities,0
+2018-08-07T19:40:00,300,1,google.com,Search,2
+2018-08-07T19:45:00,300,1,google.com,Search,2
+2018-08-07T19:50:00,242,1,map.baidu.com,Maps & Regional,-2
+2018-08-07T19:50:00,47,1,google.com,Search,2
+2018-08-07T19:50:00,11,1,Notes,Email,0
+2018-08-07T19:55:00,236,1,map.baidu.com,Maps & Regional,-2
+2018-08-07T19:55:00,64,1,Notes,Email,0
+2018-08-07T20:00:00,146,1,google.com,Search,2
+2018-08-07T20:00:00,129,1,map.baidu.com,Maps & Regional,-2
+2018-08-07T20:00:00,25,1,Notes,Email,0
+2018-08-07T20:05:00,226,1,google.com,Search,2
+2018-08-07T20:05:00,64,1,map.baidu.com,Maps & Regional,-2
+2018-08-07T20:05:00,10,1,Notes,Email,0
+2018-08-07T20:10:00,300,1,google.com,Search,2
+2018-08-07T20:15:00,300,1,google.com,Search,2
+2018-08-07T20:20:00,300,1,google.com,Search,2
+2018-08-07T20:25:00,300,1,google.com,Search,2
+2018-08-07T20:30:00,300,1,google.com,Search,2
+2018-08-07T20:35:00,300,1,google.com,Search,2
+2018-08-07T20:40:00,300,1,google.com,Search,2
+2018-08-07T20:45:00,300,1,google.com,Search,2
+2018-08-07T20:50:00,300,1,google.com,Search,2
+2018-08-07T20:55:00,300,1,google.com,Search,2
+2018-08-07T21:00:00,300,1,google.com,Search,2
+2018-08-07T21:05:00,300,1,google.com,Search,2
+2018-08-07T21:10:00,300,1,google.com,Search,2
+2018-08-07T21:15:00,300,1,google.com,Search,2
+2018-08-07T21:20:00,300,1,google.com,Search,2
+2018-08-07T21:25:00,300,1,google.com,Search,2
+2018-08-07T21:30:00,300,1,google.com,Search,2
+2018-08-07T21:35:00,300,1,google.com,Search,2
+2018-08-07T21:40:00,300,1,google.com,Search,2
+2018-08-07T21:45:00,300,1,google.com,Search,2
+2018-08-07T21:50:00,300,1,google.com,Search,2
+2018-08-07T21:55:00,300,1,google.com,Search,2
+2018-08-07T22:00:00,300,1,google.com,Search,2
+2018-08-07T22:05:00,300,1,google.com,Search,2
+2018-08-07T22:10:00,300,1,google.com,Search,2
+2018-08-07T22:15:00,165,1,google.com,Search,2
+2018-08-07T22:15:00,40,1,youtube.com,Video,-2
+2018-08-07T22:15:00,5,1,loginwindow,General Utilities,0
+2018-08-07T22:40:00,167,1,google.com,Search,2
+2018-08-07T22:40:00,3,1,loginwindow,General Utilities,0
+2018-08-07T22:45:00,300,1,google.com,Search,2
+2018-08-07T22:50:00,300,1,google.com,Search,2
+2018-08-07T22:55:00,300,1,google.com,Search,2
+2018-08-07T23:00:00,300,1,google.com,Search,2
+2018-08-07T23:05:00,162,1,google.com,Search,2
+2018-08-07T23:10:00,32,1,photos,Photos,0
+2018-08-07T23:10:00,4,1,google.com,Search,2
+2018-08-07T23:10:00,3,1,photo booth,General Entertainment,0
+2018-08-07T23:15:00,156,1,photos,Photos,0
+2018-08-07T23:15:00,144,1,google.com,Search,2
+2018-08-07T23:20:00,199,1,geoguessr.com,Games,-2
+2018-08-07T23:20:00,71,1,google.com,Search,2
+2018-08-07T23:20:00,30,1,messenger.com,General Social Networking,-2
+2018-08-07T23:25:00,300,1,geoguessr.com,Games,-2
+2018-08-07T23:30:00,300,1,geoguessr.com,Games,-2
+2018-08-07T23:35:00,300,1,geoguessr.com,Games,-2
+2018-08-07T23:40:00,300,1,geoguessr.com,Games,-2
+2018-08-07T23:45:00,280,1,geoguessr.com,Games,-2
+2018-08-07T23:45:00,17,1,messenger.com,General Social Networking,-2
+2018-08-07T23:45:00,3,1,sublime text,Editing & IDEs,2
+2018-08-07T23:50:00,300,1,geoguessr.com,Games,-2
+2018-08-07T23:55:00,300,1,geoguessr.com,Games,-2

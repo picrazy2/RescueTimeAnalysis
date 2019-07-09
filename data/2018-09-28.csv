@@ -1,0 +1,518 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-09-28T00:25:00,113,1,Preview,General Reference & Learning,2
+2018-09-28T00:30:00,203,1,Preview,General Reference & Learning,2
+2018-09-28T00:30:00,35,1,introml.mit.edu,Presentation,2
+2018-09-28T00:30:00,21,1,sublime text,Editing & IDEs,2
+2018-09-28T00:30:00,16,1,Finder,General Utilities,0
+2018-09-28T00:30:00,12,1,Terminal,Systems Operations,2
+2018-09-28T00:30:00,10,1,en.wikipedia.org,General Reference & Learning,1
+2018-09-28T00:30:00,1,1,wolframalpha.com,Search,1
+2018-09-28T00:30:00,1,1,archive utility,General Utilities,1
+2018-09-28T00:35:00,225,1,introml.mit.edu,Presentation,2
+2018-09-28T00:35:00,43,1,sublime text,Editing & IDEs,2
+2018-09-28T00:35:00,19,1,Terminal,Systems Operations,2
+2018-09-28T00:35:00,5,1,idp.mit.edu,General Reference & Learning,1
+2018-09-28T00:35:00,2,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T00:35:00,2,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-09-28T00:35:00,1,1,piazza.com,General Reference & Learning,2
+2018-09-28T00:35:00,1,1,l.messenger.com,Instant Message,-1
+2018-09-28T00:35:00,1,1,gradescope.com,General Reference & Learning,1
+2018-09-28T00:35:00,1,1,messenger.com,General Social Networking,-2
+2018-09-28T00:40:00,109,1,sublime text,Editing & IDEs,2
+2018-09-28T00:40:00,90,1,introml.mit.edu,Presentation,2
+2018-09-28T00:40:00,41,1,wechat,General Social Networking,-2
+2018-09-28T00:40:00,34,1,Terminal,Systems Operations,2
+2018-09-28T00:40:00,26,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T00:45:00,155,1,wechat,General Social Networking,-2
+2018-09-28T00:45:00,64,1,sublime text,Editing & IDEs,2
+2018-09-28T00:45:00,12,1,Terminal,Systems Operations,2
+2018-09-28T00:55:00,142,1,wechat,General Social Networking,-2
+2018-09-28T00:55:00,102,1,sublime text,Editing & IDEs,2
+2018-09-28T00:55:00,37,1,introml.mit.edu,Presentation,2
+2018-09-28T00:55:00,5,1,Terminal,Systems Operations,2
+2018-09-28T00:55:00,3,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T01:00:00,132,1,introml.mit.edu,Presentation,2
+2018-09-28T01:00:00,75,1,wechat,General Social Networking,-2
+2018-09-28T01:00:00,29,1,youtube.com,Video,-2
+2018-09-28T01:00:00,25,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T01:00:00,23,1,sublime text,Editing & IDEs,2
+2018-09-28T01:00:00,7,1,messenger.com,General Social Networking,-2
+2018-09-28T01:00:00,3,1,google.com,Search,2
+2018-09-28T01:00:00,3,1,iTunes,Music,0
+2018-09-28T01:00:00,2,1,Safari,Browsers,2
+2018-09-28T01:00:00,1,1,texshop,Writing,2
+2018-09-28T01:05:00,135,1,sublime text,Editing & IDEs,2
+2018-09-28T01:05:00,120,1,introml.mit.edu,Presentation,2
+2018-09-28T01:05:00,24,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T01:05:00,9,1,stackoverflow.com,General Software Development,2
+2018-09-28T01:05:00,5,1,safari-resource:,Browsers,0
+2018-09-28T01:05:00,4,1,google.com,Search,2
+2018-09-28T01:05:00,2,1,facebook.com,General Social Networking,-2
+2018-09-28T01:10:00,176,1,sublime text,Editing & IDEs,2
+2018-09-28T01:10:00,45,1,introml.mit.edu,Presentation,2
+2018-09-28T01:10:00,35,1,Terminal,Systems Operations,2
+2018-09-28T01:10:00,18,1,stackoverflow.com,General Software Development,2
+2018-09-28T01:10:00,17,1,google.com,Search,2
+2018-09-28T01:10:00,5,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T01:10:00,3,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T01:10:00,1,1,youtube.com,Video,-2
+2018-09-28T01:15:00,146,1,introml.mit.edu,Presentation,2
+2018-09-28T01:15:00,69,1,messenger.com,General Social Networking,-2
+2018-09-28T01:15:00,61,1,sublime text,Editing & IDEs,2
+2018-09-28T01:15:00,17,1,Terminal,Systems Operations,2
+2018-09-28T01:15:00,5,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T01:15:00,2,1,stackoverflow.com,General Software Development,2
+2018-09-28T01:20:00,131,1,introml.mit.edu,Presentation,2
+2018-09-28T01:20:00,89,1,sublime text,Editing & IDEs,2
+2018-09-28T01:20:00,65,1,messenger.com,General Social Networking,-2
+2018-09-28T01:20:00,8,1,Terminal,Systems Operations,2
+2018-09-28T01:20:00,4,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T01:20:00,3,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T01:25:00,147,1,Terminal,Systems Operations,2
+2018-09-28T01:25:00,90,1,sublime text,Editing & IDEs,2
+2018-09-28T01:25:00,31,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T01:25:00,18,1,introml.mit.edu,Presentation,2
+2018-09-28T01:25:00,5,1,messenger.com,General Social Networking,-2
+2018-09-28T01:25:00,5,1,wechat,General Social Networking,-2
+2018-09-28T01:25:00,2,1,stackoverflow.com,General Software Development,2
+2018-09-28T01:25:00,1,1,google.com,Search,2
+2018-09-28T01:30:00,146,1,Terminal,Systems Operations,2
+2018-09-28T01:30:00,114,1,sublime text,Editing & IDEs,2
+2018-09-28T01:30:00,32,1,introml.mit.edu,Presentation,2
+2018-09-28T01:30:00,8,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T01:35:00,128,1,sublime text,Editing & IDEs,2
+2018-09-28T01:35:00,95,1,Terminal,Systems Operations,2
+2018-09-28T01:35:00,69,1,introml.mit.edu,Presentation,2
+2018-09-28T01:35:00,8,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T01:40:00,157,1,sublime text,Editing & IDEs,2
+2018-09-28T01:40:00,57,1,Terminal,Systems Operations,2
+2018-09-28T01:40:00,33,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T01:40:00,26,1,stackoverflow.com,General Software Development,2
+2018-09-28T01:40:00,20,1,introml.mit.edu,Presentation,2
+2018-09-28T01:40:00,7,1,google.com,Search,2
+2018-09-28T01:45:00,136,1,sublime text,Editing & IDEs,2
+2018-09-28T01:45:00,131,1,introml.mit.edu,Presentation,2
+2018-09-28T01:45:00,32,1,Terminal,Systems Operations,2
+2018-09-28T01:50:00,157,1,introml.mit.edu,Presentation,2
+2018-09-28T01:50:00,129,1,sublime text,Editing & IDEs,2
+2018-09-28T01:50:00,10,1,messenger.com,General Social Networking,-2
+2018-09-28T01:50:00,4,1,stackoverflow.com,General Software Development,2
+2018-09-28T01:55:00,249,1,introml.mit.edu,Presentation,2
+2018-09-28T01:55:00,48,1,sublime text,Editing & IDEs,2
+2018-09-28T01:55:00,3,1,wechat,General Social Networking,-2
+2018-09-28T02:00:00,163,1,sublime text,Editing & IDEs,2
+2018-09-28T02:00:00,73,1,introml.mit.edu,Presentation,2
+2018-09-28T02:00:00,35,1,wechat,General Social Networking,-2
+2018-09-28T02:00:00,18,1,tutorialspoint.com,General Reference & Learning,1
+2018-09-28T02:00:00,7,1,stackoverflow.com,General Software Development,2
+2018-09-28T02:00:00,4,1,google.com,Search,2
+2018-09-28T02:05:00,118,1,sublime text,Editing & IDEs,2
+2018-09-28T02:05:00,116,1,introml.mit.edu,Presentation,2
+2018-09-28T02:05:00,66,1,wechat,General Social Networking,-2
+2018-09-28T02:10:00,107,1,wechat,General Social Networking,-2
+2018-09-28T02:10:00,39,1,introml.mit.edu,Presentation,2
+2018-09-28T02:10:00,9,1,sublime text,Editing & IDEs,2
+2018-09-28T02:30:00,53,1,introml.mit.edu,Presentation,2
+2018-09-28T02:30:00,13,1,wechat,General Social Networking,-2
+2018-09-28T02:30:00,2,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T02:35:00,230,1,introml.mit.edu,Presentation,2
+2018-09-28T02:35:00,70,1,sublime text,Editing & IDEs,2
+2018-09-28T02:40:00,152,1,introml.mit.edu,Presentation,2
+2018-09-28T02:40:00,93,1,sublime text,Editing & IDEs,2
+2018-09-28T02:40:00,33,1,Terminal,Systems Operations,2
+2018-09-28T02:40:00,14,1,messenger.com,General Social Networking,-2
+2018-09-28T02:40:00,7,1,wechat,General Social Networking,-2
+2018-09-28T02:40:00,1,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-09-28T02:45:00,112,1,introml.mit.edu,Presentation,2
+2018-09-28T02:45:00,95,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T02:45:00,90,1,sublime text,Editing & IDEs,2
+2018-09-28T02:45:00,3,1,tutorialspoint.com,General Reference & Learning,1
+2018-09-28T02:50:00,211,1,sublime text,Editing & IDEs,2
+2018-09-28T02:50:00,61,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T02:50:00,25,1,introml.mit.edu,Presentation,2
+2018-09-28T02:50:00,3,1,messenger.com,General Social Networking,-2
+2018-09-28T02:55:00,227,1,sublime text,Editing & IDEs,2
+2018-09-28T02:55:00,73,1,introml.mit.edu,Presentation,2
+2018-09-28T03:00:00,144,1,introml.mit.edu,Presentation,2
+2018-09-28T03:00:00,59,1,sublime text,Editing & IDEs,2
+2018-09-28T03:00:00,55,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T03:00:00,24,1,messenger.com,General Social Networking,-2
+2018-09-28T03:00:00,14,1,Finder,General Utilities,0
+2018-09-28T03:00:00,2,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-09-28T03:00:00,1,1,texshop,Writing,2
+2018-09-28T03:05:00,186,1,sublime text,Editing & IDEs,2
+2018-09-28T03:05:00,66,1,messenger.com,General Social Networking,-2
+2018-09-28T03:05:00,48,1,introml.mit.edu,Presentation,2
+2018-09-28T03:10:00,144,1,sublime text,Editing & IDEs,2
+2018-09-28T03:10:00,67,1,introml.mit.edu,Presentation,2
+2018-09-28T03:10:00,51,1,messenger.com,General Social Networking,-2
+2018-09-28T03:10:00,38,1,Terminal,Systems Operations,2
+2018-09-28T03:15:00,64,1,introml.mit.edu,Presentation,2
+2018-09-28T03:15:00,52,1,sublime text,Editing & IDEs,2
+2018-09-28T03:15:00,30,1,messenger.com,General Social Networking,-2
+2018-09-28T03:15:00,22,1,Terminal,Systems Operations,2
+2018-09-28T03:15:00,1,1,loginwindow,General Utilities,0
+2018-09-28T03:20:00,48,1,Mail,Email,2
+2018-09-28T03:20:00,3,1,introml.mit.edu,Presentation,2
+2018-09-28T03:20:00,1,1,loginwindow,General Utilities,0
+2018-09-28T11:00:00,255,1,app.remoteinterview.io,Uncategorized,0
+2018-09-28T11:00:00,7,1,Mail,Email,2
+2018-09-28T11:00:00,2,1,loginwindow,General Utilities,0
+2018-09-28T11:05:00,300,1,app.remoteinterview.io,Uncategorized,0
+2018-09-28T11:10:00,300,1,app.remoteinterview.io,Uncategorized,0
+2018-09-28T11:15:00,229,1,app.remoteinterview.io,Uncategorized,0
+2018-09-28T11:15:00,35,1,stackoverflow.com,General Software Development,2
+2018-09-28T11:15:00,23,1,w3schools.com,Engineering & Technology,1
+2018-09-28T11:15:00,13,1,google.com,Search,2
+2018-09-28T11:20:00,165,1,app.remoteinterview.io,Uncategorized,0
+2018-09-28T11:20:00,43,1,webtoolkitonline.com,Uncategorized,0
+2018-09-28T11:20:00,40,1,stackoverflow.com,General Software Development,2
+2018-09-28T11:20:00,40,1,w3schools.com,Engineering & Technology,1
+2018-09-28T11:20:00,8,1,Safari,Browsers,2
+2018-09-28T11:20:00,4,1,google.com,Search,2
+2018-09-28T11:25:00,115,1,jdoodle.com,Uncategorized,0
+2018-09-28T11:25:00,74,1,js.do,General Software Development,2
+2018-09-28T11:25:00,56,1,webtoolkitonline.com,Uncategorized,0
+2018-09-28T11:25:00,22,1,app.remoteinterview.io,Uncategorized,0
+2018-09-28T11:25:00,21,1,w3schools.com,Engineering & Technology,1
+2018-09-28T11:25:00,6,1,google.com,Search,2
+2018-09-28T11:25:00,5,1,Safari,Browsers,2
+2018-09-28T11:30:00,255,1,tutorialspoint.com,General Reference & Learning,1
+2018-09-28T11:30:00,23,1,jdoodle.com,Uncategorized,0
+2018-09-28T11:30:00,13,1,app.remoteinterview.io,Uncategorized,0
+2018-09-28T11:30:00,6,1,w3schools.com,Engineering & Technology,1
+2018-09-28T11:30:00,3,1,google.com,Search,2
+2018-09-28T11:35:00,135,1,codiva.io,Uncategorized,0
+2018-09-28T11:35:00,96,1,tutorialspoint.com,General Reference & Learning,1
+2018-09-28T11:35:00,34,1,app.remoteinterview.io,Uncategorized,0
+2018-09-28T11:35:00,14,1,javaonlinecompiler.com,Uncategorized,0
+2018-09-28T11:35:00,13,1,stackoverflow.com,General Software Development,2
+2018-09-28T11:35:00,3,1,jdoodle.com,Uncategorized,0
+2018-09-28T11:35:00,3,1,js.do,General Software Development,2
+2018-09-28T11:35:00,1,1,google.com,Search,2
+2018-09-28T11:40:00,157,1,app.remoteinterview.io,Uncategorized,0
+2018-09-28T11:40:00,143,1,codiva.io,Uncategorized,0
+2018-09-28T11:45:00,202,1,app.remoteinterview.io,Uncategorized,0
+2018-09-28T11:45:00,51,1,js.do,General Software Development,2
+2018-09-28T11:45:00,30,1,codiva.io,Uncategorized,0
+2018-09-28T11:45:00,7,1,jdoodle.com,Uncategorized,0
+2018-09-28T11:45:00,4,1,tutorialspoint.com,General Reference & Learning,1
+2018-09-28T11:45:00,3,1,introml.mit.edu,Presentation,2
+2018-09-28T11:45:00,2,1,google.com,Search,2
+2018-09-28T11:50:00,92,1,app.remoteinterview.io,Uncategorized,0
+2018-09-28T11:50:00,1,1,loginwindow,General Utilities,0
+2018-09-28T13:05:00,169,1,introml.mit.edu,Presentation,2
+2018-09-28T13:05:00,3,1,messenger.com,General Social Networking,-2
+2018-09-28T13:05:00,2,1,app.remoteinterview.io,Uncategorized,0
+2018-09-28T13:05:00,2,1,loginwindow,General Utilities,0
+2018-09-28T13:10:00,300,1,introml.mit.edu,Presentation,2
+2018-09-28T13:15:00,188,1,introml.mit.edu,Presentation,2
+2018-09-28T13:15:00,50,1,Mail,Email,2
+2018-09-28T13:15:00,28,1,Finder,General Utilities,0
+2018-09-28T13:15:00,17,1,wechat,General Social Networking,-2
+2018-09-28T13:15:00,14,1,sublime text,Editing & IDEs,2
+2018-09-28T13:15:00,1,1,calendar,Calendars,1
+2018-09-28T13:20:00,263,1,introml.mit.edu,Presentation,2
+2018-09-28T13:20:00,37,1,sublime text,Editing & IDEs,2
+2018-09-28T13:25:00,264,1,introml.mit.edu,Presentation,2
+2018-09-28T13:25:00,36,1,sublime text,Editing & IDEs,2
+2018-09-28T13:30:00,217,1,introml.mit.edu,Presentation,2
+2018-09-28T13:30:00,83,1,sublime text,Editing & IDEs,2
+2018-09-28T13:35:00,267,1,sublime text,Editing & IDEs,2
+2018-09-28T13:35:00,33,1,introml.mit.edu,Presentation,2
+2018-09-28T13:40:00,249,1,introml.mit.edu,Presentation,2
+2018-09-28T13:40:00,26,1,sublime text,Editing & IDEs,2
+2018-09-28T13:40:00,15,1,Finder,General Utilities,0
+2018-09-28T13:40:00,10,1,TextEdit,Writing,2
+2018-09-28T13:45:00,186,1,virtualbox vm,General Software Development,2
+2018-09-28T13:45:00,68,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T13:45:00,31,1,introml.mit.edu,Presentation,2
+2018-09-28T13:45:00,9,1,sublime text,Editing & IDEs,2
+2018-09-28T13:45:00,3,1,Terminal,Systems Operations,2
+2018-09-28T13:45:00,1,1,calendar,Calendars,1
+2018-09-28T13:50:00,300,1,introml.mit.edu,Presentation,2
+2018-09-28T13:55:00,78,1,introml.mit.edu,Presentation,2
+2018-09-28T13:55:00,62,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T13:55:00,51,1,messenger.com,General Social Networking,-2
+2018-09-28T13:55:00,41,1,backup and sync from google,Uncategorized,0
+2018-09-28T13:55:00,30,1,virtualbox vm,General Software Development,2
+2018-09-28T13:55:00,21,1,apple.com,Engineering & Technology,-1
+2018-09-28T13:55:00,5,1,google.com,Search,2
+2018-09-28T13:55:00,5,1,apple,Uncategorized,0
+2018-09-28T13:55:00,4,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T13:55:00,2,1,tutorialspoint.com,General Reference & Learning,1
+2018-09-28T14:00:00,137,1,virtualbox vm,General Software Development,2
+2018-09-28T14:00:00,109,1,Mail,Email,2
+2018-09-28T14:00:00,27,1,bluespec.com,Uncategorized,0
+2018-09-28T14:00:00,13,1,google.com,Search,2
+2018-09-28T14:00:00,8,1,Finder,General Utilities,0
+2018-09-28T14:00:00,3,1,wiki.bluespec.com,Uncategorized,0
+2018-09-28T14:00:00,3,1,tutorialspoint.com,General Reference & Learning,1
+2018-09-28T14:05:00,40,1,virtualbox vm,General Software Development,2
+2018-09-28T14:05:00,34,1,google.com/calendar,Calendars,2
+2018-09-28T14:05:00,23,1,ece.ucsb.edu,General Reference & Learning,1
+2018-09-28T14:05:00,9,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T14:05:00,7,1,messenger.com,General Social Networking,-2
+2018-09-28T14:05:00,6,1,google.com,Search,2
+2018-09-28T14:05:00,5,1,sublime text,Editing & IDEs,2
+2018-09-28T14:05:00,4,1,Mail,Email,2
+2018-09-28T14:05:00,3,1,Safari,Browsers,2
+2018-09-28T14:05:00,2,1,calendar,Calendars,1
+2018-09-28T14:10:00,76,1,messenger.com,General Social Networking,-2
+2018-09-28T14:10:00,41,1,virtualbox vm,General Software Development,2
+2018-09-28T14:10:00,1,1,virtualbox,Virtualization,0
+2018-09-28T14:10:00,1,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T14:15:00,270,1,video.odl.mit.edu,General Reference & Learning,1
+2018-09-28T14:15:00,27,1,introml.mit.edu,Presentation,2
+2018-09-28T14:15:00,3,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T14:20:00,300,1,video.odl.mit.edu,General Reference & Learning,1
+2018-09-28T14:25:00,219,1,video.odl.mit.edu,General Reference & Learning,1
+2018-09-28T14:25:00,1,1,loginwindow,General Utilities,0
+2018-09-28T14:30:00,162,1,virtualbox vm,General Software Development,2
+2018-09-28T14:30:00,8,1,video.odl.mit.edu,General Reference & Learning,1
+2018-09-28T14:35:00,298,1,virtualbox vm,General Software Development,2
+2018-09-28T14:40:00,124,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T14:40:00,92,1,virtualbox vm,General Software Development,2
+2018-09-28T14:40:00,76,1,en.wikipedia.org,General Reference & Learning,1
+2018-09-28T14:40:00,3,1,google.com,Search,2
+2018-09-28T14:40:00,2,1,video.odl.mit.edu,General Reference & Learning,1
+2018-09-28T14:40:00,2,1,Safari,Browsers,2
+2018-09-28T14:40:00,1,1,messenger.com,General Social Networking,-2
+2018-09-28T14:45:00,188,1,virtualbox vm,General Software Development,2
+2018-09-28T14:45:00,104,1,cs.cornell.edu,General Reference & Learning,1
+2018-09-28T14:45:00,4,1,introml.mit.edu,Presentation,2
+2018-09-28T14:45:00,3,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T14:45:00,1,1,google.com,Search,2
+2018-09-28T14:50:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T14:55:00,150,1,virtualbox vm,General Software Development,2
+2018-09-28T14:55:00,82,1,cs.cornell.edu,General Reference & Learning,1
+2018-09-28T14:55:00,63,1,en.wikipedia.org,General Reference & Learning,1
+2018-09-28T14:55:00,4,1,google.com,Search,2
+2018-09-28T14:55:00,1,1,introml.mit.edu,Presentation,2
+2018-09-28T15:00:00,70,1,en.wikipedia.org,General Reference & Learning,1
+2018-09-28T15:00:00,67,1,virtualbox vm,General Software Development,2
+2018-09-28T15:00:00,28,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T15:00:00,1,1,loginwindow,General Utilities,0
+2018-09-28T15:10:00,86,1,facebook.com,General Social Networking,-2
+2018-09-28T15:10:00,10,1,loginwindow,General Utilities,0
+2018-09-28T15:10:00,9,1,facebook.com/help,General Social Networking,-2
+2018-09-28T15:10:00,3,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T15:10:00,1,1,google.com/calendar,Calendars,2
+2018-09-28T15:10:00,1,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T15:30:00,91,1,9to5mac.com,General News & Opinion,-2
+2018-09-28T15:30:00,16,1,facebook.com,General Social Networking,-2
+2018-09-28T15:30:00,8,1,sublime text,Editing & IDEs,2
+2018-09-28T15:30:00,7,1,Mail,Email,2
+2018-09-28T15:30:00,4,1,google.com,Search,2
+2018-09-28T15:30:00,4,1,en.wikipedia.org,General Reference & Learning,1
+2018-09-28T15:30:00,2,1,loginwindow,General Utilities,0
+2018-09-28T15:30:00,1,1,virtualbox vm,General Software Development,2
+2018-09-28T15:35:00,111,1,9to5mac.com,General News & Opinion,-2
+2018-09-28T15:35:00,99,1,google.com,Search,2
+2018-09-28T15:35:00,58,1,businessinsider.com,General News & Opinion,-2
+2018-09-28T15:35:00,11,1,bloomberg.com,Business,-1
+2018-09-28T15:35:00,10,1,facebook.com,General Social Networking,-2
+2018-09-28T15:35:00,4,1,ece.ucsb.edu,General Reference & Learning,1
+2018-09-28T15:35:00,3,1,npr.org,General News & Opinion,-2
+2018-09-28T15:35:00,2,1,introml.mit.edu,Presentation,2
+2018-09-28T15:35:00,1,1,docs.scipy.org,Engineering & Technology,1
+2018-09-28T15:40:00,12,1,npr.org,General News & Opinion,-2
+2018-09-28T15:40:00,1,1,loginwindow,General Utilities,0
+2018-09-28T17:25:00,165,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T17:25:00,39,1,virtualbox vm,General Software Development,2
+2018-09-28T17:25:00,3,1,npr.org,General News & Opinion,-2
+2018-09-28T17:25:00,1,1,loginwindow,General Utilities,0
+2018-09-28T17:30:00,300,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T17:35:00,295,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T17:35:00,5,1,virtualbox vm,General Software Development,2
+2018-09-28T17:40:00,287,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T17:40:00,13,1,virtualbox vm,General Software Development,2
+2018-09-28T17:45:00,209,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T17:45:00,91,1,virtualbox vm,General Software Development,2
+2018-09-28T17:50:00,289,1,virtualbox vm,General Software Development,2
+2018-09-28T17:50:00,11,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T17:55:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T18:00:00,237,1,virtualbox vm,General Software Development,2
+2018-09-28T18:00:00,63,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T18:05:00,237,1,virtualbox vm,General Software Development,2
+2018-09-28T18:05:00,36,1,rapidtables.com,Engineering & Technology,1
+2018-09-28T18:05:00,15,1,Notes,Email,0
+2018-09-28T18:05:00,6,1,Safari,Browsers,2
+2018-09-28T18:05:00,5,1,google.com,Search,2
+2018-09-28T18:05:00,1,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T18:10:00,191,1,virtualbox vm,General Software Development,2
+2018-09-28T18:10:00,108,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T18:10:00,1,1,rapidtables.com,Engineering & Technology,1
+2018-09-28T18:15:00,249,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T18:15:00,51,1,virtualbox vm,General Software Development,2
+2018-09-28T18:20:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T18:25:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T18:30:00,155,1,virtualbox vm,General Software Development,2
+2018-09-28T18:30:00,145,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T18:35:00,296,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T18:35:00,4,1,virtualbox vm,General Software Development,2
+2018-09-28T18:40:00,241,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T18:40:00,55,1,virtualbox vm,General Software Development,2
+2018-09-28T18:40:00,3,1,google.com/calendar,Calendars,2
+2018-09-28T18:40:00,1,1,facebook.com,General Social Networking,-2
+2018-09-28T18:45:00,281,1,virtualbox vm,General Software Development,2
+2018-09-28T18:45:00,19,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T18:50:00,231,1,virtualbox vm,General Software Development,2
+2018-09-28T18:50:00,69,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T18:55:00,265,1,virtualbox vm,General Software Development,2
+2018-09-28T18:55:00,35,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T19:00:00,286,1,virtualbox vm,General Software Development,2
+2018-09-28T19:00:00,14,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T19:05:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T19:10:00,225,1,virtualbox vm,General Software Development,2
+2018-09-28T19:10:00,75,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T19:15:00,274,1,virtualbox vm,General Software Development,2
+2018-09-28T19:15:00,26,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T19:20:00,265,1,virtualbox vm,General Software Development,2
+2018-09-28T19:20:00,31,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T19:25:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T19:30:00,226,1,virtualbox vm,General Software Development,2
+2018-09-28T19:30:00,74,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T19:35:00,230,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T19:35:00,70,1,virtualbox vm,General Software Development,2
+2018-09-28T19:40:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T19:45:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T19:50:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T19:55:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T20:00:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T20:05:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T20:10:00,263,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T20:10:00,24,1,virtualbox vm,General Software Development,2
+2018-09-28T20:10:00,13,1,wechat,General Social Networking,-2
+2018-09-28T20:15:00,142,1,virtualbox vm,General Software Development,2
+2018-09-28T20:15:00,137,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T20:15:00,21,1,TextEdit,Writing,2
+2018-09-28T20:20:00,270,1,TextEdit,Writing,2
+2018-09-28T20:20:00,17,1,virtualbox vm,General Software Development,2
+2018-09-28T20:20:00,13,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T20:25:00,255,1,TextEdit,Writing,2
+2018-09-28T20:25:00,45,1,virtualbox vm,General Software Development,2
+2018-09-28T20:30:00,174,1,virtualbox vm,General Software Development,2
+2018-09-28T20:30:00,90,1,TextEdit,Writing,2
+2018-09-28T20:30:00,36,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T20:35:00,237,1,virtualbox vm,General Software Development,2
+2018-09-28T20:35:00,63,1,TextEdit,Writing,2
+2018-09-28T20:40:00,169,1,virtualbox vm,General Software Development,2
+2018-09-28T20:40:00,110,1,TextEdit,Writing,2
+2018-09-28T20:40:00,21,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T20:45:00,245,1,TextEdit,Writing,2
+2018-09-28T20:45:00,53,1,virtualbox vm,General Software Development,2
+2018-09-28T20:45:00,2,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T20:50:00,181,1,TextEdit,Writing,2
+2018-09-28T20:50:00,119,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T20:55:00,213,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T20:55:00,80,1,virtualbox vm,General Software Development,2
+2018-09-28T20:55:00,4,1,messenger.com,General Social Networking,-2
+2018-09-28T21:05:00,116,1,TextEdit,Writing,2
+2018-09-28T21:05:00,61,1,virtualbox vm,General Software Development,2
+2018-09-28T21:05:00,25,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T21:10:00,165,1,TextEdit,Writing,2
+2018-09-28T21:10:00,104,1,virtualbox vm,General Software Development,2
+2018-09-28T21:10:00,31,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T21:15:00,180,1,TextEdit,Writing,2
+2018-09-28T21:15:00,86,1,virtualbox vm,General Software Development,2
+2018-09-28T21:15:00,34,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T21:20:00,147,1,virtualbox vm,General Software Development,2
+2018-09-28T21:20:00,122,1,TextEdit,Writing,2
+2018-09-28T21:20:00,26,1,wechat,General Social Networking,-2
+2018-09-28T21:20:00,5,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T21:25:00,150,1,messenger.com,General Social Networking,-2
+2018-09-28T21:25:00,71,1,virtualbox vm,General Software Development,2
+2018-09-28T21:25:00,49,1,TextEdit,Writing,2
+2018-09-28T21:25:00,29,1,wechat,General Social Networking,-2
+2018-09-28T21:25:00,1,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T21:30:00,128,1,TextEdit,Writing,2
+2018-09-28T21:30:00,119,1,virtualbox vm,General Software Development,2
+2018-09-28T21:30:00,32,1,messenger.com,General Social Networking,-2
+2018-09-28T21:30:00,14,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T21:30:00,7,1,Mail,Email,2
+2018-09-28T21:35:00,119,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T21:35:00,84,1,virtualbox vm,General Software Development,2
+2018-09-28T21:35:00,60,1,wechat,General Social Networking,-2
+2018-09-28T21:35:00,22,1,messenger.com,General Social Networking,-2
+2018-09-28T21:35:00,11,1,TextEdit,Writing,2
+2018-09-28T21:35:00,3,1,video.odl.mit.edu,General Reference & Learning,1
+2018-09-28T21:35:00,1,1,google.com,Search,2
+2018-09-28T21:40:00,120,1,geeksforgeeks.org,Operations,2
+2018-09-28T21:40:00,92,1,electronicshub.org,Engineering & Technology,1
+2018-09-28T21:40:00,61,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T21:40:00,13,1,wechat,General Social Networking,-2
+2018-09-28T21:40:00,7,1,en.wikipedia.org,General Reference & Learning,1
+2018-09-28T21:40:00,6,1,google.com,Search,2
+2018-09-28T21:45:00,255,1,geeksforgeeks.org,Operations,2
+2018-09-28T21:45:00,45,1,wechat,General Social Networking,-2
+2018-09-28T21:50:00,187,1,youtube.com,Video,-2
+2018-09-28T21:50:00,85,1,geeksforgeeks.org,Operations,2
+2018-09-28T21:50:00,19,1,wechat,General Social Networking,-2
+2018-09-28T21:50:00,8,1,google.com,Search,2
+2018-09-28T21:50:00,1,1,safari-resource:,Browsers,0
+2018-09-28T21:55:00,202,1,virtualbox vm,General Software Development,2
+2018-09-28T21:55:00,98,1,youtube.com,Video,-2
+2018-09-28T22:00:00,292,1,virtualbox vm,General Software Development,2
+2018-09-28T22:00:00,8,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T22:05:00,215,1,virtualbox vm,General Software Development,2
+2018-09-28T22:05:00,29,1,messenger.com,General Social Networking,-2
+2018-09-28T22:05:00,15,1,bluespec.com,Uncategorized,0
+2018-09-28T22:05:00,14,1,facebook.com,General Social Networking,-2
+2018-09-28T22:05:00,12,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T22:05:00,11,1,google.com,Search,2
+2018-09-28T22:05:00,4,1,youtube.com,Video,-2
+2018-09-28T22:10:00,126,1,virtualbox vm,General Software Development,2
+2018-09-28T22:10:00,111,1,youtube.com,Video,-2
+2018-09-28T22:10:00,63,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T22:15:00,229,1,virtualbox vm,General Software Development,2
+2018-09-28T22:15:00,58,1,youtube.com,Video,-2
+2018-09-28T22:15:00,13,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T22:20:00,121,1,virtualbox vm,General Software Development,2
+2018-09-28T22:20:00,100,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T22:20:00,49,1,youtube.com,Video,-2
+2018-09-28T22:20:00,15,1,google.com,Search,2
+2018-09-28T22:20:00,6,1,tams-www.informatik.uni-hamburg.de,Intelligence,2
+2018-09-28T22:20:00,4,1,en.wikipedia.org,General Reference & Learning,1
+2018-09-28T22:20:00,3,1,video.odl.mit.edu,General Reference & Learning,1
+2018-09-28T22:20:00,2,1,messenger.com,General Social Networking,-2
+2018-09-28T22:25:00,214,1,virtualbox vm,General Software Development,2
+2018-09-28T22:25:00,64,1,electronics-tutorials.ws,Engineering & Technology,1
+2018-09-28T22:25:00,8,1,wechat,General Social Networking,-2
+2018-09-28T22:25:00,8,1,npr.org,General News & Opinion,-2
+2018-09-28T22:25:00,4,1,google.com,Search,2
+2018-09-28T22:25:00,2,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T22:30:00,254,1,virtualbox vm,General Software Development,2
+2018-09-28T22:30:00,25,1,en.wikipedia.org,General Reference & Learning,1
+2018-09-28T22:30:00,14,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T22:30:00,7,1,google.com,Search,2
+2018-09-28T22:35:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T22:40:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T22:45:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T22:50:00,212,1,virtualbox vm,General Software Development,2
+2018-09-28T22:50:00,64,1,nandland.com,Uncategorized,0
+2018-09-28T22:50:00,17,1,google.com,Search,2
+2018-09-28T22:50:00,7,1,en.wikipedia.org,General Reference & Learning,1
+2018-09-28T22:55:00,140,1,messenger.com,General Social Networking,-2
+2018-09-28T22:55:00,71,1,nandland.com,Uncategorized,0
+2018-09-28T22:55:00,50,1,virtualbox vm,General Software Development,2
+2018-09-28T22:55:00,19,1,intel.com,Search,0
+2018-09-28T22:55:00,11,1,google.com,Search,2
+2018-09-28T22:55:00,7,1,electronics-tutorials.ws,Engineering & Technology,1
+2018-09-28T22:55:00,2,1,youtube.com,Video,-2
+2018-09-28T23:00:00,254,1,messenger.com,General Social Networking,-2
+2018-09-28T23:00:00,46,1,virtualbox vm,General Software Development,2
+2018-09-28T23:05:00,295,1,virtualbox vm,General Software Development,2
+2018-09-28T23:05:00,5,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T23:10:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T23:15:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T23:20:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T23:25:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T23:30:00,300,1,virtualbox vm,General Software Development,2
+2018-09-28T23:35:00,192,1,virtualbox vm,General Software Development,2
+2018-09-28T23:35:00,50,1,6004.mit.edu:4443,Uncategorized,0
+2018-09-28T23:35:00,42,1,messenger.com,General Social Networking,-2
+2018-09-28T23:35:00,11,1,6004.mit.edu,Engineering & Technology,1
+2018-09-28T23:35:00,4,1,youtube.com,Video,-2
+2018-09-28T23:40:00,43,1,6004.mit.edu:4443,Uncategorized,0
+2018-09-28T23:40:00,1,1,loginwindow,General Utilities,0

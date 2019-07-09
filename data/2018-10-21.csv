@@ -1,0 +1,105 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-10-21T01:10:00,6,1,Safari,Browsers,2
+2018-10-21T01:10:00,4,1,github.com,General Software Development,2
+2018-10-21T01:20:00,229,1,github.com,General Software Development,2
+2018-10-21T01:25:00,300,1,github.com,General Software Development,2
+2018-10-21T01:30:00,103,1,github.com,General Software Development,2
+2018-10-21T01:30:00,1,1,loginwindow,General Utilities,0
+2018-10-21T02:05:00,3,1,kb.iu.edu,General Reference & Learning,1
+2018-10-21T02:05:00,3,1,loginwindow,General Utilities,0
+2018-10-21T02:05:00,1,1,Preview,General Reference & Learning,2
+2018-10-21T19:05:00,97,1,Mail,Email,2
+2018-10-21T19:05:00,82,1,adobe lightroom cc,General Design & Composition,2
+2018-10-21T19:05:00,23,1,loginwindow,General Utilities,0
+2018-10-21T19:05:00,19,1,github.com,General Software Development,2
+2018-10-21T19:05:00,3,1,gaoloumi.com,Regional,-2
+2018-10-21T19:05:00,1,1,macshiny.com,Uncategorized,0
+2018-10-21T19:10:00,282,1,adobe lightroom cc,General Design & Composition,2
+2018-10-21T19:10:00,12,1,gaoloumi.com,Regional,-2
+2018-10-21T19:10:00,3,1,forums.adobe.com,General Business,2
+2018-10-21T19:10:00,3,1,google.com,Search,2
+2018-10-21T19:15:00,216,1,photoshop cc,General Design & Composition,2
+2018-10-21T19:15:00,60,1,forums.adobe.com,General Business,2
+2018-10-21T19:15:00,11,1,adobe lightroom cc,General Design & Composition,2
+2018-10-21T19:15:00,9,1,Finder,General Utilities,0
+2018-10-21T19:20:00,229,1,photoshop cc,General Design & Composition,2
+2018-10-21T19:20:00,65,1,adobe lightroom cc,General Design & Composition,2
+2018-10-21T19:20:00,6,1,forums.adobe.com,General Business,2
+2018-10-21T19:25:00,130,1,Finder,General Utilities,0
+2018-10-21T19:25:00,129,1,adobe lightroom cc,General Design & Composition,2
+2018-10-21T19:25:00,15,1,google.com,Search,2
+2018-10-21T19:25:00,13,1,feedback.photoshop.com,General Entertainment,-2
+2018-10-21T19:25:00,12,1,forums.adobe.com,General Business,2
+2018-10-21T19:30:00,116,1,Finder,General Utilities,0
+2018-10-21T19:30:00,97,1,adobe lightroom cc,General Design & Composition,2
+2018-10-21T19:30:00,77,1,google.com,Search,2
+2018-10-21T19:30:00,4,1,github.com,General Software Development,2
+2018-10-21T19:30:00,3,1,youtube.com,Video,-2
+2018-10-21T19:30:00,2,1,feedback.photoshop.com,General Entertainment,-2
+2018-10-21T19:30:00,1,1,gaoloumi.com,Regional,-2
+2018-10-21T19:35:00,101,1,google.com,Search,2
+2018-10-21T19:35:00,99,1,facebook.com,General Social Networking,-2
+2018-10-21T19:35:00,81,1,adobe lightroom cc,General Design & Composition,2
+2018-10-21T19:35:00,4,1,youtube.com,Video,-2
+2018-10-21T19:35:00,3,1,messenger.com,General Social Networking,-2
+2018-10-21T19:35:00,2,1,Mail,Email,2
+2018-10-21T19:40:00,278,1,facebook.com,General Social Networking,-2
+2018-10-21T19:40:00,9,1,gaoloumi.com,Regional,-2
+2018-10-21T19:40:00,6,1,Mail,Email,2
+2018-10-21T19:40:00,3,1,wellesley.edu,General Reference & Learning,1
+2018-10-21T19:40:00,2,1,google.com,Search,2
+2018-10-21T19:40:00,1,1,when2meet.com,General Communication & Scheduling,0
+2018-10-21T19:45:00,132,1,facebook.com,General Social Networking,-2
+2018-10-21T19:45:00,115,1,youtube.com,Video,-2
+2018-10-21T19:45:00,41,1,wellesley.edu,General Reference & Learning,1
+2018-10-21T19:45:00,6,1,when2meet.com,General Communication & Scheduling,0
+2018-10-21T19:45:00,2,1,drive.google.com,General Business,2
+2018-10-21T19:45:00,2,1,adobe lightroom cc,General Design & Composition,2
+2018-10-21T19:45:00,1,1,video.odl.mit.edu,General Reference & Learning,1
+2018-10-21T19:45:00,1,1,idp.mit.edu,General Reference & Learning,1
+2018-10-21T19:50:00,251,1,video.odl.mit.edu,General Reference & Learning,1
+2018-10-21T19:50:00,49,1,youtube.com,Video,-2
+2018-10-21T19:55:00,245,1,video.odl.mit.edu,General Reference & Learning,1
+2018-10-21T19:55:00,50,1,introml.mit.edu,Presentation,2
+2018-10-21T19:55:00,4,1,facebook.com,General Social Networking,-2
+2018-10-21T19:55:00,1,1,idp.mit.edu,General Reference & Learning,1
+2018-10-21T20:00:00,18,1,video.odl.mit.edu,General Reference & Learning,1
+2018-10-21T20:25:00,17,1,video.odl.mit.edu,General Reference & Learning,1
+2018-10-21T20:25:00,4,1,introml.mit.edu,Presentation,2
+2018-10-21T20:30:00,59,1,video.odl.mit.edu,General Reference & Learning,1
+2018-10-21T20:30:00,4,1,introml.mit.edu,Presentation,2
+2018-10-21T20:50:00,160,1,video.odl.mit.edu,General Reference & Learning,1
+2018-10-21T20:50:00,14,1,google.com,Search,2
+2018-10-21T20:50:00,13,1,en.wikipedia.org,General Reference & Learning,1
+2018-10-21T20:50:00,8,1,drive.google.com,General Business,2
+2018-10-21T20:50:00,1,1,gaoloumi.com,Regional,-2
+2018-10-21T20:55:00,300,1,video.odl.mit.edu,General Reference & Learning,1
+2018-10-21T21:00:00,300,1,video.odl.mit.edu,General Reference & Learning,1
+2018-10-21T21:05:00,300,1,video.odl.mit.edu,General Reference & Learning,1
+2018-10-21T21:10:00,300,1,video.odl.mit.edu,General Reference & Learning,1
+2018-10-21T21:15:00,300,1,video.odl.mit.edu,General Reference & Learning,1
+2018-10-21T21:20:00,233,1,video.odl.mit.edu,General Reference & Learning,1
+2018-10-21T21:30:00,176,1,video.odl.mit.edu,General Reference & Learning,1
+2018-10-21T21:30:00,13,1,Mail,Email,2
+2018-10-21T21:35:00,300,1,video.odl.mit.edu,General Reference & Learning,1
+2018-10-21T21:40:00,111,1,video.odl.mit.edu,General Reference & Learning,1
+2018-10-21T23:20:00,45,1,Preview,General Reference & Learning,2
+2018-10-21T23:20:00,9,1,google.com,Search,2
+2018-10-21T23:20:00,5,1,Mail,Email,2
+2018-10-21T23:20:00,1,1,video.odl.mit.edu,General Reference & Learning,1
+2018-10-21T23:20:00,1,1,when2meet.com,General Communication & Scheduling,0
+2018-10-21T23:25:00,217,1,Preview,General Reference & Learning,2
+2018-10-21T23:25:00,46,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-10-21T23:25:00,26,1,stellar.mit.edu,General Reference & Learning,1
+2018-10-21T23:25:00,4,1,introml.mit.edu,Presentation,2
+2018-10-21T23:25:00,4,1,idp.mit.edu,General Reference & Learning,1
+2018-10-21T23:25:00,1,1,google.com,Search,2
+2018-10-21T23:30:00,195,1,Preview,General Reference & Learning,2
+2018-10-21T23:45:00,192,1,Preview,General Reference & Learning,2
+2018-10-21T23:45:00,10,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-10-21T23:45:00,9,1,en.wikipedia.org,General Reference & Learning,1
+2018-10-21T23:45:00,5,1,wechat,General Social Networking,-2
+2018-10-21T23:45:00,3,1,google.com,Search,2
+2018-10-21T23:50:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2018-10-21T23:55:00,295,1,Preview,General Reference & Learning,2
+2018-10-21T23:55:00,5,1,en.wikipedia.org,General Reference & Learning,1

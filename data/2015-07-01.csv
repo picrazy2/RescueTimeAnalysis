@@ -1,0 +1,244 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2015-07-01T00:15:00,1,1,spotlight,General Utilities,1
+2015-07-01T00:30:00,6,1,loginwindow,General Utilities,0
+2015-07-01T11:20:00,7,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-01T11:20:00,1,1,MS Excel,General Business,2
+2015-07-01T11:25:00,149,1,Mail,Email,2
+2015-07-01T11:25:00,71,1,9to5mac.com,General News & Opinion,-2
+2015-07-01T11:25:00,34,1,Skype,General Social Networking,-2
+2015-07-01T11:25:00,13,1,Safari,Browsers,2
+2015-07-01T11:25:00,6,1,mathworks.com,Engineering & Technology,1
+2015-07-01T11:25:00,6,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-01T11:25:00,5,1,problem reporter,General News & Opinion,-2
+2015-07-01T11:25:00,4,1,pandas.pydata.org,Engineering & Technology,1
+2015-07-01T11:25:00,4,1,MS Excel,General Business,2
+2015-07-01T11:25:00,2,1,google.com,Search,2
+2015-07-01T11:25:00,2,1,data:image,General Software Development,2
+2015-07-01T11:25:00,2,1,spotlight,General Utilities,1
+2015-07-01T11:30:00,173,1,osxdaily.com,General News & Opinion,-2
+2015-07-01T11:30:00,94,1,mathworks.com,Engineering & Technology,1
+2015-07-01T11:30:00,15,1,Skype,General Social Networking,-2
+2015-07-01T11:30:00,6,1,Safari,Browsers,2
+2015-07-01T11:30:00,5,1,spotlight,General Utilities,1
+2015-07-01T11:30:00,3,1,google.com,Search,2
+2015-07-01T11:30:00,1,1,9to5mac.com,General News & Opinion,-2
+2015-07-01T11:35:00,129,1,osxdaily.com,General News & Opinion,-2
+2015-07-01T11:35:00,36,1,disk utility,General Utilities,1
+2015-07-01T11:35:00,31,1,facebook.com,General Social Networking,-2
+2015-07-01T11:35:00,28,1,Finder,General Utilities,0
+2015-07-01T11:35:00,3,1,microsoft word,Writing,2
+2015-07-01T11:35:00,3,1,mathworks.com,Engineering & Technology,1
+2015-07-01T11:35:00,2,1,spotlight,General Utilities,1
+2015-07-01T11:35:00,1,1,us.quizly.io,Uncategorized,0
+2015-07-01T11:40:00,158,1,9to5mac.com,General News & Opinion,-2
+2015-07-01T11:40:00,30,1,disk utility,General Utilities,1
+2015-07-01T11:40:00,13,1,daisydisk,General Utilities,0
+2015-07-01T11:40:00,9,1,us.quizly.io,Uncategorized,0
+2015-07-01T11:40:00,5,1,osxdaily.com,General News & Opinion,-2
+2015-07-01T11:40:00,2,1,spotlight,General Utilities,1
+2015-07-01T11:40:00,2,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-01T11:40:00,2,1,fs.163.com,General News & Opinion,-2
+2015-07-01T11:40:00,2,1,facebook.com,General Social Networking,-2
+2015-07-01T11:40:00,1,1,google.com,Search,2
+2015-07-01T11:45:00,127,1,daisydisk,General Utilities,0
+2015-07-01T11:45:00,91,1,Finder,General Utilities,0
+2015-07-01T11:45:00,74,1,disk utility,General Utilities,1
+2015-07-01T11:45:00,3,1,osxdaily.com,General News & Opinion,-2
+2015-07-01T11:45:00,2,1,SecurityAgent,Systems Operations,0
+2015-07-01T11:50:00,82,1,daisydisk,General Utilities,0
+2015-07-01T11:50:00,72,1,Finder,General Utilities,0
+2015-07-01T11:50:00,62,1,final cut pro,Video Editing,2
+2015-07-01T11:50:00,35,1,spotlight,General Utilities,1
+2015-07-01T11:50:00,30,1,iMovie,Video Editing,2
+2015-07-01T11:50:00,10,1,osxdaily.com,General News & Opinion,-2
+2015-07-01T11:50:00,1,1,usernotificationcenter,General Utilities,0
+2015-07-01T11:55:00,189,1,daisydisk,General Utilities,0
+2015-07-01T11:55:00,111,1,Finder,General Utilities,0
+2015-07-01T12:00:00,101,1,9to5mac.com,General News & Opinion,-2
+2015-07-01T12:00:00,47,1,daisydisk,General Utilities,0
+2015-07-01T12:00:00,39,1,google.com,Search,2
+2015-07-01T12:00:00,27,1,Skype,General Social Networking,-2
+2015-07-01T12:00:00,12,1,Safari,Browsers,2
+2015-07-01T12:00:00,10,1,Finder,General Utilities,0
+2015-07-01T12:00:00,6,1,mathworks.com,Engineering & Technology,1
+2015-07-01T12:00:00,4,1,Mail,Email,2
+2015-07-01T12:00:00,2,1,problem reporter,General News & Opinion,-2
+2015-07-01T12:00:00,1,1,osxdaily.com,General News & Opinion,-2
+2015-07-01T12:05:00,271,1,Skype,General Social Networking,-2
+2015-07-01T12:05:00,15,1,daisydisk,General Utilities,0
+2015-07-01T12:05:00,6,1,9to5mac.com,General News & Opinion,-2
+2015-07-01T12:10:00,300,1,Skype,General Social Networking,-2
+2015-07-01T12:15:00,273,1,Skype,General Social Networking,-2
+2015-07-01T14:05:00,38,1,daisydisk,General Utilities,0
+2015-07-01T14:05:00,13,1,disk utility,General Utilities,1
+2015-07-01T14:05:00,3,1,Skype,General Social Networking,-2
+2015-07-01T14:05:00,3,1,loginwindow,General Utilities,0
+2015-07-01T14:05:00,3,1,9to5mac.com,General News & Opinion,-2
+2015-07-01T14:05:00,2,1,screensaverengine,General Utilities,0
+2015-07-01T14:10:00,199,1,disk utility,General Utilities,1
+2015-07-01T14:10:00,46,1,osxdaily.com,General News & Opinion,-2
+2015-07-01T14:10:00,45,1,google.com,Search,2
+2015-07-01T14:10:00,7,1,9to5mac.com,General News & Opinion,-2
+2015-07-01T14:10:00,2,1,spotlight,General Utilities,1
+2015-07-01T14:10:00,1,1,mathworks.com,Engineering & Technology,1
+2015-07-01T14:15:00,120,1,disk utility,General Utilities,1
+2015-07-01T14:15:00,65,1,redmondpie.com,Science & Technology,-1
+2015-07-01T14:15:00,57,1,google.com,Search,2
+2015-07-01T14:15:00,29,1,osxdaily.com,General News & Opinion,-2
+2015-07-01T14:15:00,22,1,Skype,General Social Networking,-2
+2015-07-01T14:15:00,2,1,mathworks.com,Engineering & Technology,1
+2015-07-01T14:15:00,2,1,pages,Presentation,2
+2015-07-01T14:20:00,106,1,disk utility,General Utilities,1
+2015-07-01T14:20:00,99,1,youtube.com,Video,-2
+2015-07-01T14:20:00,52,1,google.com,Search,2
+2015-07-01T14:20:00,15,1,macworld.com,Science & Technology,-1
+2015-07-01T14:20:00,9,1,Safari,Browsers,2
+2015-07-01T14:20:00,7,1,Skype,General Social Networking,-2
+2015-07-01T14:20:00,2,1,spotlight,General Utilities,1
+2015-07-01T14:25:00,175,1,app store,General Shopping,-2
+2015-07-01T14:25:00,2,1,macworld.com,Science & Technology,-1
+2015-07-01T14:25:00,1,1,spotlight,General Utilities,1
+2015-07-01T14:30:00,71,1,app store,General Shopping,-2
+2015-07-01T14:30:00,7,1,istat menus,General Utilities,1
+2015-07-01T14:30:00,4,1,SecurityAgent,Systems Operations,0
+2015-07-01T14:35:00,4,1,app store,General Shopping,-2
+2015-07-01T14:35:00,1,1,pages,Presentation,2
+2015-07-01T14:45:00,52,1,pages,Presentation,2
+2015-07-01T14:50:00,297,1,pages,Presentation,2
+2015-07-01T14:50:00,3,1,Skype,General Social Networking,-2
+2015-07-01T14:55:00,181,1,pages,Presentation,2
+2015-07-01T14:55:00,38,1,install os x yosemite,General Utilities,1
+2015-07-01T15:05:00,45,1,macworld.com,Science & Technology,-1
+2015-07-01T15:05:00,16,1,pages,Presentation,2
+2015-07-01T15:05:00,7,1,Finder,General Utilities,0
+2015-07-01T15:05:00,6,1,spotlight,General Utilities,1
+2015-07-01T15:10:00,246,1,Finder,General Utilities,0
+2015-07-01T15:10:00,54,1,macworld.com,Science & Technology,-1
+2015-07-01T15:15:00,123,1,Finder,General Utilities,0
+2015-07-01T15:15:00,117,1,disk utility,General Utilities,1
+2015-07-01T15:15:00,35,1,macworld.com,Science & Technology,-1
+2015-07-01T15:15:00,24,1,youtube.com,Video,-2
+2015-07-01T15:20:00,74,1,reddit.com,General News & Opinion,-2
+2015-07-01T15:20:00,74,1,google.com,Search,2
+2015-07-01T15:20:00,46,1,shoutpedia.com,Uncategorized,0
+2015-07-01T15:20:00,34,1,youtube.com,Video,-2
+2015-07-01T15:20:00,33,1,Finder,General Utilities,0
+2015-07-01T15:20:00,19,1,apple.stackexchange.com,Engineering & Technology,1
+2015-07-01T15:20:00,19,1,unmountassistantagent,General Utilities,1
+2015-07-01T15:25:00,113,1,shoutpedia.com,Uncategorized,0
+2015-07-01T15:25:00,64,1,messages,General Social Networking,-2
+2015-07-01T15:25:00,63,1,google.com,Search,2
+2015-07-01T15:25:00,47,1,macworld.com,Science & Technology,-1
+2015-07-01T15:25:00,7,1,app store,General Shopping,-2
+2015-07-01T15:25:00,4,1,spotlight,General Utilities,1
+2015-07-01T15:25:00,2,1,microsoft word,Writing,2
+2015-07-01T15:30:00,154,1,google.com,Search,2
+2015-07-01T15:30:00,61,1,Mail,Email,2
+2015-07-01T15:30:00,57,1,bing.com,Search,2
+2015-07-01T15:30:00,18,1,messages,General Social Networking,-2
+2015-07-01T15:30:00,6,1,Safari,Browsers,2
+2015-07-01T15:30:00,3,1,macworld.com,Science & Technology,-1
+2015-07-01T15:35:00,199,1,google.com,Search,2
+2015-07-01T15:35:00,134,1,Finder,General Utilities,0
+2015-07-01T15:35:00,8,1,nhlbi.nih.gov,Legal & Gov't,1
+2015-07-01T15:35:00,6,1,Mail,Email,2
+2015-07-01T15:35:00,6,1,Safari,Browsers,2
+2015-07-01T15:35:00,4,1,RescueTime,Intelligence,0
+2015-07-01T15:35:00,4,1,spotlight,General Utilities,1
+2015-07-01T15:40:00,287,1,nhlbi.nih.gov,Legal & Gov't,1
+2015-07-01T15:40:00,8,1,Finder,General Utilities,0
+2015-07-01T15:40:00,5,1,google.com,Search,2
+2015-07-01T15:45:00,125,1,nhlbi.nih.gov,Legal & Gov't,1
+2015-07-01T15:45:00,54,1,coreservicesuiagent,General Utilities,0
+2015-07-01T15:45:00,36,1,Finder,General Utilities,0
+2015-07-01T15:45:00,18,1,System Preferences,General Utilities,0
+2015-07-01T15:45:00,8,1,alfred 2,General Utilities,1
+2015-07-01T15:50:00,110,1,coreservicesuiagent,General Utilities,0
+2015-07-01T15:50:00,94,1,System Preferences,General Utilities,0
+2015-07-01T15:50:00,76,1,Finder,General Utilities,0
+2015-07-01T15:50:00,14,1,alfred 2,General Utilities,1
+2015-07-01T15:50:00,6,1,SecurityAgent,Systems Operations,0
+2015-07-01T15:55:00,227,1,Finder,General Utilities,0
+2015-07-01T15:55:00,32,1,System Preferences,General Utilities,0
+2015-07-01T15:55:00,17,1,coreservicesuiagent,General Utilities,0
+2015-07-01T15:55:00,10,1,SecurityAgent,Systems Operations,0
+2015-07-01T15:55:00,9,1,alfred 2,General Utilities,1
+2015-07-01T16:00:00,155,1,support.apple.com,Search,0
+2015-07-01T16:00:00,45,1,Mail,Email,2
+2015-07-01T16:00:00,30,1,installer,General Utilities,1
+2015-07-01T16:00:00,13,1,Finder,General Utilities,0
+2015-07-01T16:00:00,11,1,xquartz.macosforge.org,Systems Operations,2
+2015-07-01T16:00:00,10,1,coreservicesuiagent,General Utilities,0
+2015-07-01T16:00:00,7,1,Safari,Browsers,2
+2015-07-01T16:00:00,4,1,download java components,General Utilities,1
+2015-07-01T16:00:00,2,1,alfred 2,General Utilities,1
+2015-07-01T18:10:00,136,1,installer,General Utilities,1
+2015-07-01T18:10:00,10,1,diskimages ui agent,General Utilities,1
+2015-07-01T18:10:00,9,1,storeuid,General Utilities,1
+2015-07-01T18:10:00,9,1,google software update,General Utilities,1
+2015-07-01T18:10:00,6,1,xquartz.macosforge.org,Systems Operations,2
+2015-07-01T18:10:00,4,1,Finder,General Utilities,0
+2015-07-01T18:10:00,3,1,loginwindow,General Utilities,0
+2015-07-01T18:10:00,3,1,SecurityAgent,Systems Operations,0
+2015-07-01T18:10:00,2,1,usernotificationcenter,General Utilities,0
+2015-07-01T18:10:00,1,1,screensaverengine,General Utilities,0
+2015-07-01T18:15:00,234,1,installer,General Utilities,1
+2015-07-01T18:15:00,12,1,system events,General Utilities,1
+2015-07-01T18:15:00,2,1,Finder,General Utilities,0
+2015-07-01T18:15:00,1,1,loginwindow,General Utilities,0
+2015-07-01T18:20:00,21,1,matlab,General Software Development,2
+2015-07-01T18:20:00,16,1,Safari,Browsers,2
+2015-07-01T18:20:00,7,1,Finder,General Utilities,0
+2015-07-01T18:20:00,2,1,alfred 2,General Utilities,1
+2015-07-01T20:45:00,5,1,storeuid,General Utilities,1
+2015-07-01T20:45:00,5,1,loginwindow,General Utilities,0
+2015-07-01T20:45:00,4,1,Safari,Browsers,2
+2015-07-01T20:45:00,2,1,matlab,General Software Development,2
+2015-07-01T20:50:00,73,1,pages,Presentation,2
+2015-07-01T20:50:00,5,1,nhlbi.nih.gov,Legal & Gov't,1
+2015-07-01T20:50:00,2,1,loginwindow,General Utilities,0
+2015-07-01T20:50:00,2,1,microsoft word,Writing,2
+2015-07-01T21:25:00,239,1,Mail,Email,2
+2015-07-01T21:25:00,4,1,pages,Presentation,2
+2015-07-01T21:30:00,295,1,Mail,Email,2
+2015-07-01T21:30:00,5,1,spotlight,General Utilities,1
+2015-07-01T21:35:00,294,1,Mail,Email,2
+2015-07-01T21:35:00,6,1,spotlight,General Utilities,1
+2015-07-01T21:40:00,251,1,Mail,Email,2
+2015-07-01T21:40:00,49,1,pages,Presentation,2
+2015-07-01T21:45:00,31,1,pages,Presentation,2
+2015-07-01T21:45:00,8,1,screensaverengine,General Utilities,0
+2015-07-01T22:40:00,37,1,Mail,Email,2
+2015-07-01T22:40:00,2,1,nhlbi.nih.gov,Legal & Gov't,1
+2015-07-01T22:45:00,96,1,Mail,Email,2
+2015-07-01T22:50:00,49,1,Mail,Email,2
+2015-07-01T22:50:00,13,1,pages,Presentation,2
+2015-07-01T22:50:00,5,1,spotlight,General Utilities,1
+2015-07-01T23:15:00,106,1,google.com,Search,2
+2015-07-01T23:15:00,10,1,support.google.com,General News & Opinion,2
+2015-07-01T23:15:00,3,1,nhlbi.nih.gov,Legal & Gov't,1
+2015-07-01T23:25:00,7,1,Safari,Browsers,2
+2015-07-01T23:25:00,1,1,google.com,Search,2
+2015-07-01T23:30:00,87,1,Finder,General Utilities,0
+2015-07-01T23:30:00,76,1,Mail,Email,2
+2015-07-01T23:30:00,74,1,microsoft word,Writing,2
+2015-07-01T23:30:00,42,1,spotlight,General Utilities,1
+2015-07-01T23:30:00,10,1,knowledgeanyhow.org,Uncategorized,0
+2015-07-01T23:30:00,9,1,Safari,Browsers,2
+2015-07-01T23:35:00,199,1,microsoft word,Writing,2
+2015-07-01T23:35:00,92,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-01T23:35:00,9,1,Mail,Email,2
+2015-07-01T23:40:00,214,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-01T23:40:00,65,1,app store,General Shopping,-2
+2015-07-01T23:40:00,21,1,microsoft word,Writing,2
+2015-07-01T23:45:00,186,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-01T23:45:00,80,1,amazon.com,General Shopping,-1
+2015-07-01T23:45:00,24,1,Mail,Email,2
+2015-07-01T23:45:00,5,1,microsoft word,Writing,2
+2015-07-01T23:45:00,4,1,Safari,Browsers,2
+2015-07-01T23:50:00,74,1,google.com,Search,2
+2015-07-01T23:50:00,58,1,facebook.com,General Social Networking,-2
+2015-07-01T23:50:00,26,1,nitre.knowledgeanyhow.org,Uncategorized,0
+2015-07-01T23:50:00,4,1,Mail,Email,2
+2015-07-01T23:50:00,3,1,Safari,Browsers,2
+2015-07-01T23:50:00,1,1,mathworks.com,Engineering & Technology,1

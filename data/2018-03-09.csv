@@ -1,0 +1,190 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-03-09T00:00:00,167,1,sublime text,Editing & IDEs,2
+2018-03-09T00:00:00,133,1,Terminal,Systems Operations,2
+2018-03-09T00:05:00,160,1,sublime text,Editing & IDEs,2
+2018-03-09T00:05:00,140,1,Terminal,Systems Operations,2
+2018-03-09T00:10:00,172,1,sublime text,Editing & IDEs,2
+2018-03-09T00:10:00,110,1,Terminal,Systems Operations,2
+2018-03-09T00:10:00,7,1,aliexpress.com,General Shopping,-2
+2018-03-09T00:10:00,5,1,stackoverflow.com,General Software Development,2
+2018-03-09T00:10:00,4,1,google.com,Search,2
+2018-03-09T00:10:00,2,1,eecs6009.mit.edu,General Software Development,2
+2018-03-09T00:15:00,142,1,Terminal,Systems Operations,2
+2018-03-09T00:15:00,140,1,sublime text,Editing & IDEs,2
+2018-03-09T00:15:00,15,1,stackoverflow.com,General Software Development,2
+2018-03-09T00:15:00,3,1,google.com,Search,2
+2018-03-09T00:20:00,161,1,sublime text,Editing & IDEs,2
+2018-03-09T00:20:00,139,1,Terminal,Systems Operations,2
+2018-03-09T00:25:00,192,1,sublime text,Editing & IDEs,2
+2018-03-09T00:25:00,108,1,Terminal,Systems Operations,2
+2018-03-09T00:30:00,179,1,Terminal,Systems Operations,2
+2018-03-09T00:30:00,121,1,sublime text,Editing & IDEs,2
+2018-03-09T00:35:00,170,1,Terminal,Systems Operations,2
+2018-03-09T00:35:00,129,1,sublime text,Editing & IDEs,2
+2018-03-09T00:40:00,233,1,sublime text,Editing & IDEs,2
+2018-03-09T00:40:00,67,1,Terminal,Systems Operations,2
+2018-03-09T00:45:00,217,1,Terminal,Systems Operations,2
+2018-03-09T00:45:00,82,1,sublime text,Editing & IDEs,2
+2018-03-09T00:45:00,1,1,stackoverflow.com,General Software Development,2
+2018-03-09T00:50:00,68,1,sublime text,Editing & IDEs,2
+2018-03-09T00:50:00,54,1,Terminal,Systems Operations,2
+2018-03-09T00:50:00,20,1,loginwindow,General Utilities,0
+2018-03-09T00:50:00,16,1,python-course.eu,Engineering & Technology,1
+2018-03-09T00:50:00,12,1,stackoverflow.com,General Software Development,2
+2018-03-09T00:50:00,9,1,google.com,Search,2
+2018-03-09T01:15:00,21,1,loginwindow,General Utilities,0
+2018-03-09T01:15:00,18,1,python-course.eu,Engineering & Technology,1
+2018-03-09T01:15:00,7,1,messenger.com,General Social Networking,-2
+2018-03-09T01:15:00,1,1,screensaverengine,General Utilities,0
+2018-03-09T09:00:00,116,1,messenger.com,General Social Networking,-2
+2018-03-09T09:00:00,81,1,eecs6009.mit.edu,General Software Development,2
+2018-03-09T09:00:00,6,1,photoshop cc,General Design & Composition,2
+2018-03-09T09:00:00,5,1,python-course.eu,Engineering & Technology,1
+2018-03-09T09:00:00,4,1,SecurityAgent,Systems Operations,0
+2018-03-09T09:00:00,3,1,drive.google.com,General Business,2
+2018-03-09T09:00:00,2,1,sublime text,Editing & IDEs,2
+2018-03-09T09:00:00,2,1,newtab,Browsers,0
+2018-03-09T09:00:00,1,1,iTunes,Music,0
+2018-03-09T09:00:00,1,1,users,General Software Development,2
+2018-03-09T09:00:00,1,1,traveltips.usatoday.com,General Reference & Learning,1
+2018-03-09T09:00:00,1,1,piazza.com,General Reference & Learning,2
+2018-03-09T09:00:00,1,1,alliedelec.com,Electronics,-2
+2018-03-09T09:00:00,1,1,google.com,Search,2
+2018-03-09T09:00:00,1,1,stackoverflow.com,General Software Development,2
+2018-03-09T09:05:00,255,1,sublime text,Editing & IDEs,2
+2018-03-09T09:05:00,21,1,eecs6009.mit.edu,General Software Development,2
+2018-03-09T09:05:00,14,1,Finder,General Utilities,0
+2018-03-09T09:05:00,7,1,Terminal,Systems Operations,2
+2018-03-09T09:05:00,2,1,coreservicesuiagent,General Utilities,0
+2018-03-09T09:05:00,1,1,archive utility,General Utilities,1
+2018-03-09T09:10:00,175,1,sublime text,Editing & IDEs,2
+2018-03-09T09:10:00,125,1,Terminal,Systems Operations,2
+2018-03-09T09:15:00,136,1,Terminal,Systems Operations,2
+2018-03-09T09:15:00,89,1,eecs6009.mit.edu,General Software Development,2
+2018-03-09T09:15:00,75,1,sublime text,Editing & IDEs,2
+2018-03-09T09:20:00,246,1,sublime text,Editing & IDEs,2
+2018-03-09T09:20:00,27,1,Terminal,Systems Operations,2
+2018-03-09T09:20:00,11,1,google.com,Search,2
+2018-03-09T09:20:00,7,1,quora.com,General Reference & Learning,-1
+2018-03-09T09:20:00,5,1,newtab,Browsers,0
+2018-03-09T09:20:00,4,1,eecs6009.mit.edu,General Software Development,2
+2018-03-09T09:25:00,225,1,sublime text,Editing & IDEs,2
+2018-03-09T09:25:00,69,1,Terminal,Systems Operations,2
+2018-03-09T09:25:00,5,1,quora.com,General Reference & Learning,-1
+2018-03-09T09:25:00,1,1,eecs6009.mit.edu,General Software Development,2
+2018-03-09T09:30:00,158,1,sublime text,Editing & IDEs,2
+2018-03-09T09:30:00,142,1,Terminal,Systems Operations,2
+2018-03-09T09:35:00,188,1,Terminal,Systems Operations,2
+2018-03-09T09:35:00,112,1,sublime text,Editing & IDEs,2
+2018-03-09T09:40:00,229,1,sublime text,Editing & IDEs,2
+2018-03-09T09:40:00,42,1,Terminal,Systems Operations,2
+2018-03-09T09:40:00,29,1,eecs6009.mit.edu,General Software Development,2
+2018-03-09T09:45:00,160,1,eecs6009.mit.edu,General Software Development,2
+2018-03-09T09:45:00,91,1,Terminal,Systems Operations,2
+2018-03-09T09:45:00,49,1,sublime text,Editing & IDEs,2
+2018-03-09T09:50:00,263,1,sublime text,Editing & IDEs,2
+2018-03-09T09:50:00,37,1,eecs6009.mit.edu,General Software Development,2
+2018-03-09T09:55:00,173,1,sublime text,Editing & IDEs,2
+2018-03-09T09:55:00,106,1,Terminal,Systems Operations,2
+2018-03-09T09:55:00,21,1,eecs6009.mit.edu,General Software Development,2
+2018-03-09T10:00:00,197,1,sublime text,Editing & IDEs,2
+2018-03-09T10:00:00,103,1,Terminal,Systems Operations,2
+2018-03-09T10:05:00,295,1,sublime text,Editing & IDEs,2
+2018-03-09T10:05:00,5,1,Terminal,Systems Operations,2
+2018-03-09T10:10:00,288,1,sublime text,Editing & IDEs,2
+2018-03-09T10:10:00,12,1,eecs6009.mit.edu,General Software Development,2
+2018-03-09T10:15:00,300,1,sublime text,Editing & IDEs,2
+2018-03-09T10:20:00,230,1,sublime text,Editing & IDEs,2
+2018-03-09T10:20:00,70,1,Terminal,Systems Operations,2
+2018-03-09T10:25:00,187,1,sublime text,Editing & IDEs,2
+2018-03-09T10:25:00,113,1,Terminal,Systems Operations,2
+2018-03-09T10:30:00,234,1,sublime text,Editing & IDEs,2
+2018-03-09T10:30:00,54,1,Terminal,Systems Operations,2
+2018-03-09T10:30:00,12,1,eecs6009.mit.edu,General Software Development,2
+2018-03-09T10:35:00,174,1,sublime text,Editing & IDEs,2
+2018-03-09T10:35:00,126,1,Terminal,Systems Operations,2
+2018-03-09T10:40:00,131,1,sublime text,Editing & IDEs,2
+2018-03-09T10:40:00,124,1,Terminal,Systems Operations,2
+2018-03-09T10:40:00,45,1,eecs6009.mit.edu,General Software Development,2
+2018-03-09T10:45:00,140,1,eecs6009.mit.edu,General Software Development,2
+2018-03-09T10:45:00,129,1,sublime text,Editing & IDEs,2
+2018-03-09T10:45:00,31,1,Terminal,Systems Operations,2
+2018-03-09T10:50:00,32,1,loginwindow,General Utilities,0
+2018-03-09T10:50:00,3,1,eecs6009.mit.edu,General Software Development,2
+2018-03-09T11:00:00,161,1,sublime text,Editing & IDEs,2
+2018-03-09T11:00:00,97,1,messenger.com,General Social Networking,-2
+2018-03-09T11:00:00,28,1,eecs6009.mit.edu,General Software Development,2
+2018-03-09T11:00:00,2,1,newtab,Browsers,0
+2018-03-09T11:05:00,300,1,sublime text,Editing & IDEs,2
+2018-03-09T11:10:00,300,1,sublime text,Editing & IDEs,2
+2018-03-09T11:15:00,111,1,eecs6009.mit.edu,General Software Development,2
+2018-03-09T11:15:00,97,1,sublime text,Editing & IDEs,2
+2018-03-09T11:15:00,67,1,messenger.com,General Social Networking,-2
+2018-03-09T11:15:00,19,1,thebeijinger.com,General News & Opinion,-2
+2018-03-09T11:15:00,3,1,newtab,Browsers,0
+2018-03-09T11:15:00,3,1,gaoloumi.com,Regional,-2
+2018-03-09T11:20:00,187,1,thebeijinger.com,General News & Opinion,-2
+2018-03-09T11:20:00,111,1,sublime text,Editing & IDEs,2
+2018-03-09T11:20:00,2,1,messenger.com,General Social Networking,-2
+2018-03-09T11:25:00,281,1,thebeijinger.com,General News & Opinion,-2
+2018-03-09T11:25:00,14,1,lms.mitx.mit.edu,General Reference & Learning,2
+2018-03-09T11:25:00,5,1,newtab,Browsers,0
+2018-03-09T11:30:00,152,1,thebeijinger.com,General News & Opinion,-2
+2018-03-09T11:30:00,100,1,en.wikipedia.org,General Reference & Learning,1
+2018-03-09T11:30:00,39,1,9to5mac.com,General News & Opinion,-2
+2018-03-09T11:30:00,5,1,google.com,Search,2
+2018-03-09T11:30:00,4,1,newtab,Browsers,0
+2018-03-09T11:35:00,133,1,9to5mac.com,General News & Opinion,-2
+2018-03-09T11:35:00,85,1,cnbc.com,Business,-1
+2018-03-09T11:35:00,60,1,qz.com,General News & Opinion,-2
+2018-03-09T11:35:00,22,1,google.com,Search,2
+2018-03-09T11:40:00,120,1,theguardian.com,General News & Opinion,-2
+2018-03-09T11:40:00,102,1,npr.org,General News & Opinion,-2
+2018-03-09T11:40:00,39,1,qz.com,General News & Opinion,-2
+2018-03-09T11:40:00,37,1,google.com,Search,2
+2018-03-09T11:40:00,2,1,wsj.com,General News & Opinion,-2
+2018-03-09T11:45:00,190,1,nationalinterest.org,General News & Opinion,-2
+2018-03-09T11:45:00,52,1,popularmechanics.com,General News & Opinion,-2
+2018-03-09T11:45:00,32,1,google.com,Search,2
+2018-03-09T11:45:00,13,1,theguardian.com,General News & Opinion,-2
+2018-03-09T11:45:00,12,1,wsj.com,General News & Opinion,-2
+2018-03-09T11:50:00,111,1,nytimes.com,General News & Opinion,-2
+2018-03-09T11:50:00,68,1,popularmechanics.com,General News & Opinion,-2
+2018-03-09T11:50:00,44,1,google.com,Search,2
+2018-03-09T11:50:00,43,1,newsweek.com,General News & Opinion,-2
+2018-03-09T11:50:00,34,1,ft.com,General News & Opinion,-2
+2018-03-09T11:55:00,18,1,loginwindow,General Utilities,0
+2018-03-09T11:55:00,8,1,nytimes.com,General News & Opinion,-2
+2018-03-09T13:05:00,2,1,nytimes.com,General News & Opinion,-2
+2018-03-09T13:10:00,249,1,Preview,General Reference & Learning,2
+2018-03-09T13:10:00,41,1,nytimes.com,General News & Opinion,-2
+2018-03-09T13:10:00,9,1,lms.mitx.mit.edu,General Reference & Learning,2
+2018-03-09T13:15:00,286,1,Preview,General Reference & Learning,2
+2018-03-09T13:15:00,6,1,sublime text,Editing & IDEs,2
+2018-03-09T13:20:00,287,1,Preview,General Reference & Learning,2
+2018-03-09T13:20:00,10,1,messenger.com,General Social Networking,-2
+2018-03-09T13:20:00,3,1,lms.mitx.mit.edu,General Reference & Learning,2
+2018-03-09T13:25:00,300,1,Preview,General Reference & Learning,2
+2018-03-09T13:30:00,120,1,google.com,Search,2
+2018-03-09T13:30:00,102,1,Preview,General Reference & Learning,2
+2018-03-09T13:30:00,42,1,navytimes.com,General News & Opinion,-2
+2018-03-09T13:30:00,24,1,sublime text,Editing & IDEs,2
+2018-03-09T13:30:00,4,1,nytimes.com,General News & Opinion,-2
+2018-03-09T13:30:00,3,1,messenger.com,General Social Networking,-2
+2018-03-09T13:30:00,3,1,lms.mitx.mit.edu,General Reference & Learning,2
+2018-03-09T13:30:00,2,1,eecs6009.mit.edu,General Software Development,2
+2018-03-09T13:35:00,235,1,google.com,Search,2
+2018-03-09T13:35:00,65,1,Preview,General Reference & Learning,2
+2018-03-09T13:40:00,300,1,Preview,General Reference & Learning,2
+2018-03-09T13:45:00,158,1,Preview,General Reference & Learning,2
+2018-03-09T13:45:00,19,1,loginwindow,General Utilities,0
+2018-03-09T14:05:00,38,1,gradescope.com,General Reference & Learning,1
+2018-03-09T14:05:00,30,1,en.wikipedia.org,General Reference & Learning,1
+2018-03-09T14:05:00,20,1,loginwindow,General Utilities,0
+2018-03-09T14:05:00,12,1,Preview,General Reference & Learning,2
+2018-03-09T14:05:00,8,1,google.com,Search,2
+2018-03-09T14:10:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2018-03-09T14:15:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2018-03-09T14:20:00,79,1,en.wikipedia.org,General Reference & Learning,1
+2018-03-09T14:20:00,20,1,loginwindow,General Utilities,0
+2018-03-09T14:20:00,12,1,lms.mitx.mit.edu,General Reference & Learning,2

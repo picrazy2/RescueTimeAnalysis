@@ -1,0 +1,161 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2016-01-01T15:15:00,46,1,math.ups.edu,General Reference & Learning,1
+2016-01-01T15:15:00,36,1,techforhunt.com,Uncategorized,0
+2016-01-01T15:15:00,36,1,bing.com,Search,2
+2016-01-01T15:15:00,33,1,gospelherald.com,General News & Opinion,-2
+2016-01-01T15:15:00,4,1,Gmail,Email,2
+2016-01-01T15:15:00,2,1,adobe flash player install manager,General Utilities,1
+2016-01-01T15:20:00,113,1,Mail,Email,2
+2016-01-01T15:20:00,57,1,applications,General Business,2
+2016-01-01T15:20:00,44,1,realtytoday.com,Uncategorized,0
+2016-01-01T15:20:00,30,1,Safari,Browsers,2
+2016-01-01T15:20:00,21,1,gospelherald.com,General News & Opinion,-2
+2016-01-01T15:20:00,13,1,Finder,General Utilities,0
+2016-01-01T15:20:00,9,1,Skype,General Social Networking,-2
+2016-01-01T15:20:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2016-01-01T15:25:00,291,1,microsoft word,Writing,2
+2016-01-01T15:25:00,9,1,Finder,General Utilities,0
+2016-01-01T15:30:00,181,1,microsoft word,Writing,2
+2016-01-01T15:30:00,58,1,harvardmun.org,Uncategorized,0
+2016-01-01T15:30:00,43,1,Mail,Email,2
+2016-01-01T15:30:00,15,1,Safari,Browsers,2
+2016-01-01T15:30:00,3,1,facebook.com,General Social Networking,-2
+2016-01-01T15:35:00,157,1,harvardmun.org,Uncategorized,0
+2016-01-01T15:35:00,143,1,facebook.com,General Social Networking,-2
+2016-01-01T15:40:00,148,1,facebook.com,General Social Networking,-2
+2016-01-01T15:40:00,96,1,microsoft word,Writing,2
+2016-01-01T15:40:00,20,1,harvardmun.org,Uncategorized,0
+2016-01-01T15:40:00,11,1,Mail,Email,2
+2016-01-01T15:40:00,11,1,Skype,General Social Networking,-2
+2016-01-01T15:40:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2016-01-01T15:40:00,2,1,google.com.hk,Search,2
+2016-01-01T15:40:00,2,1,detail.tmall.com,General Shopping,-2
+2016-01-01T15:40:00,1,1,s.taobao.com,General Shopping,-2
+2016-01-01T15:40:00,1,1,mail.deerfield.edu,General Reference & Learning,1
+2016-01-01T15:45:00,300,1,microsoft word,Writing,2
+2016-01-01T15:50:00,291,1,microsoft word,Writing,2
+2016-01-01T15:50:00,9,1,facebook.com,General Social Networking,-2
+2016-01-01T15:55:00,300,1,microsoft word,Writing,2
+2016-01-01T16:00:00,300,1,microsoft word,Writing,2
+2016-01-01T16:05:00,300,1,microsoft word,Writing,2
+2016-01-01T16:10:00,300,1,microsoft word,Writing,2
+2016-01-01T16:15:00,300,1,microsoft word,Writing,2
+2016-01-01T16:20:00,300,1,microsoft word,Writing,2
+2016-01-01T16:25:00,164,1,microsoft word,Writing,2
+2016-01-01T16:30:00,120,1,apple.com,Engineering & Technology,-1
+2016-01-01T16:30:00,99,1,Mail,Email,2
+2016-01-01T16:30:00,12,1,Safari,Browsers,2
+2016-01-01T16:30:00,6,1,Finder,General Utilities,0
+2016-01-01T16:30:00,4,1,facebook.com,General Social Networking,-2
+2016-01-01T16:35:00,143,1,browser.primatelabs.com,Browsers,-1
+2016-01-01T16:35:00,92,1,apple.com,Engineering & Technology,-1
+2016-01-01T16:35:00,16,1,spotlight,General Utilities,1
+2016-01-01T16:35:00,15,1,Mail,Email,2
+2016-01-01T16:35:00,14,1,en.wikipedia.org,General Reference & Learning,1
+2016-01-01T16:35:00,6,1,bhphotovideo.com,General Shopping,-2
+2016-01-01T16:35:00,5,1,harvardmun.org,Uncategorized,0
+2016-01-01T16:35:00,4,1,facebook.com,General Social Networking,-2
+2016-01-01T16:35:00,1,1,Skype,General Social Networking,-2
+2016-01-01T16:40:00,101,1,browser.primatelabs.com,Browsers,-1
+2016-01-01T16:40:00,20,1,loginwindow,General Utilities,0
+2016-01-01T16:40:00,11,1,Mail,Email,2
+2016-01-01T16:40:00,4,1,google.com.hk,Search,2
+2016-01-01T16:40:00,3,1,Skype,General Social Networking,-2
+2016-01-01T16:40:00,1,1,detail.tmall.com,General Shopping,-2
+2016-01-01T17:30:00,67,1,bhphotovideo.com,General Shopping,-2
+2016-01-01T17:30:00,45,1,detail.tmall.com,General Shopping,-2
+2016-01-01T17:30:00,26,1,astrill,General Utilities,1
+2016-01-01T17:30:00,23,1,s.taobao.com,General Shopping,-2
+2016-01-01T17:30:00,12,1,browser.primatelabs.com,Browsers,-1
+2016-01-01T17:30:00,7,1,apple.com,Engineering & Technology,-1
+2016-01-01T17:35:00,115,1,astrill,General Utilities,1
+2016-01-01T17:35:00,106,1,harvardmun.org,Uncategorized,0
+2016-01-01T17:35:00,78,1,bhphotovideo.com,General Shopping,-2
+2016-01-01T17:35:00,1,1,mail.deerfield.edu,General Reference & Learning,1
+2016-01-01T17:40:00,230,1,harvardmun.org,Uncategorized,0
+2016-01-01T17:40:00,65,1,Skype,General Social Networking,-2
+2016-01-01T17:40:00,2,1,browser.primatelabs.com,Browsers,-1
+2016-01-01T17:40:00,1,1,mail.deerfield.edu,General Reference & Learning,1
+2016-01-01T17:40:00,1,1,astrill,General Utilities,1
+2016-01-01T17:45:00,207,1,harvardmun.org,Uncategorized,0
+2016-01-01T17:45:00,43,1,facebook.com,General Social Networking,-2
+2016-01-01T17:45:00,15,1,mail.deerfield.edu,General Reference & Learning,1
+2016-01-01T17:45:00,14,1,Finder,General Utilities,0
+2016-01-01T17:45:00,6,1,Skype,General Social Networking,-2
+2016-01-01T17:45:00,6,1,spotlight,General Utilities,1
+2016-01-01T17:45:00,4,1,microsoft word,Writing,2
+2016-01-01T17:45:00,1,1,Preview,General Reference & Learning,2
+2016-01-01T17:50:00,280,1,Preview,General Reference & Learning,2
+2016-01-01T17:50:00,14,1,Finder,General Utilities,0
+2016-01-01T17:50:00,3,1,astrill,General Utilities,1
+2016-01-01T17:55:00,276,1,Finder,General Utilities,0
+2016-01-01T17:55:00,21,1,Preview,General Reference & Learning,2
+2016-01-01T18:00:00,300,1,Preview,General Reference & Learning,2
+2016-01-01T18:05:00,265,1,Preview,General Reference & Learning,2
+2016-01-01T18:05:00,35,1,facebook.com,General Social Networking,-2
+2016-01-01T18:10:00,102,1,Preview,General Reference & Learning,2
+2016-01-01T18:10:00,22,1,loginwindow,General Utilities,0
+2016-01-01T20:40:00,155,1,Preview,General Reference & Learning,2
+2016-01-01T20:40:00,114,1,Skype,General Social Networking,-2
+2016-01-01T20:40:00,12,1,facebook.com,General Social Networking,-2
+2016-01-01T20:40:00,3,1,java updater,General Utilities,1
+2016-01-01T20:40:00,2,1,controlpanel,General Utilities,1
+2016-01-01T20:40:00,1,1,google drive,General Business,2
+2016-01-01T20:45:00,223,1,Preview,General Reference & Learning,2
+2016-01-01T20:45:00,57,1,fruitjuice,General Utilities,1
+2016-01-01T20:45:00,56,1,Mail,Email,2
+2016-01-01T20:45:00,10,1,cee.slideroom.com,General Reference & Learning,1
+2016-01-01T20:45:00,6,1,Safari,Browsers,2
+2016-01-01T20:45:00,6,1,cee.org,General Reference & Learning,1
+2016-01-01T20:45:00,5,1,Gmail,Email,2
+2016-01-01T20:45:00,2,1,creative cloud,General Design & Composition,2
+2016-01-01T20:45:00,2,1,facebook.com,General Social Networking,-2
+2016-01-01T20:50:00,154,1,Skype,General Social Networking,-2
+2016-01-01T20:50:00,146,1,Preview,General Reference & Learning,2
+2016-01-01T20:55:00,268,1,Preview,General Reference & Learning,2
+2016-01-01T20:55:00,32,1,Skype,General Social Networking,-2
+2016-01-01T21:00:00,300,1,Preview,General Reference & Learning,2
+2016-01-01T21:05:00,300,1,Preview,General Reference & Learning,2
+2016-01-01T21:10:00,300,1,Preview,General Reference & Learning,2
+2016-01-01T21:15:00,299,1,Preview,General Reference & Learning,2
+2016-01-01T21:20:00,38,1,Preview,General Reference & Learning,2
+2016-01-01T21:30:00,172,1,Preview,General Reference & Learning,2
+2016-01-01T21:30:00,43,1,Finder,General Utilities,0
+2016-01-01T21:35:00,292,1,Preview,General Reference & Learning,2
+2016-01-01T21:40:00,300,1,Preview,General Reference & Learning,2
+2016-01-01T21:45:00,300,1,Preview,General Reference & Learning,2
+2016-01-01T21:50:00,160,1,apple.com,Engineering & Technology,-1
+2016-01-01T21:50:00,87,1,Preview,General Reference & Learning,2
+2016-01-01T21:50:00,41,1,Safari,Browsers,2
+2016-01-01T21:50:00,7,1,cee.org,General Reference & Learning,1
+2016-01-01T21:50:00,1,1,astrill,General Utilities,1
+2016-01-01T21:50:00,1,1,deerfield.edu,General Reference & Learning,1
+2016-01-01T21:55:00,259,1,Preview,General Reference & Learning,2
+2016-01-01T22:00:00,209,1,Preview,General Reference & Learning,2
+2016-01-01T22:00:00,89,1,apple.com,Engineering & Technology,-1
+2016-01-01T22:05:00,266,1,Preview,General Reference & Learning,2
+2016-01-01T22:05:00,19,1,fruitjuice,General Utilities,1
+2016-01-01T22:05:00,15,1,creative cloud,General Design & Composition,2
+2016-01-01T22:10:00,300,1,Preview,General Reference & Learning,2
+2016-01-01T22:15:00,223,1,Preview,General Reference & Learning,2
+2016-01-01T22:15:00,19,1,loginwindow,General Utilities,0
+2016-01-01T23:30:00,18,1,apple.com,Engineering & Technology,-1
+2016-01-01T23:30:00,4,1,Preview,General Reference & Learning,2
+2016-01-01T23:30:00,3,1,Safari,Browsers,2
+2016-01-01T23:35:00,196,1,microsoft word,Writing,2
+2016-01-01T23:35:00,36,1,Preview,General Reference & Learning,2
+2016-01-01T23:35:00,36,1,Skype,General Social Networking,-2
+2016-01-01T23:35:00,6,1,Safari,Browsers,2
+2016-01-01T23:35:00,5,1,cia.gov,Search,0
+2016-01-01T23:35:00,3,1,microsoft error reporting,Science & Technology,-1
+2016-01-01T23:35:00,2,1,apple.com,Engineering & Technology,-1
+2016-01-01T23:40:00,89,1,global.bing.com,General Reference & Learning,1
+2016-01-01T23:40:00,68,1,apple.com,Engineering & Technology,-1
+2016-01-01T23:40:00,60,1,cia.gov,Search,0
+2016-01-01T23:40:00,46,1,microsoft word,Writing,2
+2016-01-01T23:40:00,18,1,cn.bing.com,Search,0
+2016-01-01T23:40:00,14,1,Safari,Browsers,2
+2016-01-01T23:40:00,4,1,creative cloud,General Design & Composition,2
+2016-01-01T23:45:00,212,1,apple.com,Engineering & Technology,-1
+2016-01-01T23:55:00,32,1,applications,General Business,2
+2016-01-01T23:55:00,15,1,Safari,Browsers,2

@@ -1,0 +1,286 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2017-02-07T00:00:00,158,1,map.baidu.com,Maps & Regional,-2
+2017-02-07T00:00:00,36,1,facetime,Voice Chat,-2
+2017-02-07T00:00:00,7,1,tripadvisor.com,Travel & Outdoors,-2
+2017-02-07T00:00:00,7,1,Mail,Email,2
+2017-02-07T00:10:00,203,1,tripadvisor.com,Travel & Outdoors,-2
+2017-02-07T00:15:00,67,1,tripadvisor.com,Travel & Outdoors,-2
+2017-02-07T00:15:00,19,1,loginwindow,General Utilities,0
+2017-02-07T10:15:00,136,1,shmoop.com,General Reference & Learning,1
+2017-02-07T10:15:00,20,1,youtube.com,Video,-2
+2017-02-07T10:15:00,15,1,google.com,Search,2
+2017-02-07T10:15:00,1,1,RescueTime,Intelligence,0
+2017-02-07T10:20:00,221,1,shmoop.com,General Reference & Learning,1
+2017-02-07T10:20:00,75,1,messages,General Social Networking,-2
+2017-02-07T10:25:00,148,1,shmoop.com,General Reference & Learning,1
+2017-02-07T10:25:00,9,1,Mail,Email,2
+2017-02-07T10:30:00,126,1,messages,General Social Networking,-2
+2017-02-07T10:35:00,102,1,gaoloumi.com,Regional,-2
+2017-02-07T10:35:00,85,1,forbes.com,General News & Opinion,-2
+2017-02-07T10:35:00,34,1,youtube.com,Video,-2
+2017-02-07T10:35:00,29,1,Safari,Browsers,2
+2017-02-07T10:35:00,29,1,messages,General Social Networking,-2
+2017-02-07T10:35:00,14,1,google.com,Search,2
+2017-02-07T10:35:00,3,1,chinahiking.cn,Uncategorized,0
+2017-02-07T10:35:00,1,1,shmoop.com,General Reference & Learning,1
+2017-02-07T10:40:00,117,1,deerfield.edu,General Reference & Learning,1
+2017-02-07T10:40:00,52,1,my.mit.edu,General Reference & Learning,1
+2017-02-07T10:40:00,38,1,Safari,Browsers,2
+2017-02-07T10:40:00,33,1,theguardian.com,General News & Opinion,-2
+2017-02-07T10:40:00,24,1,messages,General Social Networking,-2
+2017-02-07T10:40:00,15,1,facebook.com,General Social Networking,-2
+2017-02-07T10:40:00,9,1,forbes.com,General News & Opinion,-2
+2017-02-07T10:40:00,7,1,google.com,Search,2
+2017-02-07T10:40:00,3,1,nanoadexchange.com,Uncategorized,0
+2017-02-07T10:45:00,134,1,facebook.com,General Social Networking,-2
+2017-02-07T10:45:00,120,1,my.mit.edu,General Reference & Learning,1
+2017-02-07T10:45:00,15,1,blast.ncbi.nlm.nih.gov,Engineering & Technology,1
+2017-02-07T10:45:00,9,1,shmoop.com,General Reference & Learning,1
+2017-02-07T10:45:00,9,1,messages,General Social Networking,-2
+2017-02-07T10:45:00,2,1,grubhub.com,General Shopping,-1
+2017-02-07T10:45:00,2,1,theguardian.com,General News & Opinion,-2
+2017-02-07T10:45:00,1,1,chinahiking.cn,Uncategorized,0
+2017-02-07T10:45:00,1,1,youtube.com,Video,-2
+2017-02-07T10:50:00,285,1,my.mit.edu,General Reference & Learning,1
+2017-02-07T10:50:00,14,1,messages,General Social Networking,-2
+2017-02-07T10:55:00,50,1,my.mit.edu,General Reference & Learning,1
+2017-02-07T10:55:00,34,1,loginwindow,General Utilities,0
+2017-02-07T10:55:00,30,1,apply.commonapp.org,General Reference & Learning,1
+2017-02-07T10:55:00,22,1,Preview,General Reference & Learning,2
+2017-02-07T10:55:00,5,1,commonapp.org,General Reference & Learning,1
+2017-02-07T10:55:00,4,1,Safari,Browsers,2
+2017-02-07T10:55:00,2,1,coreservicesuiagent,General Utilities,0
+2017-02-07T11:10:00,50,1,Desktop Window Manager,General Utilities,1
+2017-02-07T11:10:00,41,1,quartus,General Software Development,2
+2017-02-07T11:15:00,300,1,quartus,General Software Development,2
+2017-02-07T11:20:00,300,1,quartus,General Software Development,2
+2017-02-07T11:25:00,299,1,quartus,General Software Development,2
+2017-02-07T11:30:00,300,1,quartus,General Software Development,2
+2017-02-07T11:35:00,118,1,Google Chrome,Browsers,0
+2017-02-07T11:35:00,91,1,deerfield.instructure.com,General Reference & Learning,1
+2017-02-07T11:35:00,88,1,quartus,General Software Development,2
+2017-02-07T11:35:00,1,1,Windows Explorer,General Utilities,1
+2017-02-07T11:40:00,269,1,quartus,General Software Development,2
+2017-02-07T11:40:00,10,1,deerfield.instructure.com,General Reference & Learning,1
+2017-02-07T12:35:00,70,1,Finder,General Utilities,0
+2017-02-07T12:35:00,41,1,shmoop.com,General Reference & Learning,1
+2017-02-07T12:40:00,32,1,loginwindow,General Utilities,0
+2017-02-07T12:40:00,14,1,shmoop.com,General Reference & Learning,1
+2017-02-07T12:40:00,3,1,Finder,General Utilities,0
+2017-02-07T12:55:00,48,1,en.wikipedia.org,General Reference & Learning,1
+2017-02-07T12:55:00,10,1,loginwindow,General Utilities,0
+2017-02-07T12:55:00,7,1,google.com,Search,2
+2017-02-07T12:55:00,3,1,Safari,Browsers,2
+2017-02-07T12:55:00,2,1,shmoop.com,General Reference & Learning,1
+2017-02-07T12:55:00,2,1,Finder,General Utilities,0
+2017-02-07T13:00:00,23,1,loginwindow,General Utilities,0
+2017-02-07T14:05:00,138,1,messages,General Social Networking,-2
+2017-02-07T14:05:00,35,1,Mail,Email,2
+2017-02-07T14:05:00,31,1,Finder,General Utilities,0
+2017-02-07T14:05:00,29,1,ncbi.nlm.nih.gov,Engineering & Technology,1
+2017-02-07T14:05:00,27,1,youtube.com,Video,-2
+2017-02-07T14:05:00,19,1,en.wikipedia.org,General Reference & Learning,1
+2017-02-07T14:05:00,4,1,chinahiking.cn,Uncategorized,0
+2017-02-07T14:05:00,3,1,blast.ncbi.nlm.nih.gov,Engineering & Technology,1
+2017-02-07T14:10:00,100,1,pages,Presentation,2
+2017-02-07T14:10:00,78,1,microsoft word,Writing,2
+2017-02-07T14:10:00,76,1,messages,General Social Networking,-2
+2017-02-07T14:10:00,33,1,Finder,General Utilities,0
+2017-02-07T14:10:00,5,1,ncbi.nlm.nih.gov,Engineering & Technology,1
+2017-02-07T14:15:00,252,1,microsoft word,Writing,2
+2017-02-07T14:15:00,48,1,messages,General Social Networking,-2
+2017-02-07T14:20:00,82,1,en.wikipedia.org,General Reference & Learning,1
+2017-02-07T14:20:00,59,1,easybib.com,Search,2
+2017-02-07T14:20:00,52,1,microsoft word,Writing,2
+2017-02-07T14:20:00,30,1,youtube.com,Video,-2
+2017-02-07T14:20:00,29,1,Safari,Browsers,2
+2017-02-07T14:20:00,16,1,messages,General Social Networking,-2
+2017-02-07T14:20:00,9,1,applications,General Business,2
+2017-02-07T14:20:00,7,1,Mail,Email,2
+2017-02-07T14:20:00,4,1,google.com,Search,2
+2017-02-07T14:20:00,2,1,blast.ncbi.nlm.nih.gov,Engineering & Technology,1
+2017-02-07T14:20:00,1,1,ncbi.nlm.nih.gov,Engineering & Technology,1
+2017-02-07T14:25:00,112,1,en.wikipedia.org,General Reference & Learning,1
+2017-02-07T14:25:00,99,1,messages,General Social Networking,-2
+2017-02-07T14:25:00,30,1,microsoft word,Writing,2
+2017-02-07T14:25:00,20,1,facebook.com,General Social Networking,-2
+2017-02-07T14:25:00,7,1,applications,General Business,2
+2017-02-07T14:25:00,5,1,Finder,General Utilities,0
+2017-02-07T14:25:00,4,1,youtube.com,Video,-2
+2017-02-07T14:25:00,2,1,blast.ncbi.nlm.nih.gov,Engineering & Technology,1
+2017-02-07T14:30:00,165,1,en.wikipedia.org,General Reference & Learning,1
+2017-02-07T14:30:00,112,1,microsoft word,Writing,2
+2017-02-07T14:30:00,9,1,messages,General Social Networking,-2
+2017-02-07T14:30:00,5,1,Mail,Email,2
+2017-02-07T14:30:00,4,1,gaoloumi.com,Regional,-2
+2017-02-07T14:35:00,243,1,microsoft word,Writing,2
+2017-02-07T14:35:00,24,1,theexplorercard.com,Uncategorized,0
+2017-02-07T14:35:00,15,1,united.com,Travel & Outdoors,-2
+2017-02-07T14:35:00,8,1,shmoop.com,General Reference & Learning,1
+2017-02-07T14:35:00,3,1,Safari,Browsers,2
+2017-02-07T14:35:00,2,1,Mail,Email,2
+2017-02-07T14:35:00,2,1,gaoloumi.com,Regional,-2
+2017-02-07T14:40:00,205,1,applynow.chase.com,Accounting,2
+2017-02-07T14:40:00,52,1,youtube.com,Video,-2
+2017-02-07T14:40:00,15,1,theexplorercard.com,Uncategorized,0
+2017-02-07T14:40:00,13,1,Mail,Email,2
+2017-02-07T14:40:00,1,1,united.com,Travel & Outdoors,-2
+2017-02-07T14:45:00,126,1,Mail,Email,2
+2017-02-07T14:45:00,60,1,dainfo.deerfield.edu,General Reference & Learning,1
+2017-02-07T14:45:00,42,1,youtube.com,Video,-2
+2017-02-07T14:45:00,38,1,microsoft word,Writing,2
+2017-02-07T14:45:00,10,1,applynow.chase.com,Accounting,2
+2017-02-07T14:45:00,6,1,bankofamerica.com,General Business,2
+2017-02-07T14:45:00,4,1,united.com,Travel & Outdoors,-2
+2017-02-07T14:45:00,4,1,theexplorercard.com,Uncategorized,0
+2017-02-07T14:45:00,3,1,facebook.com,General Social Networking,-2
+2017-02-07T14:50:00,156,1,Mail,Email,2
+2017-02-07T14:50:00,93,1,rescuetime.com,Intelligence,0
+2017-02-07T14:50:00,18,1,stateair.net,Uncategorized,0
+2017-02-07T14:50:00,9,1,theexplorercard.com,Uncategorized,0
+2017-02-07T14:50:00,9,1,messages,General Social Networking,-2
+2017-02-07T14:50:00,7,1,dainfo.deerfield.edu,General Reference & Learning,1
+2017-02-07T14:50:00,4,1,united.com,Travel & Outdoors,-2
+2017-02-07T14:50:00,1,1,facebook.com,General Social Networking,-2
+2017-02-07T14:55:00,70,1,abc.net.au,General News & Opinion,-2
+2017-02-07T14:55:00,66,1,messages,General Social Networking,-2
+2017-02-07T14:55:00,32,1,loginwindow,General Utilities,0
+2017-02-07T14:55:00,13,1,facebook.com,General Social Networking,-2
+2017-02-07T14:55:00,12,1,rescuetime.com,Intelligence,0
+2017-02-07T14:55:00,11,1,Mail,Email,2
+2017-02-07T14:55:00,9,1,gaoloumi.com,Regional,-2
+2017-02-07T14:55:00,3,1,stateair.net,Uncategorized,0
+2017-02-07T14:55:00,1,1,theexplorercard.com,Uncategorized,0
+2017-02-07T15:10:00,47,1,youtube.com,Video,-2
+2017-02-07T15:10:00,33,1,facebook.com,General Social Networking,-2
+2017-02-07T15:10:00,12,1,Notes,Email,0
+2017-02-07T15:10:00,7,1,en.wikipedia.org,General Reference & Learning,1
+2017-02-07T15:10:00,4,1,map.baidu.com,Maps & Regional,-2
+2017-02-07T15:10:00,2,1,Safari,Browsers,2
+2017-02-07T15:15:00,300,1,youtube.com,Video,-2
+2017-02-07T15:20:00,300,1,youtube.com,Video,-2
+2017-02-07T15:25:00,300,1,youtube.com,Video,-2
+2017-02-07T15:30:00,300,1,youtube.com,Video,-2
+2017-02-07T15:35:00,300,1,youtube.com,Video,-2
+2017-02-07T15:40:00,157,1,youtube.com,Video,-2
+2017-02-07T15:40:00,132,1,gaoloumi.com,Regional,-2
+2017-02-07T15:40:00,7,1,Safari,Browsers,2
+2017-02-07T15:45:00,152,1,gaoloumi.com,Regional,-2
+2017-02-07T15:45:00,46,1,mashable.com,Science & Technology,-1
+2017-02-07T15:45:00,32,1,google.com,Search,2
+2017-02-07T15:45:00,6,1,cnbc.com,Business,-1
+2017-02-07T15:45:00,6,1,9to5mac.com,General News & Opinion,-2
+2017-02-07T15:45:00,2,1,Safari,Browsers,2
+2017-02-07T15:50:00,141,1,cnn.com,General News & Opinion,2
+2017-02-07T15:50:00,75,1,mashable.com,Science & Technology,-1
+2017-02-07T15:50:00,48,1,channelnewsasia.com,General News & Opinion,-2
+2017-02-07T15:50:00,35,1,google.com,Search,2
+2017-02-07T15:55:00,54,1,google.com,Search,2
+2017-02-07T15:55:00,54,1,Mail,Email,2
+2017-02-07T15:55:00,23,1,qz.com,General News & Opinion,-2
+2017-02-07T15:55:00,11,1,cnbc.com,Business,-1
+2017-02-07T15:55:00,6,1,cnn.com,General News & Opinion,2
+2017-02-07T15:55:00,5,1,express.co.uk,General Utilities,1
+2017-02-07T20:35:00,275,1,facebook.com,General Social Networking,-2
+2017-02-07T20:35:00,5,1,Mail,Email,2
+2017-02-07T20:40:00,171,1,tripadvisor.com,Travel & Outdoors,-2
+2017-02-07T20:40:00,129,1,facebook.com,General Social Networking,-2
+2017-02-07T20:45:00,299,1,tripadvisor.com,Travel & Outdoors,-2
+2017-02-07T20:45:00,1,1,facebook.com,General Social Networking,-2
+2017-02-07T20:50:00,227,1,tripadvisor.com,Travel & Outdoors,-2
+2017-02-07T21:00:00,63,1,facebook.com,General Social Networking,-2
+2017-02-07T21:00:00,45,1,tripadvisor.com,Travel & Outdoors,-2
+2017-02-07T21:00:00,44,1,Preview,General Reference & Learning,2
+2017-02-07T21:05:00,189,1,Preview,General Reference & Learning,2
+2017-02-07T21:05:00,110,1,facebook.com,General Social Networking,-2
+2017-02-07T21:05:00,1,1,maseratiusa.com,Uncategorized,0
+2017-02-07T21:10:00,107,1,tripadvisor.com,Travel & Outdoors,-2
+2017-02-07T21:10:00,87,1,map.baidu.com,Maps & Regional,-2
+2017-02-07T21:10:00,86,1,facebook.com,General Social Networking,-2
+2017-02-07T21:10:00,19,1,Preview,General Reference & Learning,2
+2017-02-07T21:10:00,1,1,Mail,Email,2
+2017-02-07T21:15:00,244,1,tripadvisor.com,Travel & Outdoors,-2
+2017-02-07T21:15:00,52,1,map.baidu.com,Maps & Regional,-2
+2017-02-07T21:15:00,4,1,facebook.com,General Social Networking,-2
+2017-02-07T21:20:00,147,1,Preview,General Reference & Learning,2
+2017-02-07T21:20:00,68,1,Mail,Email,2
+2017-02-07T21:20:00,58,1,tripadvisor.com,Travel & Outdoors,-2
+2017-02-07T21:20:00,27,1,map.baidu.com,Maps & Regional,-2
+2017-02-07T21:25:00,225,1,Preview,General Reference & Learning,2
+2017-02-07T21:25:00,18,1,my.mit.edu,General Reference & Learning,1
+2017-02-07T21:25:00,14,1,Mail,Email,2
+2017-02-07T21:25:00,6,1,Safari,Browsers,2
+2017-02-07T21:40:00,55,1,youtube.com,Video,-2
+2017-02-07T21:40:00,1,1,my.mit.edu,General Reference & Learning,1
+2017-02-07T21:45:00,281,1,youtube.com,Video,-2
+2017-02-07T21:45:00,11,1,google.com,Search,2
+2017-02-07T21:45:00,8,1,Safari,Browsers,2
+2017-02-07T21:50:00,293,1,youtube.com,Video,-2
+2017-02-07T21:50:00,7,1,my.mit.edu,General Reference & Learning,1
+2017-02-07T21:55:00,298,1,youtube.com,Video,-2
+2017-02-07T21:55:00,2,1,qz.com,General News & Opinion,-2
+2017-02-07T22:00:00,300,1,youtube.com,Video,-2
+2017-02-07T22:05:00,300,1,youtube.com,Video,-2
+2017-02-07T22:10:00,300,1,youtube.com,Video,-2
+2017-02-07T22:15:00,194,1,messages,General Social Networking,-2
+2017-02-07T22:15:00,47,1,qz.com,General News & Opinion,-2
+2017-02-07T22:15:00,40,1,youtube.com,Video,-2
+2017-02-07T22:15:00,6,1,Mail,Email,2
+2017-02-07T22:15:00,2,1,9to5mac.com,General News & Opinion,-2
+2017-02-07T22:20:00,156,1,9to5mac.com,General News & Opinion,-2
+2017-02-07T22:20:00,96,1,gaoloumi.com,Regional,-2
+2017-02-07T22:20:00,6,1,messages,General Social Networking,-2
+2017-02-07T22:20:00,4,1,Safari,Browsers,2
+2017-02-07T22:25:00,163,1,Preview,General Reference & Learning,2
+2017-02-07T22:25:00,126,1,gaoloumi.com,Regional,-2
+2017-02-07T22:25:00,11,1,messages,General Social Networking,-2
+2017-02-07T22:30:00,150,1,Preview,General Reference & Learning,2
+2017-02-07T22:30:00,130,1,messages,General Social Networking,-2
+2017-02-07T22:30:00,20,1,tripadvisor.com,Travel & Outdoors,-2
+2017-02-07T22:35:00,199,1,messages,General Social Networking,-2
+2017-02-07T22:35:00,55,1,Preview,General Reference & Learning,2
+2017-02-07T22:35:00,46,1,cnn.com,General News & Opinion,2
+2017-02-07T22:40:00,227,1,Preview,General Reference & Learning,2
+2017-02-07T22:40:00,73,1,messages,General Social Networking,-2
+2017-02-07T22:45:00,268,1,cnn.com,General News & Opinion,2
+2017-02-07T22:45:00,32,1,Preview,General Reference & Learning,2
+2017-02-07T22:50:00,292,1,cnn.com,General News & Opinion,2
+2017-02-07T22:50:00,8,1,messages,General Social Networking,-2
+2017-02-07T22:55:00,199,1,messages,General Social Networking,-2
+2017-02-07T22:55:00,99,1,map.baidu.com,Maps & Regional,-2
+2017-02-07T22:55:00,1,1,tripadvisor.com,Travel & Outdoors,-2
+2017-02-07T22:55:00,1,1,gaoloumi.com,Regional,-2
+2017-02-07T23:00:00,257,1,tripadvisor.com,Travel & Outdoors,-2
+2017-02-07T23:00:00,30,1,map.baidu.com,Maps & Regional,-2
+2017-02-07T23:00:00,6,1,applications,General Business,2
+2017-02-07T23:00:00,4,1,youtube.com,Video,-2
+2017-02-07T23:00:00,1,1,usernotificationcenter,General Utilities,0
+2017-02-07T23:05:00,238,1,tripadvisor.com,Travel & Outdoors,-2
+2017-02-07T23:05:00,55,1,Preview,General Reference & Learning,2
+2017-02-07T23:05:00,7,1,youtube.com,Video,-2
+2017-02-07T23:10:00,197,1,Preview,General Reference & Learning,2
+2017-02-07T23:10:00,89,1,messages,General Social Networking,-2
+2017-02-07T23:10:00,14,1,usernotificationcenter,General Utilities,0
+2017-02-07T23:15:00,300,1,usernotificationcenter,General Utilities,0
+2017-02-07T23:20:00,183,1,messages,General Social Networking,-2
+2017-02-07T23:20:00,55,1,usernotificationcenter,General Utilities,0
+2017-02-07T23:20:00,50,1,Preview,General Reference & Learning,2
+2017-02-07T23:20:00,12,1,youtube.com,Video,-2
+2017-02-07T23:25:00,260,1,map.baidu.com,Maps & Regional,-2
+2017-02-07T23:25:00,40,1,Preview,General Reference & Learning,2
+2017-02-07T23:30:00,168,1,Preview,General Reference & Learning,2
+2017-02-07T23:30:00,79,1,map.baidu.com,Maps & Regional,-2
+2017-02-07T23:30:00,53,1,messages,General Social Networking,-2
+2017-02-07T23:35:00,182,1,tripadvisor.com,Travel & Outdoors,-2
+2017-02-07T23:35:00,94,1,messages,General Social Networking,-2
+2017-02-07T23:35:00,23,1,map.baidu.com,Maps & Regional,-2
+2017-02-07T23:40:00,105,1,messages,General Social Networking,-2
+2017-02-07T23:40:00,61,1,tripadvisor.com,Travel & Outdoors,-2
+2017-02-07T23:40:00,61,1,facebook.com,General Social Networking,-2
+2017-02-07T23:40:00,24,1,map.baidu.com,Maps & Regional,-2
+2017-02-07T23:40:00,23,1,Mail,Email,2
+2017-02-07T23:40:00,14,1,applications,General Business,2
+2017-02-07T23:40:00,6,1,airlineratings.com,General Reference & Learning,1
+2017-02-07T23:40:00,3,1,usernotificationcenter,General Utilities,0
+2017-02-07T23:45:00,174,1,messages,General Social Networking,-2
+2017-02-07T23:45:00,5,1,tripadvisor.com,Travel & Outdoors,-2

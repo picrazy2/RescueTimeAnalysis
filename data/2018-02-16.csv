@@ -1,0 +1,110 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-02-16T00:45:00,37,1,youtube.com,Video,-2
+2018-02-16T00:45:00,3,1,RescueTime,Intelligence,0
+2018-02-16T00:45:00,1,1,loginwindow,General Utilities,0
+2018-02-16T00:45:00,1,1,screensaverengine,General Utilities,0
+2018-02-16T00:50:00,209,1,lms.mitx.mit.edu,General Reference & Learning,2
+2018-02-16T00:50:00,24,1,messenger.com,General Social Networking,-2
+2018-02-16T00:50:00,21,1,wechat,General Social Networking,-2
+2018-02-16T00:50:00,11,1,youtube.com,Video,-2
+2018-02-16T00:50:00,4,1,9to5mac.com,General News & Opinion,-2
+2018-02-16T00:50:00,4,1,google.com,Search,2
+2018-02-16T02:00:00,16,1,Preview,General Reference & Learning,2
+2018-02-16T02:00:00,11,1,Finder,General Utilities,0
+2018-02-16T02:00:00,3,1,lms.mitx.mit.edu,General Reference & Learning,2
+2018-02-16T02:00:00,1,1,loginwindow,General Utilities,0
+2018-02-16T02:10:00,17,1,Preview,General Reference & Learning,2
+2018-02-16T02:10:00,12,1,lms.mitx.mit.edu,General Reference & Learning,2
+2018-02-16T02:10:00,9,1,messenger.com,General Social Networking,-2
+2018-02-16T02:25:00,7,1,Preview,General Reference & Learning,2
+2018-02-16T11:55:00,228,1,lms.mitx.mit.edu,General Reference & Learning,2
+2018-02-16T11:55:00,27,1,messenger.com,General Social Networking,-2
+2018-02-16T11:55:00,8,1,Preview,General Reference & Learning,2
+2018-02-16T11:55:00,2,1,9to5mac.com,General News & Opinion,-2
+2018-02-16T12:00:00,300,1,lms.mitx.mit.edu,General Reference & Learning,2
+2018-02-16T12:05:00,300,1,lms.mitx.mit.edu,General Reference & Learning,2
+2018-02-16T12:10:00,300,1,lms.mitx.mit.edu,General Reference & Learning,2
+2018-02-16T12:15:00,190,1,lms.mitx.mit.edu,General Reference & Learning,2
+2018-02-16T16:25:00,88,1,gradescope.com,General Reference & Learning,1
+2018-02-16T16:25:00,21,1,lms.mitx.mit.edu,General Reference & Learning,2
+2018-02-16T16:25:00,1,1,loginwindow,General Utilities,0
+2018-02-16T16:30:00,99,1,gradescope.com,General Reference & Learning,1
+2018-02-16T16:30:00,63,1,eecs6009.mit.edu,General Software Development,2
+2018-02-16T16:30:00,51,1,texshop,Writing,2
+2018-02-16T16:30:00,31,1,google.com,Search,2
+2018-02-16T16:30:00,22,1,piazza.com,General Reference & Learning,2
+2018-02-16T16:30:00,15,1,py.mit.edu,Presentation,2
+2018-02-16T16:30:00,8,1,delish.com,Food,1
+2018-02-16T16:30:00,8,1,Finder,General Utilities,0
+2018-02-16T16:30:00,3,1,oidc.mit.edu,Presentation,2
+2018-02-16T16:35:00,280,1,messenger.com,General Social Networking,-2
+2018-02-16T16:35:00,20,1,google.com,Search,2
+2018-02-16T16:40:00,56,1,gradescope.com,General Reference & Learning,1
+2018-02-16T16:40:00,30,1,messenger.com,General Social Networking,-2
+2018-02-16T18:50:00,76,1,gradescope.com,General Reference & Learning,1
+2018-02-16T18:50:00,50,1,calendar,Calendars,1
+2018-02-16T18:50:00,35,1,english.entgroup.cn,Uncategorized,0
+2018-02-16T18:50:00,3,1,loginwindow,General Utilities,0
+2018-02-16T18:50:00,2,1,web.mit.edu,General Reference & Learning,2
+2018-02-16T18:55:00,2,1,english.entgroup.cn,Uncategorized,0
+2018-02-16T23:00:00,221,1,youtube.com,Video,-2
+2018-02-16T23:00:00,3,1,english.entgroup.cn,Uncategorized,0
+2018-02-16T23:00:00,2,1,calendar,Calendars,1
+2018-02-16T23:00:00,2,1,gradescope.com,General Reference & Learning,1
+2018-02-16T23:00:00,1,1,lms.mitx.mit.edu,General Reference & Learning,2
+2018-02-16T23:00:00,1,1,web.ift.uib.no,Search,0
+2018-02-16T23:00:00,1,1,youku.com,General Entertainment,-2
+2018-02-16T23:00:00,1,1,Google Forms,General Business,2
+2018-02-16T23:00:00,1,1,loginwindow,General Utilities,0
+2018-02-16T23:05:00,300,1,youtube.com,Video,-2
+2018-02-16T23:10:00,300,1,youtube.com,Video,-2
+2018-02-16T23:15:00,249,1,youtube.com,Video,-2
+2018-02-16T23:15:00,25,1,s.taobao.com,General Shopping,-2
+2018-02-16T23:15:00,14,1,translate.google.com,Search,1
+2018-02-16T23:15:00,8,1,lms.mitx.mit.edu,General Reference & Learning,2
+2018-02-16T23:15:00,4,1,google.com/translate,General Reference & Learning,1
+2018-02-16T23:20:00,83,1,s.taobao.com,General Shopping,-2
+2018-02-16T23:20:00,65,1,compass.mit.edu,Presentation,2
+2018-02-16T23:20:00,56,1,Mail,Email,2
+2018-02-16T23:20:00,56,1,baidu.com,Search,2
+2018-02-16T23:20:00,22,1,shop112008960.taobao.com,General Shopping,-2
+2018-02-16T23:20:00,7,1,idp.mit.edu,General Reference & Learning,1
+2018-02-16T23:20:00,5,1,youtube.com,Video,-2
+2018-02-16T23:20:00,4,1,travelregistry.mit.edu,Presentation,2
+2018-02-16T23:20:00,1,1,translate.google.com,Search,1
+2018-02-16T23:25:00,234,1,compass.mit.edu,Presentation,2
+2018-02-16T23:25:00,66,1,travel.state.gov,Travel & Outdoors,-2
+2018-02-16T23:30:00,249,1,compass.mit.edu,Presentation,2
+2018-02-16T23:30:00,34,1,Mail,Email,2
+2018-02-16T23:30:00,6,1,eecs6009.mit.edu,General Software Development,2
+2018-02-16T23:30:00,5,1,newtab,Browsers,0
+2018-02-16T23:30:00,2,1,idp.mit.edu,General Reference & Learning,1
+2018-02-16T23:35:00,195,1,Mail,Email,2
+2018-02-16T23:35:00,76,1,Preview,General Reference & Learning,2
+2018-02-16T23:35:00,12,1,microsoft word,Writing,2
+2018-02-16T23:35:00,8,1,Finder,General Utilities,0
+2018-02-16T23:35:00,6,1,compass.mit.edu,Presentation,2
+2018-02-16T23:40:00,215,1,Notes,Email,0
+2018-02-16T23:40:00,85,1,Mail,Email,2
+2018-02-16T23:45:00,127,1,gaoloumi.com,Regional,-2
+2018-02-16T23:45:00,85,1,eecs6009.mit.edu,General Software Development,2
+2018-02-16T23:45:00,76,1,Notes,Email,0
+2018-02-16T23:45:00,4,1,compass.mit.edu,Presentation,2
+2018-02-16T23:45:00,3,1,newtab,Browsers,0
+2018-02-16T23:45:00,3,1,google.com,Search,2
+2018-02-16T23:45:00,2,1,oidc.mit.edu,Presentation,2
+2018-02-16T23:50:00,189,1,gaoloumi.com,Regional,-2
+2018-02-16T23:50:00,40,1,news.yongkao.com,Uncategorized,0
+2018-02-16T23:50:00,20,1,youtube.com,Video,-2
+2018-02-16T23:50:00,17,1,news.baidu.com,General News & Opinion,-2
+2018-02-16T23:50:00,13,1,baidu.com,Search,2
+2018-02-16T23:50:00,10,1,eecs6009.mit.edu,General Software Development,2
+2018-02-16T23:50:00,6,1,Notes,Email,0
+2018-02-16T23:50:00,5,1,newtab,Browsers,0
+2018-02-16T23:55:00,124,1,youtube.com,Video,-2
+2018-02-16T23:55:00,121,1,news.yongkao.com,Uncategorized,0
+2018-02-16T23:55:00,25,1,nbcolympics.com,Sports,-1
+2018-02-16T23:55:00,13,1,gaoloumi.com,Regional,-2
+2018-02-16T23:55:00,9,1,news.baidu.com,General News & Opinion,-2
+2018-02-16T23:55:00,7,1,newtab,Browsers,0
+2018-02-16T23:55:00,1,1,google.com,Search,2

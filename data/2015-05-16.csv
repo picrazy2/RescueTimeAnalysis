@@ -1,0 +1,352 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2015-05-16T00:00:00,196,1,hjedesign.com,Graphic Design,2
+2015-05-16T00:00:00,35,1,maps,Maps & Regional,1
+2015-05-16T00:00:00,24,1,upload.wikimedia.org,Search,0
+2015-05-16T00:00:00,15,1,google.com,Search,2
+2015-05-16T00:00:00,11,1,Safari,Browsers,2
+2015-05-16T00:00:00,7,1,google earth,Maps & Regional,1
+2015-05-16T00:00:00,3,1,amazon.com,General Shopping,-1
+2015-05-16T00:05:00,148,1,google.com,Search,2
+2015-05-16T00:05:00,91,1,hjedesign.com,Graphic Design,2
+2015-05-16T00:05:00,33,1,facebook.com,General Social Networking,-2
+2015-05-16T00:05:00,19,1,Skype,General Social Networking,-2
+2015-05-16T00:05:00,5,1,upload.wikimedia.org,Search,0
+2015-05-16T00:10:00,192,1,Skype,General Social Networking,-2
+2015-05-16T00:10:00,98,1,google.com,Search,2
+2015-05-16T00:15:00,228,1,google.com,Search,2
+2015-05-16T00:15:00,72,1,Skype,General Social Networking,-2
+2015-05-16T00:20:00,282,1,hjedesign.com,Graphic Design,2
+2015-05-16T00:20:00,10,1,google.com,Search,2
+2015-05-16T00:20:00,7,1,Skype,General Social Networking,-2
+2015-05-16T00:20:00,1,1,facebook.com,General Social Networking,-2
+2015-05-16T00:25:00,209,1,hjedesign.com,Graphic Design,2
+2015-05-16T00:25:00,62,1,Mail,Email,2
+2015-05-16T00:25:00,26,1,Skype,General Social Networking,-2
+2015-05-16T00:30:00,73,1,Skype,General Social Networking,-2
+2015-05-16T00:30:00,34,1,Dictionary,General Reference & Learning,1
+2015-05-16T00:30:00,12,1,hjedesign.com,Graphic Design,2
+2015-05-16T00:40:00,4,1,hjedesign.com,Graphic Design,2
+2015-05-16T00:45:00,122,1,hjedesign.com,Graphic Design,2
+2015-05-16T00:45:00,19,1,loginwindow,General Utilities,0
+2015-05-16T12:25:00,86,1,Skype,General Social Networking,-2
+2015-05-16T12:25:00,28,1,google.com,Search,2
+2015-05-16T12:25:00,14,1,Preview,General Reference & Learning,2
+2015-05-16T12:25:00,11,1,facebook.com,General Social Networking,-2
+2015-05-16T12:25:00,8,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T12:25:00,8,1,amazon.com,General Shopping,-1
+2015-05-16T12:25:00,3,1,Finder,General Utilities,0
+2015-05-16T12:25:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T12:25:00,1,1,hjedesign.com,Graphic Design,2
+2015-05-16T12:25:00,1,1,Safari,Browsers,2
+2015-05-16T12:30:00,240,1,Preview,General Reference & Learning,2
+2015-05-16T12:30:00,56,1,Skype,General Social Networking,-2
+2015-05-16T12:30:00,2,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T12:35:00,142,1,Safari,Browsers,2
+2015-05-16T12:35:00,73,1,Skype,General Social Networking,-2
+2015-05-16T12:35:00,71,1,facebook.com,General Social Networking,-2
+2015-05-16T12:35:00,6,1,quora.com,General Reference & Learning,-1
+2015-05-16T12:35:00,4,1,ichef.bbci.co.uk,Uncategorized,0
+2015-05-16T12:35:00,3,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T12:40:00,194,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T12:40:00,99,1,facebook.com,General Social Networking,-2
+2015-05-16T12:40:00,3,1,appengine.google.com,General Software Development,2
+2015-05-16T12:40:00,2,1,Safari,Browsers,2
+2015-05-16T12:45:00,121,1,Skype,General Social Networking,-2
+2015-05-16T12:45:00,75,1,Finder,General Utilities,0
+2015-05-16T12:45:00,54,1,microsoft word,Writing,2
+2015-05-16T12:45:00,49,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T12:50:00,162,1,microsoft word,Writing,2
+2015-05-16T12:50:00,134,1,Finder,General Utilities,0
+2015-05-16T12:50:00,4,1,Skype,General Social Networking,-2
+2015-05-16T12:55:00,226,1,Finder,General Utilities,0
+2015-05-16T12:55:00,74,1,Skype,General Social Networking,-2
+2015-05-16T13:00:00,253,1,Skype,General Social Networking,-2
+2015-05-16T13:00:00,33,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T13:00:00,14,1,facebook.com,General Social Networking,-2
+2015-05-16T13:05:00,286,1,facebook.com,General Social Networking,-2
+2015-05-16T13:05:00,12,1,Skype,General Social Networking,-2
+2015-05-16T13:05:00,1,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T13:10:00,266,1,facebook.com,General Social Networking,-2
+2015-05-16T13:10:00,24,1,Skype,General Social Networking,-2
+2015-05-16T13:10:00,10,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T13:15:00,219,1,facebook.com,General Social Networking,-2
+2015-05-16T13:15:00,80,1,Skype,General Social Networking,-2
+2015-05-16T13:20:00,296,1,facebook.com,General Social Networking,-2
+2015-05-16T13:20:00,3,1,Skype,General Social Networking,-2
+2015-05-16T13:20:00,1,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T13:25:00,298,1,Skype,General Social Networking,-2
+2015-05-16T13:25:00,2,1,facebook.com,General Social Networking,-2
+2015-05-16T13:30:00,121,1,Mail,Email,2
+2015-05-16T13:30:00,74,1,facebook.com,General Social Networking,-2
+2015-05-16T13:30:00,66,1,Skype,General Social Networking,-2
+2015-05-16T13:30:00,20,1,youtube.com,Video,-2
+2015-05-16T13:30:00,17,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T13:35:00,300,1,youtube.com,Video,-2
+2015-05-16T13:40:00,300,1,youtube.com,Video,-2
+2015-05-16T13:45:00,227,1,youtube.com,Video,-2
+2015-05-16T13:45:00,73,1,quora.com,General Reference & Learning,-1
+2015-05-16T13:50:00,131,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T13:50:00,77,1,flash player (safari internet plug-in),Video,-2
+2015-05-16T13:50:00,48,1,youtube.com,Video,-2
+2015-05-16T13:50:00,24,1,Finder,General Utilities,0
+2015-05-16T13:50:00,8,1,facebook.com,General Social Networking,-2
+2015-05-16T13:50:00,6,1,Safari,Browsers,2
+2015-05-16T13:50:00,5,1,google.com,Search,2
+2015-05-16T13:55:00,300,1,flash player (safari internet plug-in),Video,-2
+2015-05-16T14:00:00,132,1,flash player (safari internet plug-in),Video,-2
+2015-05-16T14:00:00,9,1,youtube.com,Video,-2
+2015-05-16T14:20:00,95,1,youtube.com,Video,-2
+2015-05-16T14:25:00,91,1,youtube.com,Video,-2
+2015-05-16T14:25:00,83,1,microsoft word,Writing,2
+2015-05-16T14:25:00,77,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T14:25:00,41,1,Mail,Email,2
+2015-05-16T14:25:00,6,1,google.com,Search,2
+2015-05-16T14:25:00,2,1,americanforests.org,Uncategorized,0
+2015-05-16T14:30:00,125,1,Mail,Email,2
+2015-05-16T14:30:00,80,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T14:30:00,80,1,facebook.com,General Social Networking,-2
+2015-05-16T14:30:00,8,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T14:30:00,4,1,microsoft word,Writing,2
+2015-05-16T14:30:00,2,1,usa.chinadaily.com.cn,General News & Opinion,-2
+2015-05-16T14:35:00,238,1,youtube.com,Video,-2
+2015-05-16T14:35:00,41,1,Mail,Email,2
+2015-05-16T14:35:00,9,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T14:35:00,4,1,Finder,General Utilities,0
+2015-05-16T14:35:00,3,1,facebook.com,General Social Networking,-2
+2015-05-16T14:35:00,1,1,google.com,Search,2
+2015-05-16T14:40:00,300,1,youtube.com,Video,-2
+2015-05-16T14:45:00,300,1,youtube.com,Video,-2
+2015-05-16T14:50:00,217,1,youtube.com,Video,-2
+2015-05-16T14:50:00,68,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T14:50:00,11,1,microsoft word,Writing,2
+2015-05-16T14:50:00,2,1,usernotificationcenter,General Utilities,0
+2015-05-16T14:55:00,125,1,microsoft word,Writing,2
+2015-05-16T14:55:00,114,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T14:55:00,58,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T14:55:00,3,1,google.com,Search,2
+2015-05-16T15:00:00,190,1,microsoft word,Writing,2
+2015-05-16T15:00:00,37,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T15:00:00,3,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T15:05:00,218,1,microsoft word,Writing,2
+2015-05-16T15:05:00,82,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T15:10:00,230,1,microsoft word,Writing,2
+2015-05-16T15:10:00,32,1,youtube.com,Video,-2
+2015-05-16T15:10:00,28,1,Finder,General Utilities,0
+2015-05-16T15:10:00,4,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T15:10:00,3,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T15:15:00,169,1,microsoft word,Writing,2
+2015-05-16T15:15:00,60,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T15:15:00,37,1,youtube.com,Video,-2
+2015-05-16T15:15:00,21,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T15:15:00,8,1,Safari,Browsers,2
+2015-05-16T15:20:00,181,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T15:20:00,97,1,microsoft word,Writing,2
+2015-05-16T15:20:00,12,1,Mail,Email,2
+2015-05-16T15:20:00,9,1,Safari,Browsers,2
+2015-05-16T15:25:00,300,1,microsoft word,Writing,2
+2015-05-16T15:30:00,161,1,youtube.com,Video,-2
+2015-05-16T15:30:00,73,1,Mail,Email,2
+2015-05-16T15:30:00,41,1,microsoft word,Writing,2
+2015-05-16T15:30:00,13,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T15:30:00,4,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T15:30:00,3,1,google.com,Search,2
+2015-05-16T15:30:00,2,1,Safari,Browsers,2
+2015-05-16T15:35:00,241,1,microsoft word,Writing,2
+2015-05-16T15:35:00,28,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T15:35:00,11,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T15:35:00,8,1,accounts.google.com,General Communication & Scheduling,0
+2015-05-16T15:35:00,4,1,facebook.com,General Social Networking,-2
+2015-05-16T15:35:00,4,1,google.com,Search,2
+2015-05-16T15:35:00,2,1,Safari,Browsers,2
+2015-05-16T15:40:00,189,1,microsoft word,Writing,2
+2015-05-16T15:40:00,40,1,youtube.com,Video,-2
+2015-05-16T15:40:00,38,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T15:40:00,32,1,Mail,Email,2
+2015-05-16T15:40:00,1,1,google.com,Search,2
+2015-05-16T15:45:00,226,1,microsoft word,Writing,2
+2015-05-16T15:45:00,44,1,Mail,Email,2
+2015-05-16T15:45:00,27,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T15:45:00,2,1,Safari,Browsers,2
+2015-05-16T15:50:00,210,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T15:50:00,87,1,microsoft word,Writing,2
+2015-05-16T15:50:00,2,1,Safari,Browsers,2
+2015-05-16T15:55:00,300,1,microsoft word,Writing,2
+2015-05-16T16:00:00,180,1,Mail,Email,2
+2015-05-16T16:00:00,120,1,microsoft word,Writing,2
+2015-05-16T16:05:00,300,1,microsoft word,Writing,2
+2015-05-16T16:10:00,278,1,microsoft word,Writing,2
+2015-05-16T16:10:00,22,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T16:15:00,212,1,microsoft word,Writing,2
+2015-05-16T16:15:00,88,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T16:20:00,251,1,microsoft word,Writing,2
+2015-05-16T16:20:00,49,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T16:25:00,300,1,microsoft word,Writing,2
+2015-05-16T16:30:00,209,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T16:30:00,91,1,microsoft word,Writing,2
+2015-05-16T16:35:00,150,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T16:35:00,71,1,microsoft word,Writing,2
+2015-05-16T16:35:00,66,1,Finder,General Utilities,0
+2015-05-16T16:35:00,4,1,Safari,Browsers,2
+2015-05-16T16:40:00,164,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T16:40:00,135,1,microsoft word,Writing,2
+2015-05-16T16:45:00,291,1,Mail,Email,2
+2015-05-16T16:45:00,9,1,microsoft word,Writing,2
+2015-05-16T16:50:00,151,1,Mail,Email,2
+2015-05-16T16:50:00,127,1,microsoft word,Writing,2
+2015-05-16T16:50:00,21,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T16:55:00,226,1,microsoft word,Writing,2
+2015-05-16T16:55:00,52,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T16:55:00,22,1,Mail,Email,2
+2015-05-16T17:00:00,292,1,microsoft word,Writing,2
+2015-05-16T17:00:00,2,1,Mail,Email,2
+2015-05-16T17:05:00,110,1,microsoft word,Writing,2
+2015-05-16T17:05:00,80,1,quicktime player,General Entertainment,-1
+2015-05-16T17:05:00,48,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T17:05:00,33,1,Finder,General Utilities,0
+2015-05-16T17:05:00,16,1,Safari,Browsers,2
+2015-05-16T17:05:00,8,1,mpeg streamclip,Video Editing,2
+2015-05-16T17:05:00,3,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T17:10:00,188,1,microsoft word,Writing,2
+2015-05-16T17:10:00,99,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T17:10:00,13,1,Finder,General Utilities,0
+2015-05-16T17:15:00,134,1,microsoft word,Writing,2
+2015-05-16T17:15:00,124,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T17:15:00,2,1,Safari,Browsers,2
+2015-05-16T17:15:00,1,1,Finder,General Utilities,0
+2015-05-16T17:25:00,73,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T17:25:00,21,1,youtube.com,Video,-2
+2015-05-16T17:25:00,3,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T17:30:00,278,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T17:30:00,17,1,youtube.com,Video,-2
+2015-05-16T17:30:00,4,1,Finder,General Utilities,0
+2015-05-16T17:35:00,43,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T18:05:00,153,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T18:10:00,285,1,youtube.com,Video,-2
+2015-05-16T18:10:00,15,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T18:15:00,300,1,youtube.com,Video,-2
+2015-05-16T18:20:00,300,1,youtube.com,Video,-2
+2015-05-16T18:25:00,300,1,youtube.com,Video,-2
+2015-05-16T18:30:00,300,1,youtube.com,Video,-2
+2015-05-16T18:35:00,300,1,youtube.com,Video,-2
+2015-05-16T18:40:00,300,1,youtube.com,Video,-2
+2015-05-16T18:45:00,300,1,youtube.com,Video,-2
+2015-05-16T18:50:00,300,1,youtube.com,Video,-2
+2015-05-16T18:55:00,300,1,youtube.com,Video,-2
+2015-05-16T19:00:00,300,1,youtube.com,Video,-2
+2015-05-16T19:05:00,17,1,youtube.com,Video,-2
+2015-05-16T19:45:00,64,1,microsoft word,Writing,2
+2015-05-16T19:45:00,19,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T19:45:00,6,1,youtube.com,Video,-2
+2015-05-16T19:45:00,5,1,loginwindow,General Utilities,0
+2015-05-16T19:45:00,2,1,screensaverengine,General Utilities,0
+2015-05-16T19:50:00,158,1,youtube.com,Video,-2
+2015-05-16T19:50:00,90,1,microsoft word,Writing,2
+2015-05-16T19:50:00,20,1,Skype,General Social Networking,-2
+2015-05-16T19:50:00,12,1,Mail,Email,2
+2015-05-16T19:50:00,9,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T19:50:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T19:50:00,3,1,Safari,Browsers,2
+2015-05-16T19:55:00,300,1,microsoft word,Writing,2
+2015-05-16T20:00:00,289,1,microsoft word,Writing,2
+2015-05-16T20:00:00,11,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T20:05:00,279,1,microsoft word,Writing,2
+2015-05-16T20:05:00,20,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T20:10:00,268,1,microsoft word,Writing,2
+2015-05-16T20:10:00,32,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T20:15:00,300,1,microsoft word,Writing,2
+2015-05-16T20:20:00,259,1,microsoft word,Writing,2
+2015-05-16T20:20:00,41,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T20:25:00,214,1,microsoft word,Writing,2
+2015-05-16T20:25:00,86,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T20:30:00,192,1,microsoft word,Writing,2
+2015-05-16T20:30:00,105,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T20:30:00,2,1,Safari,Browsers,2
+2015-05-16T20:35:00,198,1,microsoft word,Writing,2
+2015-05-16T20:35:00,102,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T20:40:00,275,1,microsoft word,Writing,2
+2015-05-16T20:40:00,25,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T20:45:00,214,1,microsoft word,Writing,2
+2015-05-16T20:45:00,86,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T20:50:00,300,1,microsoft word,Writing,2
+2015-05-16T20:55:00,255,1,microsoft word,Writing,2
+2015-05-16T20:55:00,45,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T21:00:00,136,1,microsoft word,Writing,2
+2015-05-16T21:00:00,119,1,Mail,Email,2
+2015-05-16T21:00:00,43,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T21:05:00,230,1,microsoft word,Writing,2
+2015-05-16T21:05:00,2,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T21:15:00,78,1,Finder,General Utilities,0
+2015-05-16T21:15:00,19,1,final cut pro,Video Editing,2
+2015-05-16T21:15:00,2,1,Dropbox,File Sharing,-2
+2015-05-16T21:20:00,117,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T21:20:00,102,1,youtube.com,Video,-2
+2015-05-16T21:20:00,76,1,Finder,General Utilities,0
+2015-05-16T21:20:00,3,1,googlesciencefair.com,Uncategorized,0
+2015-05-16T21:25:00,197,1,Finder,General Utilities,0
+2015-05-16T21:25:00,91,1,quora.com,General Reference & Learning,-1
+2015-05-16T21:25:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-16T21:25:00,5,1,youtube.com,Video,-2
+2015-05-16T21:25:00,2,1,Dropbox,File Sharing,-2
+2015-05-16T21:30:00,171,1,final cut pro,Video Editing,2
+2015-05-16T21:30:00,114,1,Finder,General Utilities,0
+2015-05-16T21:35:00,241,1,final cut pro,Video Editing,2
+2015-05-16T21:35:00,50,1,quora.com,General Reference & Learning,-1
+2015-05-16T21:40:00,236,1,final cut pro,Video Editing,2
+2015-05-16T21:40:00,55,1,Finder,General Utilities,0
+2015-05-16T21:45:00,290,1,final cut pro,Video Editing,2
+2015-05-16T21:50:00,291,1,final cut pro,Video Editing,2
+2015-05-16T21:50:00,7,1,quora.com,General Reference & Learning,-1
+2015-05-16T21:55:00,297,1,final cut pro,Video Editing,2
+2015-05-16T21:55:00,3,1,quora.com,General Reference & Learning,-1
+2015-05-16T22:00:00,300,1,final cut pro,Video Editing,2
+2015-05-16T22:05:00,300,1,final cut pro,Video Editing,2
+2015-05-16T22:10:00,195,1,final cut pro,Video Editing,2
+2015-05-16T22:10:00,105,1,quora.com,General Reference & Learning,-1
+2015-05-16T22:15:00,214,1,final cut pro,Video Editing,2
+2015-05-16T22:15:00,86,1,quora.com,General Reference & Learning,-1
+2015-05-16T22:20:00,216,1,final cut pro,Video Editing,2
+2015-05-16T22:20:00,81,1,Skype,General Social Networking,-2
+2015-05-16T22:20:00,3,1,quora.com,General Reference & Learning,-1
+2015-05-16T22:25:00,289,1,final cut pro,Video Editing,2
+2015-05-16T22:25:00,11,1,quora.com,General Reference & Learning,-1
+2015-05-16T22:30:00,276,1,final cut pro,Video Editing,2
+2015-05-16T22:30:00,24,1,quora.com,General Reference & Learning,-1
+2015-05-16T22:35:00,248,1,final cut pro,Video Editing,2
+2015-05-16T22:35:00,41,1,Finder,General Utilities,0
+2015-05-16T22:35:00,11,1,quora.com,General Reference & Learning,-1
+2015-05-16T22:40:00,154,1,quora.com,General Reference & Learning,-1
+2015-05-16T22:40:00,128,1,quicktime player,General Entertainment,-1
+2015-05-16T22:40:00,18,1,Finder,General Utilities,0
+2015-05-16T22:45:00,300,1,quicktime player,General Entertainment,-1
+2015-05-16T22:50:00,300,1,quicktime player,General Entertainment,-1
+2015-05-16T22:55:00,278,1,quicktime player,General Entertainment,-1
+2015-05-16T22:55:00,14,1,Mail,Email,2
+2015-05-16T22:55:00,8,1,Finder,General Utilities,0
+2015-05-16T23:00:00,291,1,quicktime player,General Entertainment,-1
+2015-05-16T23:00:00,9,1,Finder,General Utilities,0
+2015-05-16T23:05:00,149,1,quicktime player,General Entertainment,-1
+2015-05-16T23:05:00,95,1,m3challenge.siam.org,Search,0
+2015-05-16T23:05:00,19,1,google.com,Search,2
+2015-05-16T23:05:00,16,1,applications,General Business,2
+2015-05-16T23:05:00,9,1,quora.com,General Reference & Learning,-1
+2015-05-16T23:05:00,4,1,Safari,Browsers,2
+2015-05-16T23:05:00,2,1,youtube.com,Video,-2
+2015-05-16T23:10:00,248,1,m3challenge.siam.org,Search,0
+2015-05-16T23:10:00,29,1,quora.com,General Reference & Learning,-1
+2015-05-16T23:10:00,12,1,final cut pro,Video Editing,2
+2015-05-16T23:10:00,7,1,youtube.com,Video,-2
+2015-05-16T23:15:00,198,1,quora.com,General Reference & Learning,-1
+2015-05-16T23:25:00,34,1,final cut pro,Video Editing,2
+2015-05-16T23:30:00,300,1,final cut pro,Video Editing,2
+2015-05-16T23:35:00,141,1,final cut pro,Video Editing,2
+2015-05-16T23:35:00,6,1,quora.com,General Reference & Learning,-1
+2015-05-16T23:50:00,117,1,quora.com,General Reference & Learning,-1
+2015-05-16T23:50:00,32,1,amazon.com,General Shopping,-1
+2015-05-16T23:50:00,20,1,google.com,Search,2
+2015-05-16T23:50:00,16,1,sunriseclick.com,Uncategorized,0
+2015-05-16T23:50:00,6,1,dhgate.com,Sales,2
+2015-05-16T23:55:00,172,1,dhgate.com,Sales,2
+2015-05-16T23:55:00,72,1,ebay.com,General Shopping,-2
+2015-05-16T23:55:00,9,1,google.com,Search,2
+2015-05-16T23:55:00,7,1,adobe flash player install manager,General Utilities,1
+2015-05-16T23:55:00,5,1,Safari,Browsers,2

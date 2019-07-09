@@ -1,0 +1,182 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-08-03T00:00:00,298,1,apple.com,Engineering & Technology,-1
+2018-08-03T00:00:00,2,1,youtube.com,Video,-2
+2018-08-03T00:05:00,217,1,geoguessr.com,Games,-2
+2018-08-03T00:05:00,72,1,youtube.com,Video,-2
+2018-08-03T00:05:00,11,1,google.com,Search,2
+2018-08-03T00:10:00,300,1,geoguessr.com,Games,-2
+2018-08-03T00:15:00,300,1,geoguessr.com,Games,-2
+2018-08-03T00:20:00,300,1,geoguessr.com,Games,-2
+2018-08-03T00:25:00,300,1,geoguessr.com,Games,-2
+2018-08-03T00:30:00,296,1,geoguessr.com,Games,-2
+2018-08-03T00:30:00,4,1,messenger.com,General Social Networking,-2
+2018-08-03T00:35:00,300,1,geoguessr.com,Games,-2
+2018-08-03T00:40:00,300,1,geoguessr.com,Games,-2
+2018-08-03T00:45:00,300,1,geoguessr.com,Games,-2
+2018-08-03T00:50:00,291,1,geoguessr.com,Games,-2
+2018-08-03T00:50:00,9,1,messenger.com,General Social Networking,-2
+2018-08-03T00:55:00,300,1,geoguessr.com,Games,-2
+2018-08-03T01:00:00,300,1,geoguessr.com,Games,-2
+2018-08-03T01:05:00,300,1,geoguessr.com,Games,-2
+2018-08-03T01:10:00,300,1,geoguessr.com,Games,-2
+2018-08-03T01:15:00,247,1,geoguessr.com,Games,-2
+2018-08-03T01:15:00,19,1,messenger.com,General Social Networking,-2
+2018-08-03T01:15:00,1,1,loginwindow,General Utilities,0
+2018-08-03T01:20:00,300,1,messenger.com,General Social Networking,-2
+2018-08-03T01:25:00,300,1,messenger.com,General Social Networking,-2
+2018-08-03T01:30:00,300,1,messenger.com,General Social Networking,-2
+2018-08-03T01:35:00,300,1,messenger.com,General Social Networking,-2
+2018-08-03T01:40:00,300,1,messenger.com,General Social Networking,-2
+2018-08-03T01:45:00,300,1,messenger.com,General Social Networking,-2
+2018-08-03T01:50:00,114,1,messenger.com,General Social Networking,-2
+2018-08-03T01:50:00,1,1,loginwindow,General Utilities,0
+2018-08-03T13:50:00,24,1,facebook.com,General Social Networking,-2
+2018-08-03T13:50:00,20,1,theweek.com,General News & Opinion,-2
+2018-08-03T13:50:00,20,1,secure.bankofamerica.com,Accounting,2
+2018-08-03T13:50:00,14,1,bankofamerica.com,General Business,2
+2018-08-03T13:50:00,7,1,bwfworldchampionships.com,Uncategorized,0
+2018-08-03T13:50:00,6,1,newtab,Browsers,0
+2018-08-03T13:50:00,5,1,golang.org,Engineering & Technology,1
+2018-08-03T13:50:00,5,1,virtualbox vm,General Software Development,2
+2018-08-03T13:50:00,4,1,google.com,Search,2
+2018-08-03T13:50:00,3,1,youtube.com,Video,-2
+2018-08-03T13:55:00,204,1,youtube.com,Video,-2
+2018-08-03T13:55:00,62,1,bwfworldchampionships.com,Uncategorized,0
+2018-08-03T13:55:00,25,1,expressvpn.com,General Utilities,1
+2018-08-03T13:55:00,7,1,newtab,Browsers,0
+2018-08-03T13:55:00,2,1,google.com,Search,2
+2018-08-03T14:00:00,206,1,youtube.com,Video,-2
+2018-08-03T14:00:00,39,1,expressvpn,General Utilities,1
+2018-08-03T14:00:00,21,1,expressvpn.com,General Utilities,1
+2018-08-03T14:00:00,17,1,installer,General Utilities,1
+2018-08-03T14:00:00,7,1,newtab,Browsers,0
+2018-08-03T14:00:00,6,1,google.com,Search,2
+2018-08-03T14:00:00,3,1,SecurityAgent,Systems Operations,0
+2018-08-03T14:05:00,187,1,youtube.com,Video,-2
+2018-08-03T14:05:00,112,1,bwfworldchampionships.com,Uncategorized,0
+2018-08-03T14:10:00,261,1,youtube.com,Video,-2
+2018-08-03T14:10:00,39,1,expressvpn,General Utilities,1
+2018-08-03T14:15:00,300,1,youtube.com,Video,-2
+2018-08-03T14:20:00,300,1,youtube.com,Video,-2
+2018-08-03T14:25:00,300,1,youtube.com,Video,-2
+2018-08-03T14:30:00,300,1,youtube.com,Video,-2
+2018-08-03T14:35:00,227,1,youtube.com,Video,-2
+2018-08-03T14:35:00,69,1,en.wikipedia.org,General Reference & Learning,1
+2018-08-03T14:35:00,4,1,google.com,Search,2
+2018-08-03T14:40:00,279,1,youtube.com,Video,-2
+2018-08-03T14:40:00,20,1,en.wikipedia.org,General Reference & Learning,1
+2018-08-03T14:40:00,1,1,bwfworldchampionships.com,Uncategorized,0
+2018-08-03T14:45:00,224,1,youtube.com,Video,-2
+2018-08-03T14:45:00,68,1,bwfworldchampionships.com,Uncategorized,0
+2018-08-03T14:45:00,8,1,Slack,Instant Message,2
+2018-08-03T14:50:00,300,1,youtube.com,Video,-2
+2018-08-03T14:55:00,174,1,virtualbox vm,General Software Development,2
+2018-08-03T14:55:00,126,1,youtube.com,Video,-2
+2018-08-03T15:00:00,300,1,virtualbox vm,General Software Development,2
+2018-08-03T15:05:00,300,1,virtualbox vm,General Software Development,2
+2018-08-03T15:10:00,154,1,virtualbox vm,General Software Development,2
+2018-08-03T15:10:00,106,1,Mail,Email,2
+2018-08-03T15:10:00,28,1,stackoverflow.com,General Software Development,2
+2018-08-03T15:10:00,6,1,google.com,Search,2
+2018-08-03T15:10:00,6,1,youtube.com,Video,-2
+2018-08-03T15:15:00,286,1,virtualbox vm,General Software Development,2
+2018-08-03T15:15:00,14,1,Mail,Email,2
+2018-08-03T15:20:00,154,1,virtualbox vm,General Software Development,2
+2018-08-03T15:20:00,146,1,Mail,Email,2
+2018-08-03T15:25:00,294,1,virtualbox vm,General Software Development,2
+2018-08-03T15:25:00,6,1,Mail,Email,2
+2018-08-03T15:30:00,300,1,virtualbox vm,General Software Development,2
+2018-08-03T15:35:00,160,1,play.golang.org,General Software Development,2
+2018-08-03T15:35:00,52,1,virtualbox vm,General Software Development,2
+2018-08-03T15:35:00,48,1,golang.org,Engineering & Technology,1
+2018-08-03T15:35:00,28,1,stackoverflow.com,General Software Development,2
+2018-08-03T15:35:00,8,1,newtab,Browsers,0
+2018-08-03T15:35:00,4,1,google.com,Search,2
+2018-08-03T15:40:00,293,1,virtualbox vm,General Software Development,2
+2018-08-03T15:40:00,4,1,google.com,Search,2
+2018-08-03T15:40:00,2,1,golang.org,Engineering & Technology,1
+2018-08-03T15:40:00,1,1,newtab,Browsers,0
+2018-08-03T15:45:00,300,1,virtualbox vm,General Software Development,2
+2018-08-03T15:50:00,241,1,virtualbox vm,General Software Development,2
+2018-08-03T15:50:00,30,1,blog.golang.org,General Software Development,2
+2018-08-03T15:50:00,13,1,stackoverflow.com,General Software Development,2
+2018-08-03T15:50:00,6,1,golang.org,Engineering & Technology,1
+2018-08-03T15:50:00,5,1,9to5mac.com,General News & Opinion,-2
+2018-08-03T15:50:00,3,1,expressvpn,General Utilities,1
+2018-08-03T15:50:00,2,1,google.com,Search,2
+2018-08-03T15:55:00,173,1,9to5mac.com,General News & Opinion,-2
+2018-08-03T15:55:00,127,1,virtualbox vm,General Software Development,2
+2018-08-03T16:00:00,101,1,virtualbox vm,General Software Development,2
+2018-08-03T16:00:00,98,1,9to5mac.com,General News & Opinion,-2
+2018-08-03T16:00:00,72,1,google.com,Search,2
+2018-08-03T16:00:00,25,1,gaoloumi.com,Regional,-2
+2018-08-03T16:00:00,3,1,china.org.cn,General News & Opinion,0
+2018-08-03T16:00:00,1,1,stackoverflow.com,General Software Development,2
+2018-08-03T16:05:00,185,1,youtube.com,Video,-2
+2018-08-03T16:05:00,107,1,virtualbox vm,General Software Development,2
+2018-08-03T16:05:00,8,1,google.com,Search,2
+2018-08-03T16:10:00,242,1,virtualbox vm,General Software Development,2
+2018-08-03T16:10:00,30,1,youtube.com,Video,-2
+2018-08-03T16:10:00,28,1,Mail,Email,2
+2018-08-03T16:15:00,154,1,virtualbox vm,General Software Development,2
+2018-08-03T16:15:00,146,1,youtube.com,Video,-2
+2018-08-03T16:20:00,289,1,virtualbox vm,General Software Development,2
+2018-08-03T16:20:00,11,1,youtube.com,Video,-2
+2018-08-03T16:25:00,281,1,virtualbox vm,General Software Development,2
+2018-08-03T16:25:00,19,1,youtube.com,Video,-2
+2018-08-03T16:30:00,116,1,virtualbox vm,General Software Development,2
+2018-08-03T16:30:00,99,1,Mail,Email,2
+2018-08-03T16:30:00,85,1,youtube.com,Video,-2
+2018-08-03T16:35:00,300,1,youtube.com,Video,-2
+2018-08-03T16:40:00,169,1,youtube.com,Video,-2
+2018-08-03T16:40:00,76,1,virtualbox vm,General Software Development,2
+2018-08-03T16:40:00,48,1,tripadvisor.com,Travel & Outdoors,-2
+2018-08-03T16:40:00,4,1,google.com,Search,2
+2018-08-03T16:40:00,3,1,newtab,Browsers,0
+2018-08-03T16:45:00,182,1,virtualbox vm,General Software Development,2
+2018-08-03T16:45:00,23,1,Mail,Email,2
+2018-08-03T16:50:00,37,1,tripadvisor.com,Travel & Outdoors,-2
+2018-08-03T16:50:00,17,1,bostonmagazine.com,Regional,-2
+2018-08-03T16:50:00,6,1,google.com,Search,2
+2018-08-03T16:55:00,104,1,Mail,Email,2
+2018-08-03T16:55:00,78,1,bostonmagazine.com,Regional,-2
+2018-08-03T16:55:00,71,1,virtualbox vm,General Software Development,2
+2018-08-03T16:55:00,21,1,newengland.com,Uncategorized,0
+2018-08-03T16:55:00,15,1,visittheusa.com,Uncategorized,0
+2018-08-03T16:55:00,10,1,google.com,Search,2
+2018-08-03T17:00:00,300,1,virtualbox vm,General Software Development,2
+2018-08-03T17:05:00,300,1,virtualbox vm,General Software Development,2
+2018-08-03T17:10:00,249,1,virtualbox vm,General Software Development,2
+2018-08-03T17:10:00,28,1,Skype,General Social Networking,-2
+2018-08-03T17:10:00,22,1,Mail,Email,2
+2018-08-03T17:15:00,141,1,Slack,Instant Message,2
+2018-08-03T17:15:00,59,1,virtualbox vm,General Software Development,2
+2018-08-03T17:15:00,51,1,Preview,General Reference & Learning,2
+2018-08-03T17:15:00,25,1,Skype,General Social Networking,-2
+2018-08-03T17:15:00,8,1,Mail,Email,2
+2018-08-03T17:15:00,5,1,newengland.com,Uncategorized,0
+2018-08-03T17:15:00,5,1,google.com,Search,2
+2018-08-03T17:15:00,3,1,Notes,Email,0
+2018-08-03T17:15:00,3,1,newtab,Browsers,0
+2018-08-03T17:20:00,156,1,virtualbox vm,General Software Development,2
+2018-08-03T17:20:00,139,1,Skype,General Social Networking,-2
+2018-08-03T17:20:00,5,1,Slack,Instant Message,2
+2018-08-03T17:25:00,257,1,virtualbox vm,General Software Development,2
+2018-08-03T17:25:00,42,1,Mail,Email,2
+2018-08-03T17:30:00,299,1,virtualbox vm,General Software Development,2
+2018-08-03T17:30:00,1,1,Mail,Email,2
+2018-08-03T17:35:00,300,1,virtualbox vm,General Software Development,2
+2018-08-03T17:40:00,300,1,virtualbox vm,General Software Development,2
+2018-08-03T17:45:00,156,1,virtualbox vm,General Software Development,2
+2018-08-03T17:45:00,142,1,youtube.com,Video,-2
+2018-08-03T17:45:00,2,1,newengland.com,Uncategorized,0
+2018-08-03T17:50:00,293,1,youtube.com,Video,-2
+2018-08-03T17:50:00,5,1,virtualbox vm,General Software Development,2
+2018-08-03T17:50:00,2,1,facetime,Voice Chat,-2
+2018-08-03T17:55:00,300,1,youtube.com,Video,-2
+2018-08-03T18:00:00,300,1,youtube.com,Video,-2
+2018-08-03T18:05:00,190,1,calendar,Calendars,1
+2018-08-03T18:05:00,45,1,youtube.com,Video,-2
+2018-08-03T20:00:00,30,1,bhphotovideo.com,General Shopping,-2
+2018-08-03T21:25:00,4,1,expressvpn,General Utilities,1
+2018-08-03T21:25:00,1,1,loginwindow,General Utilities,0

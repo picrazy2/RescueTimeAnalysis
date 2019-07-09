@@ -1,0 +1,305 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2013-12-18T09:45:00,223,1,Mail,Email,2
+2013-12-18T09:45:00,46,1,Finder,General Utilities,0
+2013-12-18T09:45:00,17,1,sciencedirect.com,Engineering & Technology,1
+2013-12-18T09:45:00,10,1,alfred,General Utilities,2
+2013-12-18T09:45:00,2,1,Skype,General Social Networking,-2
+2013-12-18T09:50:00,23,1,loginwindow,General Utilities,0
+2013-12-18T09:50:00,4,1,Mail,Email,2
+2013-12-18T09:55:00,80,1,bing.com,Search,2
+2013-12-18T09:55:00,28,1,Finder,General Utilities,0
+2013-12-18T09:55:00,17,1,Preview,General Reference & Learning,2
+2013-12-18T09:55:00,11,1,Mail,Email,2
+2013-12-18T09:55:00,10,1,net.tsinghua.edu.cn,General Reference & Learning,1
+2013-12-18T10:00:00,265,1,google.ca,Search,0
+2013-12-18T10:00:00,31,1,bing.com,Search,2
+2013-12-18T10:00:00,4,1,Mail,Email,2
+2013-12-18T10:05:00,98,1,Skype,General Social Networking,-2
+2013-12-18T10:05:00,77,1,store.lowepro.com,General Shopping,-1
+2013-12-18T10:05:00,64,1,pubs.rsc.org,General Reference & Learning,1
+2013-12-18T10:05:00,61,1,google.ca,Search,0
+2013-12-18T10:10:00,197,1,Skype,General Social Networking,-2
+2013-12-18T10:10:00,103,1,pubs.rsc.org,General Reference & Learning,1
+2013-12-18T10:15:00,300,1,pubs.rsc.org,General Reference & Learning,1
+2013-12-18T10:20:00,281,1,pubs.rsc.org,General Reference & Learning,1
+2013-12-18T10:20:00,14,1,Skype,General Social Networking,-2
+2013-12-18T10:20:00,5,1,Mail,Email,2
+2013-12-18T10:25:00,104,1,bing.com,Search,2
+2013-12-18T10:25:00,94,1,aiseesoft mxf converter for mac,Uncategorized,0
+2013-12-18T10:25:00,68,1,electronics.howstuffworks.com,Search,0
+2013-12-18T10:25:00,20,1,Mail,Email,2
+2013-12-18T10:25:00,7,1,Finder,General Utilities,0
+2013-12-18T10:25:00,7,1,Skype,General Social Networking,-2
+2013-12-18T10:30:00,187,1,youtube.com,Video,-2
+2013-12-18T10:30:00,97,1,aiseesoft mxf converter for mac,Uncategorized,0
+2013-12-18T10:30:00,13,1,quicktime player,General Entertainment,-1
+2013-12-18T10:30:00,3,1,Finder,General Utilities,0
+2013-12-18T10:35:00,222,1,youtube.com,Video,-2
+2013-12-18T10:35:00,78,1,aiseesoft mxf converter for mac,Uncategorized,0
+2013-12-18T10:40:00,158,1,Preview,General Reference & Learning,2
+2013-12-18T10:40:00,116,1,youtube.com,Video,-2
+2013-12-18T10:40:00,9,1,aiseesoft mxf converter for mac,Uncategorized,0
+2013-12-18T10:40:00,9,1,pubs.rsc.org,General Reference & Learning,1
+2013-12-18T10:40:00,8,1,Finder,General Utilities,0
+2013-12-18T10:45:00,100,1,handbrake,Video Editing,2
+2013-12-18T10:45:00,66,1,quicktime player,General Entertainment,-1
+2013-12-18T10:45:00,65,1,Finder,General Utilities,0
+2013-12-18T10:45:00,35,1,aiseesoft mxf converter for mac,Uncategorized,0
+2013-12-18T10:45:00,21,1,Preview,General Reference & Learning,2
+2013-12-18T10:45:00,6,1,microsoft word,Writing,2
+2013-12-18T10:45:00,5,1,alfred,General Utilities,2
+2013-12-18T10:45:00,2,1,pubs.rsc.org,General Reference & Learning,1
+2013-12-18T10:50:00,168,1,handbrake,Video Editing,2
+2013-12-18T10:50:00,76,1,quicktime player,General Entertainment,-1
+2013-12-18T10:50:00,28,1,Finder,General Utilities,0
+2013-12-18T10:50:00,24,1,VLC Media Player,Video,-2
+2013-12-18T10:50:00,4,1,usernotificationcenter,General Utilities,0
+2013-12-18T10:55:00,105,1,apple.com,Engineering & Technology,-1
+2013-12-18T10:55:00,76,1,item.taobao.com,General Shopping,-1
+2013-12-18T10:55:00,44,1,handbrake,Video Editing,2
+2013-12-18T10:55:00,26,1,quicktime player,General Entertainment,-1
+2013-12-18T10:55:00,21,1,Finder,General Utilities,0
+2013-12-18T10:55:00,16,1,pubs.rsc.org,General Reference & Learning,1
+2013-12-18T10:55:00,7,1,microsoft word,Writing,2
+2013-12-18T10:55:00,3,1,applications,General Business,2
+2013-12-18T10:55:00,2,1,aiseesoft mxf converter for mac,Uncategorized,0
+2013-12-18T11:00:00,234,1,apple.com,Engineering & Technology,-1
+2013-12-18T11:00:00,59,1,handbrake,Video Editing,2
+2013-12-18T11:00:00,7,1,Finder,General Utilities,0
+2013-12-18T11:05:00,226,1,tuaw.com,General News & Opinion,-2
+2013-12-18T11:05:00,57,1,VLC Media Player,Video,-2
+2013-12-18T11:05:00,11,1,handbrake,Video Editing,2
+2013-12-18T11:05:00,6,1,Finder,General Utilities,0
+2013-12-18T11:10:00,195,1,simplymac.com,Uncategorized,0
+2013-12-18T11:10:00,69,1,blog.wiwo.de,General Reference & Learning,1
+2013-12-18T11:10:00,29,1,pages,Presentation,2
+2013-12-18T11:10:00,5,1,tuaw.com,General News & Opinion,-2
+2013-12-18T11:10:00,2,1,alfred,General Utilities,2
+2013-12-18T11:15:00,139,1,pages,Presentation,2
+2013-12-18T11:15:00,116,1,Finder,General Utilities,0
+2013-12-18T11:15:00,38,1,handbrake,Video Editing,2
+2013-12-18T11:15:00,7,1,blog.wiwo.de,General Reference & Learning,1
+2013-12-18T11:20:00,113,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-18T11:20:00,111,1,handbrake,Video Editing,2
+2013-12-18T11:20:00,71,1,Finder,General Utilities,0
+2013-12-18T11:20:00,5,1,pages,Presentation,2
+2013-12-18T11:25:00,137,1,pages,Presentation,2
+2013-12-18T11:25:00,94,1,Finder,General Utilities,0
+2013-12-18T11:25:00,62,1,handbrake,Video Editing,2
+2013-12-18T11:25:00,7,1,VLC Media Player,Video,-2
+2013-12-18T11:30:00,299,1,Finder,General Utilities,0
+2013-12-18T11:30:00,1,1,handbrake,Video Editing,2
+2013-12-18T11:35:00,116,1,Finder,General Utilities,0
+2013-12-18T12:00:00,137,1,Safari,Browsers,2
+2013-12-18T12:00:00,25,1,System Preferences,General Utilities,0
+2013-12-18T12:00:00,2,1,pages,Presentation,2
+2013-12-18T12:05:00,102,1,ibooks,General Reference & Learning,1
+2013-12-18T12:05:00,65,1,System Preferences,General Utilities,0
+2013-12-18T12:05:00,47,1,pages,Presentation,2
+2013-12-18T12:05:00,38,1,Mail,Email,2
+2013-12-18T12:05:00,30,1,alfred,General Utilities,2
+2013-12-18T12:05:00,18,1,handbrake,Video Editing,2
+2013-12-18T12:10:00,183,1,pages,Presentation,2
+2013-12-18T12:10:00,84,1,search.maiyadi.com,Uncategorized,0
+2013-12-18T12:10:00,27,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-18T12:10:00,6,1,ibooks,General Reference & Learning,1
+2013-12-18T12:15:00,300,1,pages,Presentation,2
+2013-12-18T12:20:00,238,1,pages,Presentation,2
+2013-12-18T12:20:00,47,1,simplymac.com,Uncategorized,0
+2013-12-18T12:20:00,6,1,Finder,General Utilities,0
+2013-12-18T12:20:00,6,1,ibooks,General Reference & Learning,1
+2013-12-18T12:20:00,3,1,handbrake,Video Editing,2
+2013-12-18T12:25:00,262,1,Finder,General Utilities,0
+2013-12-18T12:25:00,38,1,handbrake,Video Editing,2
+2013-12-18T12:30:00,143,1,Finder,General Utilities,0
+2013-12-18T12:30:00,22,1,Skype,General Social Networking,-2
+2013-12-18T12:30:00,7,1,VLC Media Player,Video,-2
+2013-12-18T12:30:00,2,1,handbrake,Video Editing,2
+2013-12-18T14:40:00,45,1,Skype,General Social Networking,-2
+2013-12-18T14:40:00,40,1,handbrake,Video Editing,2
+2013-12-18T14:40:00,11,1,Finder,General Utilities,0
+2013-12-18T14:40:00,6,1,pages,Presentation,2
+2013-12-18T14:40:00,6,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-18T14:45:00,151,1,Mail,Email,2
+2013-12-18T14:45:00,52,1,Skype,General Social Networking,-2
+2013-12-18T14:45:00,41,1,pages,Presentation,2
+2013-12-18T14:45:00,35,1,en.wikipedia.org,General Reference & Learning,1
+2013-12-18T14:45:00,21,1,System Preferences,General Utilities,0
+2013-12-18T14:50:00,141,1,pages,Presentation,2
+2013-12-18T14:50:00,96,1,Skype,General Social Networking,-2
+2013-12-18T14:50:00,63,1,Mail,Email,2
+2013-12-18T14:55:00,294,1,pages,Presentation,2
+2013-12-18T14:55:00,6,1,bing.com,Search,2
+2013-12-18T15:00:00,113,1,apple.com,Engineering & Technology,-1
+2013-12-18T15:00:00,83,1,pages,Presentation,2
+2013-12-18T15:00:00,59,1,Mail,Email,2
+2013-12-18T15:00:00,45,1,bing.com,Search,2
+2013-12-18T15:05:00,176,1,pages,Presentation,2
+2013-12-18T15:05:00,103,1,apple.com,Engineering & Technology,-1
+2013-12-18T15:05:00,21,1,Skype,General Social Networking,-2
+2013-12-18T15:10:00,235,1,apple.com,Engineering & Technology,-1
+2013-12-18T15:10:00,54,1,youtube.com,Video,-2
+2013-12-18T15:10:00,6,1,Keynote,Presentation,2
+2013-12-18T15:10:00,5,1,Skype,General Social Networking,-2
+2013-12-18T15:15:00,162,1,apple.com,Engineering & Technology,-1
+2013-12-18T15:15:00,133,1,Keynote,Presentation,2
+2013-12-18T15:15:00,5,1,Skype,General Social Networking,-2
+2013-12-18T15:20:00,166,1,apple.com,Engineering & Technology,-1
+2013-12-18T15:20:00,74,1,pages,Presentation,2
+2013-12-18T15:20:00,60,1,amazon.com,General Shopping,-1
+2013-12-18T15:25:00,134,1,quicktime player,General Entertainment,-1
+2013-12-18T15:25:00,125,1,Keynote,Presentation,2
+2013-12-18T15:25:00,41,1,pages,Presentation,2
+2013-12-18T15:30:00,177,1,apple.com,Engineering & Technology,-1
+2013-12-18T15:30:00,102,1,pages,Presentation,2
+2013-12-18T15:30:00,20,1,3.bp.blogspot.com,General News & Opinion,-2
+2013-12-18T15:30:00,1,1,Skype,General Social Networking,-2
+2013-12-18T15:35:00,182,1,apple.com,Engineering & Technology,-1
+2013-12-18T15:35:00,92,1,pages,Presentation,2
+2013-12-18T15:35:00,21,1,Finder,General Utilities,0
+2013-12-18T15:35:00,5,1,Keynote,Presentation,2
+2013-12-18T15:40:00,153,1,pages,Presentation,2
+2013-12-18T15:40:00,110,1,apple.com,Engineering & Technology,-1
+2013-12-18T15:40:00,12,1,Skype,General Social Networking,-2
+2013-12-18T15:40:00,11,1,Finder,General Utilities,0
+2013-12-18T15:40:00,8,1,store.storeimages.cdn-apple.com,Uncategorized,0
+2013-12-18T15:40:00,3,1,Keynote,Presentation,2
+2013-12-18T15:40:00,3,1,usernotificationcenter,General Utilities,0
+2013-12-18T15:45:00,204,1,pages,Presentation,2
+2013-12-18T15:45:00,48,1,Skype,General Social Networking,-2
+2013-12-18T15:45:00,48,1,apple.com,Engineering & Technology,-1
+2013-12-18T15:50:00,261,1,pages,Presentation,2
+2013-12-18T15:50:00,21,1,i.haymarket.net.au,Uncategorized,0
+2013-12-18T15:50:00,18,1,Skype,General Social Networking,-2
+2013-12-18T15:55:00,163,1,pages,Presentation,2
+2013-12-18T15:55:00,71,1,youtube.com,Video,-2
+2013-12-18T15:55:00,46,1,apple.com,Engineering & Technology,-1
+2013-12-18T15:55:00,20,1,Skype,General Social Networking,-2
+2013-12-18T16:00:00,144,1,pages,Presentation,2
+2013-12-18T16:00:00,75,1,apple.com,Engineering & Technology,-1
+2013-12-18T16:00:00,38,1,cdni.wired.co.uk,Science & Technology,-1
+2013-12-18T16:00:00,29,1,Finder,General Utilities,0
+2013-12-18T16:00:00,14,1,Skype,General Social Networking,-2
+2013-12-18T16:05:00,13,1,cdni.wired.co.uk,Science & Technology,-1
+2013-12-18T16:05:00,6,1,Finder,General Utilities,0
+2013-12-18T16:05:00,3,1,pages,Presentation,2
+2013-12-18T16:10:00,109,1,pages,Presentation,2
+2013-12-18T16:10:00,33,1,apple.com,Engineering & Technology,-1
+2013-12-18T16:10:00,13,1,problem reporter,General News & Opinion,-2
+2013-12-18T16:10:00,12,1,iTunes,Music,0
+2013-12-18T16:10:00,11,1,Finder,General Utilities,0
+2013-12-18T16:10:00,10,1,Skype,General Social Networking,-2
+2013-12-18T16:10:00,6,1,software update,General Utilities,1
+2013-12-18T16:10:00,6,1,System Preferences,General Utilities,0
+2013-12-18T16:10:00,3,1,microsoft word,Writing,2
+2013-12-18T16:10:00,2,1,RescueTime,Intelligence,0
+2013-12-18T16:10:00,2,1,reportpanic,Uncategorized,0
+2013-12-18T16:15:00,159,1,apple.com,Engineering & Technology,-1
+2013-12-18T16:15:00,133,1,pages,Presentation,2
+2013-12-18T16:15:00,6,1,Keynote,Presentation,2
+2013-12-18T16:15:00,2,1,RescueTime,Intelligence,0
+2013-12-18T16:20:00,184,1,pages,Presentation,2
+2013-12-18T16:20:00,115,1,apple.com,Engineering & Technology,-1
+2013-12-18T16:20:00,1,1,microsoft word,Writing,2
+2013-12-18T16:25:00,119,1,TextEdit,Writing,2
+2013-12-18T16:25:00,73,1,apple.com,Engineering & Technology,-1
+2013-12-18T16:25:00,40,1,pages,Presentation,2
+2013-12-18T16:25:00,39,1,Skype,General Social Networking,-2
+2013-12-18T16:25:00,29,1,Mail,Email,2
+2013-12-18T16:30:00,136,1,apple.com,Engineering & Technology,-1
+2013-12-18T16:30:00,134,1,pages,Presentation,2
+2013-12-18T16:30:00,24,1,TextEdit,Writing,2
+2013-12-18T16:30:00,6,1,Skype,General Social Networking,-2
+2013-12-18T16:35:00,124,1,pages,Presentation,2
+2013-12-18T16:35:00,106,1,MS Excel,General Business,2
+2013-12-18T16:35:00,37,1,Skype,General Social Networking,-2
+2013-12-18T16:35:00,33,1,TextEdit,Writing,2
+2013-12-18T16:40:00,226,1,iWork Numbers,General Business,2
+2013-12-18T16:40:00,71,1,MS Excel,General Business,2
+2013-12-18T16:40:00,2,1,TextEdit,Writing,2
+2013-12-18T16:40:00,1,1,alfred,General Utilities,2
+2013-12-18T16:45:00,200,1,iWork Numbers,General Business,2
+2013-12-18T16:45:00,67,1,Mail,Email,2
+2013-12-18T16:45:00,22,1,MS Excel,General Business,2
+2013-12-18T16:45:00,11,1,TextEdit,Writing,2
+2013-12-18T16:50:00,206,1,Mail,Email,2
+2013-12-18T16:50:00,94,1,iWork Numbers,General Business,2
+2013-12-18T16:55:00,290,1,iWork Numbers,General Business,2
+2013-12-18T16:55:00,6,1,MS Excel,General Business,2
+2013-12-18T16:55:00,2,1,alfred,General Utilities,2
+2013-12-18T16:55:00,2,1,usernotificationcenter,General Utilities,0
+2013-12-18T17:00:00,92,1,System Preferences,General Utilities,0
+2013-12-18T17:00:00,71,1,Skype,General Social Networking,-2
+2013-12-18T17:00:00,28,1,iWork Numbers,General Business,2
+2013-12-18T17:00:00,23,1,loginwindow,General Utilities,0
+2013-12-18T17:00:00,12,1,Mail,Email,2
+2013-12-18T17:00:00,7,1,alfred,General Utilities,2
+2013-12-18T17:00:00,7,1,Finder,General Utilities,0
+2013-12-18T17:00:00,4,1,MS Excel,General Business,2
+2013-12-18T21:40:00,195,1,pages,Presentation,2
+2013-12-18T21:40:00,51,1,Mail,Email,2
+2013-12-18T21:40:00,31,1,microsoft word,Writing,2
+2013-12-18T21:40:00,11,1,Skype,General Social Networking,-2
+2013-12-18T21:40:00,2,1,Finder,General Utilities,0
+2013-12-18T21:45:00,300,1,pages,Presentation,2
+2013-12-18T21:50:00,300,1,pages,Presentation,2
+2013-12-18T21:55:00,300,1,pages,Presentation,2
+2013-12-18T22:00:00,300,1,pages,Presentation,2
+2013-12-18T22:05:00,168,1,pages,Presentation,2
+2013-12-18T22:05:00,72,1,apple.com,Engineering & Technology,-1
+2013-12-18T22:05:00,31,1,Skype,General Social Networking,-2
+2013-12-18T22:05:00,29,1,kuai.xunlei.com,General Entertainment,-2
+2013-12-18T22:10:00,114,1,kuai.xunlei.com,General Entertainment,-2
+2013-12-18T22:10:00,105,1,kickass.to,File Sharing,-2
+2013-12-18T22:10:00,61,1,bing.com,Search,2
+2013-12-18T22:10:00,20,1,Skype,General Social Networking,-2
+2013-12-18T22:15:00,106,1,Mail,Email,2
+2013-12-18T22:15:00,77,1,TextEdit,Writing,2
+2013-12-18T22:15:00,56,1,bing.com,Search,2
+2013-12-18T22:15:00,44,1,Skype,General Social Networking,-2
+2013-12-18T22:15:00,17,1,kuai.xunlei.com,General Entertainment,-2
+2013-12-18T22:20:00,136,1,Mail,Email,2
+2013-12-18T22:20:00,69,1,System Preferences,General Utilities,0
+2013-12-18T22:20:00,46,1,Notes,Email,0
+2013-12-18T22:20:00,20,1,microsoft word,Writing,2
+2013-12-18T22:20:00,14,1,kuai.xunlei.com,General Entertainment,-2
+2013-12-18T22:20:00,14,1,Skype,General Social Networking,-2
+2013-12-18T22:20:00,1,1,apple.com,Engineering & Technology,-1
+2013-12-18T22:25:00,94,1,store.apple.com,Electronics,-2
+2013-12-18T22:25:00,93,1,Mail,Email,2
+2013-12-18T22:25:00,49,1,microsoft word,Writing,2
+2013-12-18T22:25:00,44,1,Skype,General Social Networking,-2
+2013-12-18T22:25:00,20,1,apple.com,Engineering & Technology,-1
+2013-12-18T22:30:00,180,1,microsoft word,Writing,2
+2013-12-18T22:30:00,112,1,pages,Presentation,2
+2013-12-18T22:30:00,8,1,store.apple.com,Electronics,-2
+2013-12-18T22:35:00,75,1,intel.com,Search,0
+2013-12-18T22:35:00,69,1,store.apple.com,Electronics,-2
+2013-12-18T22:35:00,54,1,microsoft word,Writing,2
+2013-12-18T22:35:00,51,1,bing.com,Search,2
+2013-12-18T22:35:00,34,1,Skype,General Social Networking,-2
+2013-12-18T22:35:00,17,1,pages,Presentation,2
+2013-12-18T22:40:00,129,1,Skype,General Social Networking,-2
+2013-12-18T22:40:00,121,1,hongkiat.com,Internet Utilities,1
+2013-12-18T22:40:00,26,1,microsoft word,Writing,2
+2013-12-18T22:40:00,14,1,Mail,Email,2
+2013-12-18T22:40:00,10,1,systemshootouts.org,Uncategorized,0
+2013-12-18T22:45:00,123,1,apple.com,Engineering & Technology,-1
+2013-12-18T22:45:00,97,1,macrumors.com,General News & Opinion,-2
+2013-12-18T22:45:00,40,1,Skype,General Social Networking,-2
+2013-12-18T22:45:00,20,1,epa.gov,Legal & Gov't,1
+2013-12-18T22:45:00,15,1,Mail,Email,2
+2013-12-18T22:45:00,3,1,microsoft word,Writing,2
+2013-12-18T22:45:00,2,1,pages,Presentation,2
+2013-12-18T22:50:00,121,1,browser.primatelabs.com,Browsers,-1
+2013-12-18T22:50:00,84,1,microsoft word,Writing,2
+2013-12-18T22:50:00,61,1,Skype,General Social Networking,-2
+2013-12-18T22:50:00,34,1,Mail,Email,2
+2013-12-18T22:55:00,300,1,browser.primatelabs.com,Browsers,-1
+2013-12-18T23:00:00,126,1,browser.primatelabs.com,Browsers,-1
+2013-12-18T23:00:00,117,1,amazon.com,General Shopping,-1
+2013-12-18T23:00:00,55,1,microsoft word,Writing,2
+2013-12-18T23:00:00,2,1,Finder,General Utilities,0
+2013-12-18T23:05:00,207,1,amazon.com,General Shopping,-1
+2013-12-18T23:05:00,35,1,Skype,General Social Networking,-2
+2013-12-18T23:05:00,22,1,loginwindow,General Utilities,0

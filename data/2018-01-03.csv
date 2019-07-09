@@ -1,0 +1,83 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-01-03T00:45:00,31,1,safari-resource:,Browsers,0
+2018-01-03T00:45:00,17,1,downforacross.com,Games,-2
+2018-01-03T01:20:00,92,1,downforacross.com,Games,-2
+2018-01-03T01:20:00,28,1,safari-resource:,Browsers,0
+2018-01-03T01:20:00,8,1,iTunes,Music,0
+2018-01-03T01:20:00,5,1,Dropbox,File Sharing,-2
+2018-01-03T01:25:00,156,1,downforacross.com,Games,-2
+2018-01-03T01:25:00,46,1,loginwindow,General Utilities,0
+2018-01-03T15:30:00,101,1,web1.zixmail.net,Email,0
+2018-01-03T15:30:00,45,1,Mail,Email,2
+2018-01-03T15:30:00,20,1,captive network assistant,General Utilities,1
+2018-01-03T15:30:00,7,1,safari-resource:,Browsers,0
+2018-01-03T15:30:00,5,1,downforacross.com,Games,-2
+2018-01-03T15:35:00,250,1,web1.zixmail.net,Email,0
+2018-01-03T15:35:00,21,1,Mail,Email,2
+2018-01-03T15:35:00,15,1,captive network assistant,General Utilities,1
+2018-01-03T15:35:00,9,1,safari-resource:,Browsers,0
+2018-01-03T15:35:00,3,1,downforacross.com,Games,-2
+2018-01-03T15:40:00,110,1,web.mit.edu,General Reference & Learning,2
+2018-01-03T15:40:00,43,1,facebook.com,General Social Networking,-2
+2018-01-03T15:40:00,41,1,web1.zixmail.net,Email,0
+2018-01-03T15:40:00,18,1,loginwindow,General Utilities,0
+2018-01-03T15:40:00,10,1,Mail,Email,2
+2018-01-03T15:40:00,10,1,student.mit.edu,General Reference & Learning,1
+2018-01-03T15:40:00,8,1,Safari,Browsers,2
+2018-01-03T15:40:00,5,1,google.com.sg,Search,0
+2018-01-03T15:40:00,3,1,downforacross.com,Games,-2
+2018-01-03T15:45:00,269,1,student.mit.edu,General Reference & Learning,1
+2018-01-03T15:45:00,28,1,loginwindow,General Utilities,0
+2018-01-03T15:45:00,3,1,web.mit.edu,General Reference & Learning,2
+2018-01-03T15:50:00,245,1,loginwindow,General Utilities,0
+2018-01-03T15:50:00,28,1,student.mit.edu,General Reference & Learning,1
+2018-01-03T15:50:00,13,1,firehose.guide,General Communication & Scheduling,2
+2018-01-03T15:50:00,10,1,Mail,Email,2
+2018-01-03T15:55:00,285,1,firehose.guide,General Communication & Scheduling,2
+2018-01-03T15:55:00,6,1,Mail,Email,2
+2018-01-03T15:55:00,6,1,Safari,Browsers,2
+2018-01-03T15:55:00,3,1,safari-resource:,Browsers,0
+2018-01-03T16:00:00,300,1,firehose.guide,General Communication & Scheduling,2
+2018-01-03T16:05:00,138,1,Mail,Email,2
+2018-01-03T16:05:00,69,1,web1.zixmail.net,Email,0
+2018-01-03T16:05:00,31,1,loginwindow,General Utilities,0
+2018-01-03T16:05:00,27,1,firehose.guide,General Communication & Scheduling,2
+2018-01-03T16:05:00,11,1,Safari,Browsers,2
+2018-01-03T16:05:00,9,1,apple.com,Engineering & Technology,-1
+2018-01-03T16:05:00,5,1,student.mit.edu,General Reference & Learning,1
+2018-01-03T16:05:00,3,1,web.mit.edu,General Reference & Learning,2
+2018-01-03T16:05:00,3,1,downforacross.com,Games,-2
+2018-01-03T16:05:00,2,1,safari-resource:,Browsers,0
+2018-01-03T16:10:00,289,1,web1.zixmail.net,Email,0
+2018-01-03T16:10:00,5,1,downforacross.com,Games,-2
+2018-01-03T16:10:00,3,1,Mail,Email,2
+2018-01-03T16:10:00,2,1,linkedin.com,Professional Networking,1
+2018-01-03T16:15:00,74,1,Mail,Email,2
+2018-01-03T16:15:00,47,1,linkedin.com,Professional Networking,1
+2018-01-03T17:15:00,30,1,loginwindow,General Utilities,0
+2018-01-03T22:00:00,149,1,Mail,Email,2
+2018-01-03T22:00:00,52,1,linkedin.com,Professional Networking,1
+2018-01-03T22:00:00,45,1,captive network assistant,General Utilities,1
+2018-01-03T22:00:00,32,1,firehose.guide,General Communication & Scheduling,2
+2018-01-03T22:00:00,7,1,apple.com,Engineering & Technology,-1
+2018-01-03T22:05:00,250,1,uaap.mit.edu,Presentation,2
+2018-01-03T22:05:00,42,1,media.mit.edu,General Reference & Learning,1
+2018-01-03T22:05:00,4,1,google.com.sg,Search,0
+2018-01-03T22:05:00,3,1,apple.com,Engineering & Technology,-1
+2018-01-03T22:05:00,1,1,web.mit.edu,General Reference & Learning,2
+2018-01-03T22:10:00,250,1,media.mit.edu,General Reference & Learning,1
+2018-01-03T22:10:00,37,1,uaap.mit.edu,Presentation,2
+2018-01-03T22:10:00,5,1,linkedin.com,Professional Networking,1
+2018-01-03T22:10:00,3,1,Safari,Browsers,2
+2018-01-03T22:10:00,3,1,google.com.sg,Search,0
+2018-01-03T22:10:00,1,1,web.mit.edu,General Reference & Learning,2
+2018-01-03T22:15:00,281,1,media.mit.edu,General Reference & Learning,1
+2018-01-03T22:15:00,10,1,web.mit.edu,General Reference & Learning,2
+2018-01-03T22:15:00,5,1,Safari,Browsers,2
+2018-01-03T22:15:00,2,1,uaap.mit.edu,Presentation,2
+2018-01-03T22:15:00,1,1,safari-resource:,Browsers,0
+2018-01-03T22:20:00,300,1,media.mit.edu,General Reference & Learning,1
+2018-01-03T22:25:00,300,1,media.mit.edu,General Reference & Learning,1
+2018-01-03T22:30:00,300,1,media.mit.edu,General Reference & Learning,1
+2018-01-03T22:35:00,300,1,media.mit.edu,General Reference & Learning,1
+2018-01-03T22:40:00,155,1,media.mit.edu,General Reference & Learning,1

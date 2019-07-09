@@ -1,0 +1,361 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2016-08-25T00:05:00,194,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T00:05:00,49,1,calendar,Calendars,1
+2016-08-25T00:05:00,1,1,Mail,Email,2
+2016-08-25T00:10:00,285,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T00:10:00,12,1,Safari,Browsers,2
+2016-08-25T00:10:00,3,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T00:15:00,276,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T00:15:00,24,1,Mail,Email,2
+2016-08-25T00:20:00,197,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T00:20:00,48,1,web.mit.edu,General Reference & Learning,2
+2016-08-25T00:20:00,30,1,Mail,Email,2
+2016-08-25T00:20:00,23,1,Preview,General Reference & Learning,2
+2016-08-25T00:25:00,250,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T00:25:00,46,1,Preview,General Reference & Learning,2
+2016-08-25T00:25:00,4,1,Mail,Email,2
+2016-08-25T00:30:00,271,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T00:30:00,28,1,Preview,General Reference & Learning,2
+2016-08-25T00:30:00,1,1,Mail,Email,2
+2016-08-25T00:35:00,261,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T00:35:00,39,1,Preview,General Reference & Learning,2
+2016-08-25T00:40:00,300,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T00:45:00,296,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T00:45:00,4,1,Preview,General Reference & Learning,2
+2016-08-25T00:50:00,272,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T00:50:00,27,1,Keynote,Presentation,2
+2016-08-25T00:55:00,300,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T01:00:00,179,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T01:20:00,16,1,loginwindow,General Utilities,0
+2016-08-25T09:40:00,43,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T09:40:00,18,1,keychain access,Systems Operations,2
+2016-08-25T09:40:00,16,1,loginwindow,General Utilities,0
+2016-08-25T09:40:00,3,1,SecurityAgent,Systems Operations,0
+2016-08-25T10:30:00,110,1,MS Excel,General Business,2
+2016-08-25T10:30:00,17,1,web.mit.edu,General Reference & Learning,2
+2016-08-25T10:30:00,3,1,keychain access,Systems Operations,2
+2016-08-25T10:30:00,1,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T10:35:00,300,1,MS Excel,General Business,2
+2016-08-25T10:40:00,134,1,MS Excel,General Business,2
+2016-08-25T10:40:00,6,1,Mail,Email,2
+2016-08-25T10:50:00,152,1,MS Excel,General Business,2
+2016-08-25T10:55:00,300,1,MS Excel,General Business,2
+2016-08-25T11:00:00,171,1,MS Excel,General Business,2
+2016-08-25T11:00:00,120,1,web.mit.edu,General Reference & Learning,2
+2016-08-25T11:05:00,183,1,9to5mac.com,General News & Opinion,-2
+2016-08-25T11:05:00,3,1,applications,General Business,2
+2016-08-25T11:05:00,1,1,eaptlstrust,General Utilities,1
+2016-08-25T11:15:00,69,1,Preview,General Reference & Learning,2
+2016-08-25T11:15:00,54,1,Mail,Email,2
+2016-08-25T11:15:00,29,1,MS Excel,General Business,2
+2016-08-25T11:15:00,6,1,9to5mac.com,General News & Opinion,-2
+2016-08-25T11:20:00,191,1,MS Excel,General Business,2
+2016-08-25T11:20:00,79,1,facebook.com/ads/,Marketing,2
+2016-08-25T11:20:00,14,1,9to5mac.com,General News & Opinion,-2
+2016-08-25T11:20:00,14,1,Preview,General Reference & Learning,2
+2016-08-25T11:25:00,193,1,facebook.com,General Social Networking,-2
+2016-08-25T11:25:00,84,1,facebook.com/ads/,Marketing,2
+2016-08-25T11:25:00,23,1,MS Excel,General Business,2
+2016-08-25T11:30:00,155,1,time.com,General News & Opinion,-2
+2016-08-25T11:30:00,60,1,facebook.com,General Social Networking,-2
+2016-08-25T11:30:00,48,1,google.com,Search,2
+2016-08-25T11:30:00,37,1,dailycaller.com,General News & Opinion,-2
+2016-08-25T11:35:00,100,1,dailycaller.com,General News & Opinion,-2
+2016-08-25T11:35:00,82,1,blog.ed.gov,Search,0
+2016-08-25T11:35:00,68,1,newsinfo.inquirer.net,General News & Opinion,-2
+2016-08-25T11:35:00,26,1,bloomberg.com,Business,-1
+2016-08-25T11:35:00,24,1,google.com,Search,2
+2016-08-25T11:40:00,172,1,cnbc.com,Business,-1
+2016-08-25T11:40:00,53,1,washingtonpost.com,General News & Opinion,-2
+2016-08-25T11:40:00,39,1,google.com,Search,2
+2016-08-25T11:40:00,31,1,blog.ed.gov,Search,0
+2016-08-25T11:40:00,5,1,MS Excel,General Business,2
+2016-08-25T11:45:00,94,1,washingtonpost.com,General News & Opinion,-2
+2016-08-25T11:45:00,93,1,blogs.wsj.com,Business,-1
+2016-08-25T11:45:00,71,1,freebeacon.com,Society,-2
+2016-08-25T11:45:00,41,1,google.com,Search,2
+2016-08-25T11:50:00,127,1,freebeacon.com,Society,-2
+2016-08-25T11:50:00,73,1,blogs.cfr.org,General News & Opinion,-2
+2016-08-25T11:50:00,66,1,google.com,Search,2
+2016-08-25T11:50:00,34,1,technologyreview.com,General Reference & Learning,1
+2016-08-25T11:55:00,196,1,nytimes.com,General News & Opinion,-2
+2016-08-25T11:55:00,47,1,google.com,Search,2
+2016-08-25T11:55:00,35,1,theguardian.com,General News & Opinion,-2
+2016-08-25T11:55:00,22,1,skyscrapercenter.com,General Reference & Learning,-2
+2016-08-25T12:00:00,138,1,skyscrapercenter.com,General Reference & Learning,-2
+2016-08-25T12:00:00,89,1,Mail,Email,2
+2016-08-25T12:00:00,73,1,MS Excel,General Business,2
+2016-08-25T12:05:00,287,1,MS Excel,General Business,2
+2016-08-25T12:05:00,13,1,Mail,Email,2
+2016-08-25T12:10:00,256,1,MS Excel,General Business,2
+2016-08-25T12:10:00,25,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T12:10:00,18,1,Mail,Email,2
+2016-08-25T12:10:00,1,1,skyscrapercenter.com,General Reference & Learning,-2
+2016-08-25T12:15:00,151,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T12:15:00,149,1,MS Excel,General Business,2
+2016-08-25T12:20:00,195,1,MS Excel,General Business,2
+2016-08-25T12:20:00,105,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T12:25:00,254,1,MS Excel,General Business,2
+2016-08-25T12:25:00,46,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T12:30:00,162,1,MS Excel,General Business,2
+2016-08-25T12:30:00,138,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T12:35:00,262,1,MS Excel,General Business,2
+2016-08-25T12:35:00,36,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T12:35:00,2,1,eaptlstrust,General Utilities,1
+2016-08-25T12:40:00,102,1,MS Excel,General Business,2
+2016-08-25T12:40:00,55,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T12:50:00,11,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T12:50:00,5,1,MS Excel,General Business,2
+2016-08-25T12:55:00,153,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T12:55:00,146,1,MS Excel,General Business,2
+2016-08-25T13:00:00,188,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T13:00:00,112,1,MS Excel,General Business,2
+2016-08-25T13:05:00,157,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T13:05:00,141,1,MS Excel,General Business,2
+2016-08-25T13:10:00,201,1,MS Excel,General Business,2
+2016-08-25T13:10:00,99,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T13:15:00,138,1,microsoft word,Writing,2
+2016-08-25T13:15:00,91,1,MS Excel,General Business,2
+2016-08-25T13:15:00,69,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T13:20:00,277,1,MS Excel,General Business,2
+2016-08-25T13:20:00,23,1,microsoft word,Writing,2
+2016-08-25T13:25:00,241,1,MS Excel,General Business,2
+2016-08-25T13:25:00,41,1,support.office.com,Engineering & Technology,1
+2016-08-25T13:25:00,7,1,Safari,Browsers,2
+2016-08-25T13:25:00,5,1,google.com,Search,2
+2016-08-25T13:25:00,4,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T13:25:00,2,1,microsoft word,Writing,2
+2016-08-25T13:30:00,250,1,MS Excel,General Business,2
+2016-08-25T13:30:00,41,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T13:30:00,4,1,microsoft word,Writing,2
+2016-08-25T13:30:00,3,1,support.office.com,Engineering & Technology,1
+2016-08-25T13:30:00,1,1,Mail,Email,2
+2016-08-25T13:35:00,270,1,MS Excel,General Business,2
+2016-08-25T13:35:00,24,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T13:35:00,6,1,microsoft word,Writing,2
+2016-08-25T13:40:00,215,1,MS Excel,General Business,2
+2016-08-25T13:40:00,45,1,microsoft word,Writing,2
+2016-08-25T13:40:00,40,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T13:45:00,160,1,MS Excel,General Business,2
+2016-08-25T13:45:00,71,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T13:45:00,69,1,microsoft word,Writing,2
+2016-08-25T13:50:00,150,1,microsoft word,Writing,2
+2016-08-25T13:50:00,97,1,MS Excel,General Business,2
+2016-08-25T13:50:00,51,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T13:55:00,162,1,MS Excel,General Business,2
+2016-08-25T13:55:00,80,1,microsoft word,Writing,2
+2016-08-25T13:55:00,58,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T14:00:00,184,1,MS Excel,General Business,2
+2016-08-25T14:00:00,75,1,microsoft word,Writing,2
+2016-08-25T14:00:00,39,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T14:05:00,125,1,microsoft word,Writing,2
+2016-08-25T14:05:00,123,1,MS Excel,General Business,2
+2016-08-25T14:05:00,51,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T14:10:00,262,1,MS Excel,General Business,2
+2016-08-25T14:10:00,35,1,microsoft word,Writing,2
+2016-08-25T14:10:00,3,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T14:15:00,164,1,MS Excel,General Business,2
+2016-08-25T14:15:00,128,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T14:15:00,4,1,apply.commonapp.org,General Reference & Learning,1
+2016-08-25T14:15:00,3,1,microsoft word,Writing,2
+2016-08-25T14:20:00,171,1,MS Excel,General Business,2
+2016-08-25T14:20:00,108,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T14:20:00,20,1,microsoft word,Writing,2
+2016-08-25T14:25:00,232,1,MS Excel,General Business,2
+2016-08-25T14:25:00,68,1,microsoft word,Writing,2
+2016-08-25T14:30:00,235,1,MS Excel,General Business,2
+2016-08-25T14:30:00,64,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T14:30:00,1,1,microsoft word,Writing,2
+2016-08-25T14:35:00,107,1,MS Excel,General Business,2
+2016-08-25T14:35:00,52,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T14:45:00,205,1,MS Excel,General Business,2
+2016-08-25T14:45:00,19,1,theguardian.com,General News & Opinion,-2
+2016-08-25T14:45:00,3,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T14:50:00,100,1,travelchinaguide.com,Travel & Outdoors,-2
+2016-08-25T14:50:00,73,1,cnn.com,General News & Opinion,2
+2016-08-25T14:50:00,43,1,google.com,Search,2
+2016-08-25T14:50:00,36,1,en.wikipedia.org,General Reference & Learning,1
+2016-08-25T14:50:00,27,1,dailymail.co.uk,General News & Opinion,-2
+2016-08-25T14:50:00,21,1,theguardian.com,General News & Opinion,-2
+2016-08-25T14:55:00,154,1,en.wikipedia.org,General Reference & Learning,1
+2016-08-25T14:55:00,146,1,MS Excel,General Business,2
+2016-08-25T15:00:00,247,1,en.wikipedia.org,General Reference & Learning,1
+2016-08-25T15:00:00,52,1,MS Excel,General Business,2
+2016-08-25T15:05:00,299,1,en.wikipedia.org,General Reference & Learning,1
+2016-08-25T15:10:00,83,1,google.com,Search,2
+2016-08-25T15:10:00,65,1,ctbuh.org,Uncategorized,0
+2016-08-25T15:10:00,63,1,world-visits.com,Uncategorized,0
+2016-08-25T15:10:00,35,1,static.dezeen.com,General News & Opinion,-2
+2016-08-25T15:10:00,28,1,skyscrapercenter.com,General Reference & Learning,-2
+2016-08-25T15:10:00,13,1,en.wikipedia.org,General Reference & Learning,1
+2016-08-25T15:10:00,8,1,2.bp.blogspot.com,General News & Opinion,-2
+2016-08-25T15:10:00,3,1,i.bnet.com,General Business,2
+2016-08-25T15:10:00,2,1,Safari,Browsers,2
+2016-08-25T15:15:00,226,1,skyscrapercenter.com,General Reference & Learning,-2
+2016-08-25T15:15:00,29,1,google.com,Search,2
+2016-08-25T15:15:00,22,1,skyscrapercity.com,General News & Opinion,-2
+2016-08-25T15:15:00,12,1,ctbuh.org,Uncategorized,0
+2016-08-25T15:15:00,8,1,Safari,Browsers,2
+2016-08-25T15:15:00,1,1,support.office.com,Engineering & Technology,1
+2016-08-25T15:15:00,1,1,my.mit.edu,General Reference & Learning,1
+2016-08-25T15:20:00,93,1,skyscrapercity.com,General News & Opinion,-2
+2016-08-25T15:20:00,67,1,MS Excel,General Business,2
+2016-08-25T15:20:00,16,1,loginwindow,General Utilities,0
+2016-08-25T15:20:00,13,1,cngce.com,Uncategorized,0
+2016-08-25T15:20:00,4,1,Safari,Browsers,2
+2016-08-25T15:25:00,169,1,MS Excel,General Business,2
+2016-08-25T15:25:00,78,1,google.com,Search,2
+2016-08-25T15:25:00,24,1,newgeography.com,Uncategorized,0
+2016-08-25T15:25:00,23,1,usgbc.org,Presentation,2
+2016-08-25T15:25:00,3,1,en.topbm.com,Uncategorized,0
+2016-08-25T15:25:00,2,1,Safari,Browsers,2
+2016-08-25T15:30:00,126,1,beijingrelocation.com,Uncategorized,0
+2016-08-25T15:30:00,65,1,google.com,Search,2
+2016-08-25T15:30:00,29,1,som.com,Uncategorized,0
+2016-08-25T15:30:00,15,1,bklarchitecture.com,Uncategorized,0
+2016-08-25T15:30:00,10,1,chinadaily.com.cn,General News & Opinion,2
+2016-08-25T15:30:00,10,1,sanchezvera.files.wordpress.com,Uncategorized,0
+2016-08-25T15:30:00,7,1,pcf-p.com,Project Management,2
+2016-08-25T15:30:00,7,1,ap.jll.com,General Business,2
+2016-08-25T15:30:00,7,1,sanchezvera.com,Uncategorized,0
+2016-08-25T15:30:00,7,1,Safari,Browsers,2
+2016-08-25T15:30:00,7,1,skyscrapercenter.com,General Reference & Learning,-2
+2016-08-25T15:30:00,5,1,archdaily.com,General News & Opinion,-2
+2016-08-25T15:30:00,4,1,newgeography.com,Uncategorized,0
+2016-08-25T15:35:00,63,1,land.fang.com,Uncategorized,0
+2016-08-25T15:35:00,55,1,news.xinhuanet.com,General News & Opinion,-2
+2016-08-25T15:35:00,53,1,beijingrelocation.com,Uncategorized,0
+2016-08-25T15:35:00,33,1,m.companies.caixin.com,Business,-1
+2016-08-25T15:35:00,31,1,som.com,Uncategorized,0
+2016-08-25T15:35:00,22,1,google.com,Search,2
+2016-08-25T15:35:00,21,1,zfxxgk.beijing.gov.cn,Uncategorized,0
+2016-08-25T15:35:00,12,1,m.magazine.caixin.com,Business,-1
+2016-08-25T15:35:00,6,1,skyscrapercenter.com,General Reference & Learning,-2
+2016-08-25T15:35:00,3,1,Safari,Browsers,2
+2016-08-25T15:40:00,109,1,m.magazine.caixin.com,Business,-1
+2016-08-25T15:40:00,77,1,land.fang.com,Uncategorized,0
+2016-08-25T15:40:00,56,1,MS Excel,General Business,2
+2016-08-25T15:40:00,28,1,cn-c114.net,Uncategorized,0
+2016-08-25T15:40:00,12,1,google.com,Search,2
+2016-08-25T15:40:00,7,1,skyscrapercenter.com,General Reference & Learning,-2
+2016-08-25T15:40:00,5,1,Safari,Browsers,2
+2016-08-25T15:40:00,3,1,m.companies.caixin.com,Business,-1
+2016-08-25T15:40:00,2,1,beijingrelocation.com,Uncategorized,0
+2016-08-25T15:45:00,87,1,beijingrelocation.com,Uncategorized,0
+2016-08-25T15:45:00,67,1,cn-c114.net,Uncategorized,0
+2016-08-25T15:45:00,47,1,translate.google.com,Search,1
+2016-08-25T15:45:00,34,1,MS Excel,General Business,2
+2016-08-25T15:45:00,22,1,m.magazine.caixin.com,Business,-1
+2016-08-25T15:45:00,20,1,land.fang.com,Uncategorized,0
+2016-08-25T15:45:00,11,1,skyscrapercenter.com,General Reference & Learning,-2
+2016-08-25T15:45:00,6,1,Safari,Browsers,2
+2016-08-25T15:45:00,5,1,google.com,Search,2
+2016-08-25T15:50:00,121,1,beijingrelocation.com,Uncategorized,0
+2016-08-25T15:50:00,69,1,google.com,Search,2
+2016-08-25T15:50:00,29,1,MS Excel,General Business,2
+2016-08-25T15:50:00,23,1,dichan.sina.com.cn,General News & Opinion,-2
+2016-08-25T15:50:00,18,1,hok.com,General Business,2
+2016-08-25T15:50:00,17,1,ingameoffice.com,Uncategorized,0
+2016-08-25T15:50:00,10,1,henn.com,Uncategorized,0
+2016-08-25T15:50:00,5,1,ikuku.cn,Uncategorized,0
+2016-08-25T15:50:00,3,1,Safari,Browsers,2
+2016-08-25T15:50:00,3,1,cn-c114.net,Uncategorized,0
+2016-08-25T15:50:00,1,1,land.fang.com,Uncategorized,0
+2016-08-25T15:55:00,260,1,dichan.sina.com.cn,General News & Opinion,-2
+2016-08-25T15:55:00,40,1,skyscrapercenter.com,General Reference & Learning,-2
+2016-08-25T16:00:00,61,1,loginwindow,General Utilities,0
+2016-08-25T16:00:00,27,1,skyscrapercenter.com,General Reference & Learning,-2
+2016-08-25T16:00:00,7,1,MS Excel,General Business,2
+2016-08-25T19:55:00,2,1,MS Excel,General Business,2
+2016-08-25T20:00:00,260,1,MS Excel,General Business,2
+2016-08-25T20:00:00,32,1,Mail,Email,2
+2016-08-25T20:00:00,5,1,skyscrapercenter.com,General Reference & Learning,-2
+2016-08-25T20:05:00,128,1,connection.naviance.com,General Design & Composition,2
+2016-08-25T20:05:00,73,1,Mail,Email,2
+2016-08-25T20:05:00,51,1,MS Excel,General Business,2
+2016-08-25T20:05:00,30,1,microsoft word,Writing,2
+2016-08-25T20:05:00,9,1,naviance.com,General Reference & Learning,1
+2016-08-25T20:05:00,5,1,Safari,Browsers,2
+2016-08-25T20:05:00,4,1,skyscrapercenter.com,General Reference & Learning,-2
+2016-08-25T20:10:00,287,1,connection.naviance.com,General Design & Composition,2
+2016-08-25T20:10:00,8,1,Safari,Browsers,2
+2016-08-25T20:10:00,5,1,MS Excel,General Business,2
+2016-08-25T20:15:00,272,1,connection.naviance.com,General Design & Composition,2
+2016-08-25T20:15:00,24,1,MS Excel,General Business,2
+2016-08-25T20:15:00,4,1,Safari,Browsers,2
+2016-08-25T20:20:00,300,1,connection.naviance.com,General Design & Composition,2
+2016-08-25T20:25:00,300,1,connection.naviance.com,General Design & Composition,2
+2016-08-25T20:30:00,297,1,connection.naviance.com,General Design & Composition,2
+2016-08-25T20:30:00,3,1,translate.google.com,Search,1
+2016-08-25T20:35:00,266,1,connection.naviance.com,General Design & Composition,2
+2016-08-25T20:35:00,32,1,cn-c114.net,Uncategorized,0
+2016-08-25T20:35:00,2,1,translate.google.com,Search,1
+2016-08-25T20:40:00,300,1,connection.naviance.com,General Design & Composition,2
+2016-08-25T20:45:00,300,1,connection.naviance.com,General Design & Composition,2
+2016-08-25T20:50:00,300,1,connection.naviance.com,General Design & Composition,2
+2016-08-25T20:55:00,300,1,connection.naviance.com,General Design & Composition,2
+2016-08-25T21:00:00,202,1,connection.naviance.com,General Design & Composition,2
+2016-08-25T21:00:00,68,1,MS Excel,General Business,2
+2016-08-25T21:00:00,29,1,Mail,Email,2
+2016-08-25T21:00:00,1,1,translate.google.com,Search,1
+2016-08-25T21:05:00,190,1,dichan.sina.com.cn,General News & Opinion,-2
+2016-08-25T21:05:00,55,1,baike.baidu.com,Search,0
+2016-08-25T21:05:00,15,1,beijingrelocation.com,Uncategorized,0
+2016-08-25T21:05:00,14,1,google.com,Search,2
+2016-08-25T21:05:00,9,1,Safari,Browsers,2
+2016-08-25T21:05:00,4,1,applications,General Business,2
+2016-08-25T21:05:00,3,1,cn-c114.net,Uncategorized,0
+2016-08-25T21:05:00,3,1,m.magazine.caixin.com,Business,-1
+2016-08-25T21:05:00,2,1,land.fang.com,Uncategorized,0
+2016-08-25T21:05:00,2,1,youtube.com,Video,-2
+2016-08-25T21:05:00,1,1,translate.google.com,Search,1
+2016-08-25T21:10:00,125,1,translate.google.com,Search,1
+2016-08-25T21:10:00,79,1,baike.baidu.com,Search,0
+2016-08-25T21:10:00,25,1,news.chineseoffice.com.cn,Uncategorized,0
+2016-08-25T21:10:00,22,1,sinooceanland.com,Uncategorized,0
+2016-08-25T21:10:00,20,1,cee.cn,Uncategorized,0
+2016-08-25T21:10:00,16,1,google.com,Search,2
+2016-08-25T21:10:00,10,1,baidu.com,Search,2
+2016-08-25T21:10:00,3,1,Safari,Browsers,2
+2016-08-25T21:15:00,181,1,translate.google.com,Search,1
+2016-08-25T21:15:00,61,1,money.163.com,General Business,2
+2016-08-25T21:15:00,35,1,news.baidu.com,General News & Opinion,-2
+2016-08-25T21:15:00,12,1,skyscrapercenter.com,General Reference & Learning,-2
+2016-08-25T21:15:00,7,1,news.chineseoffice.com.cn,Uncategorized,0
+2016-08-25T21:15:00,4,1,baidu.com,Search,2
+2016-08-25T21:20:00,209,1,news.fang.com,Uncategorized,0
+2016-08-25T21:20:00,45,1,money.163.com,General Business,2
+2016-08-25T21:20:00,37,1,news.baidu.com,General News & Opinion,-2
+2016-08-25T21:20:00,3,1,translate.google.com,Search,1
+2016-08-25T21:20:00,3,1,skyscrapercenter.com,General Reference & Learning,-2
+2016-08-25T21:20:00,3,1,news.chineseoffice.com.cn,Uncategorized,0
+2016-08-25T21:25:00,274,1,news.fang.com,Uncategorized,0
+2016-08-25T21:25:00,26,1,translate.google.com,Search,1
+2016-08-25T21:30:00,175,1,translate.google.com,Search,1
+2016-08-25T21:30:00,2,1,news.fang.com,Uncategorized,0
+2016-08-25T21:50:00,6,1,translate.google.com,Search,1
+2016-08-25T22:00:00,87,1,news.vobao.com,Uncategorized,0
+2016-08-25T22:00:00,53,1,google.com,Search,2
+2016-08-25T22:00:00,43,1,news.baidu.com,General News & Opinion,-2
+2016-08-25T22:00:00,41,1,house.ifeng.com,General News & Opinion,-2
+2016-08-25T22:00:00,6,1,Safari,Browsers,2
+2016-08-25T22:00:00,2,1,jiangsu.china.com.cn,Business,-1
+2016-08-25T22:00:00,1,1,news.fang.com,Uncategorized,0
+2016-08-25T22:05:00,70,1,google.com,Search,2
+2016-08-25T22:05:00,70,1,cwtc.com,Uncategorized,0
+2016-08-25T22:05:00,56,1,news.vobao.com,Uncategorized,0
+2016-08-25T22:05:00,42,1,farrells.com,General Entertainment,-2
+2016-08-25T22:05:00,38,1,beijingrelocation.com,Uncategorized,0
+2016-08-25T22:05:00,11,1,cn-c114.net,Uncategorized,0
+2016-08-25T22:05:00,5,1,youtube.com,Video,-2
+2016-08-25T22:05:00,4,1,house.ifeng.com,General News & Opinion,-2
+2016-08-25T22:05:00,2,1,dichan.sina.com.cn,General News & Opinion,-2
+2016-08-25T22:05:00,1,1,problem reporter,General News & Opinion,-2
+2016-08-25T22:10:00,95,1,google.com,Search,2
+2016-08-25T22:10:00,86,1,gettyimages.com,Presentation,2
+2016-08-25T22:10:00,58,1,studiosuit.nl,Uncategorized,0
+2016-08-25T22:10:00,24,1,wtpartnership.com,Uncategorized,0
+2016-08-25T22:10:00,17,1,loginwindow,General Utilities,0
+2016-08-25T22:10:00,13,1,alamy.com,Marketing,2
+2016-08-25T22:10:00,7,1,news.baidu.com,General News & Opinion,-2
+2016-08-25T22:15:00,1,1,loginwindow,General Utilities,0

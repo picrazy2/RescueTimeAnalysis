@@ -1,0 +1,353 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2015-07-17T00:10:00,164,1,matlab,General Software Development,2
+2015-07-17T00:10:00,1,1,loginwindow,General Utilities,0
+2015-07-17T00:10:00,1,1,alfred 2,General Utilities,1
+2015-07-17T00:15:00,300,1,matlab,General Software Development,2
+2015-07-17T00:20:00,296,1,matlab,General Software Development,2
+2015-07-17T00:20:00,3,1,Finder,General Utilities,0
+2015-07-17T00:25:00,92,1,matlab,General Software Development,2
+2015-07-17T00:25:00,3,1,macupdate.com,Science & Technology,-1
+2015-07-17T00:40:00,44,1,loginwindow,General Utilities,0
+2015-07-17T00:45:00,18,1,loginwindow,General Utilities,0
+2015-07-17T09:15:00,171,1,Keynote,Presentation,2
+2015-07-17T09:15:00,5,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T09:20:00,20,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T09:30:00,153,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T09:35:00,12,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T09:35:00,9,1,Keynote,Presentation,2
+2015-07-17T09:35:00,5,1,Finder,General Utilities,0
+2015-07-17T09:35:00,3,1,pages,Presentation,2
+2015-07-17T09:40:00,183,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T09:40:00,112,1,Keynote,Presentation,2
+2015-07-17T09:40:00,4,1,Finder,General Utilities,0
+2015-07-17T10:05:00,234,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T10:05:00,39,1,Finder,General Utilities,0
+2015-07-17T10:05:00,3,1,problem reporter,General News & Opinion,-2
+2015-07-17T10:05:00,1,1,Keynote,Presentation,2
+2015-07-17T10:10:00,300,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T10:15:00,269,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T10:20:00,130,1,Keynote,Presentation,2
+2015-07-17T10:20:00,118,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T10:20:00,21,1,Finder,General Utilities,0
+2015-07-17T10:20:00,15,1,cdn.laptopmag.com,Science & Technology,-1
+2015-07-17T10:20:00,10,1,google.com,Search,2
+2015-07-17T10:20:00,6,1,9gag.com,Comedy,-2
+2015-07-17T10:25:00,192,1,Keynote,Presentation,2
+2015-07-17T10:25:00,51,1,amazon.com,General Shopping,-1
+2015-07-17T10:25:00,42,1,headsets.com,Uncategorized,0
+2015-07-17T10:25:00,9,1,google.com,Search,2
+2015-07-17T10:25:00,3,1,cdn.laptopmag.com,Science & Technology,-1
+2015-07-17T10:25:00,1,1,pages,Presentation,2
+2015-07-17T10:30:00,242,1,Keynote,Presentation,2
+2015-07-17T10:30:00,57,1,amazon.com,General Shopping,-1
+2015-07-17T10:30:00,1,1,google.com,Search,2
+2015-07-17T10:35:00,217,1,Keynote,Presentation,2
+2015-07-17T10:35:00,80,1,amazon.com,General Shopping,-1
+2015-07-17T10:35:00,3,1,Finder,General Utilities,0
+2015-07-17T10:40:00,230,1,Keynote,Presentation,2
+2015-07-17T10:40:00,67,1,amazon.com,General Shopping,-1
+2015-07-17T10:40:00,3,1,pages,Presentation,2
+2015-07-17T10:45:00,300,1,Keynote,Presentation,2
+2015-07-17T10:50:00,300,1,Keynote,Presentation,2
+2015-07-17T10:55:00,208,1,Keynote,Presentation,2
+2015-07-17T10:55:00,86,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T10:55:00,6,1,amazon.com,General Shopping,-1
+2015-07-17T11:00:00,300,1,Keynote,Presentation,2
+2015-07-17T11:05:00,300,1,Keynote,Presentation,2
+2015-07-17T11:10:00,300,1,Keynote,Presentation,2
+2015-07-17T11:15:00,177,1,Keynote,Presentation,2
+2015-07-17T11:15:00,115,1,google.com,Search,2
+2015-07-17T11:15:00,5,1,clipartbest.com,General Design & Composition,2
+2015-07-17T11:15:00,3,1,amazon.com,General Shopping,-1
+2015-07-17T11:20:00,260,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T11:20:00,26,1,Keynote,Presentation,2
+2015-07-17T11:20:00,5,1,clipartbest.com,General Design & Composition,2
+2015-07-17T11:25:00,300,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T11:30:00,99,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T11:35:00,3,1,wacomtabletdriver,Uncategorized,0
+2015-07-17T11:35:00,1,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T11:40:00,278,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T11:40:00,20,1,Keynote,Presentation,2
+2015-07-17T11:40:00,1,1,problem reporter,General News & Opinion,-2
+2015-07-17T11:45:00,146,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T11:45:00,13,1,google.com,Search,2
+2015-07-17T11:45:00,6,1,Keynote,Presentation,2
+2015-07-17T11:45:00,3,1,clipartbest.com,General Design & Composition,2
+2015-07-17T11:45:00,2,1,onapage.com,Uncategorized,0
+2015-07-17T11:50:00,298,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T11:50:00,2,1,onapage.com,Uncategorized,0
+2015-07-17T11:55:00,300,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T12:00:00,148,1,Keynote,Presentation,2
+2015-07-17T12:00:00,59,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T12:00:00,19,1,loginwindow,General Utilities,0
+2015-07-17T12:00:00,4,1,Finder,General Utilities,0
+2015-07-17T12:00:00,2,1,System Preferences,General Utilities,0
+2015-07-17T12:55:00,23,1,Keynote,Presentation,2
+2015-07-17T13:00:00,289,1,Keynote,Presentation,2
+2015-07-17T13:00:00,11,1,loginwindow,General Utilities,0
+2015-07-17T13:05:00,9,1,loginwindow,General Utilities,0
+2015-07-17T13:15:00,160,1,onapage.com,Uncategorized,0
+2015-07-17T13:15:00,16,1,Preview,General Reference & Learning,2
+2015-07-17T13:15:00,14,1,Keynote,Presentation,2
+2015-07-17T13:15:00,12,1,Mail,Email,2
+2015-07-17T13:15:00,9,1,spotlight,General Utilities,1
+2015-07-17T13:15:00,5,1,mathworks.com,Engineering & Technology,1
+2015-07-17T13:20:00,300,1,Preview,General Reference & Learning,2
+2015-07-17T13:25:00,184,1,Preview,General Reference & Learning,2
+2015-07-17T13:25:00,14,1,mcmaster.com,General Shopping,-2
+2015-07-17T13:25:00,6,1,Safari,Browsers,2
+2015-07-17T13:45:00,5,1,Safari,Browsers,2
+2015-07-17T13:45:00,2,1,carbonallotropes.com,Uncategorized,0
+2015-07-17T13:45:00,2,1,mcmaster.com,General Shopping,-2
+2015-07-17T13:45:00,1,1,google.com,Search,2
+2015-07-17T14:10:00,20,1,Preview,General Reference & Learning,2
+2015-07-17T14:30:00,173,1,Keynote,Presentation,2
+2015-07-17T14:30:00,5,1,growl.info,General Utilities,1
+2015-07-17T14:30:00,4,1,Preview,General Reference & Learning,2
+2015-07-17T14:30:00,3,1,loginwindow,General Utilities,0
+2015-07-17T14:35:00,300,1,Keynote,Presentation,2
+2015-07-17T14:40:00,165,1,Keynote,Presentation,2
+2015-07-17T14:40:00,27,1,Mail,Email,2
+2015-07-17T14:40:00,22,1,loginwindow,General Utilities,0
+2015-07-17T14:40:00,2,1,growl.info,General Utilities,1
+2015-07-17T14:40:00,2,1,google.com,Search,2
+2015-07-17T14:45:00,132,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T14:45:00,38,1,Keynote,Presentation,2
+2015-07-17T14:45:00,26,1,Finder,General Utilities,0
+2015-07-17T14:45:00,12,1,Mail,Email,2
+2015-07-17T14:45:00,7,1,google.com,Search,2
+2015-07-17T14:45:00,6,1,Preview,General Reference & Learning,2
+2015-07-17T14:50:00,300,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T14:55:00,22,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T14:55:00,19,1,loginwindow,General Utilities,0
+2015-07-17T15:10:00,60,1,Finder,General Utilities,0
+2015-07-17T15:10:00,50,1,Adobe Photoshop,Graphic Design,2
+2015-07-17T15:10:00,48,1,adobe.com,General Software Development,2
+2015-07-17T15:10:00,9,1,google.com,Search,2
+2015-07-17T15:10:00,2,1,Keynote,Presentation,2
+2015-07-17T15:15:00,30,1,adobe.com,General Software Development,2
+2015-07-17T15:15:00,21,1,loginwindow,General Utilities,0
+2015-07-17T15:20:00,129,1,adobe.com,General Software Development,2
+2015-07-17T15:20:00,72,1,creative.adobe.com,General Design & Composition,2
+2015-07-17T15:20:00,38,1,Safari,Browsers,2
+2015-07-17T15:20:00,15,1,adobeid-na1.services.adobe.com,General Design & Composition,2
+2015-07-17T15:20:00,8,1,google.com,Search,2
+2015-07-17T15:20:00,5,1,Keynote,Presentation,2
+2015-07-17T15:20:00,3,1,helpx.adobe.com,General Software Development,2
+2015-07-17T15:20:00,2,1,problem reporter,General News & Opinion,-2
+2015-07-17T15:25:00,45,1,adobeid-na1.services.adobe.com,General Design & Composition,2
+2015-07-17T15:25:00,20,1,loginwindow,General Utilities,0
+2015-07-17T15:40:00,38,1,Keynote,Presentation,2
+2015-07-17T15:40:00,20,1,loginwindow,General Utilities,0
+2015-07-17T15:40:00,3,1,adobeid-na1.services.adobe.com,General Design & Composition,2
+2015-07-17T15:40:00,2,1,pages,Presentation,2
+2015-07-17T19:30:00,71,1,adobeid-na1.services.adobe.com,General Design & Composition,2
+2015-07-17T19:30:00,5,1,eclipse,Editing & IDEs,2
+2015-07-17T19:30:00,3,1,Keynote,Presentation,2
+2015-07-17T19:35:00,110,1,adobeid-na1.services.adobe.com,General Design & Composition,2
+2015-07-17T19:35:00,55,1,adobe.com,General Software Development,2
+2015-07-17T19:35:00,54,1,creative.adobe.com,General Design & Composition,2
+2015-07-17T19:35:00,34,1,secure.bankofamerica.com,Accounting,2
+2015-07-17T19:35:00,22,1,adobeid.services.adobe.com,General Design & Composition,2
+2015-07-17T19:35:00,14,1,Safari,Browsers,2
+2015-07-17T19:35:00,4,1,bankofamerica.com,General Business,2
+2015-07-17T19:35:00,4,1,Mail,Email,2
+2015-07-17T19:40:00,145,1,creative.adobe.com,General Design & Composition,2
+2015-07-17T19:40:00,135,1,adobe.com,General Software Development,2
+2015-07-17T19:40:00,15,1,secure.bankofamerica.com,Accounting,2
+2015-07-17T19:40:00,2,1,Safari,Browsers,2
+2015-07-17T19:40:00,2,1,adobeid-na1.services.adobe.com,General Design & Composition,2
+2015-07-17T19:45:00,256,1,eclipse,Editing & IDEs,2
+2015-07-17T19:45:00,35,1,creative.adobe.com,General Design & Composition,2
+2015-07-17T19:45:00,6,1,MS Excel,General Business,2
+2015-07-17T19:50:00,219,1,eclipse,Editing & IDEs,2
+2015-07-17T19:50:00,47,1,tincta,General Software Development,2
+2015-07-17T19:50:00,22,1,users,General Software Development,2
+2015-07-17T19:50:00,8,1,creative.adobe.com,General Design & Composition,2
+2015-07-17T19:50:00,1,1,bankofamerica.com,General Business,2
+2015-07-17T19:50:00,1,1,github.com,General Software Development,2
+2015-07-17T19:55:00,162,1,eclipse,Editing & IDEs,2
+2015-07-17T19:55:00,52,1,tincta,General Software Development,2
+2015-07-17T19:55:00,34,1,users,General Software Development,2
+2015-07-17T19:55:00,17,1,Finder,General Utilities,0
+2015-07-17T19:55:00,8,1,Mail,Email,2
+2015-07-17T19:55:00,4,1,Safari,Browsers,2
+2015-07-17T20:00:00,53,1,loginwindow,General Utilities,0
+2015-07-17T20:00:00,38,1,Finder,General Utilities,0
+2015-07-17T20:00:00,24,1,Mail,Email,2
+2015-07-17T20:00:00,19,1,MS Excel,General Business,2
+2015-07-17T20:00:00,5,1,google.com,Search,2
+2015-07-17T20:00:00,3,1,Safari,Browsers,2
+2015-07-17T20:00:00,1,1,users,General Software Development,2
+2015-07-17T20:00:00,1,1,mathworks.com,Engineering & Technology,1
+2015-07-17T20:05:00,73,1,mathworks.com,Engineering & Technology,1
+2015-07-17T20:05:00,67,1,loginwindow,General Utilities,0
+2015-07-17T20:05:00,49,1,users,General Software Development,2
+2015-07-17T20:05:00,19,1,google.com,Search,2
+2015-07-17T20:05:00,6,1,applications,General Business,2
+2015-07-17T20:05:00,1,1,Safari,Browsers,2
+2015-07-17T20:10:00,139,1,Finder,General Utilities,0
+2015-07-17T20:10:00,92,1,users,General Software Development,2
+2015-07-17T20:10:00,36,1,eclipse,Editing & IDEs,2
+2015-07-17T20:10:00,18,1,tincta,General Software Development,2
+2015-07-17T20:10:00,2,1,Mail,Email,2
+2015-07-17T20:15:00,114,1,users,General Software Development,2
+2015-07-17T20:15:00,61,1,Finder,General Utilities,0
+2015-07-17T20:15:00,20,1,loginwindow,General Utilities,0
+2015-07-17T20:15:00,5,1,Safari,Browsers,2
+2015-07-17T20:15:00,1,1,Mail,Email,2
+2015-07-17T20:20:00,218,1,Mail,Email,2
+2015-07-17T20:20:00,68,1,Finder,General Utilities,0
+2015-07-17T20:20:00,13,1,users,General Software Development,2
+2015-07-17T20:25:00,65,1,Finder,General Utilities,0
+2015-07-17T20:40:00,106,1,creative.adobe.com,General Design & Composition,2
+2015-07-17T20:40:00,8,1,Mail,Email,2
+2015-07-17T20:40:00,4,1,adobeid-na1.services.adobe.com,General Design & Composition,2
+2015-07-17T20:40:00,3,1,users,General Software Development,2
+2015-07-17T20:40:00,3,1,java updater,General Utilities,1
+2015-07-17T20:40:00,2,1,ims-na1.adobelogin.com,Uncategorized,0
+2015-07-17T20:45:00,145,1,Finder,General Utilities,0
+2015-07-17T20:45:00,54,1,creative.adobe.com,General Design & Composition,2
+2015-07-17T20:45:00,51,1,creative cloud installer,Graphic Design,2
+2015-07-17T20:45:00,10,1,Keynote,Presentation,2
+2015-07-17T20:45:00,7,1,Mail,Email,2
+2015-07-17T20:45:00,3,1,SecurityAgent,Systems Operations,0
+2015-07-17T20:45:00,2,1,diskimages ui agent,General Utilities,1
+2015-07-17T20:45:00,2,1,coreservicesuiagent,General Utilities,0
+2015-07-17T20:55:00,165,1,creative cloud installer,Graphic Design,2
+2015-07-17T20:55:00,6,1,creative cloud,General Design & Composition,2
+2015-07-17T20:55:00,6,1,SecurityAgent,Systems Operations,0
+2015-07-17T20:55:00,5,1,Finder,General Utilities,0
+2015-07-17T20:55:00,3,1,coreservicesuiagent,General Utilities,0
+2015-07-17T21:20:00,27,1,Finder,General Utilities,0
+2015-07-17T21:20:00,1,1,coreservicesuiagent,General Utilities,0
+2015-07-17T21:20:00,1,1,SecurityAgent,Systems Operations,0
+2015-07-17T21:40:00,95,1,spotlight,General Utilities,1
+2015-07-17T21:40:00,24,1,Finder,General Utilities,0
+2015-07-17T21:40:00,6,1,creative cloud installer,Graphic Design,2
+2015-07-17T21:40:00,2,1,SecurityAgent,Systems Operations,0
+2015-07-17T21:40:00,2,1,coreservicesuiagent,General Utilities,0
+2015-07-17T21:45:00,51,1,creative cloud installer,Graphic Design,2
+2015-07-17T21:45:00,42,1,Finder,General Utilities,0
+2015-07-17T21:45:00,41,1,creative cloud uninstaller,Uncategorized,0
+2015-07-17T21:45:00,30,1,Keynote,Presentation,2
+2015-07-17T21:45:00,27,1,login.globalsuite.net,Search,0
+2015-07-17T21:45:00,21,1,stackoverflow.com,General Software Development,2
+2015-07-17T21:45:00,20,1,starwoodhotels.com,Travel & Outdoors,-2
+2015-07-17T21:45:00,15,1,users,General Software Development,2
+2015-07-17T21:45:00,13,1,creative.adobe.com,General Design & Composition,2
+2015-07-17T21:45:00,10,1,spotlight,General Utilities,1
+2015-07-17T21:45:00,8,1,SecurityAgent,Systems Operations,0
+2015-07-17T21:45:00,6,1,coreservicesuiagent,General Utilities,0
+2015-07-17T21:45:00,6,1,ccmdls.adobe.com,General Software Development,2
+2015-07-17T21:45:00,3,1,Safari,Browsers,2
+2015-07-17T21:45:00,2,1,mathworks.com,Engineering & Technology,1
+2015-07-17T21:45:00,2,1,Mail,Email,2
+2015-07-17T21:45:00,1,1,github.com,General Software Development,2
+2015-07-17T21:45:00,1,1,mcmaster.com,General Shopping,-2
+2015-07-17T21:50:00,300,1,Keynote,Presentation,2
+2015-07-17T21:55:00,277,1,Keynote,Presentation,2
+2015-07-17T21:55:00,23,1,creative cloud,General Design & Composition,2
+2015-07-17T22:00:00,300,1,Keynote,Presentation,2
+2015-07-17T22:05:00,140,1,Keynote,Presentation,2
+2015-07-17T22:05:00,95,1,creative cloud,General Design & Composition,2
+2015-07-17T22:05:00,55,1,Finder,General Utilities,0
+2015-07-17T22:05:00,6,1,MS Excel,General Business,2
+2015-07-17T22:05:00,4,1,Mail,Email,2
+2015-07-17T22:10:00,167,1,microsoftstore.com,Engineering & Technology,1
+2015-07-17T22:10:00,34,1,Mail,Email,2
+2015-07-17T22:10:00,29,1,account.live.com,Science & Technology,-1
+2015-07-17T22:10:00,21,1,login.live.com,Email,0
+2015-07-17T22:10:00,12,1,users,General Software Development,2
+2015-07-17T22:10:00,10,1,google.com,Search,2
+2015-07-17T22:10:00,8,1,Finder,General Utilities,0
+2015-07-17T22:10:00,7,1,stackoverflow.com,General Software Development,2
+2015-07-17T22:10:00,4,1,creative cloud,General Design & Composition,2
+2015-07-17T22:10:00,3,1,arithmetic.zetamac.com,General Reference & Learning,1
+2015-07-17T22:15:00,109,1,microsoftstore.com,Engineering & Technology,1
+2015-07-17T22:15:00,81,1,stores.office.com,General Business,2
+2015-07-17T22:15:00,69,1,support.office.microsoft.com,General Reference & Learning,1
+2015-07-17T22:15:00,17,1,creative cloud,General Design & Composition,2
+2015-07-17T22:15:00,10,1,Safari,Browsers,2
+2015-07-17T22:15:00,8,1,mathworks.com,Engineering & Technology,1
+2015-07-17T22:15:00,5,1,Mail,Email,2
+2015-07-17T22:20:00,67,1,pages,Presentation,2
+2015-07-17T22:20:00,55,1,stores.office.com,General Business,2
+2015-07-17T22:20:00,50,1,gutenberg.org,General Reference & Learning,1
+2015-07-17T22:20:00,34,1,quickcounter,Uncategorized,0
+2015-07-17T22:20:00,32,1,creative cloud,General Design & Composition,2
+2015-07-17T22:20:00,18,1,Finder,General Utilities,0
+2015-07-17T22:20:00,17,1,login.globalsuite.net,Search,0
+2015-07-17T22:20:00,15,1,mathworks.com,Engineering & Technology,1
+2015-07-17T22:20:00,3,1,kaptest.com,General Reference & Learning,1
+2015-07-17T22:20:00,2,1,System Preferences,General Utilities,0
+2015-07-17T22:20:00,2,1,support.office.microsoft.com,General Reference & Learning,1
+2015-07-17T22:20:00,2,1,spotlight,General Utilities,1
+2015-07-17T22:25:00,223,1,pages,Presentation,2
+2015-07-17T22:25:00,61,1,creative cloud,General Design & Composition,2
+2015-07-17T22:25:00,16,1,gutenberg.org,General Reference & Learning,1
+2015-07-17T22:30:00,278,1,pages,Presentation,2
+2015-07-17T22:30:00,22,1,creative cloud,General Design & Composition,2
+2015-07-17T22:35:00,161,1,pages,Presentation,2
+2015-07-17T22:40:00,110,1,pages,Presentation,2
+2015-07-17T22:40:00,23,1,creative cloud,General Design & Composition,2
+2015-07-17T22:45:00,179,1,pages,Presentation,2
+2015-07-17T22:45:00,78,1,creative cloud,General Design & Composition,2
+2015-07-17T22:55:00,89,1,photoshop cc,General Design & Composition,2
+2015-07-17T22:55:00,30,1,Finder,General Utilities,0
+2015-07-17T22:55:00,4,1,creative cloud,General Design & Composition,2
+2015-07-17T22:55:00,4,1,spotlight,General Utilities,1
+2015-07-17T23:00:00,295,1,pages,Presentation,2
+2015-07-17T23:00:00,51,1,matlab,General Software Development,2
+2015-07-17T23:00:00,38,1,macupdate.com,Science & Technology,-1
+2015-07-17T23:00:00,35,1,Finder,General Utilities,0
+2015-07-17T23:05:00,275,1,pages,Presentation,2
+2015-07-17T23:05:00,184,1,matlab,General Software Development,2
+2015-07-17T23:05:00,105,1,MS Excel,General Business,2
+2015-07-17T23:05:00,25,1,creative cloud,General Design & Composition,2
+2015-07-17T23:05:00,7,1,Finder,General Utilities,0
+2015-07-17T23:10:00,300,1,pages,Presentation,2
+2015-07-17T23:10:00,293,1,matlab,General Software Development,2
+2015-07-17T23:10:00,6,1,Finder,General Utilities,0
+2015-07-17T23:15:00,293,1,matlab,General Software Development,2
+2015-07-17T23:15:00,203,1,Finder,General Utilities,0
+2015-07-17T23:15:00,73,1,creative cloud,General Design & Composition,2
+2015-07-17T23:15:00,30,1,pages,Presentation,2
+2015-07-17T23:20:00,201,1,Finder,General Utilities,0
+2015-07-17T23:20:00,97,1,quicktime player,General Entertainment,-1
+2015-07-17T23:20:00,64,1,matlab,General Software Development,2
+2015-07-17T23:20:00,53,1,Mail,Email,2
+2015-07-17T23:20:00,18,1,loginwindow,General Utilities,0
+2015-07-17T23:25:00,300,1,quicktime player,General Entertainment,-1
+2015-07-17T23:25:00,156,1,Mail,Email,2
+2015-07-17T23:25:00,9,1,Finder,General Utilities,0
+2015-07-17T23:30:00,158,1,quicktime player,General Entertainment,-1
+2015-07-17T23:30:00,141,1,Finder,General Utilities,0
+2015-07-17T23:30:00,17,1,loginwindow,General Utilities,0
+2015-07-17T23:35:00,291,1,Finder,General Utilities,0
+2015-07-17T23:35:00,6,1,spotlight,General Utilities,1
+2015-07-17T23:35:00,3,1,quicktime player,General Entertainment,-1
+2015-07-17T23:40:00,299,1,Finder,General Utilities,0
+2015-07-17T23:45:00,276,1,Finder,General Utilities,0
+2015-07-17T23:45:00,17,1,installer,General Utilities,1
+2015-07-17T23:45:00,4,1,gutenberg.org,General Reference & Learning,1
+2015-07-17T23:45:00,2,1,SecurityAgent,Systems Operations,0
+2015-07-17T23:45:00,1,1,creative cloud,General Design & Composition,2
+2015-07-17T23:50:00,117,1,Finder,General Utilities,0
+2015-07-17T23:50:00,84,1,microsoft word,Writing,2
+2015-07-17T23:50:00,58,1,installer,General Utilities,1
+2015-07-17T23:50:00,23,1,microsoft autoupdate,General Utilities,1
+2015-07-17T23:50:00,9,1,spotlight,General Utilities,1
+2015-07-17T23:50:00,7,1,google drive,General Business,2
+2015-07-17T23:55:00,96,1,Finder,General Utilities,0
+2015-07-17T23:55:00,78,1,drive.google.com,General Business,2
+2015-07-17T23:55:00,48,1,pages,Presentation,2
+2015-07-17T23:55:00,28,1,MS Excel,General Business,2
+2015-07-17T23:55:00,17,1,Safari,Browsers,2
+2015-07-17T23:55:00,8,1,creative cloud,General Design & Composition,2
+2015-07-17T23:55:00,7,1,Mail,Email,2
+2015-07-17T23:55:00,5,1,microsoft autoupdate,General Utilities,1
+2015-07-17T23:55:00,5,1,google.com,Search,2
+2015-07-17T23:55:00,3,1,auth.deerfield.edu,General Reference & Learning,1
+2015-07-17T23:55:00,2,1,gutenberg.org,General Reference & Learning,1
+2015-07-17T23:55:00,2,1,accounts.google.com,General Communication & Scheduling,0

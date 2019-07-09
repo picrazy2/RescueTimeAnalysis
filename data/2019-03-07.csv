@@ -1,0 +1,419 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2019-03-07T00:00:00,35,1,wechat,General Social Networking,-2
+2019-03-07T00:00:00,25,1,messenger.com,General Social Networking,-2
+2019-03-07T00:05:00,267,1,youtube.com,Video,-2
+2019-03-07T00:05:00,18,1,wechat,General Social Networking,-2
+2019-03-07T00:05:00,14,1,messenger.com,General Social Networking,-2
+2019-03-07T00:10:00,300,1,youtube.com,Video,-2
+2019-03-07T00:15:00,256,1,youtube.com,Video,-2
+2019-03-07T00:15:00,44,1,wechat,General Social Networking,-2
+2019-03-07T00:20:00,185,1,wechat,General Social Networking,-2
+2019-03-07T00:20:00,115,1,youtube.com,Video,-2
+2019-03-07T00:25:00,300,1,youtube.com,Video,-2
+2019-03-07T00:30:00,300,1,youtube.com,Video,-2
+2019-03-07T00:35:00,300,1,youtube.com,Video,-2
+2019-03-07T00:40:00,300,1,youtube.com,Video,-2
+2019-03-07T00:45:00,300,1,youtube.com,Video,-2
+2019-03-07T00:50:00,300,1,youtube.com,Video,-2
+2019-03-07T00:55:00,300,1,youtube.com,Video,-2
+2019-03-07T01:00:00,283,1,youtube.com,Video,-2
+2019-03-07T01:00:00,16,1,messenger.com,General Social Networking,-2
+2019-03-07T01:00:00,1,1,todoist,Project Management,2
+2019-03-07T01:05:00,300,1,youtube.com,Video,-2
+2019-03-07T01:10:00,300,1,youtube.com,Video,-2
+2019-03-07T01:15:00,300,1,youtube.com,Video,-2
+2019-03-07T01:20:00,300,1,youtube.com,Video,-2
+2019-03-07T01:25:00,300,1,youtube.com,Video,-2
+2019-03-07T01:30:00,44,1,youtube.com,Video,-2
+2019-03-07T01:30:00,6,1,microsoft word,Writing,2
+2019-03-07T11:00:00,60,1,nj.gov,General News & Opinion,2
+2019-03-07T11:00:00,42,1,youtube.com,Video,-2
+2019-03-07T11:00:00,9,1,messenger.com,General Social Networking,-2
+2019-03-07T11:00:00,5,1,Mail,Email,2
+2019-03-07T11:00:00,1,1,microsoft word,Writing,2
+2019-03-07T11:05:00,112,1,youtube.com,Video,-2
+2019-03-07T11:05:00,69,1,nj.gov,General News & Opinion,2
+2019-03-07T11:05:00,54,1,thebeijinger.com,General News & Opinion,-2
+2019-03-07T11:05:00,25,1,Finder,General Utilities,0
+2019-03-07T11:05:00,23,1,Google Presentations,Presentation,2
+2019-03-07T11:05:00,13,1,9to5mac.com,General News & Opinion,-2
+2019-03-07T11:05:00,4,1,messenger.com,General Social Networking,-2
+2019-03-07T11:10:00,130,1,nytimes.com,General News & Opinion,-2
+2019-03-07T11:10:00,104,1,google.com,Search,2
+2019-03-07T11:10:00,33,1,messenger.com,General Social Networking,-2
+2019-03-07T11:10:00,19,1,Mail,Email,2
+2019-03-07T11:10:00,6,1,microsoft word,Writing,2
+2019-03-07T11:10:00,5,1,drive.google.com,General Business,2
+2019-03-07T11:10:00,2,1,misti.mit.edu,Presentation,2
+2019-03-07T11:10:00,1,1,Finder,General Utilities,0
+2019-03-07T11:15:00,65,1,google.com,Search,2
+2019-03-07T11:15:00,5,1,loginwindow,General Utilities,0
+2019-03-07T11:30:00,44,1,Google Documents,Writing,2
+2019-03-07T11:30:00,25,1,messenger.com,General Social Networking,-2
+2019-03-07T11:30:00,6,1,Finder,General Utilities,0
+2019-03-07T11:30:00,2,1,google.com,Search,2
+2019-03-07T11:30:00,1,1,loginwindow,General Utilities,0
+2019-03-07T12:00:00,107,1,nj.gov,General News & Opinion,2
+2019-03-07T12:00:00,51,1,Google Presentations,Presentation,2
+2019-03-07T12:00:00,41,1,rebuildbydesign.org,Uncategorized,2
+2019-03-07T12:00:00,14,1,messenger.com,General Social Networking,-2
+2019-03-07T12:00:00,5,1,google.com,Search,2
+2019-03-07T12:00:00,2,1,Google Documents,Writing,2
+2019-03-07T12:00:00,2,1,gladesreservoir.com,Uncategorized,0
+2019-03-07T12:05:00,143,1,messenger.com,General Social Networking,-2
+2019-03-07T12:05:00,44,1,Google Presentations,Presentation,2
+2019-03-07T12:05:00,41,1,nj.gov,General News & Opinion,2
+2019-03-07T12:05:00,1,1,loginwindow,General Utilities,0
+2019-03-07T13:35:00,55,1,en.wikipedia.org,General Reference & Learning,1
+2019-03-07T13:35:00,26,1,google.com,Search,2
+2019-03-07T13:35:00,13,1,asiancorrespondent.com,General News & Opinion,-2
+2019-03-07T13:35:00,6,1,thebeijinger.com,General News & Opinion,-2
+2019-03-07T13:35:00,2,1,messenger.com,General Social Networking,-2
+2019-03-07T13:40:00,170,1,worldtimezone.com,Travel & Outdoors,-2
+2019-03-07T13:40:00,50,1,investopedia.com,Business & Finance,1
+2019-03-07T13:40:00,48,1,asiancorrespondent.com,General News & Opinion,-2
+2019-03-07T13:40:00,22,1,messenger.com,General Social Networking,-2
+2019-03-07T13:40:00,9,1,google.com,Search,2
+2019-03-07T13:40:00,1,1,Google Presentations,Presentation,2
+2019-03-07T13:45:00,2,1,messenger.com,General Social Networking,-2
+2019-03-07T13:55:00,1,1,loginwindow,General Utilities,0
+2019-03-07T14:15:00,100,1,en.wikipedia.org,General Reference & Learning,1
+2019-03-07T14:15:00,12,1,worldtimezone.com,Travel & Outdoors,-2
+2019-03-07T14:15:00,11,1,Notes,Email,0
+2019-03-07T14:15:00,8,1,Finder,General Utilities,0
+2019-03-07T14:15:00,7,1,Preview,General Reference & Learning,2
+2019-03-07T14:15:00,3,1,google.com,Search,2
+2019-03-07T14:15:00,2,1,messenger.com,General Social Networking,-2
+2019-03-07T14:15:00,2,1,loginwindow,General Utilities,0
+2019-03-07T14:15:00,2,1,microsoft word,Writing,2
+2019-03-07T14:20:00,128,1,en.wikipedia.org,General Reference & Learning,1
+2019-03-07T14:20:00,61,1,youtube.com,Video,-2
+2019-03-07T14:20:00,41,1,google.com,Search,2
+2019-03-07T14:20:00,30,1,france24.com,General News & Opinion,-2
+2019-03-07T14:20:00,26,1,Notes,Email,0
+2019-03-07T14:20:00,2,1,Mail,Email,2
+2019-03-07T14:20:00,1,1,loginwindow,General Utilities,0
+2019-03-07T14:35:00,4,1,Notes,Email,0
+2019-03-07T14:35:00,4,1,google.com,Search,2
+2019-03-07T14:40:00,284,1,Notes,Email,0
+2019-03-07T14:40:00,14,1,Preview,General Reference & Learning,2
+2019-03-07T14:40:00,2,1,Finder,General Utilities,0
+2019-03-07T14:45:00,220,1,Preview,General Reference & Learning,2
+2019-03-07T14:45:00,2,1,Finder,General Utilities,0
+2019-03-07T15:00:00,153,1,google.com,Search,2
+2019-03-07T15:00:00,1,1,Preview,General Reference & Learning,2
+2019-03-07T15:05:00,174,1,en.wikipedia.org,General Reference & Learning,1
+2019-03-07T15:05:00,88,1,wechat,General Social Networking,-2
+2019-03-07T15:05:00,27,1,google.com,Search,2
+2019-03-07T15:05:00,6,1,Preview,General Reference & Learning,2
+2019-03-07T15:05:00,4,1,mit.edu,Presentation,2
+2019-03-07T15:05:00,1,1,nj.gov,General News & Opinion,2
+2019-03-07T15:10:00,38,1,en.wikipedia.org,General Reference & Learning,1
+2019-03-07T15:10:00,2,1,google.com,Search,2
+2019-03-07T15:10:00,1,1,loginwindow,General Utilities,0
+2019-03-07T15:10:00,1,1,Google Presentations,Presentation,2
+2019-03-07T16:10:00,66,1,facebook.com,General Social Networking,-2
+2019-03-07T16:10:00,32,1,learning-modules.mit.edu,General Reference & Learning,1
+2019-03-07T16:10:00,26,1,messenger.com,General Social Networking,-2
+2019-03-07T16:10:00,10,1,en.wikipedia.org,General Reference & Learning,1
+2019-03-07T16:10:00,4,1,idp.mit.edu,General Reference & Learning,1
+2019-03-07T16:10:00,3,1,nj.gov,General News & Opinion,2
+2019-03-07T16:10:00,2,1,misti.mit.edu,Presentation,2
+2019-03-07T16:10:00,2,1,google.com,Search,2
+2019-03-07T16:10:00,1,1,Google Presentations,Presentation,2
+2019-03-07T16:10:00,1,1,loginwindow,General Utilities,0
+2019-03-07T16:15:00,109,1,microsoft word,Writing,2
+2019-03-07T16:15:00,53,1,facebook.com,General Social Networking,-2
+2019-03-07T16:15:00,42,1,messenger.com,General Social Networking,-2
+2019-03-07T16:15:00,40,1,Finder,General Utilities,0
+2019-03-07T16:15:00,30,1,Mail,Email,2
+2019-03-07T16:15:00,12,1,learning-modules.mit.edu,General Reference & Learning,1
+2019-03-07T16:15:00,5,1,google.com,Search,2
+2019-03-07T16:15:00,5,1,Preview,General Reference & Learning,2
+2019-03-07T16:15:00,2,1,Notes,Email,0
+2019-03-07T16:20:00,106,1,Mail,Email,2
+2019-03-07T16:20:00,74,1,microsoft word,Writing,2
+2019-03-07T16:20:00,73,1,facebook.com,General Social Networking,-2
+2019-03-07T16:20:00,22,1,wechat,General Social Networking,-2
+2019-03-07T16:20:00,19,1,kindle,General Reference & Learning,2
+2019-03-07T16:20:00,2,1,Finder,General Utilities,0
+2019-03-07T16:20:00,1,1,drive.google.com,General Business,2
+2019-03-07T16:25:00,213,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T16:25:00,27,1,microsoft word,Writing,2
+2019-03-07T16:25:00,19,1,history,Browsers,0
+2019-03-07T16:25:00,17,1,google.com,Search,2
+2019-03-07T16:25:00,15,1,drive.google.com,General Business,2
+2019-03-07T16:25:00,3,1,Google Forms,General Business,2
+2019-03-07T16:25:00,1,1,Google Spreadsheets,General Business,2
+2019-03-07T16:25:00,1,1,dropbox.com,File Sharing,2
+2019-03-07T16:25:00,1,1,theguardian.com,General News & Opinion,-2
+2019-03-07T16:25:00,1,1,kindle,General Reference & Learning,2
+2019-03-07T16:25:00,1,1,bankofamerica.com,General Business,2
+2019-03-07T16:25:00,1,1,messenger.com,General Social Networking,-2
+2019-03-07T16:30:00,172,1,microsoft word,Writing,2
+2019-03-07T16:30:00,46,1,en.wikipedia.org,General Reference & Learning,1
+2019-03-07T16:30:00,34,1,messenger.com,General Social Networking,-2
+2019-03-07T16:30:00,20,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T16:30:00,11,1,nytimes.com,General News & Opinion,-2
+2019-03-07T16:30:00,6,1,google.com,Search,2
+2019-03-07T16:30:00,6,1,goodreads.com,General Social Networking,-2
+2019-03-07T16:30:00,3,1,forbes.com,General News & Opinion,-2
+2019-03-07T16:30:00,2,1,newtab,Browsers,0
+2019-03-07T16:35:00,300,1,microsoft word,Writing,2
+2019-03-07T16:40:00,254,1,microsoft word,Writing,2
+2019-03-07T16:40:00,39,1,kindle,General Reference & Learning,2
+2019-03-07T16:40:00,7,1,en.wikipedia.org,General Reference & Learning,1
+2019-03-07T16:45:00,237,1,microsoft word,Writing,2
+2019-03-07T16:45:00,43,1,kindle,General Reference & Learning,2
+2019-03-07T16:45:00,20,1,Dictionary,General Reference & Learning,1
+2019-03-07T16:50:00,259,1,microsoft word,Writing,2
+2019-03-07T16:50:00,21,1,nytimes.com,General News & Opinion,-2
+2019-03-07T16:50:00,8,1,wechat,General Social Networking,-2
+2019-03-07T16:50:00,7,1,en.wikipedia.org,General Reference & Learning,1
+2019-03-07T16:50:00,5,1,kindle,General Reference & Learning,2
+2019-03-07T16:55:00,253,1,microsoft word,Writing,2
+2019-03-07T16:55:00,21,1,Finder,General Utilities,0
+2019-03-07T16:55:00,17,1,en.wikipedia.org,General Reference & Learning,1
+2019-03-07T16:55:00,7,1,Preview,General Reference & Learning,2
+2019-03-07T16:55:00,1,1,kindle,General Reference & Learning,2
+2019-03-07T16:55:00,1,1,nytimes.com,General News & Opinion,-2
+2019-03-07T17:00:00,245,1,microsoft word,Writing,2
+2019-03-07T17:00:00,38,1,kindle,General Reference & Learning,2
+2019-03-07T17:00:00,11,1,Finder,General Utilities,0
+2019-03-07T17:00:00,5,1,Preview,General Reference & Learning,2
+2019-03-07T17:00:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2019-03-07T17:05:00,187,1,microsoft word,Writing,2
+2019-03-07T17:05:00,87,1,Preview,General Reference & Learning,2
+2019-03-07T17:05:00,13,1,Finder,General Utilities,0
+2019-03-07T17:05:00,10,1,kindle,General Reference & Learning,2
+2019-03-07T17:05:00,3,1,Dictionary,General Reference & Learning,1
+2019-03-07T17:10:00,294,1,microsoft word,Writing,2
+2019-03-07T17:10:00,6,1,Dictionary,General Reference & Learning,1
+2019-03-07T17:15:00,283,1,microsoft word,Writing,2
+2019-03-07T17:15:00,16,1,kindle,General Reference & Learning,2
+2019-03-07T17:20:00,274,1,microsoft word,Writing,2
+2019-03-07T17:20:00,24,1,Dictionary,General Reference & Learning,1
+2019-03-07T17:20:00,2,1,todoist,Project Management,2
+2019-03-07T17:25:00,229,1,microsoft word,Writing,2
+2019-03-07T17:25:00,58,1,kindle,General Reference & Learning,2
+2019-03-07T17:25:00,10,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T17:25:00,2,1,messenger.com,General Social Networking,-2
+2019-03-07T17:25:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2019-03-07T17:30:00,262,1,microsoft word,Writing,2
+2019-03-07T17:30:00,38,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T17:35:00,253,1,microsoft word,Writing,2
+2019-03-07T17:35:00,20,1,wechat,General Social Networking,-2
+2019-03-07T17:35:00,12,1,forbes.com,General News & Opinion,-2
+2019-03-07T17:35:00,5,1,kindle,General Reference & Learning,2
+2019-03-07T17:35:00,5,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T17:35:00,3,1,goodreads.com,General Social Networking,-2
+2019-03-07T17:35:00,2,1,washingtonpost.com,General News & Opinion,-2
+2019-03-07T17:40:00,215,1,microsoft word,Writing,2
+2019-03-07T17:40:00,82,1,kindle,General Reference & Learning,2
+2019-03-07T17:40:00,2,1,nytimes.com,General News & Opinion,-2
+2019-03-07T17:40:00,1,1,Preview,General Reference & Learning,2
+2019-03-07T17:45:00,151,1,microsoft word,Writing,2
+2019-03-07T17:45:00,141,1,kindle,General Reference & Learning,2
+2019-03-07T17:45:00,8,1,nytimes.com,General News & Opinion,-2
+2019-03-07T17:50:00,150,1,microsoft word,Writing,2
+2019-03-07T17:50:00,134,1,kindle,General Reference & Learning,2
+2019-03-07T17:50:00,14,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T17:50:00,2,1,goodreads.com,General Social Networking,-2
+2019-03-07T17:55:00,275,1,microsoft word,Writing,2
+2019-03-07T17:55:00,20,1,kindle,General Reference & Learning,2
+2019-03-07T17:55:00,5,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T18:00:00,283,1,microsoft word,Writing,2
+2019-03-07T18:00:00,13,1,wechat,General Social Networking,-2
+2019-03-07T18:00:00,3,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T18:05:00,148,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T18:05:00,104,1,microsoft word,Writing,2
+2019-03-07T18:05:00,27,1,wechat,General Social Networking,-2
+2019-03-07T18:05:00,19,1,kindle,General Reference & Learning,2
+2019-03-07T18:05:00,2,1,Preview,General Reference & Learning,2
+2019-03-07T18:10:00,229,1,microsoft word,Writing,2
+2019-03-07T18:10:00,63,1,kindle,General Reference & Learning,2
+2019-03-07T18:10:00,5,1,messenger.com,General Social Networking,-2
+2019-03-07T18:10:00,2,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T18:10:00,1,1,Preview,General Reference & Learning,2
+2019-03-07T18:15:00,287,1,microsoft word,Writing,2
+2019-03-07T18:15:00,12,1,nytimes.com,General News & Opinion,-2
+2019-03-07T18:15:00,1,1,messenger.com,General Social Networking,-2
+2019-03-07T18:20:00,158,1,9to5mac.com,General News & Opinion,-2
+2019-03-07T18:20:00,95,1,microsoft word,Writing,2
+2019-03-07T18:20:00,34,1,kindle,General Reference & Learning,2
+2019-03-07T18:20:00,11,1,washingtonpost.com,General News & Opinion,-2
+2019-03-07T18:20:00,2,1,nytimes.com,General News & Opinion,-2
+2019-03-07T18:25:00,221,1,microsoft word,Writing,2
+2019-03-07T18:25:00,36,1,9to5mac.com,General News & Opinion,-2
+2019-03-07T18:25:00,23,1,messenger.com,General Social Networking,-2
+2019-03-07T18:25:00,11,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T18:25:00,9,1,google.com,Search,2
+2019-03-07T18:30:00,203,1,microsoft word,Writing,2
+2019-03-07T18:30:00,57,1,youtube.com,Video,-2
+2019-03-07T18:30:00,17,1,Mail,Email,2
+2019-03-07T18:30:00,14,1,google.com,Search,2
+2019-03-07T18:30:00,5,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T18:30:00,2,1,goodreads.com,General Social Networking,-2
+2019-03-07T18:30:00,1,1,newtab,Browsers,0
+2019-03-07T18:35:00,153,1,google.com,Search,2
+2019-03-07T18:35:00,104,1,messenger.com,General Social Networking,-2
+2019-03-07T18:35:00,21,1,en.m.wikipedia.org,General Entertainment,-2
+2019-03-07T18:35:00,17,1,microsoft word,Writing,2
+2019-03-07T18:35:00,5,1,Mail,Email,2
+2019-03-07T18:40:00,236,1,microsoft word,Writing,2
+2019-03-07T18:40:00,42,1,youtube.com,Video,-2
+2019-03-07T18:40:00,13,1,forbes.com,General News & Opinion,-2
+2019-03-07T18:40:00,9,1,theguardian.com,General News & Opinion,-2
+2019-03-07T18:45:00,171,1,youtube.com,Video,-2
+2019-03-07T18:45:00,129,1,microsoft word,Writing,2
+2019-03-07T18:50:00,258,1,microsoft word,Writing,2
+2019-03-07T18:50:00,2,1,youtube.com,Video,-2
+2019-03-07T18:50:00,1,1,loginwindow,General Utilities,0
+2019-03-07T20:15:00,112,1,messenger.com,General Social Networking,-2
+2019-03-07T20:15:00,100,1,mit.edu,Presentation,2
+2019-03-07T20:15:00,38,1,Mail,Email,2
+2019-03-07T20:15:00,19,1,youtube.com,Video,-2
+2019-03-07T20:15:00,6,1,Finder,General Utilities,0
+2019-03-07T20:15:00,4,1,loginwindow,General Utilities,0
+2019-03-07T20:15:00,4,1,microsoft word,Writing,2
+2019-03-07T20:15:00,2,1,theguardian.com,General News & Opinion,-2
+2019-03-07T20:15:00,1,1,goodreads.com,General Social Networking,-2
+2019-03-07T20:15:00,1,1,wechat,General Social Networking,-2
+2019-03-07T20:15:00,1,1,forbes.com,General News & Opinion,-2
+2019-03-07T20:15:00,1,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T20:20:00,295,1,mit.edu,Presentation,2
+2019-03-07T20:20:00,5,1,messenger.com,General Social Networking,-2
+2019-03-07T20:25:00,294,1,mit.edu,Presentation,2
+2019-03-07T20:25:00,5,1,microsoft word,Writing,2
+2019-03-07T20:25:00,1,1,wechat,General Social Networking,-2
+2019-03-07T20:30:00,133,1,mit.edu,Presentation,2
+2019-03-07T20:30:00,106,1,Google Documents,Writing,2
+2019-03-07T20:30:00,58,1,drive.google.com,General Business,2
+2019-03-07T20:30:00,2,1,newtab,Browsers,0
+2019-03-07T20:35:00,295,1,Google Documents,Writing,2
+2019-03-07T20:35:00,5,1,mit.edu,Presentation,2
+2019-03-07T20:40:00,300,1,Google Documents,Writing,2
+2019-03-07T20:45:00,300,1,Google Documents,Writing,2
+2019-03-07T20:50:00,300,1,Google Documents,Writing,2
+2019-03-07T20:55:00,249,1,Google Documents,Writing,2
+2019-03-07T20:55:00,51,1,mit.edu,Presentation,2
+2019-03-07T21:00:00,219,1,Google Documents,Writing,2
+2019-03-07T21:00:00,81,1,mit.edu,Presentation,2
+2019-03-07T21:05:00,253,1,Google Documents,Writing,2
+2019-03-07T21:05:00,47,1,mit.edu,Presentation,2
+2019-03-07T21:10:00,227,1,Google Documents,Writing,2
+2019-03-07T21:10:00,73,1,mit.edu,Presentation,2
+2019-03-07T21:15:00,300,1,mit.edu,Presentation,2
+2019-03-07T21:20:00,241,1,mit.edu,Presentation,2
+2019-03-07T21:20:00,59,1,Google Documents,Writing,2
+2019-03-07T21:25:00,149,1,Google Documents,Writing,2
+2019-03-07T21:25:00,120,1,messenger.com,General Social Networking,-2
+2019-03-07T21:25:00,31,1,mit.edu,Presentation,2
+2019-03-07T21:30:00,95,1,mit.edu,Presentation,2
+2019-03-07T21:30:00,92,1,Google Documents,Writing,2
+2019-03-07T21:30:00,78,1,youtube.com,Video,-2
+2019-03-07T21:30:00,34,1,Finder,General Utilities,0
+2019-03-07T21:30:00,1,1,newtab,Browsers,0
+2019-03-07T21:35:00,284,1,messenger.com,General Social Networking,-2
+2019-03-07T21:35:00,15,1,youtube.com,Video,-2
+2019-03-07T21:35:00,1,1,mit.edu,Presentation,2
+2019-03-07T21:40:00,256,1,mit.edu,Presentation,2
+2019-03-07T21:40:00,22,1,wechat,General Social Networking,-2
+2019-03-07T21:40:00,21,1,messenger.com,General Social Networking,-2
+2019-03-07T21:40:00,1,1,microsoft word,Writing,2
+2019-03-07T21:45:00,265,1,map.baidu.com,Maps & Regional,-2
+2019-03-07T21:45:00,16,1,en.wikipedia.org,General Reference & Learning,1
+2019-03-07T21:45:00,8,1,courses.csail.mit.edu,General Reference & Learning,1
+2019-03-07T21:45:00,5,1,newtab,Browsers,0
+2019-03-07T21:45:00,4,1,google.com,Search,2
+2019-03-07T21:45:00,2,1,mit.edu,Presentation,2
+2019-03-07T21:50:00,82,1,google.com,Search,2
+2019-03-07T21:50:00,72,1,syfls.net,Uncategorized,0
+2019-03-07T21:50:00,69,1,messenger.com,General Social Networking,-2
+2019-03-07T21:50:00,41,1,map.baidu.com,Maps & Regional,-2
+2019-03-07T21:50:00,28,1,en.wikipedia.org,General Reference & Learning,1
+2019-03-07T21:50:00,7,1,newtab,Browsers,0
+2019-03-07T21:55:00,100,1,youtube.com,Video,-2
+2019-03-07T21:55:00,95,1,isb.bj.edu.cn,General Reference & Learning,1
+2019-03-07T21:55:00,39,1,sfs.learning.powerschool.com,Uncategorized,0
+2019-03-07T21:55:00,35,1,messenger.com,General Social Networking,-2
+2019-03-07T21:55:00,30,1,google.com,Search,2
+2019-03-07T22:00:00,70,1,youtube.com,Video,-2
+2019-03-07T22:00:00,23,1,en.wikipedia.org,General Reference & Learning,1
+2019-03-07T22:00:00,16,1,messenger.com,General Social Networking,-2
+2019-03-07T22:00:00,4,1,wechat,General Social Networking,-2
+2019-03-07T22:00:00,1,1,loginwindow,General Utilities,0
+2019-03-07T22:20:00,13,1,messenger.com,General Social Networking,-2
+2019-03-07T22:20:00,1,1,loginwindow,General Utilities,0
+2019-03-07T22:25:00,259,1,messenger.com,General Social Networking,-2
+2019-03-07T22:30:00,77,1,Mail,Email,2
+2019-03-07T22:30:00,4,1,Finder,General Utilities,0
+2019-03-07T22:30:00,2,1,messenger.com,General Social Networking,-2
+2019-03-07T22:50:00,22,1,microsoft word,Writing,2
+2019-03-07T22:50:00,6,1,Mail,Email,2
+2019-03-07T22:55:00,127,1,microsoft word,Writing,2
+2019-03-07T22:55:00,55,1,theguardian.com,General News & Opinion,-2
+2019-03-07T22:55:00,53,1,Dictionary,General Reference & Learning,1
+2019-03-07T22:55:00,36,1,google.com,Search,2
+2019-03-07T22:55:00,14,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T22:55:00,5,1,forbes.com,General News & Opinion,-2
+2019-03-07T22:55:00,4,1,messenger.com,General Social Networking,-2
+2019-03-07T22:55:00,3,1,washingtonpost.com,General News & Opinion,-2
+2019-03-07T22:55:00,2,1,Google Documents,Writing,2
+2019-03-07T22:55:00,1,1,sublime text,Editing & IDEs,2
+2019-03-07T23:00:00,216,1,microsoft word,Writing,2
+2019-03-07T23:00:00,37,1,forbes.com,General News & Opinion,-2
+2019-03-07T23:00:00,25,1,kindle,General Reference & Learning,2
+2019-03-07T23:00:00,19,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T23:00:00,2,1,theguardian.com,General News & Opinion,-2
+2019-03-07T23:00:00,1,1,washingtonpost.com,General News & Opinion,-2
+2019-03-07T23:05:00,300,1,microsoft word,Writing,2
+2019-03-07T23:10:00,300,1,microsoft word,Writing,2
+2019-03-07T23:15:00,278,1,microsoft word,Writing,2
+2019-03-07T23:15:00,11,1,kindle,General Reference & Learning,2
+2019-03-07T23:15:00,11,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T23:20:00,299,1,microsoft word,Writing,2
+2019-03-07T23:20:00,1,1,kindle,General Reference & Learning,2
+2019-03-07T23:25:00,292,1,microsoft word,Writing,2
+2019-03-07T23:25:00,4,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T23:25:00,4,1,Dictionary,General Reference & Learning,1
+2019-03-07T23:30:00,250,1,microsoft word,Writing,2
+2019-03-07T23:30:00,35,1,nytimes.com,General News & Opinion,-2
+2019-03-07T23:30:00,11,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T23:30:00,2,1,forbes.com,General News & Opinion,-2
+2019-03-07T23:30:00,1,1,theguardian.com,General News & Opinion,-2
+2019-03-07T23:30:00,1,1,washingtonpost.com,General News & Opinion,-2
+2019-03-07T23:35:00,243,1,microsoft word,Writing,2
+2019-03-07T23:35:00,24,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T23:35:00,11,1,forbes.com,General News & Opinion,-2
+2019-03-07T23:35:00,5,1,theguardian.com,General News & Opinion,-2
+2019-03-07T23:35:00,5,1,google.com,Search,2
+2019-03-07T23:35:00,4,1,nytimes.com,General News & Opinion,-2
+2019-03-07T23:35:00,4,1,kindle,General Reference & Learning,2
+2019-03-07T23:35:00,2,1,washingtonpost.com,General News & Opinion,-2
+2019-03-07T23:35:00,1,1,youtube.com,Video,-2
+2019-03-07T23:35:00,1,1,Mail,Email,2
+2019-03-07T23:40:00,102,1,Mail,Email,2
+2019-03-07T23:40:00,57,1,messenger.com,General Social Networking,-2
+2019-03-07T23:40:00,40,1,microsoft word,Writing,2
+2019-03-07T23:40:00,33,1,Google Forms,General Business,2
+2019-03-07T23:40:00,31,1,learning-modules.mit.edu,General Reference & Learning,1
+2019-03-07T23:40:00,12,1,web.mit.edu,General Reference & Learning,2
+2019-03-07T23:40:00,10,1,drive.google.com,General Business,2
+2019-03-07T23:40:00,4,1,nytimes.com,General News & Opinion,-2
+2019-03-07T23:40:00,3,1,newstatesman.com,General News & Opinion,-2
+2019-03-07T23:40:00,2,1,forbes.com,General News & Opinion,-2
+2019-03-07T23:40:00,2,1,theguardian.com,General News & Opinion,-2
+2019-03-07T23:40:00,1,1,washingtonpost.com,General News & Opinion,-2
+2019-03-07T23:45:00,93,1,learning-modules.mit.edu,General Reference & Learning,1
+2019-03-07T23:45:00,36,1,facebook.com,General Social Networking,-2
+2019-03-07T23:45:00,12,1,messenger.com,General Social Networking,-2
+2019-03-07T23:45:00,11,1,microsoft word,Writing,2
+2019-03-07T23:45:00,5,1,idp.mit.edu,General Reference & Learning,1
+2019-03-07T23:45:00,2,1,Google Forms,General Business,2
+2019-03-07T23:45:00,2,1,theguardian.com,General News & Opinion,-2
+2019-03-07T23:45:00,1,1,loginwindow,General Utilities,0
+2019-03-07T23:50:00,22,1,messenger.com,General Social Networking,-2
+2019-03-07T23:50:00,4,1,microsoft word,Writing,2
+2019-03-07T23:50:00,1,1,Mail,Email,2
+2019-03-07T23:50:00,1,1,loginwindow,General Utilities,0

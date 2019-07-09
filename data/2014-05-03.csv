@@ -1,0 +1,221 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2014-05-03T00:00:00,133,1,Skype,General Social Networking,-2
+2014-05-03T10:10:00,144,1,mail.deerfield.edu,General Reference & Learning,1
+2014-05-03T10:10:00,52,1,Safari,Browsers,2
+2014-05-03T10:10:00,43,1,Xcode,Editing & IDEs,2
+2014-05-03T10:10:00,18,1,System Preferences,General Utilities,0
+2014-05-03T10:15:00,186,1,korn19.ch,Uncategorized,0
+2014-05-03T10:15:00,76,1,Xcode,Editing & IDEs,2
+2014-05-03T10:15:00,35,1,Safari,Browsers,2
+2014-05-03T10:15:00,3,1,ios simulator,General Software Development,2
+2014-05-03T10:20:00,155,1,Xcode,Editing & IDEs,2
+2014-05-03T10:20:00,86,1,korn19.ch,Uncategorized,0
+2014-05-03T10:20:00,45,1,developer.apple.com,Engineering & Technology,1
+2014-05-03T10:20:00,13,1,Safari,Browsers,2
+2014-05-03T10:20:00,1,1,ios simulator,General Software Development,2
+2014-05-03T10:25:00,108,1,developer.apple.com,Engineering & Technology,1
+2014-05-03T10:25:00,93,1,Xcode,Editing & IDEs,2
+2014-05-03T10:25:00,85,1,Safari,Browsers,2
+2014-05-03T10:25:00,11,1,Dropbox,File Sharing,-2
+2014-05-03T10:25:00,2,1,ios simulator,General Software Development,2
+2014-05-03T10:25:00,1,1,Skype,General Social Networking,-2
+2014-05-03T10:30:00,170,1,app store,General Shopping,-2
+2014-05-03T10:30:00,70,1,Xcode,Editing & IDEs,2
+2014-05-03T10:30:00,34,1,developer.apple.com,Engineering & Technology,1
+2014-05-03T10:30:00,19,1,stackoverflow.com,General Software Development,2
+2014-05-03T10:30:00,4,1,alfred,General Utilities,2
+2014-05-03T10:30:00,3,1,ios simulator,General Software Development,2
+2014-05-03T10:35:00,199,1,Xcode,Editing & IDEs,2
+2014-05-03T10:35:00,101,1,itunes.apple.com,General Shopping,-2
+2014-05-03T10:40:00,140,1,developer.apple.com,Engineering & Technology,1
+2014-05-03T10:40:00,52,1,Mail,Email,2
+2014-05-03T10:40:00,48,1,itunes.apple.com,General Shopping,-2
+2014-05-03T10:40:00,43,1,iTunes,Music,0
+2014-05-03T10:40:00,10,1,Xcode,Editing & IDEs,2
+2014-05-03T10:40:00,4,1,Skype,General Social Networking,-2
+2014-05-03T10:40:00,2,1,app store,General Shopping,-2
+2014-05-03T10:45:00,191,1,developer.apple.com,Engineering & Technology,1
+2014-05-03T11:20:00,128,1,Xcode,Editing & IDEs,2
+2014-05-03T11:20:00,33,1,ios simulator,General Software Development,2
+2014-05-03T11:20:00,21,1,discussions.apple.com,Science & Technology,-1
+2014-05-03T11:20:00,4,1,iTunes,Music,0
+2014-05-03T11:20:00,1,1,Dropbox,File Sharing,-2
+2014-05-03T11:25:00,142,1,systemuiserver,General Utilities,1
+2014-05-03T11:25:00,128,1,app store,General Shopping,-2
+2014-05-03T11:25:00,22,1,applications,General Business,2
+2014-05-03T11:25:00,8,1,discussions.apple.com,Science & Technology,-1
+2014-05-03T11:30:00,73,1,systemuiserver,General Utilities,1
+2014-05-03T11:30:00,64,1,System Preferences,General Utilities,0
+2014-05-03T11:30:00,63,1,Xcode,Editing & IDEs,2
+2014-05-03T11:30:00,57,1,applications,General Business,2
+2014-05-03T11:30:00,19,1,Safari,Browsers,2
+2014-05-03T11:30:00,17,1,Mail,Email,2
+2014-05-03T11:30:00,6,1,developer.apple.com,Engineering & Technology,1
+2014-05-03T11:30:00,1,1,Finder,General Utilities,0
+2014-05-03T11:35:00,147,1,Xcode,Editing & IDEs,2
+2014-05-03T11:35:00,85,1,Mail,Email,2
+2014-05-03T11:35:00,55,1,developer.apple.com,Engineering & Technology,1
+2014-05-03T11:35:00,11,1,innerfence.com,General Software Development,2
+2014-05-03T11:35:00,2,1,isbeijingasianstudies.wikispaces.com,Intelligence,2
+2014-05-03T11:40:00,294,1,Xcode,Editing & IDEs,2
+2014-05-03T11:40:00,4,1,isbeijingasianstudies.wikispaces.com,Intelligence,2
+2014-05-03T11:40:00,1,1,app store,General Shopping,-2
+2014-05-03T11:40:00,1,1,alfred,General Utilities,2
+2014-05-03T11:45:00,168,1,Xcode,Editing & IDEs,2
+2014-05-03T11:45:00,74,1,isbeijingasianstudies.wikispaces.com,Intelligence,2
+2014-05-03T11:45:00,55,1,keychain access,Systems Operations,2
+2014-05-03T11:45:00,2,1,developer.apple.com,Engineering & Technology,1
+2014-05-03T11:45:00,1,1,alfred,General Utilities,2
+2014-05-03T11:50:00,251,1,Xcode,Editing & IDEs,2
+2014-05-03T11:50:00,25,1,Mail,Email,2
+2014-05-03T11:50:00,17,1,ios simulator,General Software Development,2
+2014-05-03T11:50:00,3,1,Finder,General Utilities,0
+2014-05-03T11:50:00,3,1,developer.apple.com,Engineering & Technology,1
+2014-05-03T11:50:00,1,1,keychain access,Systems Operations,2
+2014-05-03T11:55:00,256,1,Xcode,Editing & IDEs,2
+2014-05-03T11:55:00,36,1,developer.apple.com,Engineering & Technology,1
+2014-05-03T11:55:00,5,1,Mail,Email,2
+2014-05-03T11:55:00,3,1,SecurityAgent,Systems Operations,0
+2014-05-03T12:00:00,186,1,Xcode,Editing & IDEs,2
+2014-05-03T12:00:00,44,1,developer.apple.com,Engineering & Technology,1
+2014-05-03T12:00:00,38,1,isbeijingasianstudies.wikispaces.com,Intelligence,2
+2014-05-03T12:00:00,26,1,korn19.ch,Uncategorized,0
+2014-05-03T12:00:00,4,1,ios simulator,General Software Development,2
+2014-05-03T12:00:00,2,1,SecurityAgent,Systems Operations,0
+2014-05-03T12:05:00,167,1,Xcode,Editing & IDEs,2
+2014-05-03T12:05:00,132,1,korn19.ch,Uncategorized,0
+2014-05-03T12:05:00,1,1,ios simulator,General Software Development,2
+2014-05-03T12:10:00,177,1,Xcode,Editing & IDEs,2
+2014-05-03T12:10:00,81,1,devfright.com,Uncategorized,0
+2014-05-03T12:10:00,40,1,korn19.ch,Uncategorized,0
+2014-05-03T12:10:00,2,1,ios simulator,General Software Development,2
+2014-05-03T12:15:00,195,1,Xcode,Editing & IDEs,2
+2014-05-03T12:15:00,64,1,stackoverflow.com,General Software Development,2
+2014-05-03T12:15:00,41,1,devfright.com,Uncategorized,0
+2014-05-03T12:20:00,272,1,Xcode,Editing & IDEs,2
+2014-05-03T12:20:00,28,1,ios simulator,General Software Development,2
+2014-05-03T12:25:00,96,1,ios simulator,General Software Development,2
+2014-05-03T12:25:00,94,1,Xcode,Editing & IDEs,2
+2014-05-03T12:25:00,81,1,stackoverflow.com,General Software Development,2
+2014-05-03T12:25:00,28,1,devfright.com,Uncategorized,0
+2014-05-03T12:30:00,278,1,Xcode,Editing & IDEs,2
+2014-05-03T12:30:00,9,1,ios simulator,General Software Development,2
+2014-05-03T12:30:00,8,1,korn19.ch,Uncategorized,0
+2014-05-03T12:30:00,5,1,devfright.com,Uncategorized,0
+2014-05-03T12:35:00,293,1,Xcode,Editing & IDEs,2
+2014-05-03T12:35:00,7,1,korn19.ch,Uncategorized,0
+2014-05-03T12:40:00,300,1,Xcode,Editing & IDEs,2
+2014-05-03T12:45:00,300,1,Xcode,Editing & IDEs,2
+2014-05-03T12:50:00,167,1,Xcode,Editing & IDEs,2
+2014-05-03T12:50:00,112,1,korn19.ch,Uncategorized,0
+2014-05-03T12:50:00,17,1,stackoverflow.com,General Software Development,2
+2014-05-03T12:50:00,4,1,ios simulator,General Software Development,2
+2014-05-03T12:55:00,168,1,korn19.ch,Uncategorized,0
+2014-05-03T12:55:00,122,1,Xcode,Editing & IDEs,2
+2014-05-03T12:55:00,8,1,stackoverflow.com,General Software Development,2
+2014-05-03T12:55:00,2,1,ios simulator,General Software Development,2
+2014-05-03T13:00:00,147,1,tutorialspoint.com,General Reference & Learning,1
+2014-05-03T13:00:00,74,1,Xcode,Editing & IDEs,2
+2014-05-03T13:00:00,29,1,eclipse,Editing & IDEs,2
+2014-05-03T13:00:00,28,1,Finder,General Utilities,0
+2014-05-03T13:00:00,14,1,alfred,General Utilities,2
+2014-05-03T13:00:00,6,1,stackoverflow.com,General Software Development,2
+2014-05-03T13:00:00,1,1,ios simulator,General Software Development,2
+2014-05-03T13:00:00,1,1,jar launcher,General Software Development,2
+2014-05-03T13:05:00,240,1,Xcode,Editing & IDEs,2
+2014-05-03T13:05:00,39,1,developer.apple.com,Engineering & Technology,1
+2014-05-03T13:05:00,12,1,stackoverflow.com,General Software Development,2
+2014-05-03T13:05:00,6,1,eclipse,Editing & IDEs,2
+2014-05-03T13:05:00,2,1,ios simulator,General Software Development,2
+2014-05-03T13:10:00,189,1,stackoverflow.com,General Software Development,2
+2014-05-03T13:10:00,111,1,Xcode,Editing & IDEs,2
+2014-05-03T13:15:00,174,1,Xcode,Editing & IDEs,2
+2014-05-03T13:15:00,124,1,stackoverflow.com,General Software Development,2
+2014-05-03T13:15:00,2,1,ios simulator,General Software Development,2
+2014-05-03T13:20:00,182,1,Xcode,Editing & IDEs,2
+2014-05-03T13:20:00,118,1,stackoverflow.com,General Software Development,2
+2014-05-03T13:25:00,300,1,Xcode,Editing & IDEs,2
+2014-05-03T13:30:00,195,1,Xcode,Editing & IDEs,2
+2014-05-03T13:30:00,79,1,google.com.hk,Search,2
+2014-05-03T13:30:00,25,1,stackoverflow.com,General Software Development,2
+2014-05-03T13:30:00,1,1,Skype,General Social Networking,-2
+2014-05-03T13:35:00,224,1,Xcode,Editing & IDEs,2
+2014-05-03T20:55:00,111,1,Skype,General Social Networking,-2
+2014-05-03T20:55:00,48,1,System Preferences,General Utilities,0
+2014-05-03T20:55:00,28,1,Mail,Email,2
+2014-05-03T20:55:00,7,1,devfright.com,Uncategorized,0
+2014-05-03T20:55:00,1,1,google.com.hk,Search,2
+2014-05-03T21:00:00,267,1,Skype,General Social Networking,-2
+2014-05-03T21:00:00,33,1,Finder,General Utilities,0
+2014-05-03T21:05:00,300,1,Skype,General Social Networking,-2
+2014-05-03T21:05:00,83,1,blogs.isb.bj.edu.cn,General Reference & Learning,2
+2014-05-03T21:10:00,300,1,Skype,General Social Networking,-2
+2014-05-03T21:10:00,295,1,blogs.isb.bj.edu.cn,General Reference & Learning,2
+2014-05-03T21:10:00,5,1,usernotificationcenter,General Utilities,0
+2014-05-03T21:15:00,257,1,Skype,General Social Networking,-2
+2014-05-03T21:15:00,156,1,blogs.isb.bj.edu.cn,General Reference & Learning,2
+2014-05-03T21:15:00,9,1,Mail,Email,2
+2014-05-03T21:15:00,4,1,Xcode,Editing & IDEs,2
+2014-05-03T21:15:00,4,1,google.com.hk,Search,2
+2014-05-03T21:15:00,3,1,g.isb.bj.edu.cn,General Reference & Learning,1
+2014-05-03T21:15:00,3,1,Preview,General Reference & Learning,2
+2014-05-03T21:15:00,2,1,microsoft word,Writing,2
+2014-05-03T21:25:00,118,1,blogs.isb.bj.edu.cn,General Reference & Learning,2
+2014-05-03T21:25:00,17,1,Mail,Email,2
+2014-05-03T21:25:00,4,1,usernotificationcenter,General Utilities,0
+2014-05-03T21:30:00,288,1,final cut pro,Video Editing,2
+2014-05-03T21:30:00,12,1,usernotificationcenter,General Utilities,0
+2014-05-03T21:35:00,300,1,final cut pro,Video Editing,2
+2014-05-03T21:40:00,300,1,final cut pro,Video Editing,2
+2014-05-03T21:45:00,279,1,final cut pro,Video Editing,2
+2014-05-03T21:45:00,21,1,Finder,General Utilities,0
+2014-05-03T21:50:00,300,1,final cut pro,Video Editing,2
+2014-05-03T21:55:00,195,1,final cut pro,Video Editing,2
+2014-05-03T21:55:00,105,1,Skype,General Social Networking,-2
+2014-05-03T22:00:00,239,1,final cut pro,Video Editing,2
+2014-05-03T22:00:00,52,1,Skype,General Social Networking,-2
+2014-05-03T22:00:00,9,1,Finder,General Utilities,0
+2014-05-03T22:05:00,182,1,app store,General Shopping,-2
+2014-05-03T22:05:00,23,1,google.com.hk,Search,2
+2014-05-03T22:05:00,17,1,Finder,General Utilities,0
+2014-05-03T22:05:00,9,1,Mail,Email,2
+2014-05-03T22:05:00,1,1,keychain access,Systems Operations,2
+2014-05-03T22:30:00,38,1,Skype,General Social Networking,-2
+2014-05-03T22:30:00,6,1,google.com.hk,Search,2
+2014-05-03T22:30:00,3,1,Mail,Email,2
+2014-05-03T22:40:00,126,1,deerfield.edu,General Reference & Learning,1
+2014-05-03T22:40:00,2,1,RescueTime,Intelligence,0
+2014-05-03T22:40:00,2,1,app store,General Shopping,-2
+2014-05-03T22:40:00,1,1,System Preferences,General Utilities,0
+2014-05-03T22:45:00,184,1,deerfield.edu,General Reference & Learning,1
+2014-05-03T22:45:00,8,1,stuffit destinations,General Business,2
+2014-05-03T22:50:00,22,1,final cut pro,Video Editing,2
+2014-05-03T22:55:00,300,1,final cut pro,Video Editing,2
+2014-05-03T23:00:00,300,1,final cut pro,Video Editing,2
+2014-05-03T23:05:00,299,1,final cut pro,Video Editing,2
+2014-05-03T23:05:00,1,1,app store,General Shopping,-2
+2014-05-03T23:10:00,175,1,final cut pro,Video Editing,2
+2014-05-03T23:10:00,113,1,deerfield.edu,General Reference & Learning,1
+2014-05-03T23:10:00,12,1,Skype,General Social Networking,-2
+2014-05-03T23:15:00,236,1,deerfield.edu,General Reference & Learning,1
+2014-05-03T23:15:00,48,1,Skype,General Social Networking,-2
+2014-05-03T23:15:00,14,1,Mail,Email,2
+2014-05-03T23:15:00,2,1,final cut pro,Video Editing,2
+2014-05-03T23:20:00,240,1,deerfield.edu,General Reference & Learning,1
+2014-05-03T23:20:00,31,1,quicktime player,General Entertainment,-1
+2014-05-03T23:20:00,29,1,final cut pro,Video Editing,2
+2014-05-03T23:25:00,270,1,deerfield.edu,General Reference & Learning,1
+2014-05-03T23:25:00,197,1,screensaverengine,General Utilities,0
+2014-05-03T23:25:00,19,1,Skype,General Social Networking,-2
+2014-05-03T23:25:00,11,1,Finder,General Utilities,0
+2014-05-03T23:30:00,300,1,screensaverengine,General Utilities,0
+2014-05-03T23:30:00,199,1,deerfield.edu,General Reference & Learning,1
+2014-05-03T23:30:00,101,1,Mail,Email,2
+2014-05-03T23:35:00,253,1,screensaverengine,General Utilities,0
+2014-05-03T23:35:00,251,1,deerfield.edu,General Reference & Learning,1
+2014-05-03T23:35:00,25,1,Finder,General Utilities,0
+2014-05-03T23:35:00,24,1,Skype,General Social Networking,-2
+2014-05-03T23:35:00,1,1,microsoft word,Writing,2
+2014-05-03T23:40:00,282,1,Skype,General Social Networking,-2
+2014-05-03T23:40:00,18,1,Finder,General Utilities,0
+2014-05-03T23:45:00,296,1,Skype,General Social Networking,-2

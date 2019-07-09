@@ -1,0 +1,284 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2019-01-25T00:00:00,222,1,youtube.com,Video,-2
+2019-01-25T00:00:00,52,1,Google Spreadsheets,General Business,2
+2019-01-25T00:00:00,24,1,thebeijinger.com,General News & Opinion,-2
+2019-01-25T00:00:00,2,1,google.com,Search,2
+2019-01-25T00:05:00,184,1,wechat,General Social Networking,-2
+2019-01-25T00:05:00,115,1,youtube.com,Video,-2
+2019-01-25T00:10:00,197,1,youtube.com,Video,-2
+2019-01-25T00:10:00,103,1,wechat,General Social Networking,-2
+2019-01-25T00:15:00,270,1,wechat,General Social Networking,-2
+2019-01-25T00:15:00,30,1,youtube.com,Video,-2
+2019-01-25T00:20:00,39,1,wechat,General Social Networking,-2
+2019-01-25T00:20:00,1,1,loginwindow,General Utilities,0
+2019-01-25T10:05:00,145,1,secure.bankofamerica.com,Accounting,2
+2019-01-25T10:05:00,60,1,Google Spreadsheets,General Business,2
+2019-01-25T10:05:00,49,1,thisisinsider.com,Uncategorized,0
+2019-01-25T10:05:00,6,1,managerewardsonline.com,Uncategorized,0
+2019-01-25T10:05:00,5,1,bankofamerica.com,General Business,2
+2019-01-25T10:05:00,2,1,managerewardsonline.bankofamerica.com,Accounting,2
+2019-01-25T10:05:00,2,1,police.mit.edu,Presentation,2
+2019-01-25T10:05:00,2,1,redbubble.com,General Shopping,-2
+2019-01-25T10:05:00,1,1,wechat,General Social Networking,-2
+2019-01-25T10:05:00,1,1,youtube.com,Video,-2
+2019-01-25T10:10:00,21,1,managerewardsonline.bankofamerica.com,Accounting,2
+2019-01-25T10:10:00,19,1,secure.bankofamerica.com,Accounting,2
+2019-01-25T10:15:00,63,1,keychain access,Systems Operations,2
+2019-01-25T10:15:00,21,1,secure.bankofamerica.com,Accounting,2
+2019-01-25T10:15:00,3,1,SecurityAgent,Systems Operations,0
+2019-01-25T10:20:00,96,1,secure.bankofamerica.com,Accounting,2
+2019-01-25T10:20:00,79,1,www2.theexplorercard.com,Uncategorized,0
+2019-01-25T10:20:00,49,1,managerewardsonline.bankofamerica.com,Accounting,2
+2019-01-25T10:20:00,19,1,creditcards.com,Intelligence,2
+2019-01-25T10:20:00,7,1,google.com,Search,2
+2019-01-25T10:20:00,7,1,managerewardsonline.com,Uncategorized,0
+2019-01-25T10:20:00,5,1,mitstory.mit.edu,Presentation,2
+2019-01-25T10:20:00,3,1,bankofamerica.com,General Business,2
+2019-01-25T10:20:00,2,1,airbnb.com,Travel & Outdoors,-2
+2019-01-25T10:20:00,1,1,Google Spreadsheets,General Business,2
+2019-01-25T10:20:00,1,1,loginwindow,General Utilities,0
+2019-01-25T10:25:00,148,1,www2.theexplorercard.com,Uncategorized,0
+2019-01-25T10:25:00,44,1,creditcards.com,Intelligence,2
+2019-01-25T10:25:00,26,1,creditcards.chase.com,Accounting,2
+2019-01-25T10:30:00,130,1,secure.bankofamerica.com,Accounting,2
+2019-01-25T10:30:00,76,1,promo.bankofamerica.com,Accounting,2
+2019-01-25T10:30:00,38,1,www2.theexplorercard.com,Uncategorized,0
+2019-01-25T10:30:00,34,1,creditcards.com,Intelligence,2
+2019-01-25T10:30:00,6,1,creditcards.chase.com,Accounting,2
+2019-01-25T10:30:00,6,1,Google Spreadsheets,General Business,2
+2019-01-25T10:30:00,3,1,airbnb.com,Travel & Outdoors,-2
+2019-01-25T10:30:00,2,1,google.com,Search,2
+2019-01-25T10:30:00,1,1,youtube.com,Video,-2
+2019-01-25T10:30:00,1,1,managerewardsonline.bankofamerica.com,Accounting,2
+2019-01-25T10:30:00,1,1,Google Documents,Writing,2
+2019-01-25T10:30:00,1,1,ups.com,General Business,2
+2019-01-25T10:35:00,180,1,secure.bankofamerica.com,Accounting,2
+2019-01-25T10:35:00,53,1,promo.bankofamerica.com,Accounting,2
+2019-01-25T10:35:00,41,1,diffen.com,General Reference & Learning,1
+2019-01-25T10:35:00,9,1,google.com,Search,2
+2019-01-25T10:35:00,5,1,bankofamerica.com,General Business,2
+2019-01-25T10:35:00,5,1,newtab,Browsers,0
+2019-01-25T10:35:00,5,1,Google Spreadsheets,General Business,2
+2019-01-25T10:35:00,2,1,Google Documents,Writing,2
+2019-01-25T10:40:00,70,1,magnifymoney.com,General Reference & Learning,1
+2019-01-25T10:40:00,42,1,promo.bankofamerica.com,Accounting,2
+2019-01-25T10:40:00,20,1,google.com,Search,2
+2019-01-25T10:40:00,12,1,secure.bankofamerica.com,Accounting,2
+2019-01-25T10:40:00,6,1,www2.theexplorercard.com,Uncategorized,0
+2019-01-25T10:40:00,4,1,creditcards.com,Intelligence,2
+2019-01-25T10:40:00,1,1,newtab,Browsers,0
+2019-01-25T10:40:00,1,1,loginwindow,General Utilities,0
+2019-01-25T10:50:00,97,1,messenger.com,General Social Networking,-2
+2019-01-25T10:50:00,60,1,secure.bankofamerica.com,Accounting,2
+2019-01-25T10:50:00,49,1,bettermoneyhabits.bankofamerica.com,General Business,2
+2019-01-25T10:50:00,13,1,google.com,Search,2
+2019-01-25T10:50:00,5,1,creditcards.com,Intelligence,2
+2019-01-25T10:50:00,5,1,police.mit.edu,Presentation,2
+2019-01-25T10:50:00,2,1,Google Documents,Writing,2
+2019-01-25T10:50:00,1,1,promo.bankofamerica.com,Accounting,2
+2019-01-25T10:50:00,1,1,Google Spreadsheets,General Business,2
+2019-01-25T10:55:00,288,1,messenger.com,General Social Networking,-2
+2019-01-25T11:25:00,233,1,Google Spreadsheets,General Business,2
+2019-01-25T11:25:00,14,1,police.mit.edu,Presentation,2
+2019-01-25T11:25:00,1,1,messenger.com,General Social Networking,-2
+2019-01-25T11:30:00,37,1,Google Spreadsheets,General Business,2
+2019-01-25T12:05:00,77,1,Google Spreadsheets,General Business,2
+2019-01-25T12:05:00,2,1,drive.google.com,General Business,2
+2019-01-25T20:15:00,73,1,keychain access,Systems Operations,2
+2019-01-25T20:15:00,54,1,expressvpn,General Utilities,1
+2019-01-25T20:15:00,14,1,SecurityAgent,Systems Operations,0
+2019-01-25T20:15:00,3,1,coreservicesuiagent,General Utilities,0
+2019-01-25T20:20:00,123,1,Google Spreadsheets,General Business,2
+2019-01-25T20:20:00,96,1,Finder,General Utilities,0
+2019-01-25T20:20:00,42,1,drive.google.com,General Business,2
+2019-01-25T20:20:00,15,1,newtab,Browsers,0
+2019-01-25T20:20:00,13,1,keychain access,Systems Operations,2
+2019-01-25T20:20:00,6,1,coreservicesuiagent,General Utilities,0
+2019-01-25T20:20:00,2,1,reportpanic,Uncategorized,0
+2019-01-25T20:25:00,103,1,Google Spreadsheets,General Business,2
+2019-01-25T20:25:00,1,1,loginwindow,General Utilities,0
+2019-01-25T20:55:00,7,1,Google Spreadsheets,General Business,2
+2019-01-25T20:55:00,5,1,newtab,Browsers,0
+2019-01-25T21:00:00,176,1,Google Spreadsheets,General Business,2
+2019-01-25T21:00:00,71,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T21:00:00,14,1,BBC,International,2
+2019-01-25T21:00:00,10,1,newtab,Browsers,0
+2019-01-25T21:00:00,3,1,google.com,Search,2
+2019-01-25T21:00:00,1,1,loginwindow,General Utilities,0
+2019-01-25T21:05:00,226,1,youtube.com,Video,-2
+2019-01-25T21:05:00,3,1,Google Spreadsheets,General Business,2
+2019-01-25T21:05:00,1,1,newtab,Browsers,0
+2019-01-25T21:10:00,87,1,airbnb.com,Travel & Outdoors,-2
+2019-01-25T21:10:00,64,1,youtube.com,Video,-2
+2019-01-25T21:10:00,60,1,Google Spreadsheets,General Business,2
+2019-01-25T21:10:00,41,1,wechat,General Social Networking,-2
+2019-01-25T21:10:00,28,1,messenger.com,General Social Networking,-2
+2019-01-25T21:10:00,7,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T21:10:00,7,1,newtab,Browsers,0
+2019-01-25T21:10:00,6,1,facebook.com,General Social Networking,-2
+2019-01-25T21:15:00,231,1,wechat,General Social Networking,-2
+2019-01-25T21:15:00,42,1,nyu.edu,General Reference & Learning,1
+2019-01-25T21:15:00,19,1,messenger.com,General Social Networking,-2
+2019-01-25T21:15:00,5,1,newtab,Browsers,0
+2019-01-25T21:15:00,3,1,google.com,Search,2
+2019-01-25T21:20:00,113,1,messenger.com,General Social Networking,-2
+2019-01-25T21:20:00,102,1,wechat,General Social Networking,-2
+2019-01-25T21:20:00,81,1,facebook.com,General Social Networking,-2
+2019-01-25T21:20:00,4,1,airbnb.com,Travel & Outdoors,-2
+2019-01-25T21:25:00,72,1,wechat,General Social Networking,-2
+2019-01-25T21:25:00,70,1,facebook.com,General Social Networking,-2
+2019-01-25T21:25:00,63,1,messenger.com,General Social Networking,-2
+2019-01-25T21:25:00,62,1,google.com,Search,2
+2019-01-25T21:25:00,24,1,Mail,Email,2
+2019-01-25T21:25:00,8,1,nyu.edu,General Reference & Learning,1
+2019-01-25T21:25:00,1,1,drive.google.com,General Business,2
+2019-01-25T21:30:00,149,1,facebook.com,General Social Networking,-2
+2019-01-25T21:30:00,132,1,messenger.com,General Social Networking,-2
+2019-01-25T21:30:00,14,1,wechat,General Social Networking,-2
+2019-01-25T21:30:00,3,1,google.com,Search,2
+2019-01-25T21:30:00,2,1,airbnb.com,Travel & Outdoors,-2
+2019-01-25T21:35:00,115,1,Mail,Email,2
+2019-01-25T21:35:00,86,1,na3.docusign.net,General Business,2
+2019-01-25T21:35:00,49,1,messenger.com,General Social Networking,-2
+2019-01-25T21:35:00,22,1,airbnb.com,Travel & Outdoors,-2
+2019-01-25T21:35:00,14,1,google.com,Search,2
+2019-01-25T21:35:00,12,1,facebook.com,General Social Networking,-2
+2019-01-25T21:40:00,231,1,airbnb.com,Travel & Outdoors,-2
+2019-01-25T21:40:00,44,1,google.com,Search,2
+2019-01-25T21:40:00,20,1,Notes,Email,0
+2019-01-25T21:40:00,5,1,messenger.com,General Social Networking,-2
+2019-01-25T21:45:00,90,1,messenger.com,General Social Networking,-2
+2019-01-25T21:45:00,79,1,facebook.com,General Social Networking,-2
+2019-01-25T21:45:00,59,1,airbnb.com,Travel & Outdoors,-2
+2019-01-25T21:45:00,54,1,Google Spreadsheets,General Business,2
+2019-01-25T21:45:00,15,1,wechat,General Social Networking,-2
+2019-01-25T21:45:00,1,1,na3.docusign.net,General Business,2
+2019-01-25T21:45:00,1,1,google.com,Search,2
+2019-01-25T21:50:00,233,1,Google Spreadsheets,General Business,2
+2019-01-25T21:50:00,34,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T21:50:00,27,1,messenger.com,General Social Networking,-2
+2019-01-25T21:50:00,2,1,facebook.com,General Social Networking,-2
+2019-01-25T21:50:00,2,1,drive.google.com,General Business,2
+2019-01-25T21:55:00,216,1,messenger.com,General Social Networking,-2
+2019-01-25T21:55:00,57,1,Google Spreadsheets,General Business,2
+2019-01-25T21:55:00,9,1,cnn.com,General News & Opinion,2
+2019-01-25T21:55:00,8,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T21:55:00,6,1,google.com,Search,2
+2019-01-25T21:55:00,4,1,newtab,Browsers,0
+2019-01-25T22:00:00,159,1,messenger.com,General Social Networking,-2
+2019-01-25T22:00:00,131,1,Google Spreadsheets,General Business,2
+2019-01-25T22:00:00,10,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T22:05:00,227,1,messenger.com,General Social Networking,-2
+2019-01-25T22:05:00,56,1,Google Spreadsheets,General Business,2
+2019-01-25T22:05:00,11,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T22:05:00,1,1,loginwindow,General Utilities,0
+2019-01-25T22:10:00,232,1,Google Spreadsheets,General Business,2
+2019-01-25T22:10:00,34,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T22:10:00,31,1,bbc.com,General News & Opinion,-2
+2019-01-25T22:10:00,3,1,BBC,International,2
+2019-01-25T22:15:00,172,1,Google Spreadsheets,General Business,2
+2019-01-25T22:15:00,90,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T22:15:00,32,1,bbc.com,General News & Opinion,-2
+2019-01-25T22:15:00,3,1,google.com,Search,2
+2019-01-25T22:15:00,2,1,cnn.com,General News & Opinion,2
+2019-01-25T22:15:00,1,1,newtab,Browsers,0
+2019-01-25T22:20:00,217,1,Google Spreadsheets,General Business,2
+2019-01-25T22:20:00,66,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T22:20:00,10,1,wechat,General Social Networking,-2
+2019-01-25T22:20:00,4,1,google.com,Search,2
+2019-01-25T22:20:00,3,1,nytimes.com,General News & Opinion,-2
+2019-01-25T22:25:00,173,1,wechat,General Social Networking,-2
+2019-01-25T22:25:00,100,1,Google Spreadsheets,General Business,2
+2019-01-25T22:25:00,27,1,nytimes.com,General News & Opinion,-2
+2019-01-25T22:30:00,277,1,Google Spreadsheets,General Business,2
+2019-01-25T22:30:00,20,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T22:30:00,3,1,nytimes.com,General News & Opinion,-2
+2019-01-25T22:35:00,163,1,Google Spreadsheets,General Business,2
+2019-01-25T22:35:00,52,1,google.com,Search,2
+2019-01-25T22:35:00,49,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T22:35:00,14,1,theguardian.com,General News & Opinion,-2
+2019-01-25T22:35:00,6,1,usatoday.com,General News & Opinion,-2
+2019-01-25T22:35:00,6,1,espn.com,Sports,-1
+2019-01-25T22:35:00,4,1,telegraph.co.uk,General News & Opinion,-2
+2019-01-25T22:35:00,4,1,BBC,International,2
+2019-01-25T22:35:00,1,1,messenger.com,General Social Networking,-2
+2019-01-25T22:35:00,1,1,bbc.com,General News & Opinion,-2
+2019-01-25T22:40:00,151,1,espn.com,Sports,-1
+2019-01-25T22:40:00,125,1,Google Spreadsheets,General Business,2
+2019-01-25T22:40:00,18,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T22:40:00,4,1,cnn.com,General News & Opinion,2
+2019-01-25T22:40:00,2,1,google.com,Search,2
+2019-01-25T22:45:00,124,1,youtube.com,Video,-2
+2019-01-25T22:45:00,121,1,Google Spreadsheets,General Business,2
+2019-01-25T22:45:00,28,1,wechat,General Social Networking,-2
+2019-01-25T22:45:00,20,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T22:45:00,4,1,google.com,Search,2
+2019-01-25T22:45:00,3,1,na3.docusign.net,General Business,2
+2019-01-25T22:50:00,169,1,youtube.com,Video,-2
+2019-01-25T22:50:00,95,1,Google Spreadsheets,General Business,2
+2019-01-25T22:50:00,18,1,wechat,General Social Networking,-2
+2019-01-25T22:50:00,14,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T22:50:00,2,1,bbc.com,General News & Opinion,-2
+2019-01-25T22:50:00,2,1,BBC,International,2
+2019-01-25T22:55:00,218,1,Google Spreadsheets,General Business,2
+2019-01-25T22:55:00,35,1,bbc.com,General News & Opinion,-2
+2019-01-25T22:55:00,28,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T22:55:00,12,1,wechat,General Social Networking,-2
+2019-01-25T22:55:00,3,1,messenger.com,General Social Networking,-2
+2019-01-25T22:55:00,2,1,espn.com,Sports,-1
+2019-01-25T22:55:00,1,1,apps,General Utilities,1
+2019-01-25T22:55:00,1,1,BBC,International,2
+2019-01-25T23:00:00,125,1,Google Spreadsheets,General Business,2
+2019-01-25T23:00:00,21,1,google.com,Search,2
+2019-01-25T23:00:00,12,1,washingtonpost.com,General News & Opinion,-2
+2019-01-25T23:00:00,6,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T23:00:00,4,1,espn.com,Sports,-1
+2019-01-25T23:05:00,31,1,Google Spreadsheets,General Business,2
+2019-01-25T23:05:00,8,1,google.com,Search,2
+2019-01-25T23:05:00,7,1,straitstimes.com,General News & Opinion,-2
+2019-01-25T23:10:00,227,1,Google Spreadsheets,General Business,2
+2019-01-25T23:10:00,34,1,straitstimes.com,General News & Opinion,-2
+2019-01-25T23:10:00,30,1,youtube.com,Video,-2
+2019-01-25T23:10:00,8,1,google.com,Search,2
+2019-01-25T23:10:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T23:15:00,300,1,youtube.com,Video,-2
+2019-01-25T23:20:00,172,1,youtube.com,Video,-2
+2019-01-25T23:20:00,128,1,Google Spreadsheets,General Business,2
+2019-01-25T23:25:00,185,1,youtube.com,Video,-2
+2019-01-25T23:25:00,115,1,Google Spreadsheets,General Business,2
+2019-01-25T23:30:00,211,1,Google Spreadsheets,General Business,2
+2019-01-25T23:30:00,56,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T23:30:00,17,1,bbc.com,General News & Opinion,-2
+2019-01-25T23:30:00,9,1,google.com,Search,2
+2019-01-25T23:30:00,5,1,apps,General Utilities,1
+2019-01-25T23:30:00,2,1,BBC,International,2
+2019-01-25T23:35:00,180,1,youtube.com,Video,-2
+2019-01-25T23:35:00,80,1,Google Spreadsheets,General Business,2
+2019-01-25T23:35:00,19,1,studio.youtube.com,Video Editing,2
+2019-01-25T23:35:00,12,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T23:35:00,6,1,bbc.com,General News & Opinion,-2
+2019-01-25T23:35:00,3,1,google.com,Search,2
+2019-01-25T23:40:00,205,1,youtube.com,Video,-2
+2019-01-25T23:40:00,26,1,nomnom16.wordpress.com,General News & Opinion,-2
+2019-01-25T23:40:00,21,1,google.com,Search,2
+2019-01-25T23:40:00,20,1,github.com,General Software Development,2
+2019-01-25T23:40:00,19,1,stackoverflow.com,General Software Development,2
+2019-01-25T23:40:00,9,1,facebook.com,General Social Networking,-2
+2019-01-25T23:45:00,156,1,facebook.com,General Social Networking,-2
+2019-01-25T23:45:00,110,1,messenger.com,General Social Networking,-2
+2019-01-25T23:45:00,27,1,nomnom16.wordpress.com,General News & Opinion,-2
+2019-01-25T23:45:00,4,1,google.com,Search,2
+2019-01-25T23:45:00,3,1,youtube.com,Video,-2
+2019-01-25T23:50:00,80,1,wechat,General Social Networking,-2
+2019-01-25T23:50:00,75,1,Google Spreadsheets,General Business,2
+2019-01-25T23:50:00,43,1,youtube.com,Video,-2
+2019-01-25T23:50:00,41,1,messenger.com,General Social Networking,-2
+2019-01-25T23:50:00,22,1,facebook.com,General Social Networking,-2
+2019-01-25T23:50:00,21,1,airbnb.com,Travel & Outdoors,-2
+2019-01-25T23:50:00,18,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T23:55:00,209,1,Google Spreadsheets,General Business,2
+2019-01-25T23:55:00,50,1,en.wikipedia.org,General Reference & Learning,1
+2019-01-25T23:55:00,21,1,messenger.com,General Social Networking,-2
+2019-01-25T23:55:00,12,1,facebook.com,General Social Networking,-2
+2019-01-25T23:55:00,4,1,google.com,Search,2
+2019-01-25T23:55:00,4,1,drive.google.com,General Business,2

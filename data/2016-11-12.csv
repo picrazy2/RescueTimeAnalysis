@@ -1,0 +1,136 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2016-11-12T16:35:00,59,1,mathematica,Engineering & Technology,2
+2016-11-12T16:35:00,18,1,Mail,Email,2
+2016-11-12T21:40:00,120,1,facebook.com,General Social Networking,-2
+2016-11-12T21:40:00,40,1,9to5mac.com,General News & Opinion,-2
+2016-11-12T21:40:00,13,1,mathematica,Engineering & Technology,2
+2016-11-12T21:40:00,13,1,secure1.store.apple.com,Electronics,-2
+2016-11-12T21:40:00,12,1,apple.com,Engineering & Technology,-1
+2016-11-12T21:40:00,11,1,messages,General Social Networking,-2
+2016-11-12T21:40:00,7,1,Safari,Browsers,2
+2016-11-12T21:40:00,4,1,loginwindow,General Utilities,0
+2016-11-12T21:40:00,2,1,usernotificationcenter,General Utilities,0
+2016-11-12T21:45:00,223,1,facebook.com,General Social Networking,-2
+2016-11-12T21:45:00,64,1,messages,General Social Networking,-2
+2016-11-12T21:45:00,11,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-12T21:45:00,2,1,Google Spreadsheets,General Business,2
+2016-11-12T21:50:00,133,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-12T21:50:00,117,1,skyscrapercenter.com,General Reference & Learning,-2
+2016-11-12T21:50:00,41,1,messages,General Social Networking,-2
+2016-11-12T21:50:00,7,1,Safari,Browsers,2
+2016-11-12T21:50:00,2,1,usernotificationcenter,General Utilities,0
+2016-11-12T21:55:00,179,1,gaoloumi.com,Regional,-2
+2016-11-12T21:55:00,72,1,skyscrapercenter.com,General Reference & Learning,-2
+2016-11-12T21:55:00,29,1,pic.gaoloumi.com,Regional,-2
+2016-11-12T21:55:00,14,1,messages,General Social Networking,-2
+2016-11-12T21:55:00,6,1,Safari,Browsers,2
+2016-11-12T22:00:00,294,1,gaoloumi.com,Regional,-2
+2016-11-12T22:00:00,5,1,pic.gaoloumi.com,Regional,-2
+2016-11-12T22:05:00,152,1,Finder,General Utilities,0
+2016-11-12T22:05:00,104,1,gaoloumi.com,Regional,-2
+2016-11-12T22:05:00,41,1,matlab,General Software Development,2
+2016-11-12T22:05:00,1,1,usernotificationcenter,General Utilities,0
+2016-11-12T22:10:00,163,1,MS Excel,General Business,2
+2016-11-12T22:10:00,58,1,Finder,General Utilities,0
+2016-11-12T22:10:00,38,1,stateair.net,Uncategorized,0
+2016-11-12T22:10:00,29,1,matlab,General Software Development,2
+2016-11-12T22:10:00,3,1,Safari,Browsers,2
+2016-11-12T22:10:00,1,1,gaoloumi.com,Regional,-2
+2016-11-12T22:15:00,154,1,matlab,General Software Development,2
+2016-11-12T22:15:00,66,1,Mail,Email,2
+2016-11-12T22:15:00,53,1,mathworks.com,Engineering & Technology,1
+2016-11-12T22:15:00,10,1,Terminal,Systems Operations,2
+2016-11-12T22:15:00,6,1,Safari,Browsers,2
+2016-11-12T22:15:00,5,1,Finder,General Utilities,0
+2016-11-12T22:15:00,3,1,google.com,Search,2
+2016-11-12T22:15:00,1,1,facebook.com,General Social Networking,-2
+2016-11-12T22:20:00,80,1,facebook.com,General Social Networking,-2
+2016-11-12T22:20:00,66,1,messages,General Social Networking,-2
+2016-11-12T22:20:00,59,1,usernotificationcenter,General Utilities,0
+2016-11-12T22:20:00,39,1,www3.forbes.com,General News & Opinion,-2
+2016-11-12T22:20:00,30,1,Mail,Email,2
+2016-11-12T22:20:00,12,1,Finder,General Utilities,0
+2016-11-12T22:20:00,7,1,mathworks.com,Engineering & Technology,1
+2016-11-12T22:20:00,2,1,Google Spreadsheets,General Business,2
+2016-11-12T22:20:00,2,1,SecurityAgent,Systems Operations,0
+2016-11-12T22:20:00,1,1,diskimages ui agent,General Utilities,1
+2016-11-12T22:20:00,1,1,cnn.com,General News & Opinion,2
+2016-11-12T22:25:00,139,1,www3.forbes.com,General News & Opinion,-2
+2016-11-12T22:25:00,116,1,newyorker.com,General News & Opinion,-2
+2016-11-12T22:25:00,30,1,google.com,Search,2
+2016-11-12T22:25:00,11,1,climatecentral.org,Uncategorized,0
+2016-11-12T22:25:00,2,1,ibtimes.co.uk,Business,-1
+2016-11-12T22:30:00,89,1,messages,General Social Networking,-2
+2016-11-12T22:30:00,57,1,npr.org,General News & Opinion,-2
+2016-11-12T22:30:00,32,1,google.com,Search,2
+2016-11-12T22:30:00,32,1,cnn.com,General News & Opinion,2
+2016-11-12T22:30:00,20,1,popularmechanics.com,General News & Opinion,-2
+2016-11-12T22:35:00,108,1,popularmechanics.com,General News & Opinion,-2
+2016-11-12T22:35:00,56,1,messages,General Social Networking,-2
+2016-11-12T22:35:00,51,1,google.com,Search,2
+2016-11-12T22:35:00,39,1,scmp.com,General News & Opinion,-2
+2016-11-12T22:35:00,31,1,thedailybeast.com,General News & Opinion,-2
+2016-11-12T22:35:00,13,1,time.com,General News & Opinion,-2
+2016-11-12T22:35:00,2,1,usernotificationcenter,General Utilities,0
+2016-11-12T22:40:00,116,1,thedailybeast.com,General News & Opinion,-2
+2016-11-12T22:40:00,83,1,messages,General Social Networking,-2
+2016-11-12T22:40:00,54,1,scmp.com,General News & Opinion,-2
+2016-11-12T22:40:00,37,1,thesun.co.uk,General News & Opinion,-2
+2016-11-12T22:40:00,10,1,google.com,Search,2
+2016-11-12T22:45:00,161,1,messages,General Social Networking,-2
+2016-11-12T22:45:00,79,1,mathematica,Engineering & Technology,2
+2016-11-12T22:45:00,66,1,gaoloumi.com,Regional,-2
+2016-11-12T22:45:00,36,1,google.com,Search,2
+2016-11-12T22:45:00,36,1,scmp.com,General News & Opinion,-2
+2016-11-12T22:45:00,2,1,loginwindow,General Utilities,0
+2016-11-12T22:50:00,300,1,mathematica,Engineering & Technology,2
+2016-11-12T22:50:00,297,1,messages,General Social Networking,-2
+2016-11-12T22:50:00,3,1,usernotificationcenter,General Utilities,0
+2016-11-12T22:55:00,300,1,messages,General Social Networking,-2
+2016-11-12T22:55:00,300,1,mathematica,Engineering & Technology,2
+2016-11-12T23:00:00,519,1,mathematica,Engineering & Technology,2
+2016-11-12T23:00:00,48,1,messages,General Social Networking,-2
+2016-11-12T23:05:00,315,1,mathematica,Engineering & Technology,2
+2016-11-12T23:05:00,189,1,messages,General Social Networking,-2
+2016-11-12T23:10:00,300,1,mathematica,Engineering & Technology,2
+2016-11-12T23:15:00,198,1,mathematica,Engineering & Technology,2
+2016-11-12T23:15:00,20,1,System Preferences,General Utilities,0
+2016-11-12T23:15:00,10,1,systemuiserver,General Utilities,1
+2016-11-12T23:15:00,7,1,messages,General Social Networking,-2
+2016-11-12T23:15:00,3,1,gaoloumi.com,Regional,-2
+2016-11-12T23:15:00,1,1,facebook.com,General Social Networking,-2
+2016-11-12T23:20:00,128,1,facebook.com,General Social Networking,-2
+2016-11-12T23:20:00,73,1,mathematica,Engineering & Technology,2
+2016-11-12T23:20:00,70,1,System Preferences,General Utilities,0
+2016-11-12T23:20:00,70,1,network setup assistant,General Utilities,1
+2016-11-12T23:20:00,18,1,messages,General Social Networking,-2
+2016-11-12T23:20:00,9,1,Finder,General Utilities,0
+2016-11-12T23:20:00,5,1,SecurityAgent,Systems Operations,0
+2016-11-12T23:20:00,4,1,usernotificationcenter,General Utilities,0
+2016-11-12T23:20:00,1,1,RescueTime,Intelligence,0
+2016-11-12T23:25:00,198,1,mathematica,Engineering & Technology,2
+2016-11-12T23:25:00,78,1,systemuiserver,General Utilities,1
+2016-11-12T23:25:00,42,1,wireless diagnostics,Internet Utilities,1
+2016-11-12T23:25:00,5,1,SecurityAgent,Systems Operations,0
+2016-11-12T23:30:00,224,1,mathematica,Engineering & Technology,2
+2016-11-12T23:30:00,26,1,systemuiserver,General Utilities,1
+2016-11-12T23:30:00,9,1,google drive,General Business,2
+2016-11-12T23:30:00,1,1,usernotificationcenter,General Utilities,0
+2016-11-12T23:30:00,1,1,SecurityAgent,Systems Operations,0
+2016-11-12T23:30:00,1,1,messages,General Social Networking,-2
+2016-11-12T23:35:00,257,1,mathematica,Engineering & Technology,2
+2016-11-12T23:40:00,68,1,messages,General Social Networking,-2
+2016-11-12T23:40:00,48,1,usernotificationcenter,General Utilities,0
+2016-11-12T23:45:00,117,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-12T23:45:00,91,1,usernotificationcenter,General Utilities,0
+2016-11-12T23:45:00,70,1,messages,General Social Networking,-2
+2016-11-12T23:45:00,11,1,math.oregonstate.edu,General Reference & Learning,1
+2016-11-12T23:45:00,6,1,google.com,Search,2
+2016-11-12T23:45:00,3,1,Safari,Browsers,2
+2016-11-12T23:45:00,1,1,facebook.com,General Social Networking,-2
+2016-11-12T23:50:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-12T23:50:00,183,1,mathematica,Engineering & Technology,2
+2016-11-12T23:50:00,46,1,Finder,General Utilities,0
+2016-11-12T23:55:00,504,1,mathematica,Engineering & Technology,2
+2016-11-12T23:55:00,51,1,messages,General Social Networking,-2
+2016-11-12T23:55:00,44,1,en.wikipedia.org,General Reference & Learning,1

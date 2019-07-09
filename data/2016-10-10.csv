@@ -1,0 +1,406 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2016-10-10T00:00:00,295,1,microsoft powerpoint,Presentation,2
+2016-10-10T00:00:00,5,1,usernotificationcenter,General Utilities,0
+2016-10-10T00:05:00,300,1,microsoft powerpoint,Presentation,2
+2016-10-10T00:10:00,278,1,microsoft powerpoint,Presentation,2
+2016-10-10T00:10:00,22,1,usernotificationcenter,General Utilities,0
+2016-10-10T00:15:00,292,1,map.baidu.com,Maps & Regional,-2
+2016-10-10T00:15:00,4,1,microsoft powerpoint,Presentation,2
+2016-10-10T00:15:00,4,1,Mail,Email,2
+2016-10-10T00:20:00,246,1,facebook.com,General Social Networking,-2
+2016-10-10T00:20:00,52,1,map.baidu.com,Maps & Regional,-2
+2016-10-10T00:25:00,120,1,google.com,Search,2
+2016-10-10T00:25:00,81,1,usernotificationcenter,General Utilities,0
+2016-10-10T00:25:00,41,1,baike.baidu.com,Search,0
+2016-10-10T00:25:00,25,1,facebook.com,General Social Networking,-2
+2016-10-10T00:25:00,13,1,Safari,Browsers,2
+2016-10-10T00:25:00,10,1,en.wikipedia.org,General Reference & Learning,1
+2016-10-10T00:25:00,5,1,zh.wikipedia.org,Search,0
+2016-10-10T00:25:00,5,1,microsoft powerpoint,Presentation,2
+2016-10-10T00:30:00,300,1,microsoft powerpoint,Presentation,2
+2016-10-10T00:35:00,204,1,yamibuy.com,General Shopping,-2
+2016-10-10T00:35:00,94,1,microsoft powerpoint,Presentation,2
+2016-10-10T00:35:00,2,1,google.com,Search,2
+2016-10-10T00:40:00,296,1,yamibuy.com,General Shopping,-2
+2016-10-10T00:40:00,1,1,usernotificationcenter,General Utilities,0
+2016-10-10T00:45:00,300,1,yamibuy.com,General Shopping,-2
+2016-10-10T00:50:00,300,1,yamibuy.com,General Shopping,-2
+2016-10-10T00:55:00,299,1,yamibuy.com,General Shopping,-2
+2016-10-10T01:00:00,290,1,yamibuy.com,General Shopping,-2
+2016-10-10T01:05:00,148,1,yamibuy.com,General Shopping,-2
+2016-10-10T01:05:00,61,1,secure.bankofamerica.com,Accounting,2
+2016-10-10T01:05:00,43,1,Finder,General Utilities,0
+2016-10-10T01:05:00,7,1,bankofamerica.com,General Business,2
+2016-10-10T01:10:00,206,1,yamibuy.com,General Shopping,-2
+2016-10-10T01:10:00,65,1,Finder,General Utilities,0
+2016-10-10T01:10:00,29,1,Mail,Email,2
+2016-10-10T01:15:00,119,1,yamibuy.com,General Shopping,-2
+2016-10-10T01:15:00,18,1,Mail,Email,2
+2016-10-10T01:25:00,123,1,Mail,Email,2
+2016-10-10T01:25:00,105,1,Finder,General Utilities,0
+2016-10-10T01:30:00,126,1,Mail,Email,2
+2016-10-10T01:30:00,39,1,loginwindow,General Utilities,0
+2016-10-10T01:30:00,1,1,maps,Maps & Regional,1
+2016-10-10T08:50:00,176,1,mathematica,Engineering & Technology,2
+2016-10-10T08:55:00,250,1,mathematica,Engineering & Technology,2
+2016-10-10T08:55:00,48,1,Mail,Email,2
+2016-10-10T09:00:00,294,1,mathematica,Engineering & Technology,2
+2016-10-10T09:00:00,4,1,reference.wolfram.com,General Business,2
+2016-10-10T09:05:00,287,1,mathematica,Engineering & Technology,2
+2016-10-10T09:05:00,3,1,reference.wolfram.com,General Business,2
+2016-10-10T09:10:00,96,1,facebook.com,General Social Networking,-2
+2016-10-10T09:10:00,90,1,deerfield.instructure.com,General Reference & Learning,1
+2016-10-10T09:10:00,85,1,mathematica,Engineering & Technology,2
+2016-10-10T09:10:00,18,1,loginwindow,General Utilities,0
+2016-10-10T09:10:00,4,1,wolframalpha.com,Search,1
+2016-10-10T09:10:00,2,1,reference.wolfram.com,General Business,2
+2016-10-10T09:10:00,1,1,aretelabs.com,Uncategorized,0
+2016-10-10T10:25:00,17,1,Finder,General Utilities,0
+2016-10-10T10:25:00,4,1,Mail,Email,2
+2016-10-10T12:00:00,170,1,facebook.com,General Social Networking,-2
+2016-10-10T12:00:00,23,1,microsoft powerpoint,Presentation,2
+2016-10-10T12:00:00,6,1,loginwindow,General Utilities,0
+2016-10-10T12:00:00,4,1,Finder,General Utilities,0
+2016-10-10T12:00:00,2,1,yamibuy.com,General Shopping,-2
+2016-10-10T12:05:00,173,1,maps,Maps & Regional,1
+2016-10-10T12:05:00,127,1,microsoft powerpoint,Presentation,2
+2016-10-10T12:10:00,300,1,maps,Maps & Regional,1
+2016-10-10T12:15:00,242,1,microsoft powerpoint,Presentation,2
+2016-10-10T12:15:00,40,1,maps,Maps & Regional,1
+2016-10-10T12:15:00,18,1,usernotificationcenter,General Utilities,0
+2016-10-10T12:20:00,78,1,sciencedaily.com,Engineering & Technology,1
+2016-10-10T12:20:00,9,1,google.com,Search,2
+2016-10-10T12:20:00,7,1,microsoft powerpoint,Presentation,2
+2016-10-10T12:20:00,6,1,usernotificationcenter,General Utilities,0
+2016-10-10T12:20:00,5,1,Safari,Browsers,2
+2016-10-10T12:20:00,2,1,facebook.com,General Social Networking,-2
+2016-10-10T12:25:00,226,1,google.com,Search,2
+2016-10-10T12:25:00,7,1,sciencedaily.com,Engineering & Technology,1
+2016-10-10T15:20:00,27,1,maps,Maps & Regional,1
+2016-10-10T15:20:00,4,1,loginwindow,General Utilities,0
+2016-10-10T15:20:00,4,1,facebook.com,General Social Networking,-2
+2016-10-10T15:20:00,2,1,google.com,Search,2
+2016-10-10T15:25:00,295,1,9to5mac.com,General News & Opinion,-2
+2016-10-10T15:25:00,2,1,facebook.com,General Social Networking,-2
+2016-10-10T15:25:00,2,1,Safari,Browsers,2
+2016-10-10T15:25:00,1,1,maps,Maps & Regional,1
+2016-10-10T15:30:00,242,1,google earth,Maps & Regional,1
+2016-10-10T15:30:00,33,1,9to5mac.com,General News & Opinion,-2
+2016-10-10T15:30:00,24,1,gaoloumi.com,Regional,-2
+2016-10-10T15:30:00,1,1,maps,Maps & Regional,1
+2016-10-10T15:35:00,300,1,google earth,Maps & Regional,1
+2016-10-10T15:40:00,90,1,google earth,Maps & Regional,1
+2016-10-10T15:40:00,89,1,gaoloumi.com,Regional,-2
+2016-10-10T15:40:00,42,1,Mail,Email,2
+2016-10-10T15:40:00,7,1,yamibuy.com,General Shopping,-2
+2016-10-10T15:40:00,5,1,maps,Maps & Regional,1
+2016-10-10T15:45:00,93,1,deerfield.instructure.com,General Reference & Learning,1
+2016-10-10T15:45:00,83,1,microsoft word,Writing,2
+2016-10-10T15:45:00,56,1,Mail,Email,2
+2016-10-10T15:45:00,45,1,gaoloumi.com,Regional,-2
+2016-10-10T15:45:00,20,1,adobe premiere pro cc 2015,Video Editing,2
+2016-10-10T15:45:00,3,1,google.com,Search,2
+2016-10-10T15:50:00,276,1,adobe premiere pro cc 2015,Video Editing,2
+2016-10-10T15:50:00,19,1,Finder,General Utilities,0
+2016-10-10T15:55:00,279,1,adobe premiere pro cc 2015,Video Editing,2
+2016-10-10T15:55:00,17,1,alexanderguo.com,General Design & Composition,2
+2016-10-10T15:55:00,12,1,Finder,General Utilities,0
+2016-10-10T15:55:00,3,1,collegereadiness.collegeboard.org,General Reference & Learning,1
+2016-10-10T15:55:00,1,1,deerfield.instructure.com,General Reference & Learning,1
+2016-10-10T16:00:00,275,1,Finder,General Utilities,0
+2016-10-10T16:00:00,224,1,adobe premiere pro cc 2015,Video Editing,2
+2016-10-10T16:00:00,23,1,alexanderguo.com,General Design & Composition,2
+2016-10-10T16:00:00,2,1,google drive,General Business,2
+2016-10-10T16:05:00,232,1,adobe premiere pro cc 2015,Video Editing,2
+2016-10-10T16:05:00,68,1,Finder,General Utilities,0
+2016-10-10T16:10:00,300,1,adobe premiere pro cc 2015,Video Editing,2
+2016-10-10T16:15:00,299,1,adobe premiere pro cc 2015,Video Editing,2
+2016-10-10T16:20:00,272,1,adobe premiere pro cc 2015,Video Editing,2
+2016-10-10T16:20:00,28,1,messages,General Social Networking,-2
+2016-10-10T16:25:00,299,1,adobe premiere pro cc 2015,Video Editing,2
+2016-10-10T16:30:00,300,1,adobe premiere pro cc 2015,Video Editing,2
+2016-10-10T16:35:00,300,1,adobe premiere pro cc 2015,Video Editing,2
+2016-10-10T16:40:00,300,1,adobe premiere pro cc 2015,Video Editing,2
+2016-10-10T16:45:00,299,1,adobe premiere pro cc 2015,Video Editing,2
+2016-10-10T16:50:00,177,1,adobe premiere pro cc 2015,Video Editing,2
+2016-10-10T16:50:00,46,1,Finder,General Utilities,0
+2016-10-10T16:55:00,13,1,facebook.com,General Social Networking,-2
+2016-10-10T16:55:00,8,1,dainfo.deerfield.edu,General Reference & Learning,1
+2016-10-10T16:55:00,1,1,deerfield.edu,General Reference & Learning,1
+2016-10-10T17:00:00,201,1,adobe premiere pro cc 2015,Video Editing,2
+2016-10-10T17:00:00,56,1,deerfield.edu,General Reference & Learning,1
+2016-10-10T17:00:00,22,1,facebook.com,General Social Networking,-2
+2016-10-10T17:00:00,20,1,messages,General Social Networking,-2
+2016-10-10T17:05:00,169,1,adobe premiere pro cc 2015,Video Editing,2
+2016-10-10T17:05:00,105,1,facebook.com,General Social Networking,-2
+2016-10-10T17:05:00,25,1,messages,General Social Networking,-2
+2016-10-10T17:05:00,1,1,deerfield.edu,General Reference & Learning,1
+2016-10-10T17:10:00,120,1,messages,General Social Networking,-2
+2016-10-10T17:10:00,90,1,facebook.com,General Social Networking,-2
+2016-10-10T17:10:00,15,1,Mail,Email,2
+2016-10-10T17:55:00,62,1,messages,General Social Networking,-2
+2016-10-10T17:55:00,12,1,facebook.com,General Social Networking,-2
+2016-10-10T17:55:00,3,1,loginwindow,General Utilities,0
+2016-10-10T18:00:00,212,1,facebook.com,General Social Networking,-2
+2016-10-10T18:00:00,88,1,messages,General Social Networking,-2
+2016-10-10T18:05:00,90,1,facebook.com,General Social Networking,-2
+2016-10-10T18:05:00,82,1,messages,General Social Networking,-2
+2016-10-10T18:05:00,66,1,Finder,General Utilities,0
+2016-10-10T18:05:00,61,1,microsoft word,Writing,2
+2016-10-10T18:05:00,1,1,loginwindow,General Utilities,0
+2016-10-10T18:10:00,167,1,messages,General Social Networking,-2
+2016-10-10T18:10:00,84,1,microsoft word,Writing,2
+2016-10-10T18:10:00,48,1,facebook.com,General Social Networking,-2
+2016-10-10T18:10:00,1,1,Finder,General Utilities,0
+2016-10-10T18:15:00,134,1,messages,General Social Networking,-2
+2016-10-10T18:15:00,119,1,Google Forms,General Business,2
+2016-10-10T18:15:00,34,1,microsoft word,Writing,2
+2016-10-10T18:15:00,11,1,Mail,Email,2
+2016-10-10T18:15:00,2,1,Safari,Browsers,2
+2016-10-10T18:20:00,159,1,messages,General Social Networking,-2
+2016-10-10T18:20:00,128,1,Google Forms,General Business,2
+2016-10-10T18:20:00,7,1,Mail,Email,2
+2016-10-10T18:20:00,5,1,microsoft word,Writing,2
+2016-10-10T18:25:00,242,1,messages,General Social Networking,-2
+2016-10-10T18:25:00,31,1,Finder,General Utilities,0
+2016-10-10T18:25:00,23,1,Google Forms,General Business,2
+2016-10-10T18:25:00,4,1,Dropbox,File Sharing,-2
+2016-10-10T18:30:00,100,1,facebook.com,General Social Networking,-2
+2016-10-10T18:30:00,60,1,messages,General Social Networking,-2
+2016-10-10T18:30:00,11,1,microsoft word,Writing,2
+2016-10-10T18:30:00,1,1,Google Forms,General Business,2
+2016-10-10T18:35:00,67,1,messages,General Social Networking,-2
+2016-10-10T18:35:00,7,1,Mail,Email,2
+2016-10-10T18:40:00,118,1,messages,General Social Networking,-2
+2016-10-10T18:40:00,21,1,facebook.com,General Social Networking,-2
+2016-10-10T18:40:00,13,1,Mail,Email,2
+2016-10-10T18:40:00,4,1,microsoft word,Writing,2
+2016-10-10T18:50:00,147,1,messages,General Social Networking,-2
+2016-10-10T18:50:00,68,1,Safari,Browsers,2
+2016-10-10T18:50:00,20,1,Mail,Email,2
+2016-10-10T18:50:00,4,1,microsoft word,Writing,2
+2016-10-10T18:50:00,1,1,facebook.com,General Social Networking,-2
+2016-10-10T18:55:00,207,1,messages,General Social Networking,-2
+2016-10-10T18:55:00,90,1,alexanderguo.com,General Design & Composition,2
+2016-10-10T18:55:00,1,1,apply.commonapp.org,General Reference & Learning,1
+2016-10-10T19:00:00,168,1,alexanderguo.com,General Design & Composition,2
+2016-10-10T19:00:00,65,1,insidemylaptop.com,General Reference & Learning,1
+2016-10-10T19:00:00,59,1,deerfield.edu,General Reference & Learning,1
+2016-10-10T19:00:00,5,1,Safari,Browsers,2
+2016-10-10T19:00:00,3,1,google.com,Search,2
+2016-10-10T19:05:00,151,1,deerfield.edu,General Reference & Learning,1
+2016-10-10T19:05:00,132,1,messages,General Social Networking,-2
+2016-10-10T19:05:00,17,1,facebook.com,General Social Networking,-2
+2016-10-10T19:10:00,274,1,messages,General Social Networking,-2
+2016-10-10T19:10:00,17,1,nfs.sparknotes.com,Search,0
+2016-10-10T19:10:00,7,1,Safari,Browsers,2
+2016-10-10T19:10:00,2,1,facebook.com,General Social Networking,-2
+2016-10-10T19:15:00,300,1,nfs.sparknotes.com,Search,0
+2016-10-10T19:20:00,278,1,nfs.sparknotes.com,Search,0
+2016-10-10T19:20:00,15,1,messages,General Social Networking,-2
+2016-10-10T19:20:00,7,1,facebook.com,General Social Networking,-2
+2016-10-10T19:25:00,225,1,nfs.sparknotes.com,Search,0
+2016-10-10T19:25:00,40,1,messages,General Social Networking,-2
+2016-10-10T19:25:00,35,1,Mail,Email,2
+2016-10-10T19:30:00,74,1,nfs.sparknotes.com,Search,0
+2016-10-10T19:30:00,7,1,facebook.com,General Social Networking,-2
+2016-10-10T19:30:00,7,1,messages,General Social Networking,-2
+2016-10-10T19:30:00,2,1,Safari,Browsers,2
+2016-10-10T19:35:00,81,1,facebook.com,General Social Networking,-2
+2016-10-10T19:50:00,110,1,nfs.sparknotes.com,Search,0
+2016-10-10T19:50:00,10,1,Mail,Email,2
+2016-10-10T19:50:00,7,1,facebook.com,General Social Networking,-2
+2016-10-10T19:50:00,6,1,mathematica,Engineering & Technology,2
+2016-10-10T19:50:00,2,1,Safari,Browsers,2
+2016-10-10T19:55:00,287,1,nfs.sparknotes.com,Search,0
+2016-10-10T19:55:00,10,1,messages,General Social Networking,-2
+2016-10-10T19:55:00,2,1,istat menus updater,General Utilities,1
+2016-10-10T20:00:00,223,1,nfs.sparknotes.com,Search,0
+2016-10-10T20:00:00,77,1,facebook.com,General Social Networking,-2
+2016-10-10T20:05:00,299,1,nfs.sparknotes.com,Search,0
+2016-10-10T20:10:00,224,1,mail.deerfield.edu,General Reference & Learning,1
+2016-10-10T20:10:00,69,1,nfs.sparknotes.com,Search,0
+2016-10-10T20:10:00,7,1,Safari,Browsers,2
+2016-10-10T20:15:00,165,1,mail.deerfield.edu,General Reference & Learning,1
+2016-10-10T20:15:00,73,1,deerfield.instructure.com,General Reference & Learning,1
+2016-10-10T20:15:00,35,1,nfs.sparknotes.com,Search,0
+2016-10-10T20:15:00,19,1,Safari,Browsers,2
+2016-10-10T20:15:00,3,1,loginwindow,General Utilities,0
+2016-10-10T20:15:00,2,1,reference.wolfram.com,General Business,2
+2016-10-10T20:20:00,293,1,nfs.sparknotes.com,Search,0
+2016-10-10T20:20:00,5,1,messages,General Social Networking,-2
+2016-10-10T20:20:00,2,1,Safari,Browsers,2
+2016-10-10T20:25:00,239,1,messages,General Social Networking,-2
+2016-10-10T20:25:00,24,1,Finder,General Utilities,0
+2016-10-10T20:25:00,17,1,nfs.sparknotes.com,Search,0
+2016-10-10T20:25:00,3,1,Safari,Browsers,2
+2016-10-10T20:35:00,166,1,RescueTime,Intelligence,0
+2016-10-10T20:35:00,50,1,messages,General Social Networking,-2
+2016-10-10T20:40:00,133,1,Finder,General Utilities,0
+2016-10-10T20:40:00,105,1,RescueTime,Intelligence,0
+2016-10-10T20:40:00,17,1,loginwindow,General Utilities,0
+2016-10-10T20:45:00,42,1,messages,General Social Networking,-2
+2016-10-10T20:45:00,23,1,microsoft word,Writing,2
+2016-10-10T20:45:00,6,1,deerfield.instructure.com,General Reference & Learning,1
+2016-10-10T20:45:00,1,1,Safari,Browsers,2
+2016-10-10T20:45:00,1,1,Finder,General Utilities,0
+2016-10-10T20:50:00,210,1,microsoft word,Writing,2
+2016-10-10T20:50:00,72,1,messages,General Social Networking,-2
+2016-10-10T20:50:00,18,1,deerfield.instructure.com,General Reference & Learning,1
+2016-10-10T20:55:00,246,1,microsoft word,Writing,2
+2016-10-10T20:55:00,36,1,messages,General Social Networking,-2
+2016-10-10T20:55:00,10,1,deerfield.instructure.com,General Reference & Learning,1
+2016-10-10T20:55:00,3,1,Safari,Browsers,2
+2016-10-10T20:55:00,1,1,Finder,General Utilities,0
+2016-10-10T21:00:00,203,1,wolframalpha.com,Search,1
+2016-10-10T21:00:00,51,1,microsoft word,Writing,2
+2016-10-10T21:00:00,32,1,messages,General Social Networking,-2
+2016-10-10T21:00:00,13,1,Safari,Browsers,2
+2016-10-10T21:05:00,208,1,wolframalpha.com,Search,1
+2016-10-10T21:05:00,89,1,messages,General Social Networking,-2
+2016-10-10T21:05:00,3,1,Finder,General Utilities,0
+2016-10-10T21:10:00,141,1,microsoft word,Writing,2
+2016-10-10T21:10:00,129,1,deerfield.instructure.com,General Reference & Learning,1
+2016-10-10T21:10:00,19,1,wolframalpha.com,Search,1
+2016-10-10T21:10:00,10,1,Safari,Browsers,2
+2016-10-10T21:10:00,1,1,Finder,General Utilities,0
+2016-10-10T21:15:00,209,1,google.com,Search,2
+2016-10-10T21:15:00,82,1,microsoft word,Writing,2
+2016-10-10T21:15:00,9,1,Safari,Browsers,2
+2016-10-10T21:20:00,252,1,microsoft word,Writing,2
+2016-10-10T21:20:00,24,1,Mail,Email,2
+2016-10-10T21:20:00,19,1,Preview,General Reference & Learning,2
+2016-10-10T21:20:00,5,1,google.com,Search,2
+2016-10-10T21:25:00,250,1,microsoft word,Writing,2
+2016-10-10T21:25:00,23,1,photos,Photos,0
+2016-10-10T21:25:00,20,1,deerfield.instructure.com,General Reference & Learning,1
+2016-10-10T21:25:00,3,1,Safari,Browsers,2
+2016-10-10T21:25:00,1,1,sourceforge.net,General Software Development,2
+2016-10-10T21:25:00,1,1,google.com,Search,2
+2016-10-10T21:25:00,1,1,wolframalpha.com,Search,1
+2016-10-10T21:30:00,293,1,microsoft word,Writing,2
+2016-10-10T21:30:00,6,1,Mail,Email,2
+2016-10-10T21:35:00,18,1,loginwindow,General Utilities,0
+2016-10-10T21:35:00,13,1,microsoft word,Writing,2
+2016-10-10T21:45:00,78,1,dainfo.deerfield.edu,General Reference & Learning,1
+2016-10-10T21:45:00,9,1,onecard.deerfield.edu,General Reference & Learning,1
+2016-10-10T21:45:00,3,1,deerfield.edu,General Reference & Learning,1
+2016-10-10T21:45:00,2,1,microsoft word,Writing,2
+2016-10-10T21:50:00,152,1,microsoft word,Writing,2
+2016-10-10T21:50:00,109,1,dainfo.deerfield.edu,General Reference & Learning,1
+2016-10-10T21:50:00,39,1,google.com,Search,2
+2016-10-10T21:55:00,216,1,microsoft word,Writing,2
+2016-10-10T21:55:00,42,1,Mail,Email,2
+2016-10-10T21:55:00,38,1,Preview,General Reference & Learning,2
+2016-10-10T21:55:00,2,1,Finder,General Utilities,0
+2016-10-10T22:00:00,160,1,microsoft word,Writing,2
+2016-10-10T22:00:00,122,1,amazon.com,General Shopping,-1
+2016-10-10T22:00:00,66,1,deerfield.instructure.com,General Reference & Learning,1
+2016-10-10T22:00:00,59,1,google.com,Search,2
+2016-10-10T22:00:00,18,1,Safari,Browsers,2
+2016-10-10T22:00:00,4,1,facebook.com,General Social Networking,-2
+2016-10-10T22:00:00,1,1,deerfield.edu,General Reference & Learning,1
+2016-10-10T22:05:00,268,1,deerfield.instructure.com,General Reference & Learning,1
+2016-10-10T22:05:00,28,1,google.com,Search,2
+2016-10-10T22:05:00,4,1,Safari,Browsers,2
+2016-10-10T22:10:00,266,1,messages,General Social Networking,-2
+2016-10-10T22:10:00,34,1,deerfield.instructure.com,General Reference & Learning,1
+2016-10-10T22:15:00,258,1,messages,General Social Networking,-2
+2016-10-10T22:25:00,32,1,microsoft word,Writing,2
+2016-10-10T22:30:00,14,1,microsoft word,Writing,2
+2016-10-10T22:35:00,125,1,microsoft word,Writing,2
+2016-10-10T22:35:00,19,1,loginwindow,General Utilities,0
+2016-10-10T22:35:00,8,1,Finder,General Utilities,0
+2016-10-10T22:35:00,7,1,Mail,Email,2
+2016-10-10T22:35:00,4,1,photos,Photos,0
+2016-10-10T22:40:00,210,1,microsoft word,Writing,2
+2016-10-10T22:40:00,90,1,photos,Photos,0
+2016-10-10T22:45:00,151,1,microsoft word,Writing,2
+2016-10-10T22:45:00,74,1,messages,General Social Networking,-2
+2016-10-10T22:45:00,30,1,Preview,General Reference & Learning,2
+2016-10-10T22:45:00,27,1,Finder,General Utilities,0
+2016-10-10T22:45:00,12,1,facebook.com,General Social Networking,-2
+2016-10-10T22:45:00,5,1,Mail,Email,2
+2016-10-10T22:45:00,1,1,deerfield.instructure.com,General Reference & Learning,1
+2016-10-10T22:50:00,289,1,microsoft word,Writing,2
+2016-10-10T22:50:00,10,1,Finder,General Utilities,0
+2016-10-10T22:55:00,291,1,microsoft word,Writing,2
+2016-10-10T22:55:00,9,1,messages,General Social Networking,-2
+2016-10-10T23:00:00,258,1,microsoft word,Writing,2
+2016-10-10T23:00:00,174,1,facebook.com,General Social Networking,-2
+2016-10-10T23:00:00,27,1,Safari,Browsers,2
+2016-10-10T23:00:00,18,1,systemuiserver,General Utilities,1
+2016-10-10T23:00:00,13,1,cybertext.wordpress.com,General Reference & Learning,1
+2016-10-10T23:00:00,11,1,google.com,Search,2
+2016-10-10T23:00:00,8,1,applications,General Business,2
+2016-10-10T23:00:00,6,1,dainfo.deerfield.edu,General Reference & Learning,1
+2016-10-10T23:00:00,3,1,usernotificationcenter,General Utilities,0
+2016-10-10T23:00:00,2,1,reference.wolfram.com,General Business,2
+2016-10-10T23:05:00,289,1,microsoft word,Writing,2
+2016-10-10T23:05:00,25,1,facebook.com,General Social Networking,-2
+2016-10-10T23:05:00,21,1,deerfield.edu,General Reference & Learning,1
+2016-10-10T23:05:00,17,1,loginwindow,General Utilities,0
+2016-10-10T23:05:00,11,1,messages,General Social Networking,-2
+2016-10-10T23:05:00,9,1,reference.wolfram.com,General Business,2
+2016-10-10T23:05:00,1,1,deerfield.instructure.com,General Reference & Learning,1
+2016-10-10T23:05:00,1,1,dainfo.deerfield.edu,General Reference & Learning,1
+2016-10-10T23:10:00,289,1,messages,General Social Networking,-2
+2016-10-10T23:10:00,11,1,microsoft word,Writing,2
+2016-10-10T23:15:00,134,1,microsoft word,Writing,2
+2016-10-10T23:15:00,126,1,messages,General Social Networking,-2
+2016-10-10T23:15:00,119,1,Safari,Browsers,2
+2016-10-10T23:15:00,89,1,answers.yahoo.com,Search,0
+2016-10-10T23:15:00,32,1,usernotificationcenter,General Utilities,0
+2016-10-10T23:15:00,12,1,google.com,Search,2
+2016-10-10T23:15:00,4,1,systemuiserver,General Utilities,1
+2016-10-10T23:15:00,4,1,google drive,General Business,2
+2016-10-10T23:15:00,4,1,cybertext.wordpress.com,General Reference & Learning,1
+2016-10-10T23:15:00,3,1,apple.com,Engineering & Technology,-1
+2016-10-10T23:15:00,2,1,applications,General Business,2
+2016-10-10T23:15:00,2,1,reference.wolfram.com,General Business,2
+2016-10-10T23:20:00,284,1,microsoft word,Writing,2
+2016-10-10T23:20:00,257,1,answers.yahoo.com,Search,0
+2016-10-10T23:20:00,17,1,physicsforums.com,Search,0
+2016-10-10T23:20:00,16,1,messages,General Social Networking,-2
+2016-10-10T23:20:00,15,1,google.com,Search,2
+2016-10-10T23:20:00,3,1,Safari,Browsers,2
+2016-10-10T23:20:00,2,1,applications,General Business,2
+2016-10-10T23:20:00,1,1,reference.wolfram.com,General Business,2
+2016-10-10T23:25:00,300,1,microsoft word,Writing,2
+2016-10-10T23:30:00,177,1,microsoft word,Writing,2
+2016-10-10T23:30:00,76,1,messages,General Social Networking,-2
+2016-10-10T23:30:00,23,1,photos,Photos,0
+2016-10-10T23:30:00,18,1,Finder,General Utilities,0
+2016-10-10T23:30:00,2,1,usernotificationcenter,General Utilities,0
+2016-10-10T23:35:00,227,1,microsoft word,Writing,2
+2016-10-10T23:35:00,71,1,physicsforums.com,Search,0
+2016-10-10T23:35:00,69,1,google.com,Search,2
+2016-10-10T23:35:00,41,1,facebook.com,General Social Networking,-2
+2016-10-10T23:35:00,37,1,ti.com,General News & Opinion,-2
+2016-10-10T23:35:00,18,1,loginwindow,General Utilities,0
+2016-10-10T23:35:00,17,1,messages,General Social Networking,-2
+2016-10-10T23:35:00,10,1,answers.yahoo.com,Search,0
+2016-10-10T23:35:00,9,1,en.wikipedia.org,General Reference & Learning,1
+2016-10-10T23:35:00,6,1,cybertext.wordpress.com,General Reference & Learning,1
+2016-10-10T23:35:00,5,1,reference.wolfram.com,General Business,2
+2016-10-10T23:35:00,3,1,Safari,Browsers,2
+2016-10-10T23:40:00,205,1,ti.com,General News & Opinion,-2
+2016-10-10T23:40:00,69,1,microsoft word,Writing,2
+2016-10-10T23:40:00,15,1,messages,General Social Networking,-2
+2016-10-10T23:40:00,8,1,usernotificationcenter,General Utilities,0
+2016-10-10T23:40:00,2,1,Safari,Browsers,2
+2016-10-10T23:45:00,272,1,microsoft word,Writing,2
+2016-10-10T23:45:00,11,1,ti.com,General News & Opinion,-2
+2016-10-10T23:45:00,9,1,Finder,General Utilities,0
+2016-10-10T23:45:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2016-10-10T23:45:00,3,1,photos,Photos,0
+2016-10-10T23:50:00,246,1,microsoft word,Writing,2
+2016-10-10T23:50:00,48,1,photos,Photos,0
+2016-10-10T23:50:00,5,1,messages,General Social Networking,-2
+2016-10-10T23:50:00,1,1,ti.com,General News & Opinion,-2
+2016-10-10T23:55:00,193,1,microsoft word,Writing,2
+2016-10-10T23:55:00,56,1,messages,General Social Networking,-2
+2016-10-10T23:55:00,43,1,en.wikipedia.org,General Reference & Learning,1
+2016-10-10T23:55:00,4,1,photos,Photos,0
+2016-10-10T23:55:00,3,1,Finder,General Utilities,0
+2016-10-10T23:55:00,1,1,usernotificationcenter,General Utilities,0

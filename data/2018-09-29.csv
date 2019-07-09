@@ -1,0 +1,333 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-09-29T01:15:00,14,1,loginwindow,General Utilities,0
+2018-09-29T01:15:00,11,1,6004.mit.edu:4443,Uncategorized,0
+2018-09-29T01:20:00,152,1,youtube.com,Video,-2
+2018-09-29T01:20:00,135,1,6004.mit.edu:4443,Uncategorized,0
+2018-09-29T01:20:00,13,1,messenger.com,General Social Networking,-2
+2018-09-29T01:25:00,274,1,video.odl.mit.edu,General Reference & Learning,1
+2018-09-29T01:25:00,25,1,youtube.com,Video,-2
+2018-09-29T01:25:00,1,1,6004.mit.edu:4443,Uncategorized,0
+2018-09-29T01:30:00,300,1,video.odl.mit.edu,General Reference & Learning,1
+2018-09-29T01:35:00,300,1,video.odl.mit.edu,General Reference & Learning,1
+2018-09-29T01:40:00,217,1,video.odl.mit.edu,General Reference & Learning,1
+2018-09-29T01:40:00,59,1,calendar,Calendars,1
+2018-09-29T01:40:00,24,1,Mail,Email,2
+2018-09-29T01:45:00,94,1,video.odl.mit.edu,General Reference & Learning,1
+2018-09-29T02:15:00,166,1,introml.mit.edu,Presentation,2
+2018-09-29T02:20:00,152,1,introml.mit.edu,Presentation,2
+2018-09-29T02:20:00,1,1,loginwindow,General Utilities,0
+2018-09-29T10:55:00,68,1,introml.mit.edu,Presentation,2
+2018-09-29T10:55:00,1,1,loginwindow,General Utilities,0
+2018-09-29T11:00:00,251,1,introml.mit.edu,Presentation,2
+2018-09-29T11:00:00,43,1,youtube.com,Video,-2
+2018-09-29T11:00:00,4,1,rapidtables.com,Engineering & Technology,1
+2018-09-29T11:00:00,1,1,nandland.com,Uncategorized,0
+2018-09-29T11:05:00,291,1,introml.mit.edu,Presentation,2
+2018-09-29T11:05:00,6,1,youtube.com,Video,-2
+2018-09-29T11:05:00,2,1,rapidtables.com,Engineering & Technology,1
+2018-09-29T11:05:00,1,1,6004.mit.edu:4443,Uncategorized,0
+2018-09-29T11:10:00,182,1,wolframalpha.com,Search,1
+2018-09-29T11:10:00,111,1,introml.mit.edu,Presentation,2
+2018-09-29T11:10:00,3,1,nandland.com,Uncategorized,0
+2018-09-29T11:10:00,2,1,6004.mit.edu:4443,Uncategorized,0
+2018-09-29T11:10:00,1,1,intel.com,Search,0
+2018-09-29T11:15:00,138,1,introml.mit.edu,Presentation,2
+2018-09-29T11:15:00,87,1,wolframalpha.com,Search,1
+2018-09-29T11:15:00,43,1,Finder,General Utilities,0
+2018-09-29T11:15:00,31,1,sublime text,Editing & IDEs,2
+2018-09-29T11:20:00,160,1,sublime text,Editing & IDEs,2
+2018-09-29T11:20:00,94,1,Terminal,Systems Operations,2
+2018-09-29T11:20:00,41,1,introml.mit.edu,Presentation,2
+2018-09-29T11:20:00,2,1,virtualbox vm,General Software Development,2
+2018-09-29T11:20:00,2,1,Finder,General Utilities,0
+2018-09-29T11:25:00,210,1,sublime text,Editing & IDEs,2
+2018-09-29T11:25:00,75,1,Terminal,Systems Operations,2
+2018-09-29T11:25:00,7,1,introml.mit.edu,Presentation,2
+2018-09-29T11:25:00,4,1,microsoft onenote,Intelligence,2
+2018-09-29T11:25:00,4,1,Mail,Email,2
+2018-09-29T11:30:00,202,1,Terminal,Systems Operations,2
+2018-09-29T11:30:00,70,1,introml.mit.edu,Presentation,2
+2018-09-29T11:30:00,28,1,sublime text,Editing & IDEs,2
+2018-09-29T11:35:00,188,1,introml.mit.edu,Presentation,2
+2018-09-29T11:35:00,88,1,wolframalpha.com,Search,1
+2018-09-29T11:35:00,24,1,sublime text,Editing & IDEs,2
+2018-09-29T11:40:00,142,1,sublime text,Editing & IDEs,2
+2018-09-29T11:40:00,65,1,introml.mit.edu,Presentation,2
+2018-09-29T11:40:00,20,1,Terminal,Systems Operations,2
+2018-09-29T11:50:00,34,1,introml.mit.edu,Presentation,2
+2018-09-29T11:50:00,10,1,sublime text,Editing & IDEs,2
+2018-09-29T11:50:00,1,1,Finder,General Utilities,0
+2018-09-29T11:55:00,286,1,introml.mit.edu,Presentation,2
+2018-09-29T11:55:00,14,1,sublime text,Editing & IDEs,2
+2018-09-29T12:00:00,215,1,introml.mit.edu,Presentation,2
+2018-09-29T12:00:00,66,1,sublime text,Editing & IDEs,2
+2018-09-29T12:00:00,19,1,Terminal,Systems Operations,2
+2018-09-29T12:05:00,168,1,introml.mit.edu,Presentation,2
+2018-09-29T12:05:00,71,1,sublime text,Editing & IDEs,2
+2018-09-29T12:05:00,32,1,Terminal,Systems Operations,2
+2018-09-29T12:05:00,24,1,messenger.com,General Social Networking,-2
+2018-09-29T12:05:00,3,1,news,General News & Opinion,-2
+2018-09-29T12:05:00,1,1,Finder,General Utilities,0
+2018-09-29T12:10:00,129,1,messenger.com,General Social Networking,-2
+2018-09-29T12:10:00,29,1,introml.mit.edu,Presentation,2
+2018-09-29T12:10:00,23,1,Mail,Email,2
+2018-09-29T12:10:00,8,1,wechat,General Social Networking,-2
+2018-09-29T12:10:00,3,1,Terminal,Systems Operations,2
+2018-09-29T12:10:00,1,1,loginwindow,General Utilities,0
+2018-09-29T12:15:00,163,1,introml.mit.edu,Presentation,2
+2018-09-29T12:15:00,3,1,Mail,Email,2
+2018-09-29T12:15:00,1,1,loginwindow,General Utilities,0
+2018-09-29T12:20:00,284,1,introml.mit.edu,Presentation,2
+2018-09-29T12:20:00,10,1,google.com,Search,2
+2018-09-29T12:20:00,6,1,Safari,Browsers,2
+2018-09-29T12:25:00,195,1,introml.mit.edu,Presentation,2
+2018-09-29T12:25:00,1,1,9to5mac.com,General News & Opinion,-2
+2018-09-29T12:25:00,1,1,loginwindow,General Utilities,0
+2018-09-29T12:30:00,99,1,Mail,Email,2
+2018-09-29T12:30:00,14,1,Notes,Email,0
+2018-09-29T12:30:00,8,1,calendar,Calendars,1
+2018-09-29T12:30:00,4,1,introml.mit.edu,Presentation,2
+2018-09-29T12:30:00,1,1,loginwindow,General Utilities,0
+2018-09-29T15:50:00,62,1,sublime text,Editing & IDEs,2
+2018-09-29T15:50:00,61,1,Terminal,Systems Operations,2
+2018-09-29T15:50:00,25,1,Finder,General Utilities,0
+2018-09-29T15:50:00,22,1,introml.mit.edu,Presentation,2
+2018-09-29T15:50:00,6,1,calendar,Calendars,1
+2018-09-29T15:50:00,6,1,loginwindow,General Utilities,0
+2018-09-29T15:50:00,3,1,messages,General Social Networking,-2
+2018-09-29T15:50:00,2,1,newtab,Browsers,0
+2018-09-29T15:50:00,1,1,Google Spreadsheets,General Business,2
+2018-09-29T15:55:00,144,1,sublime text,Editing & IDEs,2
+2018-09-29T15:55:00,114,1,introml.mit.edu,Presentation,2
+2018-09-29T15:55:00,22,1,Terminal,Systems Operations,2
+2018-09-29T15:55:00,12,1,Finder,General Utilities,0
+2018-09-29T15:55:00,8,1,TextEdit,Writing,2
+2018-09-29T16:00:00,129,1,Terminal,Systems Operations,2
+2018-09-29T16:00:00,47,1,Finder,General Utilities,0
+2018-09-29T16:00:00,36,1,stackoverflow.com,General Software Development,2
+2018-09-29T16:00:00,31,1,sourceforge.net,General Software Development,2
+2018-09-29T16:00:00,27,1,docs.scipy.org,Engineering & Technology,1
+2018-09-29T16:00:00,12,1,google.com,Search,2
+2018-09-29T16:00:00,7,1,numpy.org,Uncategorized,0
+2018-09-29T16:00:00,3,1,newtab,Browsers,0
+2018-09-29T16:00:00,3,1,pypi.org,General Reference & Learning,1
+2018-09-29T16:00:00,2,1,introml.mit.edu,Presentation,2
+2018-09-29T16:00:00,2,1,sublime text,Editing & IDEs,2
+2018-09-29T16:00:00,1,1,archive utility,General Utilities,1
+2018-09-29T16:05:00,175,1,sublime text,Editing & IDEs,2
+2018-09-29T16:05:00,62,1,introml.mit.edu,Presentation,2
+2018-09-29T16:05:00,32,1,Finder,General Utilities,0
+2018-09-29T16:05:00,10,1,stackoverflow.com,General Software Development,2
+2018-09-29T16:05:00,3,1,Notes,Email,0
+2018-09-29T16:05:00,1,1,loginwindow,General Utilities,0
+2018-09-29T16:10:00,300,1,sublime text,Editing & IDEs,2
+2018-09-29T16:15:00,268,1,sublime text,Editing & IDEs,2
+2018-09-29T16:15:00,32,1,Terminal,Systems Operations,2
+2018-09-29T16:20:00,181,1,sublime text,Editing & IDEs,2
+2018-09-29T16:20:00,80,1,Terminal,Systems Operations,2
+2018-09-29T16:20:00,23,1,stackoverflow.com,General Software Development,2
+2018-09-29T16:20:00,9,1,introml.mit.edu,Presentation,2
+2018-09-29T16:20:00,4,1,Finder,General Utilities,0
+2018-09-29T16:20:00,3,1,google.com,Search,2
+2018-09-29T16:25:00,126,1,Terminal,Systems Operations,2
+2018-09-29T16:25:00,98,1,introml.mit.edu,Presentation,2
+2018-09-29T16:25:00,76,1,sublime text,Editing & IDEs,2
+2018-09-29T16:30:00,164,1,sublime text,Editing & IDEs,2
+2018-09-29T16:30:00,86,1,introml.mit.edu,Presentation,2
+2018-09-29T16:30:00,43,1,Terminal,Systems Operations,2
+2018-09-29T16:30:00,4,1,Finder,General Utilities,0
+2018-09-29T16:30:00,3,1,TextEdit,Writing,2
+2018-09-29T16:35:00,130,1,introml.mit.edu,Presentation,2
+2018-09-29T16:35:00,87,1,Terminal,Systems Operations,2
+2018-09-29T16:35:00,83,1,sublime text,Editing & IDEs,2
+2018-09-29T16:40:00,204,1,introml.mit.edu,Presentation,2
+2018-09-29T16:40:00,87,1,sublime text,Editing & IDEs,2
+2018-09-29T16:40:00,9,1,Terminal,Systems Operations,2
+2018-09-29T16:45:00,154,1,9to5mac.com,General News & Opinion,-2
+2018-09-29T16:45:00,139,1,Terminal,Systems Operations,2
+2018-09-29T16:45:00,87,1,introml.mit.edu,Presentation,2
+2018-09-29T16:45:00,74,1,sublime text,Editing & IDEs,2
+2018-09-29T16:45:00,5,1,newtab,Browsers,0
+2018-09-29T16:45:00,3,1,overleaf.com,Writing,2
+2018-09-29T16:45:00,2,1,docs.scipy.org,Engineering & Technology,1
+2018-09-29T16:50:00,236,1,9to5mac.com,General News & Opinion,-2
+2018-09-29T16:50:00,234,1,Terminal,Systems Operations,2
+2018-09-29T16:50:00,34,1,sublime text,Editing & IDEs,2
+2018-09-29T16:50:00,32,1,introml.mit.edu,Presentation,2
+2018-09-29T16:55:00,208,1,sublime text,Editing & IDEs,2
+2018-09-29T16:55:00,59,1,introml.mit.edu,Presentation,2
+2018-09-29T16:55:00,12,1,Terminal,Systems Operations,2
+2018-09-29T16:55:00,7,1,TextEdit,Writing,2
+2018-09-29T16:55:00,6,1,Finder,General Utilities,0
+2018-09-29T16:55:00,4,1,lagrange.univ-lyon1.fr,Uncategorized,0
+2018-09-29T16:55:00,2,1,Safari,Browsers,2
+2018-09-29T16:55:00,2,1,google.com,Search,2
+2018-09-29T17:00:00,184,1,sublime text,Editing & IDEs,2
+2018-09-29T17:00:00,71,1,stackoverflow.com,General Software Development,2
+2018-09-29T17:00:00,20,1,docs.scipy.org,Engineering & Technology,1
+2018-09-29T17:00:00,11,1,Safari,Browsers,2
+2018-09-29T17:00:00,10,1,google.com,Search,2
+2018-09-29T17:00:00,1,1,introml.mit.edu,Presentation,2
+2018-09-29T17:00:00,1,1,Finder,General Utilities,0
+2018-09-29T17:05:00,229,1,sublime text,Editing & IDEs,2
+2018-09-29T17:05:00,27,1,introml.mit.edu,Presentation,2
+2018-09-29T17:05:00,14,1,google.com,Search,2
+2018-09-29T17:05:00,14,1,TextEdit,Writing,2
+2018-09-29T17:05:00,8,1,Finder,General Utilities,0
+2018-09-29T17:05:00,7,1,stackoverflow.com,General Software Development,2
+2018-09-29T17:05:00,1,1,docs.scipy.org,Engineering & Technology,1
+2018-09-29T17:10:00,115,1,Terminal,Systems Operations,2
+2018-09-29T17:10:00,102,1,sublime text,Editing & IDEs,2
+2018-09-29T17:10:00,69,1,introml.mit.edu,Presentation,2
+2018-09-29T17:10:00,14,1,docs.scipy.org,Engineering & Technology,1
+2018-09-29T17:15:00,149,1,introml.mit.edu,Presentation,2
+2018-09-29T17:15:00,145,1,messenger.com,General Social Networking,-2
+2018-09-29T17:15:00,64,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-09-29T17:15:00,20,1,messages,General Social Networking,-2
+2018-09-29T17:15:00,14,1,Preview,General Reference & Learning,2
+2018-09-29T17:15:00,12,1,stellar.mit.edu,General Reference & Learning,1
+2018-09-29T17:15:00,7,1,idp.mit.edu,General Reference & Learning,1
+2018-09-29T17:15:00,2,1,newtab,Browsers,0
+2018-09-29T17:15:00,1,1,loginwindow,General Utilities,0
+2018-09-29T17:20:00,174,1,texshop,Writing,2
+2018-09-29T17:20:00,50,1,Finder,General Utilities,0
+2018-09-29T17:20:00,48,1,Preview,General Reference & Learning,2
+2018-09-29T17:20:00,17,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-09-29T17:20:00,5,1,users,General Software Development,2
+2018-09-29T17:20:00,4,1,Terminal,Systems Operations,2
+2018-09-29T17:25:00,197,1,Preview,General Reference & Learning,2
+2018-09-29T17:25:00,103,1,texshop,Writing,2
+2018-09-29T17:30:00,278,1,Preview,General Reference & Learning,2
+2018-09-29T17:30:00,12,1,betterexplained.com,Search,0
+2018-09-29T17:30:00,6,1,newtab,Browsers,0
+2018-09-29T17:30:00,3,1,google.com,Search,2
+2018-09-29T17:30:00,1,1,drive.google.com,General Business,2
+2018-09-29T17:35:00,278,1,betterexplained.com,Search,0
+2018-09-29T17:35:00,22,1,messages,General Social Networking,-2
+2018-09-29T17:40:00,105,1,betterexplained.com,Search,0
+2018-09-29T17:40:00,94,1,Preview,General Reference & Learning,2
+2018-09-29T17:40:00,51,1,texshop,Writing,2
+2018-09-29T17:40:00,50,1,messages,General Social Networking,-2
+2018-09-29T17:45:00,300,1,Preview,General Reference & Learning,2
+2018-09-29T17:50:00,171,1,standardwisdom.com,Uncategorized,0
+2018-09-29T17:50:00,85,1,Preview,General Reference & Learning,2
+2018-09-29T17:50:00,25,1,math.stackexchange.com,General Reference & Learning,1
+2018-09-29T17:50:00,14,1,google.com,Search,2
+2018-09-29T17:50:00,5,1,betterexplained.com,Search,0
+2018-09-29T17:55:00,146,1,brilliant.org,General Reference & Learning,1
+2018-09-29T17:55:00,120,1,Mail,Email,2
+2018-09-29T17:55:00,32,1,standardwisdom.com,Uncategorized,0
+2018-09-29T17:55:00,2,1,google.com,Search,2
+2018-09-29T18:00:00,195,1,brilliant.org,General Reference & Learning,1
+2018-09-29T18:00:00,95,1,google.com,Search,2
+2018-09-29T18:00:00,9,1,newtab,Browsers,0
+2018-09-29T18:00:00,1,1,Preview,General Reference & Learning,2
+2018-09-29T18:05:00,222,1,Preview,General Reference & Learning,2
+2018-09-29T18:05:00,75,1,wolframalpha.com,Search,1
+2018-09-29T18:05:00,1,1,newtab,Browsers,0
+2018-09-29T18:05:00,1,1,google.com,Search,2
+2018-09-29T18:10:00,300,1,Preview,General Reference & Learning,2
+2018-09-29T18:15:00,300,1,Preview,General Reference & Learning,2
+2018-09-29T18:20:00,185,1,Preview,General Reference & Learning,2
+2018-09-29T18:20:00,139,1,Skype,General Social Networking,-2
+2018-09-29T18:20:00,131,1,messenger.com,General Social Networking,-2
+2018-09-29T18:20:00,115,1,texshop,Writing,2
+2018-09-29T18:20:00,21,1,virtualbox vm,General Software Development,2
+2018-09-29T18:20:00,3,1,virtualbox,Virtualization,0
+2018-09-29T18:25:00,300,1,texshop,Writing,2
+2018-09-29T18:25:00,299,1,messenger.com,General Social Networking,-2
+2018-09-29T18:25:00,1,1,virtualbox vm,General Software Development,2
+2018-09-29T18:30:00,300,1,texshop,Writing,2
+2018-09-29T18:30:00,10,1,messenger.com,General Social Networking,-2
+2018-09-29T18:30:00,2,1,Skype,General Social Networking,-2
+2018-09-29T18:30:00,1,1,virtualbox vm,General Software Development,2
+2018-09-29T18:35:00,156,1,wolframalpha.com,Search,1
+2018-09-29T18:35:00,152,1,virtualbox vm,General Software Development,2
+2018-09-29T18:35:00,144,1,texshop,Writing,2
+2018-09-29T18:35:00,28,1,Skype,General Social Networking,-2
+2018-09-29T18:40:00,300,1,virtualbox vm,General Software Development,2
+2018-09-29T18:40:00,192,1,Preview,General Reference & Learning,2
+2018-09-29T18:40:00,98,1,wolframalpha.com,Search,1
+2018-09-29T18:40:00,4,1,newtab,Browsers,0
+2018-09-29T18:40:00,3,1,google.com,Search,2
+2018-09-29T18:40:00,3,1,nzmaths.co.nz,Uncategorized,0
+2018-09-29T18:45:00,256,1,virtualbox vm,General Software Development,2
+2018-09-29T18:45:00,157,1,google.com,Search,2
+2018-09-29T18:45:00,61,1,texshop,Writing,2
+2018-09-29T18:45:00,60,1,Preview,General Reference & Learning,2
+2018-09-29T18:45:00,44,1,6004.mit.edu:4443,Uncategorized,0
+2018-09-29T18:45:00,13,1,overleaf.com,Writing,2
+2018-09-29T18:45:00,7,1,www1.maths.leeds.ac.uk,Operations,2
+2018-09-29T18:45:00,2,1,nzmaths.co.nz,Uncategorized,0
+2018-09-29T18:50:00,300,1,virtualbox vm,General Software Development,2
+2018-09-29T18:50:00,300,1,texshop,Writing,2
+2018-09-29T18:55:00,293,1,texshop,Writing,2
+2018-09-29T18:55:00,39,1,virtualbox vm,General Software Development,2
+2018-09-29T18:55:00,7,1,overleaf.com,Writing,2
+2018-09-29T19:00:00,300,1,texshop,Writing,2
+2018-09-29T19:05:00,220,1,texshop,Writing,2
+2018-09-29T19:05:00,28,1,en.wikipedia.org,General Reference & Learning,1
+2018-09-29T19:05:00,21,1,stat.yale.edu,General Reference & Learning,1
+2018-09-29T19:05:00,20,1,google.com,Search,2
+2018-09-29T19:05:00,7,1,Finder,General Utilities,0
+2018-09-29T19:05:00,6,1,ocw.mit.edu,General Reference & Learning,1
+2018-09-29T19:05:00,4,1,overleaf.com,Writing,2
+2018-09-29T19:10:00,170,1,texshop,Writing,2
+2018-09-29T19:10:00,59,1,wolframalpha.com,Search,1
+2018-09-29T19:10:00,23,1,Skype,General Social Networking,-2
+2018-09-29T19:10:00,19,1,tex.stackexchange.com,Engineering & Technology,1
+2018-09-29T19:10:00,2,1,google.com,Search,2
+2018-09-29T19:10:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2018-09-29T19:10:00,1,1,loginwindow,General Utilities,0
+2018-09-29T22:55:00,62,1,stellar.mit.edu,General Reference & Learning,1
+2018-09-29T22:55:00,50,1,Preview,General Reference & Learning,2
+2018-09-29T22:55:00,26,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-09-29T22:55:00,23,1,Finder,General Utilities,0
+2018-09-29T22:55:00,5,1,texshop,Writing,2
+2018-09-29T22:55:00,5,1,6004.mit.edu:4443,Uncategorized,0
+2018-09-29T22:55:00,5,1,idp.mit.edu,General Reference & Learning,1
+2018-09-29T22:55:00,3,1,Skype,General Social Networking,-2
+2018-09-29T22:55:00,3,1,loginwindow,General Utilities,0
+2018-09-29T23:00:00,137,1,Preview,General Reference & Learning,2
+2018-09-29T23:15:00,47,1,Preview,General Reference & Learning,2
+2018-09-29T23:20:00,235,1,Preview,General Reference & Learning,2
+2018-09-29T23:20:00,58,1,math.stackexchange.com,General Reference & Learning,1
+2018-09-29T23:20:00,3,1,Safari,Browsers,2
+2018-09-29T23:20:00,2,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-09-29T23:20:00,2,1,google.com,Search,2
+2018-09-29T23:25:00,214,1,math.stackexchange.com,General Reference & Learning,1
+2018-09-29T23:25:00,74,1,texshop,Writing,2
+2018-09-29T23:25:00,10,1,Preview,General Reference & Learning,2
+2018-09-29T23:25:00,1,1,virtualbox vm,General Software Development,2
+2018-09-29T23:30:00,300,1,texshop,Writing,2
+2018-09-29T23:35:00,142,1,Preview,General Reference & Learning,2
+2018-09-29T23:35:00,83,1,texshop,Writing,2
+2018-09-29T23:35:00,32,1,onlinecourses.science.psu.edu,General Reference & Learning,1
+2018-09-29T23:35:00,17,1,google.com,Search,2
+2018-09-29T23:35:00,14,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-09-29T23:35:00,9,1,math.stackexchange.com,General Reference & Learning,1
+2018-09-29T23:35:00,2,1,stellar.mit.edu,General Reference & Learning,1
+2018-09-29T23:35:00,1,1,stackoverflow.com,General Software Development,2
+2018-09-29T23:40:00,222,1,Preview,General Reference & Learning,2
+2018-09-29T23:40:00,58,1,en.wikipedia.org,General Reference & Learning,1
+2018-09-29T23:40:00,14,1,wolframalpha.com,Search,1
+2018-09-29T23:40:00,2,1,google.com,Search,2
+2018-09-29T23:40:00,2,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-09-29T23:40:00,1,1,texshop,Writing,2
+2018-09-29T23:45:00,169,1,Preview,General Reference & Learning,2
+2018-09-29T23:45:00,75,1,google.qualtrics.com,Internet Utilities,1
+2018-09-29T23:45:00,23,1,math.arizona.edu,General Reference & Learning,1
+2018-09-29T23:45:00,11,1,khanacademy.org,General Reference & Learning,2
+2018-09-29T23:45:00,8,1,Mail,Email,2
+2018-09-29T23:45:00,6,1,google.com,Search,2
+2018-09-29T23:45:00,6,1,stackoverflow.com,General Software Development,2
+2018-09-29T23:45:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2018-09-29T23:50:00,224,1,google.qualtrics.com,Internet Utilities,1
+2018-09-29T23:50:00,76,1,Preview,General Reference & Learning,2
+2018-09-29T23:55:00,242,1,google.qualtrics.com,Internet Utilities,1
+2018-09-29T23:55:00,35,1,codingworksample.io,General Software Development,2
+2018-09-29T23:55:00,8,1,Mail,Email,2
+2018-09-29T23:55:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2018-09-29T23:55:00,4,1,google.com,Search,2
+2018-09-29T23:55:00,4,1,Safari,Browsers,2
+2018-09-29T23:55:00,2,1,texshop,Writing,2

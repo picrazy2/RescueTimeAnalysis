@@ -1,0 +1,190 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2015-02-16T00:00:00,243,1,hjedesign.com,Graphic Design,2
+2015-02-16T08:05:00,55,1,hjedesign.com,Graphic Design,2
+2015-02-16T08:05:00,54,1,Keynote,Presentation,2
+2015-02-16T08:05:00,16,1,facebook.com,General Social Networking,-2
+2015-02-16T08:05:00,13,1,loginwindow,General Utilities,0
+2015-02-16T08:10:00,100,1,google.com,Search,2
+2015-02-16T08:10:00,82,1,Keynote,Presentation,2
+2015-02-16T08:10:00,41,1,thepotomacpost.com,Uncategorized,0
+2015-02-16T08:10:00,40,1,youtube.com,Video,-2
+2015-02-16T08:10:00,16,1,facebook.com,General Social Networking,-2
+2015-02-16T08:10:00,9,1,cq.xinhuanet.com,General News & Opinion,-2
+2015-02-16T08:10:00,3,1,oneworldyouthproject.org,Uncategorized,0
+2015-02-16T08:15:00,142,1,facebook.com,General Social Networking,-2
+2015-02-16T08:15:00,95,1,youtube.com,Video,-2
+2015-02-16T08:15:00,45,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-16T08:15:00,10,1,Keynote,Presentation,2
+2015-02-16T08:15:00,5,1,video.baomihua.com,Video,-2
+2015-02-16T08:20:00,131,1,facebook.com,General Social Networking,-2
+2015-02-16T08:20:00,24,1,Mail,Email,2
+2015-02-16T08:20:00,17,1,loginwindow,General Utilities,0
+2015-02-16T09:15:00,173,1,youtube.com,Video,-2
+2015-02-16T09:15:00,13,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-16T09:15:00,11,1,facebook.com,General Social Networking,-2
+2015-02-16T09:20:00,93,1,Finder,General Utilities,0
+2015-02-16T09:20:00,60,1,facebook.com,General Social Networking,-2
+2015-02-16T09:20:00,41,1,youtube.com,Video,-2
+2015-02-16T09:20:00,16,1,loginwindow,General Utilities,0
+2015-02-16T09:45:00,47,1,Mail,Email,2
+2015-02-16T09:45:00,5,1,Finder,General Utilities,0
+2015-02-16T09:45:00,2,1,facebook.com,General Social Networking,-2
+2015-02-16T09:45:00,2,1,icloud.com,General Software Development,2
+2015-02-16T09:45:00,2,1,Dropbox,File Sharing,-2
+2015-02-16T09:45:00,2,1,youtube.com,Video,-2
+2015-02-16T09:50:00,166,1,Finder,General Utilities,0
+2015-02-16T09:50:00,99,1,facebook.com,General Social Networking,-2
+2015-02-16T09:50:00,26,1,Mail,Email,2
+2015-02-16T09:50:00,2,1,icloud.com,General Software Development,2
+2015-02-16T09:55:00,67,1,Finder,General Utilities,0
+2015-02-16T09:55:00,15,1,loginwindow,General Utilities,0
+2015-02-16T10:05:00,88,1,facebook.com,General Social Networking,-2
+2015-02-16T10:05:00,15,1,Finder,General Utilities,0
+2015-02-16T10:10:00,276,1,microsoft word,Writing,2
+2015-02-16T10:10:00,22,1,facebook.com,General Social Networking,-2
+2015-02-16T10:10:00,2,1,Finder,General Utilities,0
+2015-02-16T10:15:00,300,1,microsoft word,Writing,2
+2015-02-16T10:20:00,29,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-16T10:20:00,15,1,microsoft word,Writing,2
+2015-02-16T10:20:00,4,1,deerfield.edu,General Reference & Learning,1
+2015-02-16T10:20:00,2,1,facebook.com,General Social Networking,-2
+2015-02-16T10:45:00,72,1,Finder,General Utilities,0
+2015-02-16T10:45:00,23,1,microsoft word,Writing,2
+2015-02-16T10:45:00,18,1,Mail,Email,2
+2015-02-16T10:50:00,105,1,microsoft word,Writing,2
+2015-02-16T10:50:00,17,1,loginwindow,General Utilities,0
+2015-02-16T10:55:00,17,1,loginwindow,General Utilities,0
+2015-02-16T10:55:00,4,1,microsoft word,Writing,2
+2015-02-16T12:35:00,68,1,Keynote,Presentation,2
+2015-02-16T12:35:00,24,1,Finder,General Utilities,0
+2015-02-16T12:35:00,22,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-16T12:35:00,16,1,loginwindow,General Utilities,0
+2015-02-16T12:35:00,6,1,microsoft word,Writing,2
+2015-02-16T13:30:00,144,1,Keynote,Presentation,2
+2015-02-16T13:30:00,5,1,Finder,General Utilities,0
+2015-02-16T13:35:00,300,1,Keynote,Presentation,2
+2015-02-16T13:40:00,189,1,Keynote,Presentation,2
+2015-02-16T14:05:00,14,1,Keynote,Presentation,2
+2015-02-16T14:10:00,300,1,Keynote,Presentation,2
+2015-02-16T14:15:00,49,1,Keynote,Presentation,2
+2015-02-16T14:15:00,33,1,loginwindow,General Utilities,0
+2015-02-16T15:25:00,103,1,Mail,Email,2
+2015-02-16T15:25:00,10,1,Keynote,Presentation,2
+2015-02-16T15:30:00,27,1,google.com/calendar,Calendars,2
+2015-02-16T15:30:00,21,1,Mail,Email,2
+2015-02-16T15:30:00,4,1,Safari,Browsers,2
+2015-02-16T15:30:00,4,1,facebook.com,General Social Networking,-2
+2015-02-16T15:35:00,286,1,facebook.com,General Social Networking,-2
+2015-02-16T15:35:00,14,1,loginwindow,General Utilities,0
+2015-02-16T15:40:00,170,1,Finder,General Utilities,0
+2015-02-16T15:40:00,85,1,Dropbox,File Sharing,-2
+2015-02-16T15:40:00,35,1,loginwindow,General Utilities,0
+2015-02-16T15:40:00,4,1,facebook.com,General Social Networking,-2
+2015-02-16T15:45:00,178,1,Finder,General Utilities,0
+2015-02-16T20:15:00,71,1,facebook.com,General Social Networking,-2
+2015-02-16T20:15:00,30,1,Finder,General Utilities,0
+2015-02-16T20:15:00,2,1,loginwindow,General Utilities,0
+2015-02-16T20:20:00,75,1,homeenergyresourcemn.org,Uncategorized,0
+2015-02-16T20:20:00,75,1,microsoft word,Writing,2
+2015-02-16T20:20:00,47,1,Google Spreadsheets - Google Apps,General Business,2
+2015-02-16T20:20:00,42,1,facebook.com,General Social Networking,-2
+2015-02-16T20:20:00,22,1,dalearn.deerfield.edu,General Reference & Learning,2
+2015-02-16T20:20:00,12,1,Safari,Browsers,2
+2015-02-16T20:20:00,10,1,Finder,General Utilities,0
+2015-02-16T20:20:00,6,1,google.com,Search,2
+2015-02-16T20:20:00,2,1,wolframalpha.com,Search,1
+2015-02-16T20:20:00,2,1,google.com/calendar,Calendars,2
+2015-02-16T20:25:00,245,1,microsoft word,Writing,2
+2015-02-16T20:25:00,30,1,homeenergyresourcemn.org,Uncategorized,0
+2015-02-16T20:25:00,16,1,Google Spreadsheets - Google Apps,General Business,2
+2015-02-16T20:25:00,1,1,icloud.com,General Software Development,2
+2015-02-16T20:30:00,193,1,microsoft word,Writing,2
+2015-02-16T20:30:00,73,1,dalearn.deerfield.edu,General Reference & Learning,2
+2015-02-16T20:30:00,28,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-16T20:30:00,5,1,Google Spreadsheets - Google Apps,General Business,2
+2015-02-16T20:35:00,258,1,microsoft word,Writing,2
+2015-02-16T20:35:00,41,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-16T20:40:00,189,1,microsoft word,Writing,2
+2015-02-16T20:40:00,109,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-16T20:45:00,248,1,microsoft word,Writing,2
+2015-02-16T20:45:00,52,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-16T20:50:00,201,1,microsoft word,Writing,2
+2015-02-16T20:50:00,54,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-16T20:50:00,43,1,facebook.com,General Social Networking,-2
+2015-02-16T20:55:00,201,1,microsoft word,Writing,2
+2015-02-16T20:55:00,94,1,facebook.com,General Social Networking,-2
+2015-02-16T20:55:00,5,1,homeenergyresourcemn.org,Uncategorized,0
+2015-02-16T21:00:00,124,1,amazon.com,General Shopping,-1
+2015-02-16T21:00:00,111,1,microsoft word,Writing,2
+2015-02-16T21:00:00,48,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-16T21:00:00,6,1,youtube.com,Video,-2
+2015-02-16T21:00:00,3,1,facebook.com,General Social Networking,-2
+2015-02-16T21:05:00,129,1,startribune.com,General News & Opinion,-2
+2015-02-16T21:05:00,122,1,microsoft word,Writing,2
+2015-02-16T21:05:00,31,1,amazon.com,General Shopping,-1
+2015-02-16T21:05:00,7,1,google.com,Search,2
+2015-02-16T21:05:00,4,1,homeenergyresourcemn.org,Uncategorized,0
+2015-02-16T21:05:00,2,1,Google Spreadsheets - Google Apps,General Business,2
+2015-02-16T21:10:00,151,1,amazon.com,General Shopping,-1
+2015-02-16T21:10:00,148,1,microsoft word,Writing,2
+2015-02-16T21:15:00,300,1,microsoft word,Writing,2
+2015-02-16T21:20:00,300,1,microsoft word,Writing,2
+2015-02-16T21:25:00,214,1,microsoft word,Writing,2
+2015-02-16T21:25:00,82,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-16T21:25:00,4,1,amazon.com,General Shopping,-1
+2015-02-16T21:30:00,261,1,rescuetime.com,Intelligence,0
+2015-02-16T21:30:00,14,1,translate.google.com,Search,1
+2015-02-16T21:30:00,6,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-16T21:30:00,6,1,facebook.com,General Social Networking,-2
+2015-02-16T21:30:00,5,1,Mail,Email,2
+2015-02-16T21:30:00,3,1,microsoft word,Writing,2
+2015-02-16T21:35:00,166,1,microsoft word,Writing,2
+2015-02-16T21:35:00,109,1,rescuetime.com,Intelligence,0
+2015-02-16T21:35:00,13,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-16T21:35:00,10,1,facebook.com,General Social Networking,-2
+2015-02-16T21:40:00,145,1,microsoft word,Writing,2
+2015-02-16T21:40:00,142,1,amazon.com,General Shopping,-1
+2015-02-16T21:40:00,11,1,facebook.com,General Social Networking,-2
+2015-02-16T21:45:00,229,1,amazon.com,General Shopping,-1
+2015-02-16T21:45:00,60,1,Mail,Email,2
+2015-02-16T21:45:00,10,1,microsoft word,Writing,2
+2015-02-16T21:50:00,287,1,Mail,Email,2
+2015-02-16T21:50:00,9,1,amazon.com,General Shopping,-1
+2015-02-16T21:50:00,4,1,Safari,Browsers,2
+2015-02-16T21:55:00,172,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-16T21:55:00,46,1,amazon.com,General Shopping,-1
+2015-02-16T21:55:00,26,1,facebook.com,General Social Networking,-2
+2015-02-16T21:55:00,24,1,Mail,Email,2
+2015-02-16T21:55:00,14,1,microsoft word,Writing,2
+2015-02-16T21:55:00,10,1,Finder,General Utilities,0
+2015-02-16T21:55:00,3,1,dalearn.deerfield.edu,General Reference & Learning,2
+2015-02-16T21:55:00,2,1,Google Spreadsheets - Google Apps,General Business,2
+2015-02-16T21:55:00,1,1,startribune.com,General News & Opinion,-2
+2015-02-16T22:00:00,86,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-16T22:30:00,168,1,microsoft word,Writing,2
+2015-02-16T22:30:00,78,1,facebook.com,General Social Networking,-2
+2015-02-16T22:30:00,12,1,Keynote,Presentation,2
+2015-02-16T22:35:00,304,1,facebook.com,General Social Networking,-2
+2015-02-16T22:35:00,51,1,bostonglobe.com,General News & Opinion,-2
+2015-02-16T22:35:00,2,1,Safari,Browsers,2
+2015-02-16T22:40:00,203,1,amazon.com,General Shopping,-1
+2015-02-16T22:40:00,113,1,Mail,Email,2
+2015-02-16T22:40:00,80,1,facebook.com,General Social Networking,-2
+2015-02-16T22:40:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-16T22:45:00,81,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-16T22:45:00,69,1,amazon.com,General Shopping,-1
+2015-02-16T22:45:00,51,1,Mail,Email,2
+2015-02-16T22:45:00,2,1,microsoft word,Writing,2
+2015-02-16T22:55:00,226,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-16T23:00:00,146,1,microsoft word,Writing,2
+2015-02-16T23:00:00,122,1,en.wikipedia.org,General Reference & Learning,1
+2015-02-16T23:00:00,32,1,calendar,Calendars,1
+2015-02-16T23:05:00,234,1,calendar,Calendars,1
+2015-02-16T23:05:00,54,1,quizlet.com,General Reference & Learning,2
+2015-02-16T23:05:00,12,1,rescuetime.com,Intelligence,0
+2015-02-16T23:10:00,185,1,facebook.com,General Social Networking,-2
+2015-02-16T23:10:00,108,1,quizlet.com,General Reference & Learning,2
+2015-02-16T23:10:00,2,1,Safari,Browsers,2
+2015-02-16T23:10:00,1,1,amazon.com,General Shopping,-1
+2015-02-16T23:15:00,115,1,facebook.com,General Social Networking,-2
+2015-02-16T23:30:00,16,1,Safari,Browsers,2

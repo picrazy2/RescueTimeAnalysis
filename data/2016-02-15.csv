@@ -1,0 +1,277 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2016-02-15T00:00:00,271,1,keychain access,Systems Operations,2
+2016-02-15T00:05:00,76,1,loginwindow,General Utilities,0
+2016-02-15T00:05:00,72,1,Mail,Email,2
+2016-02-15T00:05:00,69,1,screensaverengine,General Utilities,0
+2016-02-15T00:05:00,62,1,Preview,General Reference & Learning,2
+2016-02-15T00:05:00,9,1,Finder,General Utilities,0
+2016-02-15T00:05:00,5,1,opm.gov,Legal & Gov't,1
+2016-02-15T00:10:00,178,1,Preview,General Reference & Learning,2
+2016-02-15T00:10:00,41,1,faa.gov,Search,0
+2016-02-15T00:10:00,35,1,dji.com,General Shopping,-2
+2016-02-15T00:10:00,23,1,Mail,Email,2
+2016-02-15T00:10:00,7,1,google.com,Search,2
+2016-02-15T00:10:00,7,1,applications,General Business,2
+2016-02-15T00:10:00,4,1,opm.gov,Legal & Gov't,1
+2016-02-15T00:10:00,2,1,coreservicesuiagent,General Utilities,0
+2016-02-15T00:10:00,1,1,Safari,Browsers,2
+2016-02-15T00:15:00,255,1,dji.com,General Shopping,-2
+2016-02-15T00:15:00,28,1,facebook.com,General Social Networking,-2
+2016-02-15T00:15:00,13,1,dalearn.deerfield.edu,General Reference & Learning,2
+2016-02-15T00:15:00,2,1,Safari,Browsers,2
+2016-02-15T00:15:00,2,1,store.dji.com,General Shopping,-2
+2016-02-15T00:20:00,211,1,dji.com,General Shopping,-2
+2016-02-15T00:20:00,42,1,dalearn.deerfield.edu,General Reference & Learning,2
+2016-02-15T00:20:00,35,1,nofilmschool.com,General Reference & Learning,1
+2016-02-15T00:20:00,7,1,google.com,Search,2
+2016-02-15T00:20:00,4,1,Safari,Browsers,2
+2016-02-15T00:25:00,197,1,Preview,General Reference & Learning,2
+2016-02-15T00:25:00,100,1,dji.com,General Shopping,-2
+2016-02-15T00:25:00,3,1,dalearn.deerfield.edu,General Reference & Learning,2
+2016-02-15T00:30:00,300,1,Preview,General Reference & Learning,2
+2016-02-15T00:35:00,274,1,Preview,General Reference & Learning,2
+2016-02-15T00:35:00,26,1,dalearn.deerfield.edu,General Reference & Learning,2
+2016-02-15T00:40:00,206,1,facebook.com,General Social Networking,-2
+2016-02-15T00:40:00,58,1,Mail,Email,2
+2016-02-15T00:40:00,29,1,dalearn.deerfield.edu,General Reference & Learning,2
+2016-02-15T00:40:00,7,1,Preview,General Reference & Learning,2
+2016-02-15T00:45:00,300,1,facebook.com,General Social Networking,-2
+2016-02-15T00:50:00,245,1,facebook.com,General Social Networking,-2
+2016-02-15T01:00:00,226,1,facebook.com,General Social Networking,-2
+2016-02-15T01:15:00,44,1,loginwindow,General Utilities,0
+2016-02-15T01:15:00,4,1,facebook.com,General Social Networking,-2
+2016-02-15T11:55:00,37,1,Finder,General Utilities,0
+2016-02-15T11:55:00,8,1,facebook.com,General Social Networking,-2
+2016-02-15T11:55:00,2,1,unmountassistantagent,General Utilities,1
+2016-02-15T12:35:00,92,1,lightroom,Presentation,2
+2016-02-15T12:35:00,30,1,en.wikipedia.org,General Reference & Learning,1
+2016-02-15T12:35:00,27,1,Finder,General Utilities,0
+2016-02-15T12:35:00,4,1,keychain access,Systems Operations,2
+2016-02-15T12:40:00,135,1,lightroom,Presentation,2
+2016-02-15T12:40:00,76,1,en.wikipedia.org,General Reference & Learning,1
+2016-02-15T12:40:00,64,1,apstudio.ets.org,General News & Opinion,-2
+2016-02-15T12:40:00,25,1,Finder,General Utilities,0
+2016-02-15T12:45:00,123,1,apstudio.ets.org,General News & Opinion,-2
+2016-02-15T12:45:00,102,1,Finder,General Utilities,0
+2016-02-15T12:45:00,69,1,lightroom,Presentation,2
+2016-02-15T12:45:00,3,1,photos,Photos,0
+2016-02-15T12:45:00,3,1,Dropbox,File Sharing,-2
+2016-02-15T12:50:00,132,1,Finder,General Utilities,0
+2016-02-15T12:50:00,94,1,lightroom,Presentation,2
+2016-02-15T12:50:00,74,1,apstudio.ets.org,General News & Opinion,-2
+2016-02-15T12:55:00,133,1,lightroom,Presentation,2
+2016-02-15T12:55:00,79,1,photoshop cc,General Design & Composition,2
+2016-02-15T12:55:00,45,1,Finder,General Utilities,0
+2016-02-15T12:55:00,43,1,apstudio.ets.org,General News & Opinion,-2
+2016-02-15T13:00:00,143,1,Finder,General Utilities,0
+2016-02-15T13:00:00,66,1,apstudio.ets.org,General News & Opinion,-2
+2016-02-15T13:00:00,59,1,photoshop cc,General Design & Composition,2
+2016-02-15T13:00:00,32,1,lightroom,Presentation,2
+2016-02-15T13:05:00,146,1,Finder,General Utilities,0
+2016-02-15T13:05:00,90,1,facebook.com,General Social Networking,-2
+2016-02-15T13:05:00,63,1,apstudio.ets.org,General News & Opinion,-2
+2016-02-15T13:10:00,268,1,facebook.com,General Social Networking,-2
+2016-02-15T13:10:00,32,1,lightroom,Presentation,2
+2016-02-15T13:15:00,285,1,facebook.com,General Social Networking,-2
+2016-02-15T13:15:00,15,1,lightroom,Presentation,2
+2016-02-15T13:20:00,140,1,facebook.com,General Social Networking,-2
+2016-02-15T13:20:00,48,1,lightroom,Presentation,2
+2016-02-15T13:20:00,33,1,Finder,General Utilities,0
+2016-02-15T13:20:00,22,1,loginwindow,General Utilities,0
+2016-02-15T13:20:00,6,1,photoshop cc,General Design & Composition,2
+2016-02-15T15:30:00,13,1,loginwindow,General Utilities,0
+2016-02-15T15:55:00,120,1,Finder,General Utilities,0
+2016-02-15T15:55:00,2,1,Dropbox,File Sharing,-2
+2016-02-15T15:55:00,1,1,photos,Photos,0
+2016-02-15T16:00:00,59,1,Finder,General Utilities,0
+2016-02-15T16:05:00,99,1,Finder,General Utilities,0
+2016-02-15T16:10:00,197,1,Finder,General Utilities,0
+2016-02-15T16:10:00,16,1,Dropbox,File Sharing,-2
+2016-02-15T16:10:00,1,1,photos,Photos,0
+2016-02-15T16:20:00,105,1,9to5mac.com,General News & Opinion,-2
+2016-02-15T16:20:00,16,1,facebook.com,General Social Networking,-2
+2016-02-15T16:20:00,16,1,Mail,Email,2
+2016-02-15T16:20:00,15,1,dji.com,General Shopping,-2
+2016-02-15T16:20:00,14,1,store.dji.com,General Shopping,-2
+2016-02-15T16:20:00,5,1,sparknotes.com,Search,2
+2016-02-15T16:20:00,3,1,valleytransporter.com,Uncategorized,0
+2016-02-15T16:20:00,2,1,nikonrumors.com,Science & Technology,-1
+2016-02-15T16:20:00,1,1,markusfeng.com,Uncategorized,0
+2016-02-15T16:20:00,1,1,meaww.com,Uncategorized,0
+2016-02-15T16:25:00,187,1,facebook.com,General Social Networking,-2
+2016-02-15T16:25:00,103,1,store.dji.com,General Shopping,-2
+2016-02-15T16:25:00,9,1,dji.com,General Shopping,-2
+2016-02-15T16:30:00,300,1,facebook.com,General Social Networking,-2
+2016-02-15T16:35:00,299,1,facebook.com,General Social Networking,-2
+2016-02-15T16:40:00,174,1,store.dji.com,General Shopping,-2
+2016-02-15T16:40:00,82,1,Finder,General Utilities,0
+2016-02-15T16:40:00,32,1,facebook.com,General Social Networking,-2
+2016-02-15T16:40:00,4,1,photos,Photos,0
+2016-02-15T16:40:00,4,1,dji.com,General Shopping,-2
+2016-02-15T16:40:00,2,1,Dropbox,File Sharing,-2
+2016-02-15T16:40:00,2,1,valleytransporter.com,Uncategorized,0
+2016-02-15T16:45:00,206,1,adobe premiere pro cc 2015,Video Editing,2
+2016-02-15T16:45:00,52,1,Finder,General Utilities,0
+2016-02-15T16:45:00,37,1,facebook.com,General Social Networking,-2
+2016-02-15T16:45:00,3,1,store.dji.com,General Shopping,-2
+2016-02-15T16:50:00,285,1,adobe premiere pro cc 2015,Video Editing,2
+2016-02-15T16:50:00,14,1,facebook.com,General Social Networking,-2
+2016-02-15T16:55:00,299,1,adobe premiere pro cc 2015,Video Editing,2
+2016-02-15T17:00:00,300,1,adobe premiere pro cc 2015,Video Editing,2
+2016-02-15T17:05:00,299,1,adobe premiere pro cc 2015,Video Editing,2
+2016-02-15T17:10:00,214,1,facebook.com,General Social Networking,-2
+2016-02-15T17:10:00,67,1,Mail,Email,2
+2016-02-15T17:10:00,17,1,adobe premiere pro cc 2015,Video Editing,2
+2016-02-15T17:15:00,300,1,facebook.com,General Social Networking,-2
+2016-02-15T17:20:00,300,1,facebook.com,General Social Networking,-2
+2016-02-15T17:25:00,299,1,facebook.com,General Social Networking,-2
+2016-02-15T17:30:00,300,1,facebook.com,General Social Networking,-2
+2016-02-15T17:35:00,163,1,facebook.com,General Social Networking,-2
+2016-02-15T17:35:00,129,1,nikonusa.com,Search,-2
+2016-02-15T17:35:00,4,1,Safari,Browsers,2
+2016-02-15T17:35:00,3,1,nikonrumors.com,Science & Technology,-1
+2016-02-15T17:40:00,300,1,nikonusa.com,Search,-2
+2016-02-15T17:45:00,300,1,nikonusa.com,Search,-2
+2016-02-15T17:50:00,98,1,nikonusa.com,Search,-2
+2016-02-15T20:50:00,194,1,facebook.com,General Social Networking,-2
+2016-02-15T20:50:00,35,1,microsoft autoupdate,General Utilities,1
+2016-02-15T20:50:00,4,1,loginwindow,General Utilities,0
+2016-02-15T20:50:00,2,1,nikonusa.com,Search,-2
+2016-02-15T20:50:00,2,1,Dropbox,File Sharing,-2
+2016-02-15T20:50:00,1,1,RescueTime,Intelligence,0
+2016-02-15T20:50:00,1,1,nikonrumors.com,Science & Technology,-1
+2016-02-15T20:50:00,1,1,screensaverengine,General Utilities,0
+2016-02-15T20:55:00,184,1,facebook.com,General Social Networking,-2
+2016-02-15T20:55:00,90,1,vimeo.com,General Entertainment,-2
+2016-02-15T20:55:00,16,1,youtube.com,Video,-2
+2016-02-15T20:55:00,10,1,Mail,Email,2
+2016-02-15T21:00:00,193,1,facebook.com,General Social Networking,-2
+2016-02-15T21:00:00,56,1,Finder,General Utilities,0
+2016-02-15T21:00:00,46,1,youtube.com,Video,-2
+2016-02-15T21:00:00,3,1,photos,Photos,0
+2016-02-15T21:00:00,2,1,Dropbox,File Sharing,-2
+2016-02-15T21:05:00,164,1,macrumors.com,General News & Opinion,-2
+2016-02-15T21:05:00,114,1,Finder,General Utilities,0
+2016-02-15T21:05:00,8,1,messages,General Social Networking,-2
+2016-02-15T21:05:00,7,1,9to5mac.com,General News & Opinion,-2
+2016-02-15T21:05:00,3,1,Dropbox,File Sharing,-2
+2016-02-15T21:05:00,1,1,photos,Photos,0
+2016-02-15T21:05:00,1,1,valleytransporter.com,Uncategorized,0
+2016-02-15T21:05:00,1,1,nikonrumors.com,Science & Technology,-1
+2016-02-15T21:05:00,1,1,facebook.com,General Social Networking,-2
+2016-02-15T21:10:00,175,1,adobe premiere pro cc 2015,Video Editing,2
+2016-02-15T21:10:00,122,1,macrumors.com,General News & Opinion,-2
+2016-02-15T21:10:00,1,1,Finder,General Utilities,0
+2016-02-15T21:15:00,297,1,adobe premiere pro cc 2015,Video Editing,2
+2016-02-15T21:20:00,149,1,youtube.com,Video,-2
+2016-02-15T21:20:00,141,1,adobe premiere pro cc 2015,Video Editing,2
+2016-02-15T21:20:00,8,1,Safari,Browsers,2
+2016-02-15T21:20:00,2,1,google.com,Search,2
+2016-02-15T21:25:00,232,1,adobe premiere pro cc 2015,Video Editing,2
+2016-02-15T21:25:00,68,1,youtube.com,Video,-2
+2016-02-15T21:30:00,298,1,adobe premiere pro cc 2015,Video Editing,2
+2016-02-15T21:35:00,298,1,adobe premiere pro cc 2015,Video Editing,2
+2016-02-15T21:40:00,300,1,adobe premiere pro cc 2015,Video Editing,2
+2016-02-15T21:45:00,298,1,adobe premiere pro cc 2015,Video Editing,2
+2016-02-15T21:50:00,166,1,adobe premiere pro cc 2015,Video Editing,2
+2016-02-15T21:50:00,126,1,facebook.com,General Social Networking,-2
+2016-02-15T21:50:00,6,1,Mail,Email,2
+2016-02-15T21:50:00,2,1,youtube.com,Video,-2
+2016-02-15T21:55:00,19,1,facebook.com,General Social Networking,-2
+2016-02-15T21:55:00,3,1,messages,General Social Networking,-2
+2016-02-15T21:55:00,1,1,Mail,Email,2
+2016-02-15T22:00:00,144,1,nikonusa.com,Search,-2
+2016-02-15T22:00:00,32,1,facebook.com,General Social Networking,-2
+2016-02-15T22:00:00,2,1,youtube.com,Video,-2
+2016-02-15T22:00:00,1,1,Mail,Email,2
+2016-02-15T22:05:00,100,1,facebook.com,General Social Networking,-2
+2016-02-15T22:05:00,76,1,facetime,Voice Chat,-2
+2016-02-15T22:05:00,76,1,faa.gov,Search,0
+2016-02-15T22:05:00,40,1,Mail,Email,2
+2016-02-15T22:05:00,4,1,valleytransporter.com,Uncategorized,0
+2016-02-15T22:05:00,2,1,translate.google.com,Search,1
+2016-02-15T22:05:00,1,1,macrumors.com,General News & Opinion,-2
+2016-02-15T22:10:00,165,1,yahoo.com,Search,0
+2016-02-15T22:10:00,55,1,huffingtonpost.com,General News & Opinion,-2
+2016-02-15T22:10:00,30,1,messages,General Social Networking,-2
+2016-02-15T22:10:00,27,1,facebook.com,General Social Networking,-2
+2016-02-15T22:10:00,9,1,facetime,Voice Chat,-2
+2016-02-15T22:10:00,9,1,cinemablend.com,General News & Opinion,-2
+2016-02-15T22:10:00,3,1,Safari,Browsers,2
+2016-02-15T22:15:00,251,1,facetime,Voice Chat,-2
+2016-02-15T22:15:00,47,1,yahoo.com,Search,0
+2016-02-15T22:20:00,202,1,messages,General Social Networking,-2
+2016-02-15T22:20:00,86,1,facetime,Voice Chat,-2
+2016-02-15T22:20:00,10,1,calendar,Calendars,1
+2016-02-15T22:20:00,2,1,Preview,General Reference & Learning,2
+2016-02-15T22:25:00,205,1,facetime,Voice Chat,-2
+2016-02-15T22:25:00,31,1,yahoo.com,Search,0
+2016-02-15T22:25:00,25,1,youtube.com,Video,-2
+2016-02-15T22:25:00,18,1,sports.yahoo.com,Sports,-1
+2016-02-15T22:25:00,13,1,messages,General Social Networking,-2
+2016-02-15T22:25:00,7,1,applications,General Business,2
+2016-02-15T22:30:00,130,1,messages,General Social Networking,-2
+2016-02-15T22:30:00,90,1,youtube.com,Video,-2
+2016-02-15T22:30:00,67,1,facetime,Voice Chat,-2
+2016-02-15T22:30:00,8,1,Safari,Browsers,2
+2016-02-15T22:30:00,3,1,adobe premiere pro cc 2015,Video Editing,2
+2016-02-15T22:30:00,2,1,quicktime player,General Entertainment,-1
+2016-02-15T22:35:00,300,1,facetime,Voice Chat,-2
+2016-02-15T22:40:00,125,1,dainfo.deerfield.edu,General Reference & Learning,1
+2016-02-15T22:40:00,106,1,facetime,Voice Chat,-2
+2016-02-15T22:40:00,56,1,facebook.com,General Social Networking,-2
+2016-02-15T22:40:00,5,1,Safari,Browsers,2
+2016-02-15T22:40:00,5,1,messages,General Social Networking,-2
+2016-02-15T22:40:00,3,1,dalearn.deerfield.edu,General Reference & Learning,2
+2016-02-15T22:45:00,243,1,facebook.com,General Social Networking,-2
+2016-02-15T22:45:00,38,1,youtube.com,Video,-2
+2016-02-15T22:45:00,11,1,messages,General Social Networking,-2
+2016-02-15T22:45:00,5,1,Safari,Browsers,2
+2016-02-15T22:45:00,2,1,accounts.google.com,General Communication & Scheduling,0
+2016-02-15T22:50:00,172,1,dainfo.deerfield.edu,General Reference & Learning,1
+2016-02-15T22:50:00,127,1,facebook.com,General Social Networking,-2
+2016-02-15T22:50:00,1,1,dalearn.deerfield.edu,General Reference & Learning,2
+2016-02-15T22:55:00,139,1,dainfo.deerfield.edu,General Reference & Learning,1
+2016-02-15T23:00:00,52,1,dainfo.deerfield.edu,General Reference & Learning,1
+2016-02-15T23:00:00,47,1,facebook.com,General Social Networking,-2
+2016-02-15T23:00:00,1,1,dalearn.deerfield.edu,General Reference & Learning,2
+2016-02-15T23:05:00,122,1,facebook.com,General Social Networking,-2
+2016-02-15T23:05:00,80,1,dainfo.deerfield.edu,General Reference & Learning,1
+2016-02-15T23:05:00,33,1,google drive,General Business,2
+2016-02-15T23:05:00,26,1,facetime,Voice Chat,-2
+2016-02-15T23:05:00,17,1,dalearn.deerfield.edu,General Reference & Learning,2
+2016-02-15T23:05:00,11,1,youtube.com,Video,-2
+2016-02-15T23:05:00,8,1,messages,General Social Networking,-2
+2016-02-15T23:05:00,2,1,creative cloud,General Design & Composition,2
+2016-02-15T23:05:00,1,1,deerfield.instructure.com,General Reference & Learning,1
+2016-02-15T23:10:00,221,1,dainfo.deerfield.edu,General Reference & Learning,1
+2016-02-15T23:10:00,78,1,facebook.com,General Social Networking,-2
+2016-02-15T23:10:00,1,1,youtube.com,Video,-2
+2016-02-15T23:15:00,284,1,facebook.com,General Social Networking,-2
+2016-02-15T23:15:00,10,1,dainfo.deerfield.edu,General Reference & Learning,1
+2016-02-15T23:15:00,4,1,youtube.com,Video,-2
+2016-02-15T23:15:00,2,1,dalearn.deerfield.edu,General Reference & Learning,2
+2016-02-15T23:20:00,138,1,messages,General Social Networking,-2
+2016-02-15T23:20:00,100,1,facebook.com,General Social Networking,-2
+2016-02-15T23:20:00,62,1,facetime,Voice Chat,-2
+2016-02-15T23:25:00,152,1,facebook.com,General Social Networking,-2
+2016-02-15T23:25:00,147,1,messages,General Social Networking,-2
+2016-02-15T23:30:00,282,1,facebook.com,General Social Networking,-2
+2016-02-15T23:30:00,18,1,facetime,Voice Chat,-2
+2016-02-15T23:35:00,300,1,facebook.com,General Social Networking,-2
+2016-02-15T23:40:00,117,1,messages,General Social Networking,-2
+2016-02-15T23:40:00,107,1,Skype,General Social Networking,-2
+2016-02-15T23:40:00,71,1,facebook.com,General Social Networking,-2
+2016-02-15T23:40:00,5,1,facetime,Voice Chat,-2
+2016-02-15T23:45:00,186,1,Skype,General Social Networking,-2
+2016-02-15T23:45:00,72,1,facebook.com,General Social Networking,-2
+2016-02-15T23:45:00,38,1,facetime,Voice Chat,-2
+2016-02-15T23:50:00,215,1,facebook.com,General Social Networking,-2
+2016-02-15T23:50:00,54,1,facetime,Voice Chat,-2
+2016-02-15T23:50:00,24,1,youtube.com,Video,-2
+2016-02-15T23:50:00,3,1,System Preferences,General Utilities,0
+2016-02-15T23:50:00,2,1,messages,General Social Networking,-2
+2016-02-15T23:50:00,2,1,Skype,General Social Networking,-2
+2016-02-15T23:55:00,233,1,facebook.com,General Social Networking,-2
+2016-02-15T23:55:00,66,1,Skype,General Social Networking,-2
+2016-02-15T23:55:00,1,1,youtube.com,Video,-2

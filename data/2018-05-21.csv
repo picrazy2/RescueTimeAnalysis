@@ -1,0 +1,124 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-05-21T00:00:00,299,1,gaoloumi.com,Regional,-2
+2018-05-21T00:05:00,300,1,gaoloumi.com,Regional,-2
+2018-05-21T00:10:00,220,1,map.baidu.com,Maps & Regional,-2
+2018-05-21T00:10:00,80,1,gaoloumi.com,Regional,-2
+2018-05-21T00:15:00,248,1,map.baidu.com,Maps & Regional,-2
+2018-05-21T00:15:00,46,1,google.com,Search,2
+2018-05-21T00:15:00,6,1,newtab,Browsers,0
+2018-05-21T00:20:00,300,1,map.baidu.com,Maps & Regional,-2
+2018-05-21T00:25:00,300,1,map.baidu.com,Maps & Regional,-2
+2018-05-21T00:30:00,300,1,map.baidu.com,Maps & Regional,-2
+2018-05-21T00:35:00,300,1,map.baidu.com,Maps & Regional,-2
+2018-05-21T00:40:00,26,1,map.baidu.com,Maps & Regional,-2
+2018-05-21T00:45:00,150,1,washingtonpost.com,General News & Opinion,-2
+2018-05-21T00:45:00,86,1,cnn.com,General News & Opinion,2
+2018-05-21T00:45:00,38,1,google.com,Search,2
+2018-05-21T00:50:00,144,1,bloomberg.com,Business,-1
+2018-05-21T00:50:00,90,1,ft.com,General News & Opinion,-2
+2018-05-21T00:50:00,42,1,google.com,Search,2
+2018-05-21T00:50:00,24,1,cnbc.com,Business,-1
+2018-05-21T00:55:00,108,1,ft.com,General News & Opinion,-2
+2018-05-21T00:55:00,74,1,users,General Software Development,2
+2018-05-21T00:55:00,69,1,reuters.com,General News & Opinion,-2
+2018-05-21T00:55:00,48,1,google.com,Search,2
+2018-05-21T00:55:00,1,1,nytimes.com,General News & Opinion,-2
+2018-05-21T01:00:00,298,1,Finder,General Utilities,0
+2018-05-21T01:00:00,1,1,users,General Software Development,2
+2018-05-21T01:05:00,132,1,Finder,General Utilities,0
+2018-05-21T01:10:00,5,1,Finder,General Utilities,0
+2018-05-21T01:10:00,1,1,Preview,General Reference & Learning,2
+2018-05-21T01:15:00,173,1,ditiezu.com,Uncategorized,0
+2018-05-21T01:15:00,62,1,Preview,General Reference & Learning,2
+2018-05-21T01:15:00,22,1,Finder,General Utilities,0
+2018-05-21T01:15:00,19,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-05-21T01:15:00,9,1,gaoloumi.com,Regional,-2
+2018-05-21T01:15:00,6,1,users,General Software Development,2
+2018-05-21T01:15:00,5,1,gradescope.com,General Reference & Learning,1
+2018-05-21T01:15:00,4,1,idp.mit.edu,General Reference & Learning,1
+2018-05-21T01:20:00,300,1,ditiezu.com,Uncategorized,0
+2018-05-21T01:25:00,150,1,img.ditiezu.com,Uncategorized,0
+2018-05-21T01:25:00,116,1,Preview,General Reference & Learning,2
+2018-05-21T01:25:00,30,1,backup and sync from google,Uncategorized,0
+2018-05-21T01:25:00,2,1,Finder,General Utilities,0
+2018-05-21T01:30:00,139,1,Preview,General Reference & Learning,2
+2018-05-21T01:30:00,84,1,thebeijinger.com,General News & Opinion,-2
+2018-05-21T01:30:00,39,1,google.com,Search,2
+2018-05-21T01:30:00,17,1,ditiezu.com,Uncategorized,0
+2018-05-21T01:30:00,10,1,railjournal.com,Uncategorized,0
+2018-05-21T01:30:00,6,1,img.ditiezu.com,Uncategorized,0
+2018-05-21T01:30:00,4,1,newtab,Browsers,0
+2018-05-21T01:30:00,1,1,users,General Software Development,2
+2018-05-21T01:35:00,184,1,Preview,General Reference & Learning,2
+2018-05-21T01:35:00,38,1,ditiezu.com,Uncategorized,0
+2018-05-21T01:35:00,17,1,map.baidu.com,Maps & Regional,-2
+2018-05-21T02:00:00,142,1,loginwindow,General Utilities,0
+2018-05-21T02:00:00,37,1,map.baidu.com,Maps & Regional,-2
+2018-05-21T11:30:00,26,1,Preview,General Reference & Learning,2
+2018-05-21T11:30:00,3,1,map.baidu.com,Maps & Regional,-2
+2018-05-21T11:35:00,104,1,Preview,General Reference & Learning,2
+2018-05-21T11:35:00,5,1,Finder,General Utilities,0
+2018-05-21T11:35:00,4,1,users,General Software Development,2
+2018-05-21T12:05:00,173,1,users,General Software Development,2
+2018-05-21T12:05:00,16,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-05-21T12:05:00,4,1,idp.mit.edu,General Reference & Learning,1
+2018-05-21T12:10:00,64,1,users,General Software Development,2
+2018-05-21T12:10:00,4,1,Finder,General Utilities,0
+2018-05-21T12:10:00,4,1,Preview,General Reference & Learning,2
+2018-05-21T20:55:00,137,1,messenger.com,General Social Networking,-2
+2018-05-21T20:55:00,3,1,Preview,General Reference & Learning,2
+2018-05-21T20:55:00,1,1,loginwindow,General Utilities,0
+2018-05-21T21:00:00,74,1,youtube.com,Video,-2
+2018-05-21T21:00:00,19,1,messenger.com,General Social Networking,-2
+2018-05-21T21:00:00,9,1,Finder,General Utilities,0
+2018-05-21T21:00:00,2,1,l.messenger.com,Instant Message,-1
+2018-05-21T21:00:00,2,1,cdn.fbsbx.com,General Reference & Learning,1
+2018-05-21T21:05:00,300,1,youtube.com,Video,-2
+2018-05-21T21:10:00,268,1,youtube.com,Video,-2
+2018-05-21T21:10:00,14,1,Preview,General Reference & Learning,2
+2018-05-21T21:10:00,8,1,Finder,General Utilities,0
+2018-05-21T21:10:00,4,1,backup and sync from google,Uncategorized,0
+2018-05-21T21:10:00,3,1,usernotificationcenter,General Utilities,0
+2018-05-21T21:10:00,3,1,Mail,Email,2
+2018-05-21T21:15:00,213,1,youtube.com,Video,-2
+2018-05-21T21:15:00,62,1,Preview,General Reference & Learning,2
+2018-05-21T21:15:00,22,1,Safari,Browsers,2
+2018-05-21T21:15:00,2,1,thebeijinger.com,General News & Opinion,-2
+2018-05-21T21:15:00,1,1,newtab,Browsers,0
+2018-05-21T21:20:00,300,1,youtube.com,Video,-2
+2018-05-21T21:25:00,300,1,youtube.com,Video,-2
+2018-05-21T21:30:00,300,1,youtube.com,Video,-2
+2018-05-21T21:35:00,292,1,youtube.com,Video,-2
+2018-05-21T21:35:00,7,1,messenger.com,General Social Networking,-2
+2018-05-21T21:35:00,1,1,l.facebook.com,General Social Networking,-2
+2018-05-21T21:40:00,263,1,youtube.com,Video,-2
+2018-05-21T21:40:00,37,1,Safari,Browsers,2
+2018-05-21T21:45:00,3,1,youtube.com,Video,-2
+2018-05-21T21:55:00,96,1,youtube.com,Video,-2
+2018-05-21T22:00:00,300,1,youtube.com,Video,-2
+2018-05-21T22:05:00,300,1,youtube.com,Video,-2
+2018-05-21T22:10:00,267,1,youtube.com,Video,-2
+2018-05-21T22:35:00,276,1,youtube.com,Video,-2
+2018-05-21T22:35:00,8,1,Finder,General Utilities,0
+2018-05-21T22:40:00,300,1,youtube.com,Video,-2
+2018-05-21T22:45:00,300,1,youtube.com,Video,-2
+2018-05-21T22:50:00,300,1,youtube.com,Video,-2
+2018-05-21T22:55:00,300,1,youtube.com,Video,-2
+2018-05-21T23:00:00,300,1,youtube.com,Video,-2
+2018-05-21T23:05:00,300,1,youtube.com,Video,-2
+2018-05-21T23:10:00,216,1,youtube.com,Video,-2
+2018-05-21T23:30:00,80,1,youtube.com,Video,-2
+2018-05-21T23:35:00,300,1,youtube.com,Video,-2
+2018-05-21T23:40:00,300,1,youtube.com,Video,-2
+2018-05-21T23:45:00,198,1,youtube.com,Video,-2
+2018-05-21T23:45:00,46,1,en.wikipedia.org,General Reference & Learning,1
+2018-05-21T23:45:00,42,1,google.com,Search,2
+2018-05-21T23:45:00,7,1,yahoo.com,Search,0
+2018-05-21T23:45:00,7,1,newtab,Browsers,0
+2018-05-21T23:50:00,184,1,youtube.com,Video,-2
+2018-05-21T23:50:00,97,1,en.wikipedia.org,General Reference & Learning,1
+2018-05-21T23:50:00,17,1,wechat,General Social Networking,-2
+2018-05-21T23:50:00,2,1,newtab,Browsers,0
+2018-05-21T23:55:00,95,1,messenger.com,General Social Networking,-2
+2018-05-21T23:55:00,36,1,wechat,General Social Networking,-2
+2018-05-21T23:55:00,1,1,youtube.com,Video,-2

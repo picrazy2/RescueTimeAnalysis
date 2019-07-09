@@ -1,0 +1,435 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-04-28T00:00:00,219,1,sublime text,Editing & IDEs,2
+2018-04-28T00:00:00,57,1,Terminal,Systems Operations,2
+2018-04-28T00:00:00,24,1,TextEdit,Writing,2
+2018-04-28T00:05:00,163,1,sublime text,Editing & IDEs,2
+2018-04-28T00:05:00,132,1,Terminal,Systems Operations,2
+2018-04-28T00:05:00,5,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T00:10:00,140,1,sublime text,Editing & IDEs,2
+2018-04-28T00:10:00,130,1,Terminal,Systems Operations,2
+2018-04-28T00:10:00,10,1,stackoverflow.com,General Software Development,2
+2018-04-28T00:10:00,8,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T00:10:00,7,1,stellar.mit.edu,General Reference & Learning,1
+2018-04-28T00:10:00,4,1,google.com,Search,2
+2018-04-28T00:10:00,1,1,TextEdit,Writing,2
+2018-04-28T00:15:00,123,1,Terminal,Systems Operations,2
+2018-04-28T00:15:00,93,1,TextEdit,Writing,2
+2018-04-28T00:15:00,62,1,sublime text,Editing & IDEs,2
+2018-04-28T00:15:00,21,1,Finder,General Utilities,0
+2018-04-28T00:20:00,122,1,Terminal,Systems Operations,2
+2018-04-28T00:20:00,68,1,sublime text,Editing & IDEs,2
+2018-04-28T00:20:00,63,1,Finder,General Utilities,0
+2018-04-28T00:20:00,46,1,TextEdit,Writing,2
+2018-04-28T00:25:00,258,1,sublime text,Editing & IDEs,2
+2018-04-28T00:25:00,34,1,TextEdit,Writing,2
+2018-04-28T00:25:00,8,1,Terminal,Systems Operations,2
+2018-04-28T00:30:00,201,1,sublime text,Editing & IDEs,2
+2018-04-28T00:30:00,90,1,Terminal,Systems Operations,2
+2018-04-28T00:30:00,9,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T00:35:00,171,1,Terminal,Systems Operations,2
+2018-04-28T00:35:00,86,1,sublime text,Editing & IDEs,2
+2018-04-28T00:35:00,40,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T00:35:00,2,1,TextEdit,Writing,2
+2018-04-28T00:35:00,1,1,texshop,Writing,2
+2018-04-28T00:40:00,147,1,sublime text,Editing & IDEs,2
+2018-04-28T00:40:00,138,1,Terminal,Systems Operations,2
+2018-04-28T00:40:00,13,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T00:40:00,2,1,TextEdit,Writing,2
+2018-04-28T00:45:00,175,1,sublime text,Editing & IDEs,2
+2018-04-28T00:45:00,125,1,Terminal,Systems Operations,2
+2018-04-28T00:50:00,285,1,Terminal,Systems Operations,2
+2018-04-28T00:50:00,15,1,sublime text,Editing & IDEs,2
+2018-04-28T00:55:00,250,1,Terminal,Systems Operations,2
+2018-04-28T00:55:00,46,1,sublime text,Editing & IDEs,2
+2018-04-28T00:55:00,4,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T01:00:00,71,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T01:00:00,53,1,google.com,Search,2
+2018-04-28T01:00:00,47,1,sublime text,Editing & IDEs,2
+2018-04-28T01:00:00,42,1,Terminal,Systems Operations,2
+2018-04-28T01:00:00,41,1,rescuetime.com,Intelligence,0
+2018-04-28T01:00:00,29,1,stackoverflow.com,General Software Development,2
+2018-04-28T01:00:00,15,1,en.wikipedia.org,General Reference & Learning,1
+2018-04-28T01:00:00,2,1,newtab,Browsers,0
+2018-04-28T01:05:00,201,1,rescuetime.com,Intelligence,0
+2018-04-28T01:05:00,90,1,wechat,General Social Networking,-2
+2018-04-28T01:05:00,9,1,sublime text,Editing & IDEs,2
+2018-04-28T01:10:00,156,1,youtube.com,Video,-2
+2018-04-28T01:10:00,45,1,zjstv.com,Uncategorized,0
+2018-04-28T01:10:00,42,1,v.zjstv.com,General Entertainment,-2
+2018-04-28T01:10:00,26,1,google.com,Search,2
+2018-04-28T01:10:00,17,1,wechat,General Social Networking,-2
+2018-04-28T01:10:00,10,1,baidu.com,Search,2
+2018-04-28T01:10:00,2,1,newtab,Browsers,0
+2018-04-28T01:10:00,1,1,mgtv.com,Video,-2
+2018-04-28T01:10:00,1,1,rescuetime.com,Intelligence,0
+2018-04-28T01:15:00,142,1,v.qq.com,Video,-2
+2018-04-28T01:15:00,38,1,腾讯视频,Video,-2
+2018-04-28T01:15:00,37,1,iqiyi.com,Video,-2
+2018-04-28T01:15:00,35,1,爱奇艺,Video,-2
+2018-04-28T01:15:00,20,1,soku.com,Video,-2
+2018-04-28T01:15:00,12,1,Finder,General Utilities,0
+2018-04-28T01:15:00,7,1,baidu.com,Search,2
+2018-04-28T01:15:00,7,1,youku.com,General Entertainment,-2
+2018-04-28T01:15:00,2,1,diskimages ui agent,General Utilities,1
+2018-04-28T01:20:00,284,1,腾讯视频,Video,-2
+2018-04-28T01:20:00,6,1,Finder,General Utilities,0
+2018-04-28T01:20:00,5,1,texshop,Writing,2
+2018-04-28T01:20:00,3,1,v.qq.com,Video,-2
+2018-04-28T01:20:00,2,1,newtab,Browsers,0
+2018-04-28T01:25:00,149,1,youtube.com,Video,-2
+2018-04-28T01:25:00,70,1,Finder,General Utilities,0
+2018-04-28T01:25:00,68,1,adobe premiere pro cc 2015,Video Editing,2
+2018-04-28T01:25:00,8,1,final cut pro,Video Editing,2
+2018-04-28T01:25:00,2,1,newtab,Browsers,0
+2018-04-28T01:30:00,68,1,helpx.adobe.com,General Software Development,2
+2018-04-28T01:30:00,66,1,youtube.com,Video,-2
+2018-04-28T01:30:00,32,1,quora.com,General Reference & Learning,-1
+2018-04-28T01:30:00,29,1,google.com,Search,2
+2018-04-28T01:30:00,25,1,newtab,Browsers,0
+2018-04-28T01:30:00,22,1,adobe premiere pro cc 2015,Video Editing,2
+2018-04-28T01:30:00,20,1,forums.adobe.com,General Business,2
+2018-04-28T01:30:00,18,1,forums.creativecow.net,General News & Opinion,-2
+2018-04-28T01:30:00,13,1,theblog.adobe.com,General Software Development,2
+2018-04-28T01:30:00,4,1,Finder,General Utilities,0
+2018-04-28T01:30:00,2,1,creativecow.net,Engineering & Technology,1
+2018-04-28T01:30:00,1,1,blogs.adobe.com,Search,0
+2018-04-28T01:35:00,177,1,techwalla.com,Uncategorized,0
+2018-04-28T01:35:00,31,1,lynda.com,Search,0
+2018-04-28T01:35:00,27,1,google.com,Search,2
+2018-04-28T01:35:00,26,1,forums.adobe.com,General Business,2
+2018-04-28T01:35:00,16,1,adobe.com,General Software Development,2
+2018-04-28T01:35:00,13,1,TextEdit,Writing,2
+2018-04-28T01:35:00,6,1,newtab,Browsers,0
+2018-04-28T01:35:00,3,1,linkedin.com,Professional Networking,1
+2018-04-28T01:35:00,1,1,support.office.com,Engineering & Technology,1
+2018-04-28T01:40:00,136,1,premiumbeat.com,Music,-2
+2018-04-28T01:40:00,64,1,adobe premiere pro cc 2015,Video Editing,2
+2018-04-28T01:40:00,30,1,helpx.adobe.com,General Software Development,2
+2018-04-28T01:40:00,22,1,forums.adobe.com,General Business,2
+2018-04-28T01:40:00,19,1,quora.com,General Reference & Learning,-1
+2018-04-28T01:40:00,14,1,lifewire.com,Engineering & Technology,1
+2018-04-28T01:40:00,11,1,google.com,Search,2
+2018-04-28T01:40:00,2,1,adobe.com,General Software Development,2
+2018-04-28T01:40:00,1,1,joinhoney.com,General Shopping,-2
+2018-04-28T01:45:00,205,1,adobe premiere pro cc 2015,Video Editing,2
+2018-04-28T01:45:00,38,1,premiumbeat.com,Music,-2
+2018-04-28T01:45:00,31,1,forums.adobe.com,General Business,2
+2018-04-28T01:45:00,17,1,telestream.net,Engineering & Technology,1
+2018-04-28T01:45:00,4,1,google.com,Search,2
+2018-04-28T01:45:00,4,1,newtab,Browsers,0
+2018-04-28T01:50:00,191,1,sublime text,Editing & IDEs,2
+2018-04-28T01:50:00,75,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T01:50:00,29,1,adobe premiere pro cc 2015,Video Editing,2
+2018-04-28T01:50:00,3,1,telestream.net,Engineering & Technology,1
+2018-04-28T01:50:00,2,1,newtab,Browsers,0
+2018-04-28T01:55:00,253,1,sublime text,Editing & IDEs,2
+2018-04-28T01:55:00,47,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T02:00:00,148,1,sublime text,Editing & IDEs,2
+2018-04-28T02:00:00,146,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T02:00:00,6,1,Terminal,Systems Operations,2
+2018-04-28T02:05:00,183,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T02:05:00,59,1,en.wikipedia.org,General Reference & Learning,1
+2018-04-28T02:05:00,26,1,sublime text,Editing & IDEs,2
+2018-04-28T02:05:00,14,1,google.com,Search,2
+2018-04-28T02:05:00,9,1,newtab,Browsers,0
+2018-04-28T02:05:00,9,1,jd.com,General Shopping,-2
+2018-04-28T02:10:00,284,1,geoguessr.com,Games,-2
+2018-04-28T02:10:00,6,1,newtab,Browsers,0
+2018-04-28T02:10:00,5,1,messenger.com,General Social Networking,-2
+2018-04-28T02:10:00,3,1,facebook.com,General Social Networking,-2
+2018-04-28T02:10:00,2,1,google.com,Search,2
+2018-04-28T02:15:00,300,1,geoguessr.com,Games,-2
+2018-04-28T02:20:00,300,1,geoguessr.com,Games,-2
+2018-04-28T02:25:00,300,1,geoguessr.com,Games,-2
+2018-04-28T02:30:00,300,1,geoguessr.com,Games,-2
+2018-04-28T02:35:00,300,1,geoguessr.com,Games,-2
+2018-04-28T02:40:00,271,1,geoguessr.com,Games,-2
+2018-04-28T02:40:00,19,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T02:40:00,6,1,sublime text,Editing & IDEs,2
+2018-04-28T02:40:00,2,1,messenger.com,General Social Networking,-2
+2018-04-28T02:40:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2018-04-28T02:40:00,1,1,jd.com,General Shopping,-2
+2018-04-28T02:45:00,162,1,sublime text,Editing & IDEs,2
+2018-04-28T02:45:00,122,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T02:45:00,16,1,backup and sync from google,Uncategorized,0
+2018-04-28T02:50:00,295,1,sublime text,Editing & IDEs,2
+2018-04-28T02:50:00,5,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T02:55:00,162,1,sublime text,Editing & IDEs,2
+2018-04-28T02:55:00,138,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T03:00:00,300,1,sublime text,Editing & IDEs,2
+2018-04-28T03:05:00,300,1,sublime text,Editing & IDEs,2
+2018-04-28T03:10:00,230,1,sublime text,Editing & IDEs,2
+2018-04-28T03:10:00,64,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T03:10:00,6,1,en.wikipedia.org,General Reference & Learning,1
+2018-04-28T03:15:00,286,1,sublime text,Editing & IDEs,2
+2018-04-28T03:15:00,9,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T03:15:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2018-04-28T03:20:00,41,1,sublime text,Editing & IDEs,2
+2018-04-28T13:50:00,51,1,sublime text,Editing & IDEs,2
+2018-04-28T13:55:00,177,1,youtube.com,Video,-2
+2018-04-28T13:55:00,123,1,sublime text,Editing & IDEs,2
+2018-04-28T14:00:00,300,1,youtube.com,Video,-2
+2018-04-28T14:05:00,300,1,youtube.com,Video,-2
+2018-04-28T14:10:00,266,1,youtube.com,Video,-2
+2018-04-28T14:10:00,29,1,sublime text,Editing & IDEs,2
+2018-04-28T14:10:00,5,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T14:15:00,300,1,sublime text,Editing & IDEs,2
+2018-04-28T14:20:00,244,1,sublime text,Editing & IDEs,2
+2018-04-28T14:20:00,35,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T14:20:00,20,1,Skype,General Social Networking,-2
+2018-04-28T14:25:00,300,1,sublime text,Editing & IDEs,2
+2018-04-28T14:30:00,242,1,sublime text,Editing & IDEs,2
+2018-04-28T14:30:00,34,1,Terminal,Systems Operations,2
+2018-04-28T14:30:00,24,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T14:35:00,137,1,sublime text,Editing & IDEs,2
+2018-04-28T14:35:00,113,1,Terminal,Systems Operations,2
+2018-04-28T14:35:00,26,1,TextEdit,Writing,2
+2018-04-28T14:35:00,24,1,Finder,General Utilities,0
+2018-04-28T14:40:00,143,1,sublime text,Editing & IDEs,2
+2018-04-28T14:40:00,131,1,Terminal,Systems Operations,2
+2018-04-28T14:40:00,17,1,TextEdit,Writing,2
+2018-04-28T14:40:00,9,1,Finder,General Utilities,0
+2018-04-28T14:45:00,151,1,sublime text,Editing & IDEs,2
+2018-04-28T14:45:00,149,1,Terminal,Systems Operations,2
+2018-04-28T14:50:00,148,1,sublime text,Editing & IDEs,2
+2018-04-28T14:50:00,130,1,Terminal,Systems Operations,2
+2018-04-28T14:50:00,12,1,Finder,General Utilities,0
+2018-04-28T14:50:00,10,1,TextEdit,Writing,2
+2018-04-28T14:55:00,153,1,Terminal,Systems Operations,2
+2018-04-28T14:55:00,136,1,sublime text,Editing & IDEs,2
+2018-04-28T14:55:00,11,1,TextEdit,Writing,2
+2018-04-28T15:00:00,170,1,Terminal,Systems Operations,2
+2018-04-28T15:00:00,126,1,sublime text,Editing & IDEs,2
+2018-04-28T15:00:00,3,1,TextEdit,Writing,2
+2018-04-28T15:00:00,1,1,Finder,General Utilities,0
+2018-04-28T15:05:00,136,1,Terminal,Systems Operations,2
+2018-04-28T15:05:00,129,1,sublime text,Editing & IDEs,2
+2018-04-28T15:05:00,29,1,TextEdit,Writing,2
+2018-04-28T15:05:00,5,1,Finder,General Utilities,0
+2018-04-28T15:10:00,265,1,Terminal,Systems Operations,2
+2018-04-28T15:10:00,25,1,TextEdit,Writing,2
+2018-04-28T15:10:00,10,1,Finder,General Utilities,0
+2018-04-28T15:15:00,131,1,sublime text,Editing & IDEs,2
+2018-04-28T15:15:00,120,1,Terminal,Systems Operations,2
+2018-04-28T15:15:00,49,1,TextEdit,Writing,2
+2018-04-28T15:20:00,233,1,Terminal,Systems Operations,2
+2018-04-28T15:20:00,67,1,sublime text,Editing & IDEs,2
+2018-04-28T15:25:00,148,1,Terminal,Systems Operations,2
+2018-04-28T15:25:00,137,1,sublime text,Editing & IDEs,2
+2018-04-28T15:25:00,15,1,TextEdit,Writing,2
+2018-04-28T15:30:00,182,1,sublime text,Editing & IDEs,2
+2018-04-28T15:30:00,116,1,Terminal,Systems Operations,2
+2018-04-28T15:35:00,168,1,Terminal,Systems Operations,2
+2018-04-28T15:35:00,121,1,sublime text,Editing & IDEs,2
+2018-04-28T15:40:00,189,1,Terminal,Systems Operations,2
+2018-04-28T15:40:00,104,1,sublime text,Editing & IDEs,2
+2018-04-28T15:40:00,7,1,TextEdit,Writing,2
+2018-04-28T15:45:00,211,1,Terminal,Systems Operations,2
+2018-04-28T15:45:00,78,1,sublime text,Editing & IDEs,2
+2018-04-28T15:45:00,11,1,TextEdit,Writing,2
+2018-04-28T15:50:00,180,1,sublime text,Editing & IDEs,2
+2018-04-28T15:50:00,98,1,Terminal,Systems Operations,2
+2018-04-28T15:50:00,15,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T15:50:00,7,1,TextEdit,Writing,2
+2018-04-28T15:55:00,175,1,sublime text,Editing & IDEs,2
+2018-04-28T15:55:00,89,1,Terminal,Systems Operations,2
+2018-04-28T15:55:00,21,1,TextEdit,Writing,2
+2018-04-28T15:55:00,13,1,Finder,General Utilities,0
+2018-04-28T15:55:00,2,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T16:00:00,171,1,Terminal,Systems Operations,2
+2018-04-28T16:00:00,107,1,sublime text,Editing & IDEs,2
+2018-04-28T16:00:00,15,1,TextEdit,Writing,2
+2018-04-28T16:00:00,7,1,Finder,General Utilities,0
+2018-04-28T16:05:00,154,1,sublime text,Editing & IDEs,2
+2018-04-28T16:05:00,110,1,Terminal,Systems Operations,2
+2018-04-28T16:05:00,15,1,TextEdit,Writing,2
+2018-04-28T16:05:00,11,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T16:05:00,7,1,Finder,General Utilities,0
+2018-04-28T16:05:00,2,1,final cut pro,Video Editing,2
+2018-04-28T16:10:00,226,1,sublime text,Editing & IDEs,2
+2018-04-28T16:10:00,35,1,TextEdit,Writing,2
+2018-04-28T16:10:00,30,1,Terminal,Systems Operations,2
+2018-04-28T16:10:00,9,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T16:15:00,175,1,sublime text,Editing & IDEs,2
+2018-04-28T16:15:00,80,1,TextEdit,Writing,2
+2018-04-28T16:15:00,27,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T16:15:00,18,1,Terminal,Systems Operations,2
+2018-04-28T16:20:00,210,1,Terminal,Systems Operations,2
+2018-04-28T16:20:00,38,1,wechat,General Social Networking,-2
+2018-04-28T16:20:00,29,1,TextEdit,Writing,2
+2018-04-28T16:20:00,15,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T16:20:00,7,1,Finder,General Utilities,0
+2018-04-28T16:25:00,174,1,Terminal,Systems Operations,2
+2018-04-28T16:25:00,91,1,sublime text,Editing & IDEs,2
+2018-04-28T16:25:00,29,1,TextEdit,Writing,2
+2018-04-28T16:25:00,5,1,Finder,General Utilities,0
+2018-04-28T16:30:00,168,1,Terminal,Systems Operations,2
+2018-04-28T16:30:00,128,1,sublime text,Editing & IDEs,2
+2018-04-28T16:30:00,4,1,TextEdit,Writing,2
+2018-04-28T16:35:00,125,1,sublime text,Editing & IDEs,2
+2018-04-28T16:35:00,98,1,Terminal,Systems Operations,2
+2018-04-28T16:35:00,77,1,TextEdit,Writing,2
+2018-04-28T16:40:00,124,1,Terminal,Systems Operations,2
+2018-04-28T16:40:00,62,1,TextEdit,Writing,2
+2018-04-28T16:40:00,51,1,wechat,General Social Networking,-2
+2018-04-28T16:40:00,50,1,sublime text,Editing & IDEs,2
+2018-04-28T16:40:00,12,1,Finder,General Utilities,0
+2018-04-28T16:45:00,115,1,Terminal,Systems Operations,2
+2018-04-28T16:45:00,96,1,sublime text,Editing & IDEs,2
+2018-04-28T16:45:00,27,1,TextEdit,Writing,2
+2018-04-28T16:45:00,21,1,Google Spreadsheets,General Business,2
+2018-04-28T16:45:00,12,1,drive.google.com,General Business,2
+2018-04-28T16:45:00,10,1,Finder,General Utilities,0
+2018-04-28T16:45:00,9,1,forums.adobe.com,General Business,2
+2018-04-28T16:45:00,4,1,telestream.net,Engineering & Technology,1
+2018-04-28T16:45:00,4,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T16:45:00,2,1,youtube.com,Video,-2
+2018-04-28T16:50:00,152,1,Terminal,Systems Operations,2
+2018-04-28T16:50:00,71,1,sublime text,Editing & IDEs,2
+2018-04-28T16:50:00,61,1,TextEdit,Writing,2
+2018-04-28T16:50:00,15,1,Finder,General Utilities,0
+2018-04-28T16:55:00,101,1,docs.python.org,General Software Development,2
+2018-04-28T16:55:00,49,1,Terminal,Systems Operations,2
+2018-04-28T16:55:00,35,1,messenger.com,General Social Networking,-2
+2018-04-28T16:55:00,30,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T16:55:00,28,1,Finder,General Utilities,0
+2018-04-28T16:55:00,26,1,TextEdit,Writing,2
+2018-04-28T16:55:00,23,1,Mail,Email,2
+2018-04-28T16:55:00,8,1,sublime text,Editing & IDEs,2
+2018-04-28T17:00:00,126,1,sublime text,Editing & IDEs,2
+2018-04-28T17:00:00,85,1,stackoverflow.com,General Software Development,2
+2018-04-28T17:00:00,37,1,effbot.org,Search,0
+2018-04-28T17:00:00,26,1,docs.python.org,General Software Development,2
+2018-04-28T17:00:00,12,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T17:00:00,10,1,google.com,Search,2
+2018-04-28T17:00:00,2,1,TextEdit,Writing,2
+2018-04-28T17:00:00,1,1,newtab,Browsers,0
+2018-04-28T17:00:00,1,1,messenger.com,General Social Networking,-2
+2018-04-28T17:05:00,128,1,sublime text,Editing & IDEs,2
+2018-04-28T17:05:00,125,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T17:05:00,37,1,pythonforbeginners.com,General Software Development,2
+2018-04-28T17:05:00,4,1,TextEdit,Writing,2
+2018-04-28T17:05:00,3,1,stackoverflow.com,General Software Development,2
+2018-04-28T17:05:00,3,1,google.com,Search,2
+2018-04-28T17:10:00,117,1,sublime text,Editing & IDEs,2
+2018-04-28T17:10:00,76,1,Terminal,Systems Operations,2
+2018-04-28T17:10:00,73,1,TextEdit,Writing,2
+2018-04-28T17:10:00,24,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T17:10:00,9,1,Finder,General Utilities,0
+2018-04-28T17:10:00,1,1,Mail,Email,2
+2018-04-28T17:15:00,159,1,Terminal,Systems Operations,2
+2018-04-28T17:15:00,51,1,sublime text,Editing & IDEs,2
+2018-04-28T17:15:00,32,1,TextEdit,Writing,2
+2018-04-28T17:15:00,21,1,stackoverflow.com,General Software Development,2
+2018-04-28T17:15:00,17,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T17:15:00,12,1,Finder,General Utilities,0
+2018-04-28T17:15:00,6,1,telestream.net,Engineering & Technology,1
+2018-04-28T17:15:00,1,1,effbot.org,Search,0
+2018-04-28T17:15:00,1,1,pythonforbeginners.com,General Software Development,2
+2018-04-28T17:20:00,205,1,Terminal,Systems Operations,2
+2018-04-28T17:20:00,45,1,sublime text,Editing & IDEs,2
+2018-04-28T17:20:00,25,1,TextEdit,Writing,2
+2018-04-28T17:20:00,25,1,Finder,General Utilities,0
+2018-04-28T17:25:00,297,1,Terminal,Systems Operations,2
+2018-04-28T17:25:00,3,1,sublime text,Editing & IDEs,2
+2018-04-28T17:30:00,210,1,sublime text,Editing & IDEs,2
+2018-04-28T17:30:00,90,1,Terminal,Systems Operations,2
+2018-04-28T17:35:00,217,1,Terminal,Systems Operations,2
+2018-04-28T17:35:00,35,1,sublime text,Editing & IDEs,2
+2018-04-28T17:35:00,33,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T17:35:00,14,1,TextEdit,Writing,2
+2018-04-28T17:35:00,1,1,stackoverflow.com,General Software Development,2
+2018-04-28T17:40:00,249,1,Terminal,Systems Operations,2
+2018-04-28T17:40:00,51,1,sublime text,Editing & IDEs,2
+2018-04-28T17:45:00,223,1,Terminal,Systems Operations,2
+2018-04-28T17:45:00,77,1,sublime text,Editing & IDEs,2
+2018-04-28T17:50:00,162,1,Terminal,Systems Operations,2
+2018-04-28T17:50:00,138,1,sublime text,Editing & IDEs,2
+2018-04-28T17:55:00,161,1,sublime text,Editing & IDEs,2
+2018-04-28T17:55:00,139,1,Terminal,Systems Operations,2
+2018-04-28T18:00:00,147,1,Terminal,Systems Operations,2
+2018-04-28T18:00:00,53,1,movie.douban.com,Video,-2
+2018-04-28T18:00:00,32,1,腾讯视频,Video,-2
+2018-04-28T18:00:00,26,1,google.com,Search,2
+2018-04-28T18:00:00,13,1,Mail,Email,2
+2018-04-28T18:00:00,12,1,messenger.com,General Social Networking,-2
+2018-04-28T18:00:00,7,1,newtab,Browsers,0
+2018-04-28T18:00:00,6,1,iqiyi.com,Video,-2
+2018-04-28T18:00:00,2,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T18:00:00,1,1,stackoverflow.com,General Software Development,2
+2018-04-28T18:00:00,1,1,effbot.org,Search,0
+2018-04-28T18:05:00,278,1,youtube.com,Video,-2
+2018-04-28T18:05:00,12,1,messenger.com,General Social Networking,-2
+2018-04-28T18:05:00,10,1,腾讯视频,Video,-2
+2018-04-28T18:10:00,278,1,youtube.com,Video,-2
+2018-04-28T18:10:00,22,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T18:15:00,207,1,sublime text,Editing & IDEs,2
+2018-04-28T18:15:00,78,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T18:15:00,15,1,Terminal,Systems Operations,2
+2018-04-28T18:20:00,232,1,sublime text,Editing & IDEs,2
+2018-04-28T18:20:00,66,1,Terminal,Systems Operations,2
+2018-04-28T18:20:00,2,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T18:25:00,243,1,Terminal,Systems Operations,2
+2018-04-28T18:25:00,45,1,sublime text,Editing & IDEs,2
+2018-04-28T18:25:00,12,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T18:30:00,188,1,Terminal,Systems Operations,2
+2018-04-28T18:30:00,90,1,sublime text,Editing & IDEs,2
+2018-04-28T18:30:00,22,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T18:35:00,158,1,sublime text,Editing & IDEs,2
+2018-04-28T18:35:00,136,1,Terminal,Systems Operations,2
+2018-04-28T18:35:00,6,1,eecs6009.mit.edu,General Software Development,2
+2018-04-28T18:40:00,154,1,Mail,Email,2
+2018-04-28T18:40:00,20,1,Terminal,Systems Operations,2
+2018-04-28T18:40:00,1,1,sublime text,Editing & IDEs,2
+2018-04-28T18:50:00,125,1,messenger.com,General Social Networking,-2
+2018-04-28T18:50:00,43,1,sublime text,Editing & IDEs,2
+2018-04-28T18:50:00,22,1,facebook.com,General Social Networking,-2
+2018-04-28T18:50:00,16,1,Mail,Email,2
+2018-04-28T18:50:00,6,1,messages,General Social Networking,-2
+2018-04-28T18:50:00,4,1,Terminal,Systems Operations,2
+2018-04-28T18:55:00,274,1,sublime text,Editing & IDEs,2
+2018-04-28T18:55:00,23,1,Terminal,Systems Operations,2
+2018-04-28T18:55:00,3,1,Mail,Email,2
+2018-04-28T19:00:00,280,1,sublime text,Editing & IDEs,2
+2018-04-28T19:00:00,20,1,Terminal,Systems Operations,2
+2018-04-28T19:05:00,284,1,sublime text,Editing & IDEs,2
+2018-04-28T19:05:00,16,1,Terminal,Systems Operations,2
+2018-04-28T19:10:00,166,1,sublime text,Editing & IDEs,2
+2018-04-28T19:10:00,54,1,messenger.com,General Social Networking,-2
+2018-04-28T19:10:00,29,1,Terminal,Systems Operations,2
+2018-04-28T19:10:00,6,1,Mail,Email,2
+2018-04-28T19:20:00,130,1,sublime text,Editing & IDEs,2
+2018-04-28T19:25:00,229,1,sublime text,Editing & IDEs,2
+2018-04-28T19:25:00,50,1,messenger.com,General Social Networking,-2
+2018-04-28T19:25:00,21,1,messages,General Social Networking,-2
+2018-04-28T19:30:00,259,1,sublime text,Editing & IDEs,2
+2018-04-28T19:30:00,35,1,messenger.com,General Social Networking,-2
+2018-04-28T19:30:00,6,1,Mail,Email,2
+2018-04-28T19:35:00,169,1,sublime text,Editing & IDEs,2
+2018-04-28T19:35:00,131,1,messenger.com,General Social Networking,-2
+2018-04-28T19:40:00,204,1,messenger.com,General Social Networking,-2
+2018-04-28T19:40:00,96,1,sublime text,Editing & IDEs,2
+2018-04-28T19:45:00,177,1,messenger.com,General Social Networking,-2
+2018-04-28T19:45:00,123,1,sublime text,Editing & IDEs,2
+2018-04-28T19:50:00,114,1,messenger.com,General Social Networking,-2
+2018-04-28T22:55:00,191,1,youtube.com,Video,-2
+2018-04-28T22:55:00,8,1,messenger.com,General Social Networking,-2
+2018-04-28T22:55:00,2,1,loginwindow,General Utilities,0
+2018-04-28T23:00:00,300,1,youtube.com,Video,-2
+2018-04-28T23:05:00,292,1,youtube.com,Video,-2
+2018-04-28T23:05:00,8,1,messenger.com,General Social Networking,-2
+2018-04-28T23:10:00,282,1,youtube.com,Video,-2
+2018-04-28T23:10:00,18,1,messenger.com,General Social Networking,-2
+2018-04-28T23:15:00,171,1,sublime text,Editing & IDEs,2
+2018-04-28T23:15:00,129,1,youtube.com,Video,-2
+2018-04-28T23:20:00,300,1,youtube.com,Video,-2
+2018-04-28T23:25:00,196,1,youtube.com,Video,-2
+2018-04-28T23:25:00,104,1,Mail,Email,2
+2018-04-28T23:30:00,300,1,youtube.com,Video,-2
+2018-04-28T23:35:00,300,1,youtube.com,Video,-2
+2018-04-28T23:40:00,300,1,youtube.com,Video,-2
+2018-04-28T23:45:00,199,1,youtube.com,Video,-2
+2018-04-28T23:45:00,101,1,sublime text,Editing & IDEs,2
+2018-04-28T23:50:00,279,1,sublime text,Editing & IDEs,2
+2018-04-28T23:50:00,21,1,youtube.com,Video,-2
+2018-04-28T23:55:00,300,1,youtube.com,Video,-2

@@ -1,0 +1,201 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2014-12-23T10:00:00,116,1,Finder,General Utilities,0
+2014-12-23T10:00:00,110,1,microsoft word,Writing,2
+2014-12-23T10:00:00,35,1,Preview,General Reference & Learning,2
+2014-12-23T10:00:00,4,1,item.jd.com,General Shopping,-2
+2014-12-23T10:05:00,20,1,loginwindow,General Utilities,0
+2014-12-23T10:05:00,19,1,microsoft word,Writing,2
+2014-12-23T10:05:00,16,1,Finder,General Utilities,0
+2014-12-23T13:25:00,134,1,Mail,Email,2
+2014-12-23T13:25:00,38,1,Xcode,Editing & IDEs,2
+2014-12-23T13:25:00,34,1,Finder,General Utilities,0
+2014-12-23T13:25:00,5,1,microsoft word,Writing,2
+2014-12-23T13:55:00,201,1,secure.bhphotovideo.com,Search,-1
+2014-12-23T13:55:00,48,1,Safari,Browsers,2
+2014-12-23T13:55:00,11,1,item.jd.com,General Shopping,-2
+2014-12-23T13:55:00,3,1,bhphotovideo.com,General Shopping,-2
+2014-12-23T13:55:00,2,1,wwwapps.ups.com,General Shopping,-2
+2014-12-23T14:00:00,129,1,secure.bhphotovideo.com,Search,-1
+2014-12-23T14:10:00,2,1,secure.bhphotovideo.com,Search,-1
+2014-12-23T14:10:00,1,1,Skype,General Social Networking,-2
+2014-12-23T14:15:00,124,1,facebook.com,General Social Networking,-2
+2014-12-23T14:15:00,118,1,Skype,General Social Networking,-2
+2014-12-23T14:15:00,38,1,businessinsider.com,General News & Opinion,-2
+2014-12-23T14:15:00,10,1,secure.bhphotovideo.com,Search,-1
+2014-12-23T14:15:00,4,1,Safari,Browsers,2
+2014-12-23T14:20:00,185,1,facebook.com,General Social Networking,-2
+2014-12-23T14:20:00,53,1,businessinsider.com,General News & Opinion,-2
+2014-12-23T14:20:00,43,1,Xcode,Editing & IDEs,2
+2014-12-23T14:20:00,15,1,messages,General Social Networking,-2
+2014-12-23T14:20:00,4,1,list.jd.com,General Shopping,-2
+2014-12-23T14:25:00,209,1,messages,General Social Networking,-2
+2014-12-23T14:25:00,30,1,bing.com,Search,2
+2014-12-23T14:25:00,25,1,forums.macrumors.com,General News & Opinion,-2
+2014-12-23T14:25:00,8,1,Safari,Browsers,2
+2014-12-23T14:25:00,1,1,list.jd.com,General Shopping,-2
+2014-12-23T14:40:00,8,1,Xcode,Editing & IDEs,2
+2014-12-23T14:50:00,49,1,messages,General Social Networking,-2
+2014-12-23T14:55:00,233,1,en.wikipedia.org,General Reference & Learning,1
+2014-12-23T14:55:00,39,1,messages,General Social Networking,-2
+2014-12-23T14:55:00,16,1,Skype,General Social Networking,-2
+2014-12-23T14:55:00,9,1,Safari,Browsers,2
+2014-12-23T14:55:00,1,1,forums.macrumors.com,General News & Opinion,-2
+2014-12-23T15:00:00,188,1,en.wikipedia.org,General Reference & Learning,1
+2014-12-23T15:00:00,5,1,Preview,General Reference & Learning,2
+2014-12-23T15:00:00,4,1,Finder,General Utilities,0
+2014-12-23T15:00:00,2,1,forums.macrumors.com,General News & Opinion,-2
+2014-12-23T15:00:00,1,1,Skype,General Social Networking,-2
+2014-12-23T15:45:00,2,1,loginwindow,General Utilities,0
+2014-12-23T16:00:00,156,1,Finder,General Utilities,0
+2014-12-23T16:00:00,57,1,Preview,General Reference & Learning,2
+2014-12-23T16:00:00,13,1,en.wikipedia.org,General Reference & Learning,1
+2014-12-23T16:05:00,67,1,Xcode,Editing & IDEs,2
+2014-12-23T16:05:00,34,1,TextEdit,Writing,2
+2014-12-23T16:05:00,33,1,Finder,General Utilities,0
+2014-12-23T16:05:00,20,1,loginwindow,General Utilities,0
+2014-12-23T16:05:00,16,1,Mail,Email,2
+2014-12-23T16:10:00,69,1,TextEdit,Writing,2
+2014-12-23T16:10:00,60,1,en.wikipedia.org,General Reference & Learning,1
+2014-12-23T16:10:00,3,1,Mail,Email,2
+2014-12-23T16:10:00,1,1,messages,General Social Networking,-2
+2014-12-23T16:15:00,78,1,TextEdit,Writing,2
+2014-12-23T16:20:00,140,1,TextEdit,Writing,2
+2014-12-23T16:30:00,126,1,Xcode,Editing & IDEs,2
+2014-12-23T16:30:00,36,1,stackoverflow.com,General Software Development,2
+2014-12-23T16:30:00,21,1,cn.bing.com,Search,0
+2014-12-23T16:30:00,9,1,applications,General Business,2
+2014-12-23T16:30:00,9,1,microsoft word,Writing,2
+2014-12-23T16:30:00,7,1,en.wikipedia.org,General Reference & Learning,1
+2014-12-23T16:30:00,7,1,global.bing.com,General Reference & Learning,1
+2014-12-23T16:35:00,158,1,Xcode,Editing & IDEs,2
+2014-12-23T16:35:00,76,1,stackoverflow.com,General Software Development,2
+2014-12-23T16:35:00,38,1,global.bing.com,General Reference & Learning,1
+2014-12-23T16:35:00,19,1,cn.bing.com,Search,0
+2014-12-23T16:35:00,6,1,Safari,Browsers,2
+2014-12-23T16:35:00,2,1,cprogramming.com,Engineering & Technology,1
+2014-12-23T16:40:00,122,1,java2s.com,General News & Opinion,-2
+2014-12-23T16:40:00,110,1,Xcode,Editing & IDEs,2
+2014-12-23T16:40:00,44,1,cprogramming.com,Engineering & Technology,1
+2014-12-23T16:40:00,17,1,global.bing.com,General Reference & Learning,1
+2014-12-23T16:40:00,7,1,stackoverflow.com,General Software Development,2
+2014-12-23T16:45:00,155,1,Xcode,Editing & IDEs,2
+2014-12-23T16:45:00,60,1,bytes.com,General News & Opinion,-2
+2014-12-23T16:45:00,29,1,global.bing.com,General Reference & Learning,1
+2014-12-23T16:45:00,18,1,stackoverflow.com,General Software Development,2
+2014-12-23T16:45:00,13,1,applications,General Business,2
+2014-12-23T16:45:00,11,1,cn.bing.com,Search,0
+2014-12-23T16:45:00,7,1,cprogramming.com,Engineering & Technology,1
+2014-12-23T16:45:00,5,1,Safari,Browsers,2
+2014-12-23T16:45:00,2,1,SecurityAgent,Systems Operations,0
+2014-12-23T16:50:00,126,1,Xcode,Editing & IDEs,2
+2014-12-23T16:50:00,55,1,c-programming.todaysummary.com,Uncategorized,0
+2014-12-23T16:50:00,33,1,cn.bing.com,Search,0
+2014-12-23T16:50:00,28,1,global.bing.com,General Reference & Learning,1
+2014-12-23T16:50:00,25,1,Safari,Browsers,2
+2014-12-23T16:50:00,20,1,stackoverflow.com,General Software Development,2
+2014-12-23T16:50:00,12,1,askives.com,General Reference & Learning,1
+2014-12-23T16:55:00,203,1,Xcode,Editing & IDEs,2
+2014-12-23T16:55:00,81,1,cboard.cprogramming.com,Search,0
+2014-12-23T16:55:00,9,1,global.bing.com,General Reference & Learning,1
+2014-12-23T16:55:00,3,1,stackoverflow.com,General Software Development,2
+2014-12-23T16:55:00,3,1,java2s.com,General News & Opinion,-2
+2014-12-23T17:00:00,298,1,Xcode,Editing & IDEs,2
+2014-12-23T17:00:00,2,1,stackoverflow.com,General Software Development,2
+2014-12-23T17:05:00,263,1,Xcode,Editing & IDEs,2
+2014-12-23T17:05:00,21,1,programmingsimplified.com,General Reference & Learning,1
+2014-12-23T17:05:00,13,1,bing.com,Search,2
+2014-12-23T17:05:00,3,1,stackoverflow.com,General Software Development,2
+2014-12-23T17:10:00,279,1,Xcode,Editing & IDEs,2
+2014-12-23T17:10:00,11,1,bing.com,Search,2
+2014-12-23T17:10:00,6,1,programmingsimplified.com,General Reference & Learning,1
+2014-12-23T17:10:00,4,1,cboard.cprogramming.com,Search,0
+2014-12-23T17:15:00,282,1,Xcode,Editing & IDEs,2
+2014-12-23T17:15:00,18,1,cboard.cprogramming.com,Search,0
+2014-12-23T17:20:00,152,1,Xcode,Editing & IDEs,2
+2014-12-23T17:35:00,63,1,apple.com,Engineering & Technology,-1
+2014-12-23T17:35:00,42,1,store.apple.com,Electronics,-2
+2014-12-23T17:35:00,23,1,cboard.cprogramming.com,Search,0
+2014-12-23T17:40:00,195,1,store.apple.com,Electronics,-2
+2014-12-23T17:40:00,20,1,loginwindow,General Utilities,0
+2014-12-23T17:50:00,53,1,facebook.com,General Social Networking,-2
+2014-12-23T17:50:00,20,1,store.apple.com,Electronics,-2
+2014-12-23T17:50:00,18,1,collegeboard.org,General Reference & Learning,1
+2014-12-23T17:50:00,11,1,Activity Monitor,General Utilities,0
+2014-12-23T17:50:00,6,1,account.collegeboard.org,General Reference & Learning,1
+2014-12-23T17:50:00,5,1,cboard.cprogramming.com,Search,0
+2014-12-23T17:50:00,5,1,Skype,General Social Networking,-2
+2014-12-23T17:55:00,98,1,viewscore.collegeboard.org,General Reference & Learning,1
+2014-12-23T17:55:00,81,1,facebook.com,General Social Networking,-2
+2014-12-23T17:55:00,30,1,sat.collegeboard.org,General Reference & Learning,1
+2014-12-23T17:55:00,24,1,applications,General Business,2
+2014-12-23T17:55:00,21,1,Skype,General Social Networking,-2
+2014-12-23T17:55:00,17,1,java2s.com,General News & Opinion,-2
+2014-12-23T17:55:00,13,1,student.collegeboard.org,General Reference & Learning,1
+2014-12-23T17:55:00,6,1,account.collegeboard.org,General Reference & Learning,1
+2014-12-23T17:55:00,3,1,global.bing.com,General Reference & Learning,1
+2014-12-23T17:55:00,1,1,businessinsider.com,General News & Opinion,-2
+2014-12-23T18:00:00,109,1,sat.collegeboard.org,General Reference & Learning,1
+2014-12-23T18:00:00,81,1,facebook.com,General Social Networking,-2
+2014-12-23T18:00:00,56,1,Skype,General Social Networking,-2
+2014-12-23T18:00:00,28,1,keychain access,Systems Operations,2
+2014-12-23T18:00:00,14,1,viewscore.collegeboard.org,General Reference & Learning,1
+2014-12-23T18:00:00,8,1,collegeboard.org,General Reference & Learning,1
+2014-12-23T18:00:00,1,1,SecurityAgent,Systems Operations,0
+2014-12-23T18:00:00,1,1,applications,General Business,2
+2014-12-23T18:05:00,106,1,Finder,General Utilities,0
+2014-12-23T18:05:00,93,1,viewscore.collegeboard.org,General Reference & Learning,1
+2014-12-23T18:05:00,71,1,Skype,General Social Networking,-2
+2014-12-23T18:05:00,28,1,facebook.com,General Social Networking,-2
+2014-12-23T18:10:00,120,1,viewscore.collegeboard.org,General Reference & Learning,1
+2014-12-23T18:10:00,60,1,thecollegepanda.com,General Reference & Learning,1
+2014-12-23T18:10:00,41,1,Safari,Browsers,2
+2014-12-23T18:10:00,28,1,free-test-online.com,General Reference & Learning,1
+2014-12-23T18:10:00,18,1,facebook.com,General Social Networking,-2
+2014-12-23T18:10:00,15,1,Skype,General Social Networking,-2
+2014-12-23T18:10:00,13,1,bing.com,Search,2
+2014-12-23T18:10:00,2,1,Finder,General Utilities,0
+2014-12-23T18:15:00,155,1,thecollegepanda.com,General Reference & Learning,1
+2014-12-23T18:15:00,42,1,Skype,General Social Networking,-2
+2014-12-23T18:15:00,39,1,viewscore.collegeboard.org,General Reference & Learning,1
+2014-12-23T18:15:00,31,1,Finder,General Utilities,0
+2014-12-23T18:25:00,126,1,Skype,General Social Networking,-2
+2014-12-23T18:25:00,118,1,thecollegepanda.com,General Reference & Learning,1
+2014-12-23T18:25:00,53,1,facebook.com,General Social Networking,-2
+2014-12-23T18:25:00,2,1,viewscore.collegeboard.org,General Reference & Learning,1
+2014-12-23T18:30:00,31,1,facebook.com,General Social Networking,-2
+2014-12-23T18:30:00,1,1,Skype,General Social Networking,-2
+2014-12-23T18:45:00,2,1,loginwindow,General Utilities,0
+2014-12-23T19:05:00,49,1,Skype,General Social Networking,-2
+2014-12-23T19:05:00,13,1,Finder,General Utilities,0
+2014-12-23T19:05:00,13,1,Dropbox,File Sharing,-2
+2014-12-23T19:05:00,12,1,viewscore.collegeboard.org,General Reference & Learning,1
+2014-12-23T19:05:00,6,1,businessinsider.com,General News & Opinion,-2
+2014-12-23T19:05:00,3,1,facebook.com,General Social Networking,-2
+2014-12-23T19:05:00,2,1,usernotificationcenter,General Utilities,0
+2014-12-23T19:05:00,2,1,wwwapps.ups.com,General Shopping,-2
+2014-12-23T19:05:00,1,1,thecollegepanda.com,General Reference & Learning,1
+2014-12-23T19:05:00,1,1,list.jd.com,General Shopping,-2
+2014-12-23T19:10:00,20,1,Finder,General Utilities,0
+2014-12-23T19:45:00,61,1,global.bing.com,General Reference & Learning,1
+2014-12-23T19:45:00,10,1,list.jd.com,General Shopping,-2
+2014-12-23T19:45:00,9,1,applications,General Business,2
+2014-12-23T19:45:00,8,1,cn.bing.com,Search,0
+2014-12-23T20:15:00,157,1,en.wikipedia.org,General Reference & Learning,1
+2014-12-23T20:15:00,16,1,applications,General Business,2
+2014-12-23T20:15:00,9,1,cn.bing.com,Search,0
+2014-12-23T20:15:00,6,1,wolframalpha.com,Search,1
+2014-12-23T20:15:00,1,1,Safari,Browsers,2
+2014-12-23T20:20:00,59,1,en.wikipedia.org,General Reference & Learning,1
+2014-12-23T20:30:00,37,1,en.wikipedia.org,General Reference & Learning,1
+2014-12-23T20:35:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2014-12-23T20:40:00,290,1,en.wikipedia.org,General Reference & Learning,1
+2014-12-23T21:00:00,35,1,en.wikipedia.org,General Reference & Learning,1
+2014-12-23T21:00:00,12,1,facebook.com,General Social Networking,-2
+2014-12-23T21:05:00,228,1,daily-video-compilation.net,Uncategorized,0
+2014-12-23T21:05:00,57,1,facebook.com,General Social Networking,-2
+2014-12-23T21:05:00,14,1,Safari,Browsers,2
+2014-12-23T21:10:00,200,1,daily-video-compilation.net,Uncategorized,0
+2014-12-23T21:20:00,37,1,facebook.com,General Social Networking,-2
+2014-12-23T22:00:00,30,1,facebook.com,General Social Networking,-2
+2014-12-23T22:05:00,24,1,facebook.com,General Social Networking,-2
+2014-12-23T22:05:00,20,1,loginwindow,General Utilities,0

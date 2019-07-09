@@ -1,0 +1,197 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2017-10-21T01:05:00,1,1,loginwindow,General Utilities,0
+2017-10-21T01:45:00,5,1,calendar,Calendars,1
+2017-10-21T01:45:00,3,1,9to5mac.com,General News & Opinion,-2
+2017-10-21T14:00:00,37,1,9to5mac.com,General News & Opinion,-2
+2017-10-21T14:05:00,282,1,9to5mac.com,General News & Opinion,-2
+2017-10-21T14:05:00,18,1,facebook.com,General Social Networking,-2
+2017-10-21T14:10:00,116,1,9to5mac.com,General News & Opinion,-2
+2017-10-21T14:55:00,21,1,facebook.com,General Social Networking,-2
+2017-10-21T14:55:00,3,1,9to5mac.com,General News & Opinion,-2
+2017-10-21T15:05:00,2,1,9to5mac.com,General News & Opinion,-2
+2017-10-21T16:30:00,90,1,Mail,Email,2
+2017-10-21T16:30:00,10,1,9to5mac.com,General News & Opinion,-2
+2017-10-21T16:30:00,8,1,Preview,General Reference & Learning,2
+2017-10-21T16:30:00,3,1,loginwindow,General Utilities,0
+2017-10-21T16:30:00,2,1,Dropbox,File Sharing,-2
+2017-10-21T16:35:00,180,1,messages,General Social Networking,-2
+2017-10-21T16:35:00,62,1,Mail,Email,2
+2017-10-21T16:35:00,32,1,messenger.com,General Social Networking,-2
+2017-10-21T16:35:00,23,1,9to5mac.com,General News & Opinion,-2
+2017-10-21T16:35:00,2,1,wechat,General Social Networking,-2
+2017-10-21T16:40:00,198,1,messenger.com,General Social Networking,-2
+2017-10-21T16:40:00,55,1,messages,General Social Networking,-2
+2017-10-21T16:40:00,9,1,System Preferences,General Utilities,0
+2017-10-21T16:50:00,65,1,messenger.com,General Social Networking,-2
+2017-10-21T16:50:00,53,1,wechat,General Social Networking,-2
+2017-10-21T16:50:00,48,1,Mail,Email,2
+2017-10-21T16:50:00,43,1,stellar.mit.edu,General Reference & Learning,1
+2017-10-21T16:50:00,4,1,Safari,Browsers,2
+2017-10-21T16:55:00,146,1,wechat,General Social Networking,-2
+2017-10-21T16:55:00,51,1,messages,General Social Networking,-2
+2017-10-21T16:55:00,44,1,messenger.com,General Social Networking,-2
+2017-10-21T16:55:00,31,1,learning-modules.mit.edu,General Reference & Learning,1
+2017-10-21T16:55:00,16,1,sixohone.mit.edu,Presentation,2
+2017-10-21T16:55:00,8,1,stellar.mit.edu,General Reference & Learning,1
+2017-10-21T16:55:00,3,1,oidc.mit.edu,Presentation,2
+2017-10-21T16:55:00,1,1,Preview,General Reference & Learning,2
+2017-10-21T17:00:00,202,1,sixohone.mit.edu,Presentation,2
+2017-10-21T17:00:00,95,1,wechat,General Social Networking,-2
+2017-10-21T17:00:00,3,1,messenger.com,General Social Networking,-2
+2017-10-21T17:05:00,241,1,sixohone.mit.edu,Presentation,2
+2017-10-21T17:05:00,59,1,wechat,General Social Networking,-2
+2017-10-21T17:10:00,199,1,Mail,Email,2
+2017-10-21T17:10:00,101,1,sixohone.mit.edu,Presentation,2
+2017-10-21T17:15:00,118,1,sixohone.mit.edu,Presentation,2
+2017-10-21T17:15:00,30,1,grubhub.com,General Shopping,-1
+2017-10-21T17:15:00,6,1,Mail,Email,2
+2017-10-21T17:20:00,75,1,sixohone.mit.edu,Presentation,2
+2017-10-21T17:20:00,35,1,messenger.com,General Social Networking,-2
+2017-10-21T17:20:00,19,1,grubhub.com,General Shopping,-1
+2017-10-21T17:20:00,3,1,quora.com,General Reference & Learning,-1
+2017-10-21T17:20:00,3,1,stellar.mit.edu,General Reference & Learning,1
+2017-10-21T17:20:00,2,1,facebook.com,General Social Networking,-2
+2017-10-21T17:25:00,4,1,grubhub.com,General Shopping,-1
+2017-10-21T17:25:00,2,1,users,General Software Development,2
+2017-10-21T17:35:00,98,1,grubhub.com,General Shopping,-1
+2017-10-21T17:35:00,9,1,facetime,Voice Chat,-2
+2017-10-21T17:40:00,123,1,grubhub.com,General Shopping,-1
+2017-10-21T17:40:00,3,1,facetime,Voice Chat,-2
+2017-10-21T17:45:00,146,1,youtube.com,Video,-2
+2017-10-21T17:45:00,73,1,Mail,Email,2
+2017-10-21T17:50:00,256,1,youtube.com,Video,-2
+2017-10-21T17:50:00,41,1,Mail,Email,2
+2017-10-21T17:50:00,3,1,Safari,Browsers,2
+2017-10-21T17:55:00,261,1,youtube.com,Video,-2
+2017-10-21T17:55:00,39,1,Mail,Email,2
+2017-10-21T18:00:00,300,1,youtube.com,Video,-2
+2017-10-21T18:05:00,300,1,youtube.com,Video,-2
+2017-10-21T18:10:00,198,1,youtube.com,Video,-2
+2017-10-21T18:10:00,66,1,Mail,Email,2
+2017-10-21T18:10:00,17,1,google.com,Search,2
+2017-10-21T18:10:00,15,1,wechat,General Social Networking,-2
+2017-10-21T18:10:00,3,1,Safari,Browsers,2
+2017-10-21T18:15:00,300,1,youtube.com,Video,-2
+2017-10-21T18:20:00,169,1,youtube.com,Video,-2
+2017-10-21T18:20:00,76,1,web.groupme.com,Instant Message,-1
+2017-10-21T18:40:00,235,1,youtube.com,Video,-2
+2017-10-21T18:40:00,2,1,google.com,Search,2
+2017-10-21T18:45:00,300,1,youtube.com,Video,-2
+2017-10-21T18:50:00,300,1,youtube.com,Video,-2
+2017-10-21T18:55:00,300,1,youtube.com,Video,-2
+2017-10-21T19:00:00,300,1,youtube.com,Video,-2
+2017-10-21T19:05:00,300,1,youtube.com,Video,-2
+2017-10-21T19:10:00,300,1,youtube.com,Video,-2
+2017-10-21T19:15:00,300,1,youtube.com,Video,-2
+2017-10-21T19:20:00,300,1,youtube.com,Video,-2
+2017-10-21T19:25:00,300,1,youtube.com,Video,-2
+2017-10-21T19:30:00,223,1,youtube.com,Video,-2
+2017-10-21T19:30:00,73,1,Mail,Email,2
+2017-10-21T19:30:00,4,1,users,General Software Development,2
+2017-10-21T19:35:00,296,1,facebook.com,General Social Networking,-2
+2017-10-21T19:35:00,2,1,newtab,Browsers,0
+2017-10-21T19:35:00,2,1,Mail,Email,2
+2017-10-21T19:40:00,122,1,Finder,General Utilities,0
+2017-10-21T19:40:00,70,1,Mail,Email,2
+2017-10-21T19:40:00,53,1,Preview,General Reference & Learning,2
+2017-10-21T19:40:00,50,1,facebook.com,General Social Networking,-2
+2017-10-21T19:40:00,4,1,Dropbox,File Sharing,-2
+2017-10-21T19:45:00,299,1,Finder,General Utilities,0
+2017-10-21T19:50:00,300,1,Finder,General Utilities,0
+2017-10-21T19:55:00,271,1,Finder,General Utilities,0
+2017-10-21T19:55:00,29,1,Preview,General Reference & Learning,2
+2017-10-21T20:00:00,300,1,Finder,General Utilities,0
+2017-10-21T20:05:00,241,1,Finder,General Utilities,0
+2017-10-21T20:05:00,59,1,facebook.com,General Social Networking,-2
+2017-10-21T20:10:00,178,1,Finder,General Utilities,0
+2017-10-21T20:10:00,122,1,facebook.com,General Social Networking,-2
+2017-10-21T20:15:00,300,1,Finder,General Utilities,0
+2017-10-21T20:20:00,293,1,Finder,General Utilities,0
+2017-10-21T20:20:00,7,1,Preview,General Reference & Learning,2
+2017-10-21T20:25:00,300,1,Finder,General Utilities,0
+2017-10-21T20:30:00,299,1,Finder,General Utilities,0
+2017-10-21T20:35:00,300,1,Finder,General Utilities,0
+2017-10-21T20:40:00,300,1,Finder,General Utilities,0
+2017-10-21T20:45:00,151,1,sixohone.mit.edu,Presentation,2
+2017-10-21T20:45:00,144,1,Finder,General Utilities,0
+2017-10-21T20:45:00,3,1,stellar.mit.edu,General Reference & Learning,1
+2017-10-21T20:45:00,2,1,youtube.com,Video,-2
+2017-10-21T20:50:00,291,1,sixohone.mit.edu,Presentation,2
+2017-10-21T20:50:00,9,1,web.groupme.com,Instant Message,-1
+2017-10-21T20:55:00,227,1,sixohone.mit.edu,Presentation,2
+2017-10-21T20:55:00,71,1,web.groupme.com,Instant Message,-1
+2017-10-21T20:55:00,2,1,Safari,Browsers,2
+2017-10-21T21:00:00,135,1,sixohone.mit.edu,Presentation,2
+2017-10-21T21:15:00,228,1,Mail,Email,2
+2017-10-21T21:15:00,9,1,Google Forms,General Business,2
+2017-10-21T21:20:00,188,1,sixohone.mit.edu,Presentation,2
+2017-10-21T21:20:00,75,1,apple.com,Engineering & Technology,-1
+2017-10-21T21:20:00,28,1,Mail,Email,2
+2017-10-21T21:20:00,3,1,Safari,Browsers,2
+2017-10-21T21:20:00,2,1,youtube.com,Video,-2
+2017-10-21T21:20:00,2,1,google.com,Search,2
+2017-10-21T21:20:00,1,1,grubhub.com,General Shopping,-1
+2017-10-21T21:20:00,1,1,Google Forms,General Business,2
+2017-10-21T21:25:00,233,1,apple.com,Engineering & Technology,-1
+2017-10-21T21:25:00,67,1,messenger.com,General Social Networking,-2
+2017-10-21T21:30:00,168,1,messenger.com,General Social Networking,-2
+2017-10-21T21:35:00,4,1,messenger.com,General Social Networking,-2
+2017-10-21T21:40:00,30,1,messenger.com,General Social Networking,-2
+2017-10-21T21:40:00,3,1,apple.com,Engineering & Technology,-1
+2017-10-21T21:40:00,2,1,sixohone.mit.edu,Presentation,2
+2017-10-21T21:40:00,1,1,grubhub.com,General Shopping,-1
+2017-10-21T22:05:00,193,1,sixohone.mit.edu,Presentation,2
+2017-10-21T22:05:00,22,1,youtube.com,Video,-2
+2017-10-21T22:10:00,300,1,sixohone.mit.edu,Presentation,2
+2017-10-21T22:15:00,300,1,sixohone.mit.edu,Presentation,2
+2017-10-21T22:20:00,300,1,sixohone.mit.edu,Presentation,2
+2017-10-21T22:25:00,247,1,sixohone.mit.edu,Presentation,2
+2017-10-21T22:40:00,46,1,Finder,General Utilities,0
+2017-10-21T22:40:00,15,1,idle,Editing & IDEs,2
+2017-10-21T22:40:00,2,1,sixohone.mit.edu,Presentation,2
+2017-10-21T22:45:00,107,1,idle,Editing & IDEs,2
+2017-10-21T22:45:00,103,1,sixohone.mit.edu,Presentation,2
+2017-10-21T22:45:00,4,1,messages,General Social Networking,-2
+2017-10-21T22:50:00,300,1,idle,Editing & IDEs,2
+2017-10-21T22:55:00,239,1,idle,Editing & IDEs,2
+2017-10-21T22:55:00,60,1,sixohone.mit.edu,Presentation,2
+2017-10-21T23:00:00,176,1,idle,Editing & IDEs,2
+2017-10-21T23:00:00,121,1,sixohone.mit.edu,Presentation,2
+2017-10-21T23:00:00,1,1,apple.com,Engineering & Technology,-1
+2017-10-21T23:05:00,168,1,idle,Editing & IDEs,2
+2017-10-21T23:05:00,83,1,saltycrane.com,Engineering & Technology,1
+2017-10-21T23:05:00,36,1,sixohone.mit.edu,Presentation,2
+2017-10-21T23:05:00,9,1,apple.com,Engineering & Technology,-1
+2017-10-21T23:05:00,4,1,google.com,Search,2
+2017-10-21T23:10:00,168,1,idle,Editing & IDEs,2
+2017-10-21T23:10:00,130,1,sixohone.mit.edu,Presentation,2
+2017-10-21T23:15:00,161,1,idle,Editing & IDEs,2
+2017-10-21T23:15:00,76,1,sixohone.mit.edu,Presentation,2
+2017-10-21T23:15:00,62,1,piazza.com,General Reference & Learning,2
+2017-10-21T23:20:00,142,1,sixohone.mit.edu,Presentation,2
+2017-10-21T23:20:00,134,1,idle,Editing & IDEs,2
+2017-10-21T23:20:00,16,1,Safari,Browsers,2
+2017-10-21T23:20:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2017-10-21T23:20:00,3,1,google.com,Search,2
+2017-10-21T23:25:00,300,1,idle,Editing & IDEs,2
+2017-10-21T23:30:00,292,1,idle,Editing & IDEs,2
+2017-10-21T23:30:00,8,1,sixohone.mit.edu,Presentation,2
+2017-10-21T23:35:00,187,1,idle,Editing & IDEs,2
+2017-10-21T23:35:00,110,1,sixohone.mit.edu,Presentation,2
+2017-10-21T23:40:00,153,1,sixohone.mit.edu,Presentation,2
+2017-10-21T23:40:00,130,1,idle,Editing & IDEs,2
+2017-10-21T23:40:00,16,1,piazza.com,General Reference & Learning,2
+2017-10-21T23:45:00,188,1,sixohone.mit.edu,Presentation,2
+2017-10-21T23:45:00,84,1,idle,Editing & IDEs,2
+2017-10-21T23:45:00,25,1,piazza.com,General Reference & Learning,2
+2017-10-21T23:45:00,2,1,Finder,General Utilities,0
+2017-10-21T23:50:00,217,1,sixohone.mit.edu,Presentation,2
+2017-10-21T23:50:00,57,1,idle,Editing & IDEs,2
+2017-10-21T23:50:00,25,1,piazza.com,General Reference & Learning,2
+2017-10-21T23:55:00,175,1,idle,Editing & IDEs,2
+2017-10-21T23:55:00,97,1,sixohone.mit.edu,Presentation,2
+2017-10-21T23:55:00,12,1,stackoverflow.com,General Software Development,2
+2017-10-21T23:55:00,5,1,google.com,Search,2
+2017-10-21T23:55:00,4,1,Safari,Browsers,2
+2017-10-21T23:55:00,4,1,en.wikipedia.org,General Reference & Learning,1
+2017-10-21T23:55:00,2,1,saltycrane.com,Engineering & Technology,1

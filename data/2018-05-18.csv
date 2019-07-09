@@ -1,0 +1,144 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-05-18T00:00:00,300,1,youtube.com,Video,-2
+2018-05-18T00:05:00,300,1,youtube.com,Video,-2
+2018-05-18T00:10:00,78,1,youtube.com,Video,-2
+2018-05-18T01:50:00,203,1,messenger.com,General Social Networking,-2
+2018-05-18T01:50:00,18,1,Mail,Email,2
+2018-05-18T01:50:00,2,1,newtab,Browsers,0
+2018-05-18T01:50:00,1,1,youtube.com,Video,-2
+2018-05-18T01:50:00,1,1,RescueTime,Intelligence,0
+2018-05-18T01:55:00,300,1,messenger.com,General Social Networking,-2
+2018-05-18T02:00:00,271,1,messenger.com,General Social Networking,-2
+2018-05-18T02:00:00,16,1,newtab,Browsers,0
+2018-05-18T02:00:00,9,1,timeshighereducation.com,General Reference & Learning,1
+2018-05-18T02:00:00,2,1,photos,Photos,0
+2018-05-18T02:00:00,2,1,Terminal,Systems Operations,2
+2018-05-18T02:05:00,300,1,messenger.com,General Social Networking,-2
+2018-05-18T02:10:00,159,1,loginwindow,General Utilities,0
+2018-05-18T02:10:00,37,1,messenger.com,General Social Networking,-2
+2018-05-18T02:10:00,31,1,iTunes,Music,0
+2018-05-18T02:10:00,27,1,facebook.com,General Social Networking,-2
+2018-05-18T02:10:00,15,1,youtube.com,Video,-2
+2018-05-18T02:10:00,14,1,Finder,General Utilities,0
+2018-05-18T02:10:00,10,1,app.pipefy.com,General Business,2
+2018-05-18T02:10:00,7,1,newtab,Browsers,0
+2018-05-18T02:15:00,291,1,youtube.com,Video,-2
+2018-05-18T02:15:00,3,1,facebook.com,General Social Networking,-2
+2018-05-18T02:15:00,2,1,Finder,General Utilities,0
+2018-05-18T02:15:00,2,1,messenger.com,General Social Networking,-2
+2018-05-18T02:15:00,1,1,l.messenger.com,Instant Message,-1
+2018-05-18T02:20:00,170,1,youtube.com,Video,-2
+2018-05-18T02:20:00,113,1,iTunes,Music,0
+2018-05-18T02:20:00,17,1,microsoft word,Writing,2
+2018-05-18T02:25:00,126,1,youtube.com,Video,-2
+2018-05-18T02:25:00,99,1,timeshighereducation.com,General Reference & Learning,1
+2018-05-18T02:25:00,31,1,microsoft word,Writing,2
+2018-05-18T02:25:00,15,1,facebook.com,General Social Networking,-2
+2018-05-18T02:25:00,13,1,newtab,Browsers,0
+2018-05-18T02:25:00,6,1,Finder,General Utilities,0
+2018-05-18T02:25:00,5,1,photoshop cc,General Design & Composition,2
+2018-05-18T02:25:00,3,1,iTunes,Music,0
+2018-05-18T02:25:00,2,1,messenger.com,General Social Networking,-2
+2018-05-18T02:30:00,300,1,youtube.com,Video,-2
+2018-05-18T02:35:00,162,1,youtube.com,Video,-2
+2018-05-18T02:35:00,138,1,iTunes,Music,0
+2018-05-18T02:40:00,114,1,iTunes,Music,0
+2018-05-18T14:40:00,48,1,youtube.com,Video,-2
+2018-05-18T14:40:00,2,1,iTunes,Music,0
+2018-05-18T14:45:00,300,1,youtube.com,Video,-2
+2018-05-18T14:50:00,147,1,youtube.com,Video,-2
+2018-05-18T15:15:00,1,1,youtube.com,Video,-2
+2018-05-18T15:20:00,300,1,youtube.com,Video,-2
+2018-05-18T15:25:00,296,1,youtube.com,Video,-2
+2018-05-18T15:25:00,4,1,photoshop cc,General Design & Composition,2
+2018-05-18T15:30:00,300,1,youtube.com,Video,-2
+2018-05-18T15:35:00,159,1,youtube.com,Video,-2
+2018-05-18T15:35:00,135,1,en.wikipedia.org,General Reference & Learning,1
+2018-05-18T15:35:00,6,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-05-18T15:40:00,180,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-05-18T15:40:00,49,1,Finder,General Utilities,0
+2018-05-18T15:40:00,41,1,idp.mit.edu,General Reference & Learning,1
+2018-05-18T15:40:00,18,1,backup and sync from google,Uncategorized,0
+2018-05-18T15:40:00,9,1,Preview,General Reference & Learning,2
+2018-05-18T15:45:00,19,1,Preview,General Reference & Learning,2
+2018-05-18T15:45:00,3,1,Finder,General Utilities,0
+2018-05-18T15:50:00,234,1,Preview,General Reference & Learning,2
+2018-05-18T15:50:00,19,1,Finder,General Utilities,0
+2018-05-18T15:50:00,4,1,microsoft autoupdate,General Utilities,1
+2018-05-18T15:50:00,4,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-05-18T15:50:00,1,1,Terminal,Systems Operations,2
+2018-05-18T15:50:00,1,1,wechat,General Social Networking,-2
+2018-05-18T15:55:00,217,1,Preview,General Reference & Learning,2
+2018-05-18T15:55:00,43,1,Finder,General Utilities,0
+2018-05-18T15:55:00,31,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-05-18T15:55:00,5,1,users,General Software Development,2
+2018-05-18T15:55:00,4,1,youtube.com,Video,-2
+2018-05-18T16:00:00,295,1,Preview,General Reference & Learning,2
+2018-05-18T16:00:00,4,1,Finder,General Utilities,0
+2018-05-18T16:05:00,300,1,Preview,General Reference & Learning,2
+2018-05-18T16:10:00,92,1,en.wikipedia.org,General Reference & Learning,1
+2018-05-18T16:10:00,60,1,Preview,General Reference & Learning,2
+2018-05-18T16:10:00,11,1,learning-modules.mit.edu,General Reference & Learning,1
+2018-05-18T16:10:00,11,1,google.com,Search,2
+2018-05-18T16:25:00,2,1,google.com,Search,2
+2018-05-18T16:25:00,1,1,Preview,General Reference & Learning,2
+2018-05-18T16:30:00,98,1,en.wikipedia.org,General Reference & Learning,1
+2018-05-18T16:30:00,2,1,Preview,General Reference & Learning,2
+2018-05-18T16:40:00,87,1,stackoverflow.com,General Software Development,2
+2018-05-18T16:40:00,42,1,en.wikipedia.org,General Reference & Learning,1
+2018-05-18T16:40:00,13,1,google.com,Search,2
+2018-05-18T16:50:00,150,1,en.wikipedia.org,General Reference & Learning,1
+2018-05-18T16:50:00,67,1,Preview,General Reference & Learning,2
+2018-05-18T16:50:00,3,1,google.com,Search,2
+2018-05-18T18:30:00,234,1,youtube.com,Video,-2
+2018-05-18T18:30:00,5,1,Preview,General Reference & Learning,2
+2018-05-18T18:30:00,2,1,loginwindow,General Utilities,0
+2018-05-18T18:35:00,300,1,youtube.com,Video,-2
+2018-05-18T18:40:00,300,1,youtube.com,Video,-2
+2018-05-18T18:45:00,300,1,youtube.com,Video,-2
+2018-05-18T18:50:00,300,1,youtube.com,Video,-2
+2018-05-18T18:55:00,300,1,youtube.com,Video,-2
+2018-05-18T19:00:00,145,1,youtube.com,Video,-2
+2018-05-18T23:15:00,110,1,youtube.com,Video,-2
+2018-05-18T23:15:00,81,1,messenger.com,General Social Networking,-2
+2018-05-18T23:15:00,53,1,backup and sync from google,Uncategorized,0
+2018-05-18T23:15:00,3,1,google.com,Search,2
+2018-05-18T23:15:00,2,1,loginwindow,General Utilities,0
+2018-05-18T23:20:00,171,1,youtube.com,Video,-2
+2018-05-18T23:20:00,3,1,Mail,Email,2
+2018-05-18T23:25:00,18,1,adminappsts.mit.edu,Presentation,2
+2018-05-18T23:25:00,11,1,Mail,Email,2
+2018-05-18T23:25:00,9,1,atlas.mit.edu,General Business,2
+2018-05-18T23:25:00,6,1,idp.mit.edu,General Reference & Learning,1
+2018-05-18T23:25:00,4,1,messenger.com,General Social Networking,-2
+2018-05-18T23:30:00,128,1,messenger.com,General Social Networking,-2
+2018-05-18T23:30:00,128,1,secure.bankofamerica.com,Accounting,2
+2018-05-18T23:30:00,29,1,adminappsts.mit.edu,Presentation,2
+2018-05-18T23:30:00,10,1,bankofamerica.com,General Business,2
+2018-05-18T23:30:00,5,1,Mail,Email,2
+2018-05-18T23:35:00,171,1,messenger.com,General Social Networking,-2
+2018-05-18T23:35:00,79,1,Mail,Email,2
+2018-05-18T23:35:00,10,1,dealmoon.us7.list-manage.com,Uncategorized,0
+2018-05-18T23:35:00,10,1,secure.bankofamerica.com,Accounting,2
+2018-05-18T23:35:00,7,1,app.robly.com,General Business,2
+2018-05-18T23:35:00,6,1,ebm.cheetahmail.com,General News & Opinion,-2
+2018-05-18T23:35:00,6,1,amazon.com,General Shopping,-1
+2018-05-18T23:35:00,4,1,pinterest.com,General Social Networking,-2
+2018-05-18T23:35:00,2,1,adminappsts.mit.edu,Presentation,2
+2018-05-18T23:35:00,2,1,post.pinterest.com,General Social Networking,-2
+2018-05-18T23:35:00,1,1,email.robly.com,General Business,2
+2018-05-18T23:35:00,1,1,shop.josbank.com,General Shopping,-2
+2018-05-18T23:40:00,162,1,messenger.com,General Social Networking,-2
+2018-05-18T23:40:00,54,1,drive.google.com,General Business,2
+2018-05-18T23:40:00,38,1,atlas.mit.edu,General Business,2
+2018-05-18T23:40:00,17,1,netflix.com,Video,-2
+2018-05-18T23:40:00,17,1,Google Forms,General Business,2
+2018-05-18T23:40:00,8,1,Mail,Email,2
+2018-05-18T23:40:00,2,1,secure.bankofamerica.com,Accounting,2
+2018-05-18T23:40:00,2,1,adminappsts.mit.edu,Presentation,2
+2018-05-18T23:45:00,201,1,youtube.com,Video,-2
+2018-05-18T23:45:00,80,1,messenger.com,General Social Networking,-2
+2018-05-18T23:45:00,15,1,drive.google.com,General Business,2
+2018-05-18T23:45:00,3,1,Google Forms,General Business,2
+2018-05-18T23:50:00,300,1,youtube.com,Video,-2
+2018-05-18T23:55:00,300,1,youtube.com,Video,-2

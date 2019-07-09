@@ -1,0 +1,176 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2014-04-20T10:30:00,86,1,microsoft word,Writing,2
+2014-04-20T10:30:00,4,1,Xcode,Editing & IDEs,2
+2014-04-20T10:35:00,277,1,microsoft word,Writing,2
+2014-04-20T10:35:00,8,1,Skype,General Social Networking,-2
+2014-04-20T10:35:00,6,1,alfred,General Utilities,2
+2014-04-20T10:35:00,4,1,Dictionary,General Reference & Learning,1
+2014-04-20T10:35:00,3,1,systemuiserver,General Utilities,1
+2014-04-20T10:35:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2014-04-20T10:40:00,153,1,microsoft word,Writing,2
+2014-04-20T10:40:00,123,1,Dictionary,General Reference & Learning,1
+2014-04-20T10:40:00,14,1,systemuiserver,General Utilities,1
+2014-04-20T10:40:00,10,1,alfred,General Utilities,2
+2014-04-20T10:45:00,236,1,microsoft word,Writing,2
+2014-04-20T10:45:00,31,1,Dictionary,General Reference & Learning,1
+2014-04-20T10:45:00,17,1,Skype,General Social Networking,-2
+2014-04-20T10:45:00,10,1,Mail,Email,2
+2014-04-20T10:45:00,4,1,en.wikipedia.org,General Reference & Learning,1
+2014-04-20T10:45:00,2,1,alfred,General Utilities,2
+2014-04-20T10:50:00,188,1,microsoft word,Writing,2
+2014-04-20T10:50:00,48,1,Skype,General Social Networking,-2
+2014-04-20T10:50:00,32,1,Dictionary,General Reference & Learning,1
+2014-04-20T10:50:00,19,1,Mail,Email,2
+2014-04-20T10:50:00,13,1,en.wikipedia.org,General Reference & Learning,1
+2014-04-20T10:55:00,179,1,microsoft word,Writing,2
+2014-04-20T10:55:00,88,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T10:55:00,26,1,onlinecollege.org,General Entertainment,-2
+2014-04-20T10:55:00,7,1,psdbox.com,General Reference & Learning,1
+2014-04-20T11:00:00,249,1,microsoft word,Writing,2
+2014-04-20T11:00:00,32,1,psdbox.com,General Reference & Learning,1
+2014-04-20T11:00:00,8,1,commons.wikimedia.org,Search,0
+2014-04-20T11:00:00,6,1,Dictionary,General Reference & Learning,1
+2014-04-20T11:00:00,5,1,alfred,General Utilities,2
+2014-04-20T11:05:00,252,1,microsoft word,Writing,2
+2014-04-20T11:05:00,47,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T11:05:00,1,1,commons.wikimedia.org,Search,0
+2014-04-20T11:10:00,158,1,alfred,General Utilities,2
+2014-04-20T11:10:00,85,1,microsoft word,Writing,2
+2014-04-20T11:10:00,47,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T11:10:00,10,1,commons.wikimedia.org,Search,0
+2014-04-20T11:15:00,249,1,microsoft word,Writing,2
+2014-04-20T11:15:00,50,1,alfred,General Utilities,2
+2014-04-20T11:15:00,1,1,Xcode,Editing & IDEs,2
+2014-04-20T11:20:00,195,1,microsoft word,Writing,2
+2014-04-20T11:20:00,90,1,upload.wikimedia.org,Search,0
+2014-04-20T11:20:00,15,1,item.taobao.com,General Shopping,-1
+2014-04-20T11:25:00,215,1,microsoft word,Writing,2
+2014-04-20T11:25:00,62,1,item.taobao.com,General Shopping,-1
+2014-04-20T11:25:00,14,1,alfred,General Utilities,2
+2014-04-20T11:25:00,9,1,Dictionary,General Reference & Learning,1
+2014-04-20T11:30:00,272,1,microsoft word,Writing,2
+2014-04-20T11:30:00,21,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T11:30:00,7,1,item.taobao.com,General Shopping,-1
+2014-04-20T11:35:00,209,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T11:35:00,84,1,microsoft word,Writing,2
+2014-04-20T11:35:00,7,1,detail.tmall.com,General Shopping,-2
+2014-04-20T11:40:00,259,1,microsoft word,Writing,2
+2014-04-20T11:40:00,39,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T11:40:00,2,1,detail.tmall.com,General Shopping,-2
+2014-04-20T11:45:00,154,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T11:45:00,146,1,microsoft word,Writing,2
+2014-04-20T11:50:00,300,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T11:55:00,216,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T11:55:00,52,1,microsoft word,Writing,2
+2014-04-20T11:55:00,12,1,detail.tmall.com,General Shopping,-2
+2014-04-20T11:55:00,10,1,google.com.hk,Search,2
+2014-04-20T11:55:00,9,1,brusheezy.com,Email,0
+2014-04-20T11:55:00,1,1,microsoft autoupdate,General Utilities,1
+2014-04-20T12:00:00,218,1,microsoft word,Writing,2
+2014-04-20T12:00:00,26,1,deviantart.com,Presentation,2
+2014-04-20T12:00:00,25,1,s.taobao.com,General Shopping,-2
+2014-04-20T12:00:00,17,1,Skype,General Social Networking,-2
+2014-04-20T12:00:00,14,1,brusheezy.com,Email,0
+2014-04-20T12:05:00,229,1,microsoft word,Writing,2
+2014-04-20T12:05:00,43,1,Finder,General Utilities,0
+2014-04-20T12:05:00,17,1,upload.wikimedia.org,Search,0
+2014-04-20T12:05:00,7,1,Dictionary,General Reference & Learning,1
+2014-04-20T12:05:00,4,1,deviantart.com,Presentation,2
+2014-04-20T12:10:00,217,1,microsoft word,Writing,2
+2014-04-20T12:10:00,36,1,wegraphics.net,General Design & Composition,2
+2014-04-20T12:10:00,28,1,Finder,General Utilities,0
+2014-04-20T12:10:00,19,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T12:15:00,196,1,microsoft word,Writing,2
+2014-04-20T12:15:00,89,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T12:15:00,9,1,Dictionary,General Reference & Learning,1
+2014-04-20T12:15:00,3,1,wegraphics.net,General Design & Composition,2
+2014-04-20T12:15:00,3,1,alfred,General Utilities,2
+2014-04-20T12:20:00,189,1,microsoft word,Writing,2
+2014-04-20T12:20:00,94,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T12:20:00,17,1,wegraphics.net,General Design & Composition,2
+2014-04-20T12:25:00,200,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T12:25:00,47,1,wegraphics.net,General Design & Composition,2
+2014-04-20T12:25:00,46,1,microsoft word,Writing,2
+2014-04-20T12:25:00,4,1,alfred,General Utilities,2
+2014-04-20T12:25:00,3,1,Dictionary,General Reference & Learning,1
+2014-04-20T12:30:00,160,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T12:30:00,3,1,Finder,General Utilities,0
+2014-04-20T18:50:00,287,1,Skype,General Social Networking,-2
+2014-04-20T18:55:00,300,1,Skype,General Social Networking,-2
+2014-04-20T19:00:00,300,1,Skype,General Social Networking,-2
+2014-04-20T19:05:00,300,1,Skype,General Social Networking,-2
+2014-04-20T19:10:00,300,1,Skype,General Social Networking,-2
+2014-04-20T19:15:00,300,1,Skype,General Social Networking,-2
+2014-04-20T19:20:00,300,1,Skype,General Social Networking,-2
+2014-04-20T19:25:00,300,1,Skype,General Social Networking,-2
+2014-04-20T19:30:00,300,1,Skype,General Social Networking,-2
+2014-04-20T19:35:00,300,1,Skype,General Social Networking,-2
+2014-04-20T19:40:00,300,1,Skype,General Social Networking,-2
+2014-04-20T19:45:00,300,1,Skype,General Social Networking,-2
+2014-04-20T19:50:00,199,1,Skype,General Social Networking,-2
+2014-04-20T19:50:00,101,1,microsoft word,Writing,2
+2014-04-20T19:55:00,300,1,microsoft word,Writing,2
+2014-04-20T20:00:00,67,1,microsoft word,Writing,2
+2014-04-20T20:05:00,114,1,Skype,General Social Networking,-2
+2014-04-20T20:10:00,234,1,Skype,General Social Networking,-2
+2014-04-20T20:10:00,66,1,microsoft word,Writing,2
+2014-04-20T20:15:00,300,1,microsoft word,Writing,2
+2014-04-20T20:20:00,300,1,microsoft word,Writing,2
+2014-04-20T20:25:00,298,1,microsoft word,Writing,2
+2014-04-20T20:25:00,2,1,wegraphics.net,General Design & Composition,2
+2014-04-20T20:30:00,300,1,microsoft word,Writing,2
+2014-04-20T20:35:00,106,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T20:35:00,100,1,microsoft word,Writing,2
+2014-04-20T20:35:00,80,1,wegraphics.net,General Design & Composition,2
+2014-04-20T20:35:00,14,1,Skype,General Social Networking,-2
+2014-04-20T20:40:00,189,1,Skype,General Social Networking,-2
+2014-04-20T20:40:00,111,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T20:45:00,276,1,Skype,General Social Networking,-2
+2014-04-20T20:45:00,24,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T20:50:00,300,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T20:55:00,300,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T21:00:00,202,1,Skype,General Social Networking,-2
+2014-04-20T21:00:00,98,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T21:05:00,300,1,Skype,General Social Networking,-2
+2014-04-20T21:10:00,129,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T21:10:00,78,1,Skype,General Social Networking,-2
+2014-04-20T21:15:00,49,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T21:15:00,10,1,problem reporter,General News & Opinion,-2
+2014-04-20T21:15:00,6,1,System Preferences,General Utilities,0
+2014-04-20T21:15:00,2,1,RescueTime,Intelligence,0
+2014-04-20T21:15:00,2,1,reportpanic,Uncategorized,0
+2014-04-20T21:15:00,1,1,microsoft word,Writing,2
+2014-04-20T21:20:00,211,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T21:20:00,89,1,Skype,General Social Networking,-2
+2014-04-20T21:25:00,258,1,Adobe Photoshop,Graphic Design,2
+2014-04-20T21:25:00,33,1,Skype,General Social Networking,-2
+2014-04-20T21:25:00,8,1,microsoft word,Writing,2
+2014-04-20T21:25:00,1,1,alfred,General Utilities,2
+2014-04-20T21:30:00,212,1,wegraphics.net,General Design & Composition,2
+2014-04-20T21:30:00,52,1,store.apple.com,Electronics,-2
+2014-04-20T21:30:00,18,1,Finder,General Utilities,0
+2014-04-20T21:30:00,10,1,microsoft word,Writing,2
+2014-04-20T21:30:00,8,1,Mail,Email,2
+2014-04-20T21:35:00,111,1,Mail,Email,2
+2014-04-20T21:35:00,48,1,store.apple.com,Electronics,-2
+2014-04-20T21:35:00,4,1,Finder,General Utilities,0
+2014-04-20T22:10:00,221,1,eclipse,Editing & IDEs,2
+2014-04-20T22:10:00,6,1,Xcode,Editing & IDEs,2
+2014-04-20T22:10:00,1,1,alfred,General Utilities,2
+2014-04-20T22:15:00,243,1,eclipse,Editing & IDEs,2
+2014-04-20T22:15:00,57,1,Skype,General Social Networking,-2
+2014-04-20T22:20:00,300,1,eclipse,Editing & IDEs,2
+2014-04-20T22:25:00,156,1,eclipse,Editing & IDEs,2
+2014-04-20T22:25:00,140,1,store.apple.com,Electronics,-2
+2014-04-20T22:25:00,4,1,Skype,General Social Networking,-2
+2014-04-20T22:30:00,162,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2014-04-20T22:30:00,138,1,Skype,General Social Networking,-2
+2014-04-20T22:35:00,300,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2014-04-20T22:40:00,300,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2014-04-20T22:45:00,300,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2014-04-20T22:50:00,289,1,Skype,General Social Networking,-2
+2014-04-20T22:50:00,11,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2014-04-20T22:55:00,137,1,Finder,General Utilities,0
+2014-04-20T22:55:00,76,1,Skype,General Social Networking,-2
+2014-04-20T23:05:00,164,1,Skype,General Social Networking,-2
+2014-04-20T23:05:00,21,1,Finder,General Utilities,0

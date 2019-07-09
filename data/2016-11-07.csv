@@ -1,0 +1,42 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2016-11-07T01:15:00,114,1,mathematica,Engineering & Technology,2
+2016-11-07T01:15:00,18,1,loginwindow,General Utilities,0
+2016-11-07T08:40:00,163,1,mathematica,Engineering & Technology,2
+2016-11-07T08:40:00,54,1,facebook.com,General Social Networking,-2
+2016-11-07T08:40:00,20,1,Mail,Email,2
+2016-11-07T08:40:00,6,1,messages,General Social Networking,-2
+2016-11-07T08:40:00,3,1,mathematica.stackexchange.com,Engineering & Technology,1
+2016-11-07T08:40:00,1,1,Finder,General Utilities,0
+2016-11-07T08:45:00,178,1,mathematica,Engineering & Technology,2
+2016-11-07T08:45:00,81,1,9to5mac.com,General News & Opinion,-2
+2016-11-07T08:45:00,29,1,facebook.com,General Social Networking,-2
+2016-11-07T08:45:00,11,1,Safari,Browsers,2
+2016-11-07T08:50:00,108,1,9to5mac.com,General News & Opinion,-2
+2016-11-07T08:50:00,108,1,mathematica,Engineering & Technology,2
+2016-11-07T08:50:00,71,1,bbc.com,General News & Opinion,-2
+2016-11-07T08:50:00,12,1,google.com,Search,2
+2016-11-07T08:55:00,154,1,mathematica,Engineering & Technology,2
+2016-11-07T08:55:00,146,1,bbc.com,General News & Opinion,-2
+2016-11-07T09:00:00,209,1,reuters.com,General News & Opinion,-2
+2016-11-07T09:00:00,58,1,mathematica,Engineering & Technology,2
+2016-11-07T09:00:00,23,1,google.com,Search,2
+2016-11-07T09:00:00,7,1,bbc.com,General News & Opinion,-2
+2016-11-07T09:05:00,91,1,wsj.com,General News & Opinion,-2
+2016-11-07T09:05:00,71,1,forbes.com,General News & Opinion,-2
+2016-11-07T09:05:00,67,1,google.com,Search,2
+2016-11-07T09:05:00,29,1,bloomberg.com,Business,-1
+2016-11-07T09:05:00,21,1,reuters.com,General News & Opinion,-2
+2016-11-07T09:05:00,18,1,theconversation.com,General News & Opinion,-2
+2016-11-07T09:10:00,158,1,mathematica,Engineering & Technology,2
+2016-11-07T09:10:00,114,1,theconversation.com,General News & Opinion,-2
+2016-11-07T09:10:00,22,1,theguardian.com,General News & Opinion,-2
+2016-11-07T09:10:00,5,1,google.com,Search,2
+2016-11-07T09:15:00,104,1,mathematica,Engineering & Technology,2
+2016-11-07T09:15:00,16,1,loginwindow,General Utilities,0
+2016-11-07T11:05:00,144,1,quartus,General Software Development,2
+2016-11-07T11:05:00,10,1,vish,General Software Development,2
+2016-11-07T11:05:00,3,1,system idle process,Other,0
+2016-11-07T11:10:00,275,1,quartus,General Software Development,2
+2016-11-07T11:45:00,27,1,deerfield.edu,General Reference & Learning,1
+2016-11-07T11:45:00,11,1,Gmail,Email,2
+2016-11-07T11:45:00,1,1,quartus,General Software Development,2

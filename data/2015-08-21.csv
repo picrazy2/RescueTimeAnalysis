@@ -1,0 +1,37 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2015-08-21T00:00:00,213,1,youtube.com,Video,-2
+2015-08-21T00:00:00,79,1,quicktime player,General Entertainment,-1
+2015-08-21T00:00:00,5,1,amazon.com,General Shopping,-1
+2015-08-21T00:05:00,300,1,youtube.com,Video,-2
+2015-08-21T00:10:00,300,1,youtube.com,Video,-2
+2015-08-21T00:15:00,44,1,youtube.com,Video,-2
+2015-08-21T00:15:00,21,1,en.wikipedia.org,General Reference & Learning,1
+2015-08-21T00:15:00,4,1,Safari,Browsers,2
+2015-08-21T00:15:00,3,1,google.com,Search,2
+2015-08-21T00:25:00,193,1,secure.bhphotovideo.com,Search,-1
+2015-08-21T00:25:00,92,1,dji.com,General Shopping,-2
+2015-08-21T00:25:00,9,1,bhphotovideo.com,General Shopping,-2
+2015-08-21T00:30:00,44,1,secure.bhphotovideo.com,Search,-1
+2015-08-21T00:30:00,2,1,Mail,Email,2
+2015-08-21T00:35:00,17,1,bhphotovideo.com,General Shopping,-2
+2015-08-21T00:35:00,4,1,secure.bhphotovideo.com,Search,-1
+2015-08-21T00:45:00,13,1,system information,General Utilities,0
+2015-08-21T01:05:00,98,1,bhphotovideo.com,General Shopping,-2
+2015-08-21T01:05:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2015-08-21T01:05:00,1,1,Safari,Browsers,2
+2015-08-21T01:10:00,297,1,bhphotovideo.com,General Shopping,-2
+2015-08-21T01:15:00,4,1,bhphotovideo.com,General Shopping,-2
+2015-08-21T23:25:00,78,1,bhphotovideo.com,General Shopping,-2
+2015-08-21T23:25:00,15,1,pages,Presentation,2
+2015-08-21T23:25:00,6,1,loginwindow,General Utilities,0
+2015-08-21T23:40:00,137,1,spotlight,General Utilities,1
+2015-08-21T23:40:00,66,1,pages,Presentation,2
+2015-08-21T23:40:00,17,1,applications,General Business,2
+2015-08-21T23:40:00,13,1,bhphotovideo.com,General Shopping,-2
+2015-08-21T23:40:00,4,1,speedtypingonline.com,General Reference & Learning,1
+2015-08-21T23:40:00,2,1,google.com,Search,2
+2015-08-21T23:40:00,1,1,purplemath.com,Engineering & Technology,1
+2015-08-21T23:45:00,13,1,applications,General Business,2
+2015-08-21T23:45:00,10,1,pages,Presentation,2
+2015-08-21T23:45:00,3,1,Finder,General Utilities,0
+2015-08-21T23:55:00,10,1,spotlight,General Utilities,1

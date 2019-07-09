@@ -1,0 +1,268 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2017-05-02T00:00:00,297,1,facebook.com,General Social Networking,-2
+2017-05-02T00:00:00,2,1,facetime,Voice Chat,-2
+2017-05-02T00:00:00,1,1,microsoft word,Writing,2
+2017-05-02T00:05:00,213,1,facebook.com,General Social Networking,-2
+2017-05-02T00:05:00,44,1,Notes,Email,0
+2017-05-02T00:05:00,18,1,linkedin.com,Professional Networking,1
+2017-05-02T00:05:00,17,1,messages,General Social Networking,-2
+2017-05-02T00:05:00,4,1,usernotificationcenter,General Utilities,0
+2017-05-02T00:05:00,3,1,google.com,Search,2
+2017-05-02T00:05:00,1,1,Safari,Browsers,2
+2017-05-02T00:10:00,300,1,facebook.com,General Social Networking,-2
+2017-05-02T00:15:00,1,1,facebook.com,General Social Networking,-2
+2017-05-02T00:25:00,3,1,facebook.com,General Social Networking,-2
+2017-05-02T00:25:00,3,1,usernotificationcenter,General Utilities,0
+2017-05-02T08:30:00,61,1,google.com,Search,2
+2017-05-02T08:30:00,20,1,gaoloumi.com,Regional,-2
+2017-05-02T08:30:00,7,1,Safari,Browsers,2
+2017-05-02T08:35:00,120,1,thebeijinger.com,General News & Opinion,-2
+2017-05-02T08:35:00,87,1,gaoloumi.com,Regional,-2
+2017-05-02T08:35:00,80,1,facebook.com,General Social Networking,-2
+2017-05-02T08:35:00,8,1,map.baidu.com,Maps & Regional,-2
+2017-05-02T08:35:00,2,1,Safari,Browsers,2
+2017-05-02T08:35:00,1,1,process.st,General Business,2
+2017-05-02T08:40:00,129,1,thebeijinger.com,General News & Opinion,-2
+2017-05-02T08:40:00,92,1,Google Spreadsheets,General Business,2
+2017-05-02T08:40:00,21,1,drive.google.com,General Business,2
+2017-05-02T08:40:00,17,1,loginwindow,General Utilities,0
+2017-05-02T08:40:00,12,1,Safari,Browsers,2
+2017-05-02T08:40:00,7,1,facebook.com,General Social Networking,-2
+2017-05-02T08:40:00,6,1,gaoloumi.com,Regional,-2
+2017-05-02T08:40:00,3,1,onecard.deerfield.edu,General Reference & Learning,1
+2017-05-02T08:40:00,1,1,deerfield.instructure.com,General Reference & Learning,1
+2017-05-02T08:55:00,183,1,Finder,General Utilities,0
+2017-05-02T08:55:00,55,1,facebook.com,General Social Networking,-2
+2017-05-02T08:55:00,7,1,gaoloumi.com,Regional,-2
+2017-05-02T08:55:00,7,1,Google Spreadsheets,General Business,2
+2017-05-02T08:55:00,6,1,thebeijinger.com,General News & Opinion,-2
+2017-05-02T08:55:00,4,1,Safari,Browsers,2
+2017-05-02T08:55:00,2,1,map.baidu.com,Maps & Regional,-2
+2017-05-02T08:55:00,2,1,google earth,Maps & Regional,1
+2017-05-02T09:00:00,230,1,google earth,Maps & Regional,1
+2017-05-02T09:00:00,64,1,Finder,General Utilities,0
+2017-05-02T09:00:00,6,1,facebook.com,General Social Networking,-2
+2017-05-02T09:05:00,148,1,google earth,Maps & Regional,1
+2017-05-02T09:05:00,77,1,Safari,Browsers,2
+2017-05-02T09:05:00,27,1,photoshop cc,General Design & Composition,2
+2017-05-02T09:05:00,21,1,messages,General Social Networking,-2
+2017-05-02T09:05:00,20,1,facebook.com,General Social Networking,-2
+2017-05-02T09:10:00,261,1,map.baidu.com,Maps & Regional,-2
+2017-05-02T09:10:00,18,1,stateair.net,Uncategorized,0
+2017-05-02T09:10:00,12,1,loginwindow,General Utilities,0
+2017-05-02T09:10:00,6,1,Finder,General Utilities,0
+2017-05-02T09:10:00,3,1,Safari,Browsers,2
+2017-05-02T09:15:00,12,1,loginwindow,General Utilities,0
+2017-05-02T09:20:00,146,1,Mail,Email,2
+2017-05-02T09:25:00,115,1,Mail,Email,2
+2017-05-02T09:25:00,108,1,geofilters.snapchat.com,Marketing,2
+2017-05-02T09:25:00,36,1,Notes,Email,0
+2017-05-02T09:25:00,15,1,google.com,Search,2
+2017-05-02T09:25:00,9,1,drive.google.com,General Business,2
+2017-05-02T09:25:00,8,1,Google Spreadsheets,General Business,2
+2017-05-02T09:25:00,4,1,support.snapchat.com,General Social Networking,-2
+2017-05-02T09:25:00,2,1,snapchat.com,General Social Networking,-2
+2017-05-02T09:25:00,2,1,Safari,Browsers,2
+2017-05-02T09:30:00,113,1,nytimes.com,General News & Opinion,-2
+2017-05-02T09:30:00,94,1,Notes,Email,0
+2017-05-02T09:30:00,75,1,BBC,International,2
+2017-05-02T09:30:00,7,1,google.com,Search,2
+2017-05-02T09:30:00,5,1,Google Spreadsheets,General Business,2
+2017-05-02T09:30:00,3,1,geofilters.snapchat.com,Marketing,2
+2017-05-02T09:30:00,2,1,Safari,Browsers,2
+2017-05-02T09:35:00,175,1,nytimes.com,General News & Opinion,-2
+2017-05-02T09:35:00,85,1,forbes.com,General News & Opinion,-2
+2017-05-02T09:35:00,32,1,google.com,Search,2
+2017-05-02T09:35:00,5,1,cnn.com,General News & Opinion,2
+2017-05-02T09:40:00,104,1,cnn.com,General News & Opinion,2
+2017-05-02T09:40:00,98,1,fortune.com,Business,-1
+2017-05-02T09:40:00,86,1,businessinsider.com,General News & Opinion,-2
+2017-05-02T09:40:00,7,1,messages,General Social Networking,-2
+2017-05-02T09:40:00,4,1,google.com,Search,2
+2017-05-02T09:45:00,180,1,realclearworld.com,General News & Opinion,-2
+2017-05-02T09:45:00,84,1,google.com,Search,2
+2017-05-02T09:45:00,18,1,businessinsider.com,General News & Opinion,-2
+2017-05-02T09:45:00,17,1,abc.net.au,General News & Opinion,-2
+2017-05-02T09:50:00,285,1,cnn.com,General News & Opinion,2
+2017-05-02T09:50:00,8,1,realclearworld.com,General News & Opinion,-2
+2017-05-02T09:50:00,5,1,google.com,Search,2
+2017-05-02T09:55:00,298,1,cnn.com,General News & Opinion,2
+2017-05-02T10:00:00,175,1,popsci.com,Science & Technology,-1
+2017-05-02T10:00:00,51,1,bloomberg.com,Business,-1
+2017-05-02T10:00:00,42,1,google.com,Search,2
+2017-05-02T10:00:00,23,1,matlab,General Software Development,2
+2017-05-02T10:00:00,4,1,stateair.net,Uncategorized,0
+2017-05-02T10:00:00,2,1,Safari,Browsers,2
+2017-05-02T10:05:00,42,1,google.com,Search,2
+2017-05-02T10:05:00,17,1,loginwindow,General Utilities,0
+2017-05-02T10:45:00,204,1,map.baidu.com,Maps & Regional,-2
+2017-05-02T10:45:00,48,1,microsoft onenote,Intelligence,2
+2017-05-02T10:45:00,28,1,Finder,General Utilities,0
+2017-05-02T10:45:00,12,1,stateair.net,Uncategorized,0
+2017-05-02T10:50:00,66,1,map.baidu.com,Maps & Regional,-2
+2017-05-02T10:50:00,18,1,loginwindow,General Utilities,0
+2017-05-02T11:10:00,161,1,quartus,General Software Development,2
+2017-05-02T11:15:00,300,1,quartus,General Software Development,2
+2017-05-02T11:20:00,296,1,quartus,General Software Development,2
+2017-05-02T11:20:00,23,1,saleae.com,Uncategorized,0
+2017-05-02T11:20:00,9,1,Finder,General Utilities,0
+2017-05-02T11:20:00,7,1,Safari,Browsers,2
+2017-05-02T11:20:00,5,1,google.com,Search,2
+2017-05-02T11:20:00,1,1,map.baidu.com,Maps & Regional,-2
+2017-05-02T11:25:00,289,1,quartus,General Software Development,2
+2017-05-02T11:25:00,256,1,logic,General Software Development,2
+2017-05-02T11:25:00,42,1,Finder,General Utilities,0
+2017-05-02T11:25:00,4,1,google.com,Search,2
+2017-05-02T11:25:00,1,1,coreservicesuiagent,General Utilities,0
+2017-05-02T11:30:00,300,1,quartus,General Software Development,2
+2017-05-02T11:30:00,277,1,logic,General Software Development,2
+2017-05-02T11:35:00,295,1,quartus,General Software Development,2
+2017-05-02T11:40:00,297,1,quartus,General Software Development,2
+2017-05-02T11:40:00,1,1,google.com,Search,2
+2017-05-02T11:45:00,298,1,quartus,General Software Development,2
+2017-05-02T11:45:00,2,1,google.com,Search,2
+2017-05-02T11:50:00,157,1,quartus,General Software Development,2
+2017-05-02T14:30:00,94,1,my.mit.edu,General Reference & Learning,1
+2017-05-02T14:30:00,18,1,loginwindow,General Utilities,0
+2017-05-02T14:30:00,12,1,Mail,Email,2
+2017-05-02T14:30:00,3,1,logic,General Software Development,2
+2017-05-02T14:30:00,2,1,Finder,General Utilities,0
+2017-05-02T16:45:00,3,1,facebook.com,General Social Networking,-2
+2017-05-02T17:15:00,22,1,facebook.com,General Social Networking,-2
+2017-05-02T17:15:00,5,1,messages,General Social Networking,-2
+2017-05-02T17:20:00,167,1,messages,General Social Networking,-2
+2017-05-02T17:20:00,48,1,facebook.com,General Social Networking,-2
+2017-05-02T17:20:00,44,1,my.mit.edu,General Reference & Learning,1
+2017-05-02T17:20:00,38,1,register.mit.edu,Presentation,2
+2017-05-02T17:20:00,2,1,Safari,Browsers,2
+2017-05-02T17:25:00,176,1,register.mit.edu,Presentation,2
+2017-05-02T17:25:00,58,1,people.csail.mit.edu,General Reference & Learning,1
+2017-05-02T17:25:00,41,1,Mail,Email,2
+2017-05-02T17:25:00,20,1,google.com,Search,2
+2017-05-02T17:25:00,5,1,linkedin.com,Professional Networking,1
+2017-05-02T17:30:00,217,1,register.mit.edu,Presentation,2
+2017-05-02T17:30:00,30,1,www-mtl.mit.edu,General Reference & Learning,1
+2017-05-02T17:30:00,21,1,Mail,Email,2
+2017-05-02T17:30:00,15,1,google.com,Search,2
+2017-05-02T17:30:00,11,1,meche.mit.edu,General Reference & Learning,1
+2017-05-02T17:30:00,5,1,people.csail.mit.edu,General Reference & Learning,1
+2017-05-02T17:35:00,247,1,register.mit.edu,Presentation,2
+2017-05-02T17:35:00,39,1,kb.mit.edu,General Reference & Learning,1
+2017-05-02T17:35:00,13,1,ist.mit.edu,Engineering & Technology,1
+2017-05-02T17:40:00,84,1,kb.mit.edu,General Reference & Learning,1
+2017-05-02T17:40:00,67,1,duo.mit.edu,Presentation,2
+2017-05-02T17:40:00,50,1,messages,General Social Networking,-2
+2017-05-02T17:40:00,29,1,register.mit.edu,Presentation,2
+2017-05-02T17:40:00,22,1,idp.mit.edu,General Reference & Learning,1
+2017-05-02T17:40:00,16,1,ca.mit.edu,General Reference & Learning,1
+2017-05-02T17:40:00,12,1,my.mit.edu,General Reference & Learning,1
+2017-05-02T17:40:00,9,1,Notes,Email,0
+2017-05-02T17:40:00,7,1,facebook.com,General Social Networking,-2
+2017-05-02T17:40:00,2,1,Safari,Browsers,2
+2017-05-02T17:40:00,2,1,ist.mit.edu,Engineering & Technology,1
+2017-05-02T17:45:00,84,1,ca.mit.edu,General Reference & Learning,1
+2017-05-02T17:45:00,15,1,messages,General Social Networking,-2
+2017-05-02T17:45:00,3,1,google software update,General Utilities,1
+2017-05-02T17:45:00,1,1,microsoft word,Writing,2
+2017-05-02T18:05:00,2,1,Finder,General Utilities,0
+2017-05-02T18:55:00,156,1,youtube.com,Video,-2
+2017-05-02T18:55:00,4,1,Safari,Browsers,2
+2017-05-02T18:55:00,3,1,ca.mit.edu,General Reference & Learning,1
+2017-05-02T19:00:00,250,1,youtube.com,Video,-2
+2017-05-02T21:55:00,256,1,facebook.com,General Social Networking,-2
+2017-05-02T21:55:00,15,1,messages,General Social Networking,-2
+2017-05-02T21:55:00,13,1,Notes,Email,0
+2017-05-02T21:55:00,5,1,loginwindow,General Utilities,0
+2017-05-02T21:55:00,4,1,Mail,Email,2
+2017-05-02T21:55:00,2,1,microsoft word,Writing,2
+2017-05-02T21:55:00,2,1,google software update,General Utilities,1
+2017-05-02T22:00:00,219,1,Finder,General Utilities,0
+2017-05-02T22:00:00,71,1,facebook.com,General Social Networking,-2
+2017-05-02T22:00:00,9,1,Dropbox,File Sharing,-2
+2017-05-02T22:05:00,291,1,Finder,General Utilities,0
+2017-05-02T22:05:00,8,1,messages,General Social Networking,-2
+2017-05-02T22:10:00,121,1,Finder,General Utilities,0
+2017-05-02T22:10:00,61,1,Mail,Email,2
+2017-05-02T22:10:00,41,1,Google Spreadsheets,General Business,2
+2017-05-02T22:10:00,28,1,messages,General Social Networking,-2
+2017-05-02T22:10:00,16,1,facebook.com,General Social Networking,-2
+2017-05-02T22:10:00,10,1,geofilters.snapchat.com,Marketing,2
+2017-05-02T22:10:00,6,1,Notes,Email,0
+2017-05-02T22:10:00,5,1,accounts.snapchat.com,General Social Networking,-2
+2017-05-02T22:10:00,4,1,Dropbox,File Sharing,-2
+2017-05-02T22:10:00,2,1,snapchat.com,General Social Networking,-2
+2017-05-02T22:10:00,1,1,my.mit.edu,General Reference & Learning,1
+2017-05-02T22:10:00,1,1,ist.mit.edu,Engineering & Technology,1
+2017-05-02T22:15:00,130,1,facebook.com,General Social Networking,-2
+2017-05-02T22:15:00,104,1,messages,General Social Networking,-2
+2017-05-02T22:15:00,44,1,geofilters.snapchat.com,Marketing,2
+2017-05-02T22:15:00,13,1,microsoft word,Writing,2
+2017-05-02T22:15:00,9,1,Finder,General Utilities,0
+2017-05-02T22:20:00,152,1,facebook.com,General Social Networking,-2
+2017-05-02T22:20:00,56,1,messages,General Social Networking,-2
+2017-05-02T22:20:00,46,1,rescuetime.com,Intelligence,0
+2017-05-02T22:20:00,17,1,Notes,Email,0
+2017-05-02T22:20:00,14,1,microsoft onenote,Intelligence,2
+2017-05-02T22:20:00,9,1,Finder,General Utilities,0
+2017-05-02T22:20:00,3,1,my.mit.edu,General Reference & Learning,1
+2017-05-02T22:20:00,2,1,Google Spreadsheets,General Business,2
+2017-05-02T22:20:00,1,1,ist.mit.edu,Engineering & Technology,1
+2017-05-02T22:25:00,120,1,facebook.com,General Social Networking,-2
+2017-05-02T22:25:00,77,1,Google Spreadsheets,General Business,2
+2017-05-02T22:25:00,61,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-02T22:25:00,25,1,messages,General Social Networking,-2
+2017-05-02T22:25:00,14,1,Notes,Email,0
+2017-05-02T22:25:00,3,1,Finder,General Utilities,0
+2017-05-02T22:30:00,74,1,facebook.com,General Social Networking,-2
+2017-05-02T22:30:00,55,1,Notes,Email,0
+2017-05-02T22:30:00,29,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-02T22:30:00,13,1,Finder,General Utilities,0
+2017-05-02T22:30:00,2,1,smh.com.au,General News & Opinion,-2
+2017-05-02T22:35:00,290,1,facebook.com,General Social Networking,-2
+2017-05-02T22:35:00,7,1,Finder,General Utilities,0
+2017-05-02T22:40:00,135,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-02T22:40:00,124,1,economist.com,General News & Opinion,-2
+2017-05-02T22:40:00,41,1,facebook.com,General Social Networking,-2
+2017-05-02T22:45:00,283,1,facebook.com,General Social Networking,-2
+2017-05-02T22:45:00,12,1,economist.com,General News & Opinion,-2
+2017-05-02T22:45:00,5,1,messages,General Social Networking,-2
+2017-05-02T22:50:00,218,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-02T22:50:00,44,1,Google Spreadsheets,General Business,2
+2017-05-02T22:50:00,32,1,facebook.com,General Social Networking,-2
+2017-05-02T22:50:00,5,1,Finder,General Utilities,0
+2017-05-02T22:55:00,182,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-02T22:55:00,37,1,Google Spreadsheets,General Business,2
+2017-05-02T22:55:00,28,1,youtube.com,Video,-2
+2017-05-02T22:55:00,26,1,Finder,General Utilities,0
+2017-05-02T22:55:00,22,1,facebook.com,General Social Networking,-2
+2017-05-02T22:55:00,3,1,snapchat.com,General Social Networking,-2
+2017-05-02T23:00:00,188,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-02T23:00:00,79,1,Google Spreadsheets,General Business,2
+2017-05-02T23:00:00,20,1,Finder,General Utilities,0
+2017-05-02T23:00:00,12,1,youtube.com,Video,-2
+2017-05-02T23:00:00,1,1,usernotificationcenter,General Utilities,0
+2017-05-02T23:05:00,260,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-02T23:05:00,19,1,facebook.com,General Social Networking,-2
+2017-05-02T23:05:00,13,1,Finder,General Utilities,0
+2017-05-02T23:05:00,7,1,Google Spreadsheets,General Business,2
+2017-05-02T23:10:00,285,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-02T23:10:00,7,1,messages,General Social Networking,-2
+2017-05-02T23:10:00,4,1,Google Spreadsheets,General Business,2
+2017-05-02T23:10:00,1,1,usernotificationcenter,General Utilities,0
+2017-05-02T23:15:00,294,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-02T23:15:00,2,1,facetime,Voice Chat,-2
+2017-05-02T23:20:00,287,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-02T23:20:00,12,1,Google Spreadsheets,General Business,2
+2017-05-02T23:25:00,220,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-02T23:25:00,77,1,facebook.com,General Social Networking,-2
+2017-05-02T23:25:00,1,1,usernotificationcenter,General Utilities,0
+2017-05-02T23:30:00,293,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-02T23:30:00,3,1,facebook.com,General Social Networking,-2
+2017-05-02T23:35:00,270,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-02T23:35:00,26,1,facebook.com,General Social Networking,-2
+2017-05-02T23:40:00,297,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-02T23:40:00,1,1,usernotificationcenter,General Utilities,0
+2017-05-02T23:45:00,299,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-02T23:50:00,299,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-02T23:55:00,294,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-02T23:55:00,2,1,usernotificationcenter,General Utilities,0

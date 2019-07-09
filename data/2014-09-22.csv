@@ -1,0 +1,276 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2014-09-22T08:00:00,30,1,Finder,General Utilities,0
+2014-09-22T08:00:00,20,1,loginwindow,General Utilities,0
+2014-09-22T10:10:00,62,1,microsoft word,Writing,2
+2014-09-22T10:10:00,12,1,Finder,General Utilities,0
+2014-09-22T10:10:00,1,1,alfred,General Utilities,2
+2014-09-22T10:15:00,300,1,microsoft word,Writing,2
+2014-09-22T10:20:00,300,1,microsoft word,Writing,2
+2014-09-22T10:25:00,300,1,microsoft word,Writing,2
+2014-09-22T10:30:00,83,1,microsoft word,Writing,2
+2014-09-22T10:30:00,20,1,loginwindow,General Utilities,0
+2014-09-22T10:35:00,275,1,microsoft word,Writing,2
+2014-09-22T10:35:00,3,1,alfred,General Utilities,2
+2014-09-22T10:40:00,284,1,microsoft word,Writing,2
+2014-09-22T10:40:00,14,1,Dictionary,General Reference & Learning,1
+2014-09-22T10:40:00,2,1,alfred,General Utilities,2
+2014-09-22T10:45:00,5,1,Dictionary,General Reference & Learning,1
+2014-09-22T10:50:00,279,1,microsoft word,Writing,2
+2014-09-22T10:55:00,21,1,loginwindow,General Utilities,0
+2014-09-22T10:55:00,3,1,microsoft word,Writing,2
+2014-09-22T11:00:00,10,1,app store,General Shopping,-2
+2014-09-22T11:00:00,8,1,microsoft word,Writing,2
+2014-09-22T11:00:00,4,1,Mail,Email,2
+2014-09-22T11:05:00,153,1,academicapproach.com,Uncategorized,0
+2014-09-22T11:05:00,46,1,macrumors.com,General News & Opinion,-2
+2014-09-22T11:05:00,13,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T11:05:00,11,1,microsoft word,Writing,2
+2014-09-22T11:05:00,11,1,Mail,Email,2
+2014-09-22T11:05:00,11,1,amazon.com,General Shopping,-1
+2014-09-22T11:05:00,5,1,Safari,Browsers,2
+2014-09-22T11:05:00,4,1,microsoft autoupdate,General Utilities,1
+2014-09-22T11:05:00,3,1,google drive,General Business,2
+2014-09-22T11:05:00,3,1,app store,General Shopping,-2
+2014-09-22T11:05:00,3,1,RescueTime,Intelligence,0
+2014-09-22T11:05:00,1,1,Dictionary,General Reference & Learning,1
+2014-09-22T11:05:00,1,1,secure.bhphotovideo.com,Search,-1
+2014-09-22T11:10:00,106,1,Mail,Email,2
+2014-09-22T11:10:00,79,1,macrumors.com,General News & Opinion,-2
+2014-09-22T11:10:00,68,1,buyersguide.macrumors.com,General News & Opinion,-2
+2014-09-22T11:10:00,43,1,academicapproach.com,Uncategorized,0
+2014-09-22T11:10:00,3,1,Safari,Browsers,2
+2014-09-22T11:10:00,1,1,alfred,General Utilities,2
+2014-09-22T11:15:00,252,1,macrumors.com,General News & Opinion,-2
+2014-09-22T11:15:00,31,1,Skype,General Social Networking,-2
+2014-09-22T11:15:00,6,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T11:15:00,3,1,buyersguide.macrumors.com,General News & Opinion,-2
+2014-09-22T11:15:00,2,1,Finder,General Utilities,0
+2014-09-22T11:15:00,2,1,academicapproach.com,Uncategorized,0
+2014-09-22T11:20:00,157,1,macrumors.com,General News & Opinion,-2
+2014-09-22T11:20:00,47,1,Mail,Email,2
+2014-09-22T11:20:00,41,1,Skype,General Social Networking,-2
+2014-09-22T11:20:00,26,1,academicapproach.com,Uncategorized,0
+2014-09-22T11:20:00,16,1,buyersguide.macrumors.com,General News & Opinion,-2
+2014-09-22T11:20:00,10,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T11:20:00,3,1,amazon.com,General Shopping,-1
+2014-09-22T11:25:00,140,1,Mail,Email,2
+2014-09-22T11:25:00,76,1,gazelle.com,General Shopping,-2
+2014-09-22T11:25:00,48,1,buyersguide.macrumors.com,General News & Opinion,-2
+2014-09-22T11:25:00,19,1,Skype,General Social Networking,-2
+2014-09-22T11:25:00,16,1,macrumors.com,General News & Opinion,-2
+2014-09-22T11:30:00,144,1,gazelle.com,General Shopping,-2
+2014-09-22T11:30:00,102,1,macrumors.com,General News & Opinion,-2
+2014-09-22T11:30:00,54,1,academicapproach.com,Uncategorized,0
+2014-09-22T11:35:00,134,1,gazelle.com,General Shopping,-2
+2014-09-22T11:35:00,83,1,academicapproach.com,Uncategorized,0
+2014-09-22T11:35:00,50,1,macrumors.com,General News & Opinion,-2
+2014-09-22T11:35:00,15,1,amazon.com,General Shopping,-1
+2014-09-22T11:35:00,10,1,Skype,General Social Networking,-2
+2014-09-22T11:35:00,6,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T11:35:00,1,1,secure.bhphotovideo.com,Search,-1
+2014-09-22T11:40:00,248,1,mactracker,Search,-2
+2014-09-22T11:40:00,17,1,macrumors.com,General News & Opinion,-2
+2014-09-22T11:40:00,15,1,selfsolve.apple.com,General Utilities,1
+2014-09-22T11:40:00,6,1,gazelle.com,General Shopping,-2
+2014-09-22T11:40:00,5,1,system information,General Utilities,0
+2014-09-22T11:40:00,2,1,alfred,General Utilities,2
+2014-09-22T11:40:00,2,1,academicapproach.com,Uncategorized,0
+2014-09-22T11:40:00,2,1,Safari,Browsers,2
+2014-09-22T11:40:00,1,1,secure.bhphotovideo.com,Search,-1
+2014-09-22T11:45:00,20,1,loginwindow,General Utilities,0
+2014-09-22T11:45:00,8,1,macrumors.com,General News & Opinion,-2
+2014-09-22T14:55:00,77,1,amazon.com,General Shopping,-1
+2014-09-22T14:55:00,27,1,google.com,Search,2
+2014-09-22T14:55:00,22,1,Finder,General Utilities,0
+2014-09-22T14:55:00,11,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T14:55:00,7,1,Mail,Email,2
+2014-09-22T14:55:00,6,1,macrumors.com,General News & Opinion,-2
+2014-09-22T14:55:00,3,1,Skype,General Social Networking,-2
+2014-09-22T14:55:00,3,1,Safari,Browsers,2
+2014-09-22T14:55:00,1,1,secure.bhphotovideo.com,Search,-1
+2014-09-22T14:55:00,1,1,selfsolve.apple.com,General Utilities,1
+2014-09-22T14:55:00,1,1,alfred,General Utilities,2
+2014-09-22T15:00:00,292,1,amazon.com,General Shopping,-1
+2014-09-22T15:00:00,8,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T15:05:00,32,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T15:05:00,19,1,loginwindow,General Utilities,0
+2014-09-22T15:45:00,79,1,Finder,General Utilities,0
+2014-09-22T15:45:00,2,1,Dropbox,File Sharing,-2
+2014-09-22T15:55:00,84,1,Finder,General Utilities,0
+2014-09-22T15:55:00,14,1,quicktime player,General Entertainment,-1
+2014-09-22T19:15:00,183,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T19:15:00,29,1,Finder,General Utilities,0
+2014-09-22T19:15:00,22,1,amazon.com,General Shopping,-1
+2014-09-22T19:15:00,10,1,deerfield.edu,General Reference & Learning,1
+2014-09-22T19:15:00,9,1,bhphotovideo.com,General Shopping,-2
+2014-09-22T19:15:00,8,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-09-22T19:15:00,8,1,secure.bhphotovideo.com,Search,-1
+2014-09-22T19:15:00,5,1,loginwindow,General Utilities,0
+2014-09-22T19:15:00,4,1,quicktime player,General Entertainment,-1
+2014-09-22T19:15:00,3,1,dainfo.deerfield.edu,General Reference & Learning,1
+2014-09-22T19:15:00,3,1,artofmanliness.com,General News & Opinion,-2
+2014-09-22T19:15:00,1,1,Safari,Browsers,2
+2014-09-22T19:20:00,231,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T19:20:00,68,1,Safari,Browsers,2
+2014-09-22T19:25:00,210,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T19:25:00,55,1,macrumors.com,General News & Opinion,-2
+2014-09-22T19:25:00,44,1,Safari,Browsers,2
+2014-09-22T19:25:00,44,1,Finder,General Utilities,0
+2014-09-22T19:25:00,28,1,microsoft word,Writing,2
+2014-09-22T19:25:00,27,1,secure.bhphotovideo.com,Search,-1
+2014-09-22T19:25:00,26,1,amazon.com,General Shopping,-1
+2014-09-22T19:25:00,25,1,Mail,Email,2
+2014-09-22T19:25:00,8,1,bhphotovideo.com,General Shopping,-2
+2014-09-22T19:25:00,4,1,gazelle.com,General Shopping,-2
+2014-09-22T19:25:00,4,1,selfsolve.apple.com,General Utilities,1
+2014-09-22T19:25:00,3,1,academicapproach.com,Uncategorized,0
+2014-09-22T19:25:00,3,1,deerfield.edu,General Reference & Learning,1
+2014-09-22T19:25:00,2,1,apple.com,Engineering & Technology,-1
+2014-09-22T19:30:00,291,1,microsoft word,Writing,2
+2014-09-22T19:30:00,125,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T19:30:00,7,1,Dictionary,General Reference & Learning,1
+2014-09-22T19:35:00,300,1,microsoft word,Writing,2
+2014-09-22T19:40:00,291,1,microsoft word,Writing,2
+2014-09-22T19:40:00,217,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T19:40:00,8,1,alfred,General Utilities,2
+2014-09-22T19:40:00,2,1,secure.bhphotovideo.com,Search,-1
+2014-09-22T19:40:00,1,1,Dictionary,General Reference & Learning,1
+2014-09-22T19:40:00,1,1,bankofamerica.com,General Business,2
+2014-09-22T19:45:00,220,1,microsoft word,Writing,2
+2014-09-22T19:45:00,219,1,Finder,General Utilities,0
+2014-09-22T19:45:00,78,1,Mail,Email,2
+2014-09-22T19:45:00,39,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T19:45:00,35,1,facebook.com,General Social Networking,-2
+2014-09-22T19:45:00,7,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-09-22T19:50:00,205,1,microsoft word,Writing,2
+2014-09-22T19:50:00,30,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-09-22T19:50:00,27,1,Finder,General Utilities,0
+2014-09-22T19:50:00,24,1,Mail,Email,2
+2014-09-22T19:50:00,17,1,Safari,Browsers,2
+2014-09-22T19:50:00,13,1,alfred,General Utilities,2
+2014-09-22T19:50:00,9,1,amazon.com,General Shopping,-1
+2014-09-22T19:55:00,300,1,alfred,General Utilities,2
+2014-09-22T20:00:00,300,1,alfred,General Utilities,2
+2014-09-22T20:05:00,300,1,alfred,General Utilities,2
+2014-09-22T20:10:00,19,1,alfred,General Utilities,2
+2014-09-22T20:20:00,164,1,microsoft word,Writing,2
+2014-09-22T20:20:00,8,1,alfred,General Utilities,2
+2014-09-22T20:25:00,46,1,facebook.com,General Social Networking,-2
+2014-09-22T20:25:00,22,1,microsoft word,Writing,2
+2014-09-22T20:25:00,20,1,Finder,General Utilities,0
+2014-09-22T20:25:00,19,1,likes.com,Photos,-2
+2014-09-22T20:25:00,4,1,dailyhumor24-7.com,Uncategorized,0
+2014-09-22T20:25:00,1,1,Safari,Browsers,2
+2014-09-22T20:30:00,234,1,Finder,General Utilities,0
+2014-09-22T20:30:00,66,1,likes.com,Photos,-2
+2014-09-22T20:35:00,226,1,facebook.com,General Social Networking,-2
+2014-09-22T20:35:00,60,1,likes.com,Photos,-2
+2014-09-22T20:35:00,11,1,Finder,General Utilities,0
+2014-09-22T20:35:00,3,1,Skype,General Social Networking,-2
+2014-09-22T20:40:00,200,1,facebook.com,General Social Networking,-2
+2014-09-22T20:40:00,100,1,Finder,General Utilities,0
+2014-09-22T20:45:00,9,1,Finder,General Utilities,0
+2014-09-22T20:45:00,4,1,google.com,Search,2
+2014-09-22T20:45:00,3,1,facebook.com,General Social Networking,-2
+2014-09-22T20:50:00,100,1,Skype,General Social Networking,-2
+2014-09-22T20:50:00,91,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T20:50:00,20,1,Mail,Email,2
+2014-09-22T20:50:00,2,1,bhphotovideo.com,General Shopping,-2
+2014-09-22T20:50:00,1,1,google.com,Search,2
+2014-09-22T20:55:00,194,1,Mail,Email,2
+2014-09-22T20:55:00,177,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T20:55:00,100,1,app store,General Shopping,-2
+2014-09-22T20:55:00,48,1,bankofamerica.com,General Business,2
+2014-09-22T20:55:00,41,1,apple.com,Engineering & Technology,-1
+2014-09-22T20:55:00,28,1,bhphotovideo.com,General Shopping,-2
+2014-09-22T20:55:00,4,1,Safari,Browsers,2
+2014-09-22T20:55:00,3,1,secure.bhphotovideo.com,Search,-1
+2014-09-22T20:55:00,3,1,google.com,Search,2
+2014-09-22T20:55:00,2,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-09-22T21:00:00,282,1,Mail,Email,2
+2014-09-22T21:00:00,112,1,ups.com,General Business,2
+2014-09-22T21:00:00,95,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T21:00:00,93,1,bankofamerica.com,General Business,2
+2014-09-22T21:00:00,18,1,app store,General Shopping,-2
+2014-09-22T21:05:00,226,1,Mail,Email,2
+2014-09-22T21:05:00,184,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T21:05:00,53,1,ups.com,General Business,2
+2014-09-22T21:05:00,47,1,kongregate.com,Games,-2
+2014-09-22T21:05:00,13,1,Safari,Browsers,2
+2014-09-22T21:05:00,7,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-09-22T21:05:00,6,1,Skype,General Social Networking,-2
+2014-09-22T21:05:00,2,1,secure.bhphotovideo.com,Search,-1
+2014-09-22T21:10:00,281,1,kongregate.com,Games,-2
+2014-09-22T21:10:00,9,1,Skype,General Social Networking,-2
+2014-09-22T21:10:00,7,1,academicapproach.com,Uncategorized,0
+2014-09-22T21:10:00,2,1,gazelle.com,General Shopping,-2
+2014-09-22T21:10:00,1,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-09-22T21:15:00,295,1,kongregate.com,Games,-2
+2014-09-22T21:15:00,2,1,Safari,Browsers,2
+2014-09-22T21:15:00,2,1,dainfo.deerfield.edu,General Reference & Learning,1
+2014-09-22T21:20:00,300,1,dainfo.deerfield.edu,General Reference & Learning,1
+2014-09-22T21:25:00,182,1,Mail,Email,2
+2014-09-22T21:25:00,146,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T21:25:00,84,1,dainfo.deerfield.edu,General Reference & Learning,1
+2014-09-22T21:25:00,33,1,Skype,General Social Networking,-2
+2014-09-22T21:25:00,20,1,facebook.com,General Social Networking,-2
+2014-09-22T21:25:00,1,1,google.com,Search,2
+2014-09-22T21:25:00,1,1,secure.bhphotovideo.com,Search,-1
+2014-09-22T21:25:00,1,1,bankofamerica.com,General Business,2
+2014-09-22T21:30:00,226,1,Skype,General Social Networking,-2
+2014-09-22T21:30:00,198,1,facebook.com,General Social Networking,-2
+2014-09-22T21:30:00,87,1,kongregate.com,Games,-2
+2014-09-22T21:30:00,2,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-09-22T21:30:00,1,1,Finder,General Utilities,0
+2014-09-22T21:35:00,300,1,kongregate.com,Games,-2
+2014-09-22T21:40:00,287,1,kongregate.com,Games,-2
+2014-09-22T21:40:00,9,1,Skype,General Social Networking,-2
+2014-09-22T21:40:00,7,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T21:40:00,4,1,Mail,Email,2
+2014-09-22T21:45:00,8,1,dainfo.deerfield.edu,General Reference & Learning,1
+2014-09-22T21:45:00,3,1,kongregate.com,Games,-2
+2014-09-22T21:45:00,1,1,gazelle.com,General Shopping,-2
+2014-09-22T21:50:00,142,1,facebook.com,General Social Networking,-2
+2014-09-22T21:50:00,73,1,Skype,General Social Networking,-2
+2014-09-22T21:50:00,42,1,kongregate.com,Games,-2
+2014-09-22T21:50:00,31,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T21:50:00,7,1,macrumors.com,General News & Opinion,-2
+2014-09-22T21:50:00,2,1,dainfo.deerfield.edu,General Reference & Learning,1
+2014-09-22T21:55:00,283,1,facebook.com,General Social Networking,-2
+2014-09-22T21:55:00,149,1,academicapproach.com,Uncategorized,0
+2014-09-22T21:55:00,134,1,selfsolve.apple.com,General Utilities,1
+2014-09-22T21:55:00,12,1,kongregate.com,Games,-2
+2014-09-22T21:55:00,7,1,wwwapps.ups.com,General Shopping,-2
+2014-09-22T21:55:00,5,1,apple.com,Engineering & Technology,-1
+2014-09-22T21:55:00,3,1,macrumors.com,General News & Opinion,-2
+2014-09-22T21:55:00,1,1,bhphotovideo.com,General Shopping,-2
+2014-09-22T21:55:00,1,1,gazelle.com,General Shopping,-2
+2014-09-22T21:55:00,1,1,secure.bhphotovideo.com,Search,-1
+2014-09-22T22:00:00,290,1,facebook.com,General Social Networking,-2
+2014-09-22T22:00:00,169,1,selfsolve.apple.com,General Utilities,1
+2014-09-22T22:00:00,6,1,apple.com,Engineering & Technology,-1
+2014-09-22T22:00:00,4,1,dalearn.deerfield.edu,General Reference & Learning,2
+2014-09-22T22:05:00,293,1,facebook.com,General Social Networking,-2
+2014-09-22T22:05:00,109,1,Skype,General Social Networking,-2
+2014-09-22T22:05:00,4,1,apple.com,Engineering & Technology,-1
+2014-09-22T22:10:00,298,1,facebook.com,General Social Networking,-2
+2014-09-22T22:10:00,277,1,Skype,General Social Networking,-2
+2014-09-22T22:10:00,12,1,Finder,General Utilities,0
+2014-09-22T22:10:00,11,1,kongregate.com,Games,-2
+2014-09-22T22:15:00,298,1,facebook.com,General Social Networking,-2
+2014-09-22T22:15:00,284,1,Skype,General Social Networking,-2
+2014-09-22T22:15:00,15,1,Finder,General Utilities,0
+2014-09-22T22:20:00,258,1,Skype,General Social Networking,-2
+2014-09-22T22:20:00,191,1,facebook.com,General Social Networking,-2
+2014-09-22T22:20:00,88,1,typingframe,Uncategorized,0
+2014-09-22T22:20:00,42,1,Finder,General Utilities,0
+2014-09-22T22:20:00,15,1,eclipse,Editing & IDEs,2
+2014-09-22T22:25:00,300,1,Skype,General Social Networking,-2
+2014-09-22T22:25:00,170,1,facebook.com,General Social Networking,-2
+2014-09-22T22:25:00,128,1,typingframe,Uncategorized,0
+2014-09-22T22:30:00,299,1,facebook.com,General Social Networking,-2
+2014-09-22T22:30:00,11,1,Skype,General Social Networking,-2
+2014-09-22T22:35:00,299,1,facebook.com,General Social Networking,-2
+2014-09-22T22:40:00,162,1,facebook.com,General Social Networking,-2
+2014-09-22T22:50:00,96,1,kongregate.com,Games,-2
+2014-09-22T22:55:00,39,1,kongregate.com,Games,-2

@@ -1,0 +1,450 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-06-12T00:05:00,27,1,loginwindow,General Utilities,0
+2018-06-12T00:05:00,6,1,flights.ctrip.com,General Business,2
+2018-06-12T10:20:00,159,1,prometheus.io,General Software Development,2
+2018-06-12T10:20:00,11,1,loginwindow,General Utilities,0
+2018-06-12T10:25:00,189,1,prometheus.io,General Software Development,2
+2018-06-12T10:25:00,84,1,wechat,General Social Networking,-2
+2018-06-12T10:25:00,15,1,messages,General Social Networking,-2
+2018-06-12T10:25:00,5,1,Slack,Instant Message,2
+2018-06-12T10:30:00,79,1,apps.google.com,General Utilities,1
+2018-06-12T10:30:00,76,1,golang.org,Engineering & Technology,1
+2018-06-12T10:30:00,41,1,wasabitech.slack.com,Instant Message,-1
+2018-06-12T10:30:00,37,1,accounts.google.com,General Communication & Scheduling,0
+2018-06-12T10:30:00,29,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T10:30:00,16,1,Mail,Email,2
+2018-06-12T10:30:00,14,1,prometheus.io,General Software Development,2
+2018-06-12T10:30:00,5,1,Safari,Browsers,2
+2018-06-12T10:35:00,204,1,Slack,Instant Message,2
+2018-06-12T10:35:00,51,1,wasabitech.slack.com,Instant Message,-1
+2018-06-12T10:35:00,14,1,wechat,General Social Networking,-2
+2018-06-12T10:35:00,11,1,Mail,Email,2
+2018-06-12T10:35:00,10,1,System Preferences,General Utilities,0
+2018-06-12T10:35:00,9,1,Gmail,Email,2
+2018-06-12T10:35:00,1,1,apps.google.com,General Utilities,1
+2018-06-12T10:40:00,142,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T10:40:00,95,1,wechat,General Social Networking,-2
+2018-06-12T10:40:00,19,1,wasabitech.slack.com,Instant Message,-1
+2018-06-12T10:40:00,18,1,Mail,Email,2
+2018-06-12T10:40:00,15,1,github.com,General Software Development,2
+2018-06-12T10:40:00,5,1,github desktop,General Software Development,2
+2018-06-12T10:40:00,2,1,installer,General Utilities,1
+2018-06-12T10:40:00,2,1,Safari,Browsers,2
+2018-06-12T10:40:00,2,1,Terminal,Systems Operations,2
+2018-06-12T10:45:00,126,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T10:45:00,61,1,api-7f07f81e.duosecurity.com,Uncategorized,0
+2018-06-12T10:45:00,25,1,wechat,General Social Networking,-2
+2018-06-12T10:45:00,24,1,github.com,General Software Development,2
+2018-06-12T10:45:00,7,1,Mail,Email,2
+2018-06-12T10:45:00,5,1,Safari,Browsers,2
+2018-06-12T10:45:00,2,1,Slack,Instant Message,2
+2018-06-12T11:00:00,188,1,wechat,General Social Networking,-2
+2018-06-12T11:05:00,251,1,github.com,General Software Development,2
+2018-06-12T11:05:00,48,1,wechat,General Social Networking,-2
+2018-06-12T11:10:00,170,1,wechat,General Social Networking,-2
+2018-06-12T11:10:00,130,1,github.com,General Software Development,2
+2018-06-12T11:15:00,218,1,github.com,General Software Development,2
+2018-06-12T11:15:00,34,1,wechat,General Social Networking,-2
+2018-06-12T11:15:00,29,1,System Preferences,General Utilities,0
+2018-06-12T11:15:00,17,1,Finder,General Utilities,0
+2018-06-12T11:20:00,139,1,System Preferences,General Utilities,0
+2018-06-12T11:20:00,51,1,Safari,Browsers,2
+2018-06-12T11:20:00,31,1,sendspace.com,Internet Utilities,1
+2018-06-12T11:20:00,27,1,wechat,General Social Networking,-2
+2018-06-12T11:20:00,23,1,github.com,General Software Development,2
+2018-06-12T11:20:00,8,1,messenger.com,General Social Networking,-2
+2018-06-12T11:20:00,7,1,wasabitech.slack.com,Instant Message,-1
+2018-06-12T11:20:00,4,1,zonegem.com,Uncategorized,0
+2018-06-12T11:20:00,4,1,coreservicesuiagent,General Utilities,0
+2018-06-12T11:20:00,1,1,Finder,General Utilities,0
+2018-06-12T11:20:00,1,1,l.messenger.com,Instant Message,-1
+2018-06-12T11:20:00,1,1,Skype,General Social Networking,-2
+2018-06-12T11:25:00,171,1,wechat,General Social Networking,-2
+2018-06-12T11:25:00,66,1,osxdaily.com,General News & Opinion,-2
+2018-06-12T11:25:00,32,1,github.com,General Software Development,2
+2018-06-12T11:25:00,24,1,Safari,Browsers,2
+2018-06-12T11:25:00,3,1,google.com,Search,2
+2018-06-12T11:25:00,1,1,Skype,General Social Networking,-2
+2018-06-12T11:30:00,104,1,switchresx control,General Utilities,1
+2018-06-12T11:30:00,77,1,osxdaily.com,General News & Opinion,-2
+2018-06-12T11:30:00,45,1,madrau.com,General Utilities,1
+2018-06-12T11:30:00,36,1,System Preferences,General Utilities,0
+2018-06-12T11:30:00,21,1,google.com,Search,2
+2018-06-12T11:30:00,11,1,wechat,General Social Networking,-2
+2018-06-12T11:30:00,2,1,coreservicesuiagent,General Utilities,0
+2018-06-12T11:35:00,152,1,wechat,General Social Networking,-2
+2018-06-12T11:35:00,92,1,System Preferences,General Utilities,0
+2018-06-12T11:35:00,53,1,messenger.com,General Social Networking,-2
+2018-06-12T11:35:00,2,1,madrau.com,General Utilities,1
+2018-06-12T11:40:00,242,1,wechat,General Social Networking,-2
+2018-06-12T11:40:00,58,1,messenger.com,General Social Networking,-2
+2018-06-12T11:45:00,110,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T11:45:00,103,1,wechat,General Social Networking,-2
+2018-06-12T11:45:00,9,1,google.com,Search,2
+2018-06-12T11:45:00,6,1,Safari,Browsers,2
+2018-06-12T11:45:00,6,1,dictionary.com,General Business,2
+2018-06-12T11:45:00,1,1,messenger.com,General Social Networking,-2
+2018-06-12T11:50:00,260,1,wechat,General Social Networking,-2
+2018-06-12T11:50:00,25,1,dictionary.com,General Business,2
+2018-06-12T11:50:00,11,1,Finder,General Utilities,0
+2018-06-12T11:55:00,216,1,wechat,General Social Networking,-2
+2018-06-12T11:55:00,38,1,Safari,Browsers,2
+2018-06-12T11:55:00,28,1,google.com,Search,2
+2018-06-12T11:55:00,10,1,alternativeto.net,Engineering & Technology,1
+2018-06-12T11:55:00,5,1,robustperception.io,Uncategorized,0
+2018-06-12T11:55:00,3,1,dictionary.com,General Business,2
+2018-06-12T12:00:00,118,1,wechat,General Social Networking,-2
+2018-06-12T12:00:00,113,1,Notes,Email,0
+2018-06-12T12:00:00,52,1,robustperception.io,Uncategorized,0
+2018-06-12T12:00:00,14,1,training.robustperception.io,Uncategorized,0
+2018-06-12T12:00:00,3,1,google.com,Search,2
+2018-06-12T12:05:00,223,1,wechat,General Social Networking,-2
+2018-06-12T12:05:00,57,1,youtube.com,Video,-2
+2018-06-12T12:05:00,11,1,google.com,Search,2
+2018-06-12T12:05:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T12:05:00,3,1,Safari,Browsers,2
+2018-06-12T12:10:00,228,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T12:10:00,61,1,wechat,General Social Networking,-2
+2018-06-12T12:10:00,11,1,Notes,Email,0
+2018-06-12T12:15:00,125,1,opentracing.io,General Software Development,2
+2018-06-12T12:15:00,64,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T12:15:00,44,1,Notes,Email,0
+2018-06-12T12:15:00,29,1,wechat,General Social Networking,-2
+2018-06-12T12:15:00,24,1,medium.com,General News & Opinion,-2
+2018-06-12T12:15:00,11,1,youtube.com,Video,-2
+2018-06-12T12:15:00,3,1,google.com,Search,2
+2018-06-12T12:20:00,279,1,opentracing.io,General Software Development,2
+2018-06-12T12:20:00,21,1,github.com,General Software Development,2
+2018-06-12T12:25:00,300,1,opentracing.io,General Software Development,2
+2018-06-12T12:30:00,190,1,youtube.com,Video,-2
+2018-06-12T12:30:00,56,1,Notes,Email,0
+2018-06-12T12:30:00,53,1,opentracing.io,General Software Development,2
+2018-06-12T12:30:00,1,1,google.com,Search,2
+2018-06-12T12:35:00,236,1,youtube.com,Video,-2
+2018-06-12T12:35:00,64,1,Notes,Email,0
+2018-06-12T12:40:00,273,1,System Preferences,General Utilities,0
+2018-06-12T12:40:00,25,1,usernotificationcenter,General Utilities,0
+2018-06-12T12:45:00,267,1,System Preferences,General Utilities,0
+2018-06-12T12:45:00,32,1,youtube.com,Video,-2
+2018-06-12T12:50:00,177,1,youtube.com,Video,-2
+2018-06-12T12:50:00,58,1,Notes,Email,0
+2018-06-12T12:50:00,56,1,Mail,Email,2
+2018-06-12T12:50:00,4,1,System Preferences,General Utilities,0
+2018-06-12T12:50:00,3,1,Slack,Instant Message,2
+2018-06-12T12:55:00,199,1,fifa.com,Sports,-1
+2018-06-12T12:55:00,67,1,Mail,Email,2
+2018-06-12T12:55:00,19,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T12:55:00,7,1,youtube.com,Video,-2
+2018-06-12T12:55:00,2,1,wasabitech.slack.com,Instant Message,-1
+2018-06-12T12:55:00,2,1,github.com,General Software Development,2
+2018-06-12T12:55:00,1,1,opentracing.io,General Software Development,2
+2018-06-12T12:55:00,1,1,dictionary.com,General Business,2
+2018-06-12T13:00:00,275,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T13:00:00,25,1,fifa.com,Sports,-1
+2018-06-12T13:05:00,157,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T13:05:00,112,1,System Preferences,General Utilities,0
+2018-06-12T13:05:00,13,1,usernotificationcenter,General Utilities,0
+2018-06-12T13:05:00,4,1,int.soccerway.com,Sports,-1
+2018-06-12T13:10:00,97,1,Terminal,Systems Operations,2
+2018-06-12T13:10:00,67,1,mon02.needham:3000,Uncategorized,0
+2018-06-12T13:10:00,53,1,mon02.needham:81,Uncategorized,0
+2018-06-12T13:10:00,30,1,Safari,Browsers,2
+2018-06-12T13:10:00,25,1,google.com,Search,2
+2018-06-12T13:10:00,11,1,sendspace.com,Internet Utilities,1
+2018-06-12T13:10:00,11,1,mon02.needham:9090,Uncategorized,0
+2018-06-12T13:10:00,4,1,System Preferences,General Utilities,0
+2018-06-12T13:10:00,2,1,int.soccerway.com,Sports,-1
+2018-06-12T13:15:00,240,1,Terminal,Systems Operations,2
+2018-06-12T13:15:00,38,1,mon02.needham:81,Uncategorized,0
+2018-06-12T13:15:00,14,1,github.com,General Software Development,2
+2018-06-12T13:15:00,6,1,Slack,Instant Message,2
+2018-06-12T13:15:00,2,1,Safari,Browsers,2
+2018-06-12T13:20:00,177,1,Terminal,Systems Operations,2
+2018-06-12T13:55:00,80,1,cnbc.com,Business,-1
+2018-06-12T13:55:00,48,1,google.com,Search,2
+2018-06-12T13:55:00,23,1,System Preferences,General Utilities,0
+2018-06-12T13:55:00,22,1,Terminal,Systems Operations,2
+2018-06-12T13:55:00,13,1,economist.com,General News & Opinion,-2
+2018-06-12T13:55:00,5,1,github.com,General Software Development,2
+2018-06-12T13:55:00,5,1,9to5mac.com,General News & Opinion,-2
+2018-06-12T13:55:00,3,1,loginwindow,General Utilities,0
+2018-06-12T14:00:00,134,1,economist.com,General News & Opinion,-2
+2018-06-12T14:00:00,125,1,Terminal,Systems Operations,2
+2018-06-12T14:00:00,25,1,nytimes.com,General News & Opinion,-2
+2018-06-12T14:00:00,12,1,google.com,Search,2
+2018-06-12T14:05:00,97,1,bloomberg.com,Business,-1
+2018-06-12T14:05:00,90,1,youtube.com,Video,-2
+2018-06-12T14:05:00,60,1,nytimes.com,General News & Opinion,-2
+2018-06-12T14:05:00,26,1,google.com,Search,2
+2018-06-12T14:05:00,23,1,opentracing.io,General Software Development,2
+2018-06-12T14:05:00,2,1,wasabitech.slack.com,Instant Message,-1
+2018-06-12T14:05:00,1,1,github.com,General Software Development,2
+2018-06-12T14:05:00,1,1,alternativeto.net,Engineering & Technology,1
+2018-06-12T14:10:00,182,1,Notes,Email,0
+2018-06-12T14:10:00,118,1,youtube.com,Video,-2
+2018-06-12T14:15:00,193,1,Notes,Email,0
+2018-06-12T14:15:00,73,1,youtube.com,Video,-2
+2018-06-12T14:15:00,13,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T14:15:00,12,1,google.com,Search,2
+2018-06-12T14:15:00,9,1,Safari,Browsers,2
+2018-06-12T14:20:00,300,1,google.com,Search,2
+2018-06-12T14:25:00,110,1,youtube.com,Video,-2
+2018-06-12T14:25:00,104,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T14:25:00,83,1,google.com,Search,2
+2018-06-12T14:25:00,1,1,opentracing.io,General Software Development,2
+2018-06-12T14:30:00,230,1,browser.geekbench.com,Uncategorized,0
+2018-06-12T14:30:00,61,1,youtube.com,Video,-2
+2018-06-12T14:30:00,7,1,google.com,Search,2
+2018-06-12T14:30:00,2,1,Safari,Browsers,2
+2018-06-12T14:35:00,128,1,browser.geekbench.com,Uncategorized,0
+2018-06-12T14:35:00,79,1,apple.com,Engineering & Technology,-1
+2018-06-12T14:35:00,70,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T14:35:00,12,1,system information,General Utilities,0
+2018-06-12T14:35:00,4,1,google.com,Search,2
+2018-06-12T14:35:00,4,1,Safari,Browsers,2
+2018-06-12T14:40:00,170,1,youtube.com,Video,-2
+2018-06-12T14:40:00,129,1,apple.com,Engineering & Technology,-1
+2018-06-12T14:45:00,223,1,youtube.com,Video,-2
+2018-06-12T14:45:00,25,1,Notes,Email,0
+2018-06-12T14:45:00,11,1,google.com,Search,2
+2018-06-12T14:45:00,2,1,opentracing.io,General Software Development,2
+2018-06-12T14:55:00,80,1,web.archive.org,Search,0
+2018-06-12T14:55:00,53,1,alternativeto.net,Engineering & Technology,1
+2018-06-12T14:55:00,49,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T14:55:00,12,1,wasabitech.slack.com,Instant Message,-1
+2018-06-12T14:55:00,2,1,Safari,Browsers,2
+2018-06-12T14:55:00,2,1,prometheus.io,General Software Development,2
+2018-06-12T14:55:00,2,1,apple.com,Engineering & Technology,-1
+2018-06-12T15:00:00,132,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T15:00:00,118,1,calendar,Calendars,1
+2018-06-12T15:00:00,50,1,apple.com,Engineering & Technology,-1
+2018-06-12T15:05:00,159,1,browser.geekbench.com,Uncategorized,0
+2018-06-12T15:05:00,136,1,apple.com,Engineering & Technology,-1
+2018-06-12T15:05:00,5,1,system information,General Utilities,0
+2018-06-12T15:10:00,240,1,wechat,General Social Networking,-2
+2018-06-12T15:10:00,42,1,browser.geekbench.com,Uncategorized,0
+2018-06-12T15:10:00,15,1,System Preferences,General Utilities,0
+2018-06-12T15:10:00,3,1,web.archive.org,Search,0
+2018-06-12T15:15:00,138,1,Notes,Email,0
+2018-06-12T15:15:00,129,1,web.archive.org,Search,0
+2018-06-12T15:15:00,26,1,wechat,General Social Networking,-2
+2018-06-12T15:30:00,64,1,idp.mit.edu,General Reference & Learning,1
+2018-06-12T15:30:00,34,1,installer,General Utilities,1
+2018-06-12T15:30:00,21,1,mon02.needham:81,Uncategorized,0
+2018-06-12T15:30:00,13,1,ist.mit.edu,Engineering & Technology,1
+2018-06-12T15:30:00,9,1,System Preferences,General Utilities,0
+2018-06-12T15:30:00,8,1,gaoloumi.com,Regional,-2
+2018-06-12T15:30:00,7,1,switchresx control,General Utilities,1
+2018-06-12T15:30:00,5,1,google.com,Search,2
+2018-06-12T15:30:00,5,1,usernotificationcenter,General Utilities,0
+2018-06-12T15:30:00,4,1,cisco anyconnect secure mobility client notification,Uncategorized,0
+2018-06-12T15:30:00,4,1,catalog.mit.edu,Presentation,2
+2018-06-12T15:30:00,2,1,wayf.mit.edu,Presentation,2
+2018-06-12T15:30:00,1,1,Safari,Browsers,2
+2018-06-12T15:35:00,201,1,gaoloumi.com,Regional,-2
+2018-06-12T15:35:00,45,1,idp.mit.edu,General Reference & Learning,1
+2018-06-12T15:35:00,27,1,cisco anyconnect secure mobility client,Internet Utilities,1
+2018-06-12T15:35:00,13,1,ist.mit.edu,Engineering & Technology,1
+2018-06-12T15:35:00,13,1,Notes,Email,0
+2018-06-12T15:35:00,1,1,student.mit.edu,General Reference & Learning,1
+2018-06-12T15:40:00,238,1,gaoloumi.com,Regional,-2
+2018-06-12T15:40:00,10,1,prometheus.io,General Software Development,2
+2018-06-12T15:40:00,9,1,google.com,Search,2
+2018-06-12T15:40:00,6,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T15:40:00,5,1,Notes,Email,0
+2018-06-12T15:40:00,5,1,ist.mit.edu,Engineering & Technology,1
+2018-06-12T15:40:00,4,1,baike.baidu.com,Search,0
+2018-06-12T15:40:00,3,1,student.mit.edu,General Reference & Learning,1
+2018-06-12T15:40:00,3,1,alternativeto.net,Engineering & Technology,1
+2018-06-12T15:40:00,2,1,int.soccerway.com,Sports,-1
+2018-06-12T15:40:00,2,1,wasabitech.slack.com,Instant Message,-1
+2018-06-12T15:40:00,2,1,opentracing.io,General Software Development,2
+2018-06-12T15:40:00,2,1,dictionary.com,General Business,2
+2018-06-12T15:40:00,2,1,Safari,Browsers,2
+2018-06-12T15:40:00,2,1,github.com,General Software Development,2
+2018-06-12T15:40:00,1,1,youtube.com,Video,-2
+2018-06-12T15:40:00,1,1,apps.google.com,General Utilities,1
+2018-06-12T15:40:00,1,1,robustperception.io,Uncategorized,0
+2018-06-12T15:40:00,1,1,bloomberg.com,Business,-1
+2018-06-12T15:45:00,106,1,gaoloumi.com,Regional,-2
+2018-06-12T15:45:00,87,1,baike.baidu.com,Search,0
+2018-06-12T15:45:00,61,1,map.baidu.com,Maps & Regional,-2
+2018-06-12T15:45:00,25,1,Safari,Browsers,2
+2018-06-12T15:45:00,20,1,baidu.com,Search,2
+2018-06-12T15:45:00,1,1,web.archive.org,Search,0
+2018-06-12T15:50:00,176,1,baike.baidu.com,Search,0
+2018-06-12T15:50:00,124,1,map.baidu.com,Maps & Regional,-2
+2018-06-12T15:55:00,168,1,baike.baidu.com,Search,0
+2018-06-12T15:55:00,103,1,map.baidu.com,Maps & Regional,-2
+2018-06-12T15:55:00,10,1,web.archive.org,Search,0
+2018-06-12T15:55:00,9,1,zh.wikipedia.org,Search,0
+2018-06-12T15:55:00,6,1,Safari,Browsers,2
+2018-06-12T15:55:00,4,1,google.com,Search,2
+2018-06-12T16:00:00,128,1,map.baidu.com,Maps & Regional,-2
+2018-06-12T16:00:00,116,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T16:00:00,42,1,baike.baidu.com,Search,0
+2018-06-12T16:00:00,8,1,Safari,Browsers,2
+2018-06-12T16:00:00,6,1,web.archive.org,Search,0
+2018-06-12T16:05:00,172,1,baike.baidu.com,Search,0
+2018-06-12T16:05:00,59,1,baidu.com,Search,2
+2018-06-12T16:05:00,36,1,web.archive.org,Search,0
+2018-06-12T16:05:00,26,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T16:05:00,5,1,map.baidu.com,Maps & Regional,-2
+2018-06-12T16:05:00,2,1,Safari,Browsers,2
+2018-06-12T16:10:00,147,1,wechat,General Social Networking,-2
+2018-06-12T16:10:00,48,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T16:10:00,37,1,google.com,Search,2
+2018-06-12T16:10:00,31,1,map.baidu.com,Maps & Regional,-2
+2018-06-12T16:10:00,29,1,baike.baidu.com,Search,0
+2018-06-12T16:10:00,7,1,Safari,Browsers,2
+2018-06-12T16:15:00,239,1,wechat,General Social Networking,-2
+2018-06-12T16:15:00,34,1,web.archive.org,Search,0
+2018-06-12T16:15:00,27,1,safari-resource:,Browsers,0
+2018-06-12T16:20:00,142,1,coscale.com,Uncategorized,0
+2018-06-12T16:20:00,123,1,wechat,General Social Networking,-2
+2018-06-12T16:20:00,20,1,google.com,Search,2
+2018-06-12T16:20:00,12,1,map.baidu.com,Maps & Regional,-2
+2018-06-12T16:20:00,2,1,web.archive.org,Search,0
+2018-06-12T16:20:00,1,1,safari-resource:,Browsers,0
+2018-06-12T16:25:00,247,1,wechat,General Social Networking,-2
+2018-06-12T16:25:00,49,1,coscale.com,Uncategorized,0
+2018-06-12T16:25:00,4,1,Notes,Email,0
+2018-06-12T16:30:00,97,1,wechat,General Social Networking,-2
+2018-06-12T16:30:00,84,1,visarite.com,Uncategorized,0
+2018-06-12T16:30:00,36,1,map.baidu.com,Maps & Regional,-2
+2018-06-12T16:30:00,33,1,coscale.com,Uncategorized,0
+2018-06-12T16:30:00,31,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T16:30:00,8,1,Safari,Browsers,2
+2018-06-12T16:30:00,5,1,baike.baidu.com,Search,0
+2018-06-12T16:30:00,4,1,google.com,Search,2
+2018-06-12T16:30:00,2,1,Notes,Email,0
+2018-06-12T16:35:00,180,1,wechat,General Social Networking,-2
+2018-06-12T16:35:00,49,1,apdex.org,Uncategorized,0
+2018-06-12T16:35:00,21,1,messenger.com,General Social Networking,-2
+2018-06-12T16:35:00,17,1,browser.geekbench.com,Uncategorized,0
+2018-06-12T16:35:00,15,1,google.com,Search,2
+2018-06-12T16:35:00,12,1,visarite.com,Uncategorized,0
+2018-06-12T16:35:00,5,1,coscale.com,Uncategorized,0
+2018-06-12T16:40:00,300,1,wechat,General Social Networking,-2
+2018-06-12T16:45:00,266,1,browser.geekbench.com,Uncategorized,0
+2018-06-12T16:45:00,31,1,apdex.org,Uncategorized,0
+2018-06-12T16:45:00,3,1,wechat,General Social Networking,-2
+2018-06-12T16:50:00,165,1,browser.geekbench.com,Uncategorized,0
+2018-06-12T16:50:00,83,1,apdex.org,Uncategorized,0
+2018-06-12T16:50:00,33,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T16:50:00,8,1,wechat,General Social Networking,-2
+2018-06-12T16:50:00,5,1,google.com,Search,2
+2018-06-12T16:50:00,4,1,Safari,Browsers,2
+2018-06-12T16:50:00,2,1,apple.com,Engineering & Technology,-1
+2018-06-12T16:55:00,253,1,browser.geekbench.com,Uncategorized,0
+2018-06-12T16:55:00,27,1,apdex.org,Uncategorized,0
+2018-06-12T16:55:00,14,1,wechat,General Social Networking,-2
+2018-06-12T16:55:00,6,1,Mail,Email,2
+2018-06-12T17:00:00,153,1,wechat,General Social Networking,-2
+2018-06-12T17:00:00,142,1,apdex.org,Uncategorized,0
+2018-06-12T17:00:00,5,1,Notes,Email,0
+2018-06-12T17:05:00,113,1,baike.baidu.com,Search,0
+2018-06-12T17:05:00,75,1,iTunes,Music,0
+2018-06-12T17:05:00,52,1,google.com,Search,2
+2018-06-12T17:05:00,26,1,apdex.org,Uncategorized,0
+2018-06-12T17:05:00,17,1,messenger.com,General Social Networking,-2
+2018-06-12T17:05:00,10,1,youtube.com,Video,-2
+2018-06-12T17:05:00,4,1,apple.com,Engineering & Technology,-1
+2018-06-12T17:05:00,1,1,l.messenger.com,Instant Message,-1
+2018-06-12T17:10:00,122,1,google.com,Search,2
+2018-06-12T17:10:00,110,1,baike.baidu.com,Search,0
+2018-06-12T17:10:00,35,1,apdex.org,Uncategorized,0
+2018-06-12T17:10:00,22,1,wikitech.wikimedia.org,General Software Development,2
+2018-06-12T17:10:00,7,1,mojim.com,General Entertainment,-2
+2018-06-12T17:10:00,4,1,Safari,Browsers,2
+2018-06-12T17:15:00,10,1,baike.baidu.com,Search,0
+2018-06-12T17:15:00,9,1,wikitech.wikimedia.org,General Software Development,2
+2018-06-12T17:15:00,2,1,Safari,Browsers,2
+2018-06-12T17:20:00,102,1,wikitech.wikimedia.org,General Software Development,2
+2018-06-12T17:20:00,46,1,weibo.com,General Social Networking,-2
+2018-06-12T17:20:00,29,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T17:20:00,18,1,Safari,Browsers,2
+2018-06-12T17:20:00,11,1,baike.baidu.com,Search,0
+2018-06-12T17:20:00,9,1,safari-resource:,Browsers,0
+2018-06-12T17:20:00,7,1,github.com,General Software Development,2
+2018-06-12T17:20:00,4,1,alternativeto.net,Engineering & Technology,1
+2018-06-12T17:20:00,3,1,google.com,Search,2
+2018-06-12T17:20:00,2,1,web.archive.org,Search,0
+2018-06-12T17:20:00,1,1,apdex.org,Uncategorized,0
+2018-06-12T17:25:00,142,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T17:25:00,46,1,browser.geekbench.com,Uncategorized,0
+2018-06-12T17:25:00,44,1,wikitech.wikimedia.org,General Software Development,2
+2018-06-12T17:25:00,37,1,Notes,Email,0
+2018-06-12T17:25:00,21,1,apple.com,Engineering & Technology,-1
+2018-06-12T17:25:00,9,1,wechat,General Social Networking,-2
+2018-06-12T17:30:00,300,1,browser.geekbench.com,Uncategorized,0
+2018-06-12T17:35:00,76,1,browser.geekbench.com,Uncategorized,0
+2018-06-12T17:35:00,37,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T17:35:00,23,1,wikitech.wikimedia.org,General Software Development,2
+2018-06-12T17:35:00,17,1,prometheus.io,General Software Development,2
+2018-06-12T17:35:00,6,1,google.com,Search,2
+2018-06-12T17:35:00,4,1,alternativeto.net,Engineering & Technology,1
+2018-06-12T17:35:00,4,1,apdex.org,Uncategorized,0
+2018-06-12T17:45:00,130,1,google.com,Search,2
+2018-06-12T17:45:00,66,1,grafana.com,Uncategorized,0
+2018-06-12T17:45:00,49,1,messenger.com,General Social Networking,-2
+2018-06-12T17:45:00,41,1,baike.baidu.com,Search,0
+2018-06-12T17:45:00,4,1,apple.com,Engineering & Technology,-1
+2018-06-12T17:45:00,3,1,Safari,Browsers,2
+2018-06-12T17:45:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2018-06-12T17:45:00,1,1,browser.geekbench.com,Uncategorized,0
+2018-06-12T17:50:00,300,1,google.com,Search,2
+2018-06-12T17:55:00,43,1,google.com,Search,2
+2018-06-12T17:55:00,1,1,loginwindow,General Utilities,0
+2018-06-12T18:35:00,40,1,messenger.com,General Social Networking,-2
+2018-06-12T18:35:00,24,1,iTunes,Music,0
+2018-06-12T18:35:00,18,1,ytmp3.cc,Uncategorized,0
+2018-06-12T18:35:00,3,1,loginwindow,General Utilities,0
+2018-06-12T18:40:00,134,1,youtube.com,Video,-2
+2018-06-12T18:40:00,120,1,iTunes,Music,0
+2018-06-12T18:40:00,28,1,ytmp3.cc,Uncategorized,0
+2018-06-12T18:40:00,11,1,dcc5f16cidse2.cloudfront.net,Uncategorized,0
+2018-06-12T18:40:00,3,1,firehose.guide,General Communication & Scheduling,2
+2018-06-12T18:40:00,2,1,web.mit.edu,General Reference & Learning,2
+2018-06-12T18:40:00,1,1,yllanorin.com,Uncategorized,0
+2018-06-12T18:45:00,300,1,iTunes,Music,0
+2018-06-12T18:50:00,300,1,iTunes,Music,0
+2018-06-12T18:55:00,300,1,iTunes,Music,0
+2018-06-12T19:00:00,267,1,iTunes,Music,0
+2018-06-12T19:00:00,26,1,youtube.com,Video,-2
+2018-06-12T19:00:00,7,1,ytmp3.cc,Uncategorized,0
+2018-06-12T19:05:00,281,1,iTunes,Music,0
+2018-06-12T19:05:00,15,1,ytmp3.cc,Uncategorized,0
+2018-06-12T19:05:00,3,1,cob004.site,Uncategorized,0
+2018-06-12T19:05:00,1,1,yllanorin.com,Uncategorized,0
+2018-06-12T19:10:00,300,1,iTunes,Music,0
+2018-06-12T19:15:00,300,1,iTunes,Music,0
+2018-06-12T19:20:00,218,1,iTunes,Music,0
+2018-06-12T19:20:00,49,1,youtube.com,Video,-2
+2018-06-12T19:20:00,24,1,ytmp3.cc,Uncategorized,0
+2018-06-12T19:20:00,8,1,d705pz2eyj570.cloudfront.net,Uncategorized,0
+2018-06-12T19:20:00,1,1,dcc5f16cidse2.cloudfront.net,Uncategorized,0
+2018-06-12T19:25:00,211,1,iTunes,Music,0
+2018-06-12T19:25:00,3,1,Dropbox,File Sharing,-2
+2018-06-12T19:35:00,11,1,cnn.com,General News & Opinion,2
+2018-06-12T19:35:00,8,1,ytmp3.cc,Uncategorized,0
+2018-06-12T19:35:00,3,1,google.com,Search,2
+2018-06-12T21:40:00,100,1,youtube.com,Video,-2
+2018-06-12T21:40:00,12,1,cnn.com,General News & Opinion,2
+2018-06-12T21:40:00,2,1,loginwindow,General Utilities,0
+2018-06-12T21:40:00,1,1,thebeijinger.com,General News & Opinion,-2
+2018-06-12T21:45:00,299,1,youtube.com,Video,-2
+2018-06-12T21:50:00,300,1,youtube.com,Video,-2
+2018-06-12T21:55:00,300,1,youtube.com,Video,-2
+2018-06-12T22:00:00,240,1,youtube.com,Video,-2
+2018-06-12T22:00:00,60,1,虾米音乐,Music,-2
+2018-06-12T22:05:00,276,1,youtube.com,Video,-2
+2018-06-12T22:05:00,24,1,虾米音乐,Music,-2
+2018-06-12T22:10:00,259,1,youtube.com,Video,-2
+2018-06-12T22:10:00,33,1,虾米音乐,Music,-2
+2018-06-12T22:10:00,8,1,iTunes,Music,0
+2018-06-12T22:15:00,245,1,虾米音乐,Music,-2
+2018-06-12T22:15:00,55,1,youtube.com,Video,-2
+2018-06-12T22:20:00,113,1,虾米音乐,Music,-2
+2018-06-12T22:20:00,25,1,youtube.com,Video,-2
+2018-06-12T22:20:00,5,1,iTunes,Music,0

@@ -1,0 +1,164 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2013-03-31T10:50:00,146,1,Gmail,Email,2
+2013-03-31T10:50:00,24,1,System Preferences,General Utilities,0
+2013-03-31T11:35:00,53,1,Gmail,Email,2
+2013-03-31T11:35:00,45,1,Skype,General Social Networking,-2
+2013-03-31T11:35:00,22,1,amazon.com,General Shopping,-1
+2013-03-31T11:35:00,2,1,Preview,General Reference & Learning,2
+2013-03-31T11:40:00,188,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T11:40:00,67,1,Gmail,Email,2
+2013-03-31T11:40:00,30,1,amazon.com,General Shopping,-1
+2013-03-31T11:40:00,14,1,Skype,General Social Networking,-2
+2013-03-31T11:45:00,126,1,Finder,General Utilities,0
+2013-03-31T11:45:00,88,1,Skype,General Social Networking,-2
+2013-03-31T11:45:00,69,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T11:45:00,14,1,System Preferences,General Utilities,0
+2013-03-31T11:50:00,25,1,Finder,General Utilities,0
+2013-03-31T11:50:00,11,1,System Preferences,General Utilities,0
+2013-03-31T12:35:00,149,1,Skype,General Social Networking,-2
+2013-03-31T12:35:00,12,1,Finder,General Utilities,0
+2013-03-31T13:25:00,27,1,Skype,General Social Networking,-2
+2013-03-31T15:30:00,141,1,Skype,General Social Networking,-2
+2013-03-31T15:30:00,22,1,Gmail,Email,2
+2013-03-31T15:30:00,4,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T15:35:00,43,1,Gmail,Email,2
+2013-03-31T15:35:00,19,1,Skype,General Social Networking,-2
+2013-03-31T16:00:00,161,1,Skype,General Social Networking,-2
+2013-03-31T16:10:00,28,1,microsoft word,Writing,2
+2013-03-31T16:40:00,77,1,wolframalpha.com,Search,1
+2013-03-31T16:40:00,14,1,newtab,Browsers,0
+2013-03-31T16:40:00,2,1,microsoft word,Writing,2
+2013-03-31T16:55:00,154,1,bjdnserror1.wo.com.cn:8080,Uncategorized,0
+2013-03-31T16:55:00,63,1,wolframalpha.com,Search,1
+2013-03-31T17:00:00,56,1,Skype,General Social Networking,-2
+2013-03-31T17:00:00,32,1,bjdnserror1.wo.com.cn:8080,Uncategorized,0
+2013-03-31T17:35:00,19,1,bjdnserror1.wo.com.cn:8080,Uncategorized,0
+2013-03-31T17:35:00,5,1,Skype,General Social Networking,-2
+2013-03-31T17:40:00,300,1,bjdnserror1.wo.com.cn:8080,Uncategorized,0
+2013-03-31T17:45:00,242,1,bjdnserror1.wo.com.cn:8080,Uncategorized,0
+2013-03-31T17:45:00,4,1,Skype,General Social Networking,-2
+2013-03-31T18:15:00,48,1,bjdnserror1.wo.com.cn:8080,Uncategorized,0
+2013-03-31T18:15:00,2,1,Skype,General Social Networking,-2
+2013-03-31T18:30:00,79,1,Skype,General Social Networking,-2
+2013-03-31T18:35:00,169,1,System Preferences,General Utilities,0
+2013-03-31T18:35:00,127,1,Skype,General Social Networking,-2
+2013-03-31T18:35:00,1,1,bjdnserror1.wo.com.cn:8080,Uncategorized,0
+2013-03-31T18:40:00,174,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2013-03-31T18:40:00,61,1,Skype,General Social Networking,-2
+2013-03-31T18:40:00,41,1,Finder,General Utilities,0
+2013-03-31T18:40:00,6,1,newtab,Browsers,0
+2013-03-31T18:40:00,6,1,usernotificationcenter,General Utilities,0
+2013-03-31T18:45:00,56,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2013-03-31T18:45:00,33,1,Skype,General Social Networking,-2
+2013-03-31T19:55:00,2,1,usernotificationcenter,General Utilities,0
+2013-03-31T20:10:00,96,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T20:10:00,42,1,bing.com,Search,2
+2013-03-31T20:10:00,40,1,microsoft word,Writing,2
+2013-03-31T20:10:00,33,1,Preview,General Reference & Learning,2
+2013-03-31T20:10:00,24,1,Finder,General Utilities,0
+2013-03-31T20:10:00,11,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2013-03-31T20:15:00,272,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T20:15:00,15,1,en.wiktionary.org,Search,0
+2013-03-31T20:15:00,13,1,Skype,General Social Networking,-2
+2013-03-31T20:20:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T20:25:00,248,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T20:25:00,52,1,Skype,General Social Networking,-2
+2013-03-31T20:30:00,266,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T20:30:00,34,1,Skype,General Social Networking,-2
+2013-03-31T20:35:00,201,1,pog.com,Games,-2
+2013-03-31T20:35:00,54,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T20:35:00,45,1,Skype,General Social Networking,-2
+2013-03-31T20:40:00,133,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T20:40:00,91,1,pog.com,Games,-2
+2013-03-31T20:40:00,70,1,Skype,General Social Networking,-2
+2013-03-31T20:40:00,6,1,Finder,General Utilities,0
+2013-03-31T20:45:00,182,1,pog.com,Games,-2
+2013-03-31T20:45:00,48,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T20:45:00,42,1,Finder,General Utilities,0
+2013-03-31T20:45:00,25,1,Skype,General Social Networking,-2
+2013-03-31T20:45:00,3,1,Activity Monitor,General Utilities,0
+2013-03-31T20:50:00,187,1,pog.com,Games,-2
+2013-03-31T20:50:00,95,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T20:50:00,18,1,Skype,General Social Networking,-2
+2013-03-31T20:55:00,294,1,pog.com,Games,-2
+2013-03-31T20:55:00,6,1,Skype,General Social Networking,-2
+2013-03-31T21:00:00,294,1,pog.com,Games,-2
+2013-03-31T21:00:00,6,1,Skype,General Social Networking,-2
+2013-03-31T21:05:00,238,1,pog.com,Games,-2
+2013-03-31T21:05:00,40,1,Skype,General Social Networking,-2
+2013-03-31T21:05:00,22,1,Finder,General Utilities,0
+2013-03-31T21:10:00,193,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T21:10:00,65,1,pog.com,Games,-2
+2013-03-31T21:10:00,38,1,Skype,General Social Networking,-2
+2013-03-31T21:10:00,4,1,Activity Monitor,General Utilities,0
+2013-03-31T21:15:00,262,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T21:15:00,37,1,Skype,General Social Networking,-2
+2013-03-31T21:15:00,1,1,pog.com,Games,-2
+2013-03-31T21:20:00,272,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T21:20:00,25,1,Skype,General Social Networking,-2
+2013-03-31T21:20:00,3,1,Activity Monitor,General Utilities,0
+2013-03-31T21:25:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T21:30:00,258,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T21:30:00,26,1,Skype,General Social Networking,-2
+2013-03-31T21:30:00,15,1,microsoft word,Writing,2
+2013-03-31T21:30:00,1,1,Activity Monitor,General Utilities,0
+2013-03-31T21:35:00,290,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T21:35:00,10,1,Skype,General Social Networking,-2
+2013-03-31T21:40:00,280,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T21:40:00,20,1,Skype,General Social Networking,-2
+2013-03-31T21:45:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T21:50:00,280,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T21:50:00,20,1,Skype,General Social Networking,-2
+2013-03-31T21:55:00,280,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T21:55:00,20,1,Skype,General Social Networking,-2
+2013-03-31T22:00:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T22:05:00,256,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T22:05:00,44,1,Skype,General Social Networking,-2
+2013-03-31T22:10:00,192,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T22:10:00,53,1,microsoft word,Writing,2
+2013-03-31T22:10:00,52,1,Skype,General Social Networking,-2
+2013-03-31T22:10:00,3,1,Preview,General Reference & Learning,2
+2013-03-31T22:15:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T22:20:00,294,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T22:20:00,6,1,Skype,General Social Networking,-2
+2013-03-31T22:25:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T22:30:00,260,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T22:30:00,35,1,Skype,General Social Networking,-2
+2013-03-31T22:30:00,5,1,microsoft word,Writing,2
+2013-03-31T22:35:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T22:40:00,152,1,Skype,General Social Networking,-2
+2013-03-31T22:40:00,148,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T22:45:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T22:50:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T22:55:00,166,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T22:55:00,69,1,Skype,General Social Networking,-2
+2013-03-31T22:55:00,57,1,microsoft word,Writing,2
+2013-03-31T22:55:00,6,1,pog.com,Games,-2
+2013-03-31T22:55:00,1,1,Preview,General Reference & Learning,2
+2013-03-31T23:00:00,151,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T23:00:00,113,1,tornadoquestions.com,Uncategorized,0
+2013-03-31T23:00:00,27,1,bing.com,Search,2
+2013-03-31T23:00:00,9,1,newtab,Browsers,0
+2013-03-31T23:05:00,229,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T23:05:00,58,1,Skype,General Social Networking,-2
+2013-03-31T23:05:00,13,1,bing.com,Search,2
+2013-03-31T23:10:00,132,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T23:10:00,59,1,bing.com,Search,2
+2013-03-31T23:10:00,49,1,buzzle.com,General News & Opinion,-2
+2013-03-31T23:10:00,40,1,tornadoquestions.com,Uncategorized,0
+2013-03-31T23:10:00,18,1,Skype,General Social Networking,-2
+2013-03-31T23:10:00,2,1,microsoft word,Writing,2
+2013-03-31T23:15:00,102,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T23:15:00,90,1,Skype,General Social Networking,-2
+2013-03-31T23:15:00,59,1,tornadoquestions.com,Uncategorized,0
+2013-03-31T23:15:00,42,1,answers.yahoo.com,Search,0
+2013-03-31T23:15:00,4,1,bing.com,Search,2
+2013-03-31T23:15:00,3,1,microsoft word,Writing,2
+2013-03-31T23:20:00,178,1,Skype,General Social Networking,-2
+2013-03-31T23:20:00,68,1,buzzle.com,General News & Opinion,-2
+2013-03-31T23:20:00,53,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T23:25:00,164,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T23:25:00,135,1,Skype,General Social Networking,-2
+2013-03-31T23:25:00,1,1,buzzle.com,General News & Opinion,-2
+2013-03-31T23:30:00,158,1,en.wikipedia.org,General Reference & Learning,1
+2013-03-31T23:30:00,17,1,Skype,General Social Networking,-2

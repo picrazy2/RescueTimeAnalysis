@@ -1,0 +1,344 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2015-05-27T00:00:00,71,1,microsoft word,Writing,2
+2015-05-27T00:00:00,17,1,loginwindow,General Utilities,0
+2015-05-27T08:20:00,170,1,Skype,General Social Networking,-2
+2015-05-27T08:20:00,34,1,microsoft word,Writing,2
+2015-05-27T08:25:00,169,1,Skype,General Social Networking,-2
+2015-05-27T08:25:00,29,1,loginwindow,General Utilities,0
+2015-05-27T08:50:00,17,1,loginwindow,General Utilities,0
+2015-05-27T08:50:00,10,1,Dictionary,General Reference & Learning,1
+2015-05-27T08:50:00,4,1,Skype,General Social Networking,-2
+2015-05-27T08:50:00,1,1,alfred 2,General Utilities,1
+2015-05-27T09:25:00,151,1,microsoft word,Writing,2
+2015-05-27T09:25:00,28,1,Finder,General Utilities,0
+2015-05-27T09:25:00,13,1,Safari,Browsers,2
+2015-05-27T09:25:00,5,1,alfred 2,General Utilities,1
+2015-05-27T09:25:00,4,1,pages,Presentation,2
+2015-05-27T09:25:00,2,1,Mail,Email,2
+2015-05-27T09:25:00,1,1,Dictionary,General Reference & Learning,1
+2015-05-27T09:25:00,1,1,Skype,General Social Networking,-2
+2015-05-27T09:30:00,298,1,microsoft word,Writing,2
+2015-05-27T09:35:00,300,1,microsoft word,Writing,2
+2015-05-27T09:40:00,300,1,microsoft word,Writing,2
+2015-05-27T09:45:00,300,1,microsoft word,Writing,2
+2015-05-27T09:50:00,300,1,microsoft word,Writing,2
+2015-05-27T09:55:00,283,1,microsoft word,Writing,2
+2015-05-27T09:55:00,16,1,Dictionary,General Reference & Learning,1
+2015-05-27T09:55:00,1,1,alfred 2,General Utilities,1
+2015-05-27T10:00:00,300,1,microsoft word,Writing,2
+2015-05-27T10:05:00,300,1,microsoft word,Writing,2
+2015-05-27T10:10:00,300,1,microsoft word,Writing,2
+2015-05-27T10:15:00,300,1,microsoft word,Writing,2
+2015-05-27T10:20:00,300,1,microsoft word,Writing,2
+2015-05-27T10:25:00,190,1,microsoft word,Writing,2
+2015-05-27T10:25:00,17,1,loginwindow,General Utilities,0
+2015-05-27T11:00:00,33,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-27T11:00:00,13,1,Safari,Browsers,2
+2015-05-27T11:00:00,4,1,google.com,Search,2
+2015-05-27T11:00:00,3,1,microsoft word,Writing,2
+2015-05-27T11:00:00,1,1,alfred 2,General Utilities,1
+2015-05-27T11:05:00,132,1,Skype,General Social Networking,-2
+2015-05-27T11:05:00,99,1,pages,Presentation,2
+2015-05-27T11:05:00,62,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-27T11:05:00,1,1,microsoft word,Writing,2
+2015-05-27T11:10:00,163,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-27T11:10:00,36,1,pages,Presentation,2
+2015-05-27T11:10:00,32,1,iupac.org,Search,0
+2015-05-27T11:10:00,25,1,google.com,Search,2
+2015-05-27T11:10:00,21,1,Skype,General Social Networking,-2
+2015-05-27T11:10:00,13,1,Safari,Browsers,2
+2015-05-27T11:10:00,9,1,azosensors.com,Uncategorized,0
+2015-05-27T11:15:00,100,1,iupac.org,Search,0
+2015-05-27T11:15:00,74,1,azosensors.com,Uncategorized,0
+2015-05-27T11:15:00,51,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-27T11:15:00,33,1,google.com,Search,2
+2015-05-27T11:15:00,17,1,en.wiktionary.org,Search,0
+2015-05-27T11:15:00,16,1,infoplease.com,General Reference & Learning,1
+2015-05-27T11:15:00,7,1,Safari,Browsers,2
+2015-05-27T11:20:00,215,1,pages,Presentation,2
+2015-05-27T11:20:00,72,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-27T11:20:00,49,1,mathtype,Engineering & Technology,1
+2015-05-27T11:20:00,8,1,google.com,Search,2
+2015-05-27T11:20:00,6,1,Safari,Browsers,2
+2015-05-27T11:20:00,3,1,alfred 2,General Utilities,1
+2015-05-27T11:25:00,279,1,pages,Presentation,2
+2015-05-27T11:25:00,81,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-27T11:25:00,72,1,mathtype,Engineering & Technology,1
+2015-05-27T11:25:00,37,1,azosensors.com,Uncategorized,0
+2015-05-27T11:25:00,3,1,iupac.org,Search,0
+2015-05-27T11:30:00,231,1,pages,Presentation,2
+2015-05-27T11:30:00,32,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-27T11:30:00,20,1,rspa.royalsocietypublishing.org,General Reference & Learning,1
+2015-05-27T11:30:00,12,1,google.com,Search,2
+2015-05-27T11:30:00,4,1,iupac.org,Search,0
+2015-05-27T11:30:00,1,1,en.wiktionary.org,Search,0
+2015-05-27T11:35:00,101,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-27T11:35:00,77,1,pages,Presentation,2
+2015-05-27T11:35:00,39,1,chemeducator.org,Uncategorized,0
+2015-05-27T11:35:00,32,1,google.com,Search,2
+2015-05-27T11:35:00,22,1,microsoft word,Writing,2
+2015-05-27T11:35:00,16,1,Skype,General Social Networking,-2
+2015-05-27T11:35:00,10,1,Safari,Browsers,2
+2015-05-27T11:40:00,300,1,pages,Presentation,2
+2015-05-27T11:45:00,115,1,pages,Presentation,2
+2015-05-27T11:45:00,18,1,loginwindow,General Utilities,0
+2015-05-27T11:50:00,87,1,pages,Presentation,2
+2015-05-27T11:50:00,43,1,messages,General Social Networking,-2
+2015-05-27T11:50:00,17,1,Finder,General Utilities,0
+2015-05-27T11:50:00,3,1,Skype,General Social Networking,-2
+2015-05-27T11:50:00,2,1,alfred 2,General Utilities,1
+2015-05-27T11:55:00,34,1,messages,General Social Networking,-2
+2015-05-27T11:55:00,24,1,loginwindow,General Utilities,0
+2015-05-27T11:55:00,10,1,Skype,General Social Networking,-2
+2015-05-27T14:40:00,54,1,messages,General Social Networking,-2
+2015-05-27T14:40:00,10,1,Skype,General Social Networking,-2
+2015-05-27T14:40:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-27T14:45:00,185,1,pages,Presentation,2
+2015-05-27T14:45:00,115,1,messages,General Social Networking,-2
+2015-05-27T14:50:00,266,1,pages,Presentation,2
+2015-05-27T14:50:00,34,1,messages,General Social Networking,-2
+2015-05-27T14:55:00,300,1,pages,Presentation,2
+2015-05-27T15:00:00,201,1,pages,Presentation,2
+2015-05-27T15:00:00,94,1,Mail,Email,2
+2015-05-27T15:05:00,153,1,pages,Presentation,2
+2015-05-27T15:05:00,147,1,messages,General Social Networking,-2
+2015-05-27T15:10:00,188,1,messages,General Social Networking,-2
+2015-05-27T15:10:00,112,1,pages,Presentation,2
+2015-05-27T15:15:00,117,1,pages,Presentation,2
+2015-05-27T15:15:00,26,1,messages,General Social Networking,-2
+2015-05-27T15:15:00,17,1,loginwindow,General Utilities,0
+2015-05-27T15:15:00,7,1,chemeducator.org,Uncategorized,0
+2015-05-27T15:15:00,6,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-27T15:15:00,1,1,google.com,Search,2
+2015-05-27T15:30:00,148,1,9to5mac.com,General News & Opinion,-2
+2015-05-27T15:30:00,94,1,pages,Presentation,2
+2015-05-27T15:30:00,22,1,Mail,Email,2
+2015-05-27T15:30:00,18,1,messages,General Social Networking,-2
+2015-05-27T15:30:00,15,1,Safari,Browsers,2
+2015-05-27T15:30:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-27T15:35:00,202,1,9to5mac.com,General News & Opinion,-2
+2015-05-27T15:35:00,75,1,messages,General Social Networking,-2
+2015-05-27T15:35:00,20,1,pages,Presentation,2
+2015-05-27T15:40:00,146,1,9to5mac.com,General News & Opinion,-2
+2015-05-27T15:40:00,105,1,chemeducator.org,Uncategorized,0
+2015-05-27T15:40:00,49,1,messages,General Social Networking,-2
+2015-05-27T15:45:00,114,1,chemeducator.org,Uncategorized,0
+2015-05-27T15:45:00,79,1,messages,General Social Networking,-2
+2015-05-27T15:45:00,57,1,netflix.com,Video,-2
+2015-05-27T15:45:00,30,1,google.com,Search,2
+2015-05-27T15:45:00,12,1,imdb.com,Video,-2
+2015-05-27T15:45:00,5,1,Safari,Browsers,2
+2015-05-27T15:45:00,1,1,9to5mac.com,General News & Opinion,-2
+2015-05-27T15:50:00,93,1,hollywoodreporter.com,General Entertainment,-2
+2015-05-27T15:50:00,82,1,v.qq.com,Video,-2
+2015-05-27T15:50:00,48,1,google.com,Search,2
+2015-05-27T15:50:00,34,1,flash player (safari internet plug-in),Video,-2
+2015-05-27T15:50:00,15,1,movie.douban.com,Video,-2
+2015-05-27T15:50:00,11,1,messages,General Social Networking,-2
+2015-05-27T15:50:00,8,1,imdb.com,Video,-2
+2015-05-27T15:50:00,5,1,Safari,Browsers,2
+2015-05-27T15:55:00,103,1,youtube.com,Video,-2
+2015-05-27T15:55:00,74,1,v.pps.tv,Video,-2
+2015-05-27T15:55:00,44,1,flash player (safari internet plug-in),Video,-2
+2015-05-27T15:55:00,41,1,google.com,Search,2
+2015-05-27T15:55:00,22,1,Safari,Browsers,2
+2015-05-27T15:55:00,9,1,messages,General Social Networking,-2
+2015-05-27T15:55:00,3,1,netflix.com,Video,-2
+2015-05-27T15:55:00,2,1,imdb.com,Video,-2
+2015-05-27T15:55:00,1,1,v.qq.com,Video,-2
+2015-05-27T16:00:00,300,1,youtube.com,Video,-2
+2015-05-27T16:05:00,300,1,youtube.com,Video,-2
+2015-05-27T16:10:00,300,1,youtube.com,Video,-2
+2015-05-27T16:15:00,300,1,youtube.com,Video,-2
+2015-05-27T16:20:00,300,1,youtube.com,Video,-2
+2015-05-27T16:25:00,300,1,youtube.com,Video,-2
+2015-05-27T16:30:00,300,1,youtube.com,Video,-2
+2015-05-27T16:35:00,300,1,youtube.com,Video,-2
+2015-05-27T16:40:00,300,1,youtube.com,Video,-2
+2015-05-27T16:45:00,300,1,youtube.com,Video,-2
+2015-05-27T16:50:00,300,1,youtube.com,Video,-2
+2015-05-27T16:55:00,300,1,youtube.com,Video,-2
+2015-05-27T17:00:00,300,1,youtube.com,Video,-2
+2015-05-27T17:05:00,300,1,youtube.com,Video,-2
+2015-05-27T17:10:00,300,1,youtube.com,Video,-2
+2015-05-27T17:15:00,53,1,youtube.com,Video,-2
+2015-05-27T17:20:00,8,1,screensaverengine,General Utilities,0
+2015-05-27T18:20:00,22,1,loginwindow,General Utilities,0
+2015-05-27T18:25:00,128,1,pages,Presentation,2
+2015-05-27T18:25:00,54,1,Mail,Email,2
+2015-05-27T18:25:00,18,1,9to5mac.com,General News & Opinion,-2
+2015-05-27T18:25:00,15,1,Skype,General Social Networking,-2
+2015-05-27T18:25:00,12,1,netflix.com,Video,-2
+2015-05-27T18:25:00,5,1,v.pps.tv,Video,-2
+2015-05-27T18:25:00,3,1,messages,General Social Networking,-2
+2015-05-27T18:25:00,3,1,microsoft word,Writing,2
+2015-05-27T18:25:00,2,1,youtube.com,Video,-2
+2015-05-27T18:30:00,205,1,Mail,Email,2
+2015-05-27T18:30:00,85,1,pages,Presentation,2
+2015-05-27T18:30:00,6,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-27T18:30:00,2,1,google.com,Search,2
+2015-05-27T18:30:00,1,1,chemeducator.org,Uncategorized,0
+2015-05-27T18:30:00,1,1,9to5mac.com,General News & Opinion,-2
+2015-05-27T18:35:00,283,1,pages,Presentation,2
+2015-05-27T18:35:00,17,1,messages,General Social Networking,-2
+2015-05-27T18:40:00,141,1,messages,General Social Networking,-2
+2015-05-27T18:40:00,67,1,microsoft word,Writing,2
+2015-05-27T18:40:00,50,1,pages,Presentation,2
+2015-05-27T18:40:00,26,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-27T18:40:00,7,1,Safari,Browsers,2
+2015-05-27T18:40:00,6,1,Mail,Email,2
+2015-05-27T18:45:00,203,1,pages,Presentation,2
+2015-05-27T18:45:00,35,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-27T18:45:00,32,1,messages,General Social Networking,-2
+2015-05-27T18:45:00,25,1,google.com,Search,2
+2015-05-27T18:45:00,4,1,chem.lapeer.org,Uncategorized,0
+2015-05-27T18:50:00,197,1,pages,Presentation,2
+2015-05-27T18:50:00,91,1,microsoft word,Writing,2
+2015-05-27T18:50:00,11,1,google.com,Search,2
+2015-05-27T18:55:00,159,1,pages,Presentation,2
+2015-05-27T18:55:00,71,1,microsoft word,Writing,2
+2015-05-27T18:55:00,70,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-27T19:00:00,299,1,pages,Presentation,2
+2015-05-27T19:05:00,300,1,pages,Presentation,2
+2015-05-27T19:10:00,300,1,pages,Presentation,2
+2015-05-27T19:15:00,155,1,pages,Presentation,2
+2015-05-27T19:15:00,64,1,wiredchemist.com,Uncategorized,0
+2015-05-27T19:15:00,37,1,google.com,Search,2
+2015-05-27T19:15:00,18,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-27T19:15:00,14,1,chem.tamu.edu,General Reference & Learning,1
+2015-05-27T19:15:00,3,1,chm.davidson.edu,General Reference & Learning,1
+2015-05-27T19:15:00,3,1,britannica.com,Search,0
+2015-05-27T19:20:00,148,1,pages,Presentation,2
+2015-05-27T19:20:00,84,1,ehow.com,Search,0
+2015-05-27T19:20:00,58,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-27T19:20:00,8,1,google.com,Search,2
+2015-05-27T19:25:00,292,1,pages,Presentation,2
+2015-05-27T19:25:00,8,1,ehow.com,Search,0
+2015-05-27T19:30:00,290,1,pages,Presentation,2
+2015-05-27T19:30:00,10,1,messages,General Social Networking,-2
+2015-05-27T19:35:00,240,1,pages,Presentation,2
+2015-05-27T19:35:00,53,1,microsoft word,Writing,2
+2015-05-27T19:40:00,226,1,pages,Presentation,2
+2015-05-27T19:40:00,18,1,loginwindow,General Utilities,0
+2015-05-27T19:45:00,5,1,pages,Presentation,2
+2015-05-27T19:50:00,300,1,pages,Presentation,2
+2015-05-27T19:55:00,117,1,libres.uncg.edu,General Reference & Learning,1
+2015-05-27T19:55:00,73,1,pages,Presentation,2
+2015-05-27T19:55:00,37,1,google.com,Search,2
+2015-05-27T19:55:00,23,1,poolforthought.com,Uncategorized,0
+2015-05-27T19:55:00,19,1,messages,General Social Networking,-2
+2015-05-27T19:55:00,14,1,Safari,Browsers,2
+2015-05-27T19:55:00,5,1,en.wikipedia.org,General Reference & Learning,1
+2015-05-27T19:55:00,4,1,Mail,Email,2
+2015-05-27T20:00:00,289,1,pages,Presentation,2
+2015-05-27T20:00:00,9,1,messages,General Social Networking,-2
+2015-05-27T20:05:00,227,1,pages,Presentation,2
+2015-05-27T20:05:00,46,1,Mail,Email,2
+2015-05-27T20:05:00,14,1,Dictionary,General Reference & Learning,1
+2015-05-27T20:05:00,5,1,alfred 2,General Utilities,1
+2015-05-27T20:10:00,171,1,pages,Presentation,2
+2015-05-27T20:10:00,94,1,Mail,Email,2
+2015-05-27T20:10:00,20,1,messages,General Social Networking,-2
+2015-05-27T20:10:00,10,1,Dictionary,General Reference & Learning,1
+2015-05-27T20:15:00,207,1,pages,Presentation,2
+2015-05-27T20:15:00,88,1,messages,General Social Networking,-2
+2015-05-27T20:15:00,5,1,Mail,Email,2
+2015-05-27T20:20:00,202,1,pages,Presentation,2
+2015-05-27T20:20:00,58,1,messages,General Social Networking,-2
+2015-05-27T20:20:00,29,1,amazon.com,General Shopping,-1
+2015-05-27T20:20:00,9,1,google.com,Search,2
+2015-05-27T20:25:00,215,1,pages,Presentation,2
+2015-05-27T20:25:00,50,1,amazon.com,General Shopping,-1
+2015-05-27T20:25:00,32,1,messages,General Social Networking,-2
+2015-05-27T20:25:00,2,1,Dictionary,General Reference & Learning,1
+2015-05-27T20:30:00,129,1,pages,Presentation,2
+2015-05-27T20:30:00,122,1,amazon.com,General Shopping,-1
+2015-05-27T20:30:00,28,1,secure.bhphotovideo.com,Search,-1
+2015-05-27T20:30:00,7,1,bhphotovideo.com,General Shopping,-2
+2015-05-27T20:30:00,6,1,Safari,Browsers,2
+2015-05-27T20:35:00,200,1,pages,Presentation,2
+2015-05-27T20:35:00,99,1,amazon.com,General Shopping,-1
+2015-05-27T20:40:00,141,1,secure.bhphotovideo.com,Search,-1
+2015-05-27T20:40:00,112,1,pages,Presentation,2
+2015-05-27T20:40:00,45,1,amazon.com,General Shopping,-1
+2015-05-27T20:45:00,118,1,pages,Presentation,2
+2015-05-27T20:45:00,31,1,amazon.com,General Shopping,-1
+2015-05-27T20:45:00,17,1,loginwindow,General Utilities,0
+2015-05-27T20:45:00,5,1,secure.bhphotovideo.com,Search,-1
+2015-05-27T21:00:00,21,1,applications,General Business,2
+2015-05-27T21:00:00,1,1,amazon.com,General Shopping,-1
+2015-05-27T21:00:00,1,1,pages,Presentation,2
+2015-05-27T21:05:00,212,1,pages,Presentation,2
+2015-05-27T21:05:00,42,1,secure.bhphotovideo.com,Search,-1
+2015-05-27T21:05:00,23,1,amazon.com,General Shopping,-1
+2015-05-27T21:05:00,6,1,applications,General Business,2
+2015-05-27T21:05:00,3,1,Mail,Email,2
+2015-05-27T21:05:00,2,1,Dictionary,General Reference & Learning,1
+2015-05-27T21:05:00,2,1,Safari,Browsers,2
+2015-05-27T21:05:00,2,1,sophosuiserver,Anti-Virus & Spyware,-1
+2015-05-27T21:10:00,163,1,pages,Presentation,2
+2015-05-27T21:10:00,53,1,secure.bhphotovideo.com,Search,-1
+2015-05-27T21:10:00,38,1,lowepro.com,General Shopping,-1
+2015-05-27T21:10:00,31,1,amazon.com,General Shopping,-1
+2015-05-27T21:10:00,9,1,store.lowepro.com,General Shopping,-1
+2015-05-27T21:10:00,3,1,Safari,Browsers,2
+2015-05-27T21:15:00,173,1,pages,Presentation,2
+2015-05-27T21:15:00,127,1,amazon.com,General Shopping,-1
+2015-05-27T21:20:00,121,1,pages,Presentation,2
+2015-05-27T21:20:00,82,1,amazon.com,General Shopping,-1
+2015-05-27T21:20:00,49,1,secure.bhphotovideo.com,Search,-1
+2015-05-27T21:20:00,43,1,bhphotovideo.com,General Shopping,-2
+2015-05-27T21:25:00,161,1,bhphotovideo.com,General Shopping,-2
+2015-05-27T21:25:00,132,1,pages,Presentation,2
+2015-05-27T21:25:00,2,1,messages,General Social Networking,-2
+2015-05-27T21:25:00,2,1,amazon.com,General Shopping,-1
+2015-05-27T21:25:00,2,1,Safari,Browsers,2
+2015-05-27T21:30:00,181,1,bhphotovideo.com,General Shopping,-2
+2015-05-27T21:30:00,95,1,pages,Presentation,2
+2015-05-27T21:30:00,22,1,amazon.com,General Shopping,-1
+2015-05-27T21:35:00,212,1,bhphotovideo.com,General Shopping,-2
+2015-05-27T21:35:00,83,1,pages,Presentation,2
+2015-05-27T21:35:00,5,1,amazon.com,General Shopping,-1
+2015-05-27T21:40:00,209,1,bhphotovideo.com,General Shopping,-2
+2015-05-27T21:40:00,100,1,amazon.com,General Shopping,-1
+2015-05-27T21:40:00,64,1,pages,Presentation,2
+2015-05-27T21:40:00,27,1,Mail,Email,2
+2015-05-27T21:40:00,14,1,microsoft word,Writing,2
+2015-05-27T21:40:00,11,1,applications,General Business,2
+2015-05-27T21:40:00,5,1,RescueTime,Intelligence,0
+2015-05-27T21:40:00,3,1,tournamentsoftware.com,General Entertainment,-2
+2015-05-27T21:45:00,300,1,pages,Presentation,2
+2015-05-27T21:45:00,20,1,loginwindow,General Utilities,0
+2015-05-27T21:45:00,17,1,secure.bhphotovideo.com,Search,-1
+2015-05-27T21:45:00,14,1,bhphotovideo.com,General Shopping,-2
+2015-05-27T21:45:00,9,1,youtube.com,Video,-2
+2015-05-27T21:50:00,239,1,pages,Presentation,2
+2015-05-27T21:50:00,61,1,messages,General Social Networking,-2
+2015-05-27T21:55:00,280,1,pages,Presentation,2
+2015-05-27T21:55:00,20,1,messages,General Social Networking,-2
+2015-05-27T22:00:00,300,1,pages,Presentation,2
+2015-05-27T22:05:00,300,1,pages,Presentation,2
+2015-05-27T22:10:00,154,1,pages,Presentation,2
+2015-05-27T22:10:00,121,1,microsoft word,Writing,2
+2015-05-27T22:10:00,21,1,Mail,Email,2
+2015-05-27T22:10:00,2,1,alfred 2,General Utilities,1
+2015-05-27T22:15:00,219,1,messages,General Social Networking,-2
+2015-05-27T22:15:00,81,1,pages,Presentation,2
+2015-05-27T22:20:00,277,1,pages,Presentation,2
+2015-05-27T22:20:00,15,1,messages,General Social Networking,-2
+2015-05-27T22:20:00,3,1,Preview,General Reference & Learning,2
+2015-05-27T22:20:00,1,1,alfred 2,General Utilities,1
+2015-05-27T22:25:00,300,1,pages,Presentation,2
+2015-05-27T22:30:00,243,1,pages,Presentation,2
+2015-05-27T22:30:00,57,1,bhphotovideo.com,General Shopping,-2
+2015-05-27T22:35:00,195,1,MS Excel,General Business,2
+2015-05-27T22:35:00,94,1,pages,Presentation,2
+2015-05-27T22:35:00,6,1,alfred 2,General Utilities,1
+2015-05-27T22:40:00,181,1,MS Excel,General Business,2
+2015-05-27T22:40:00,114,1,pages,Presentation,2
+2015-05-27T22:45:00,98,1,MS Excel,General Business,2
+2015-05-27T22:45:00,17,1,loginwindow,General Utilities,0
+2015-05-27T22:55:00,90,1,Finder,General Utilities,0
+2015-05-27T22:55:00,37,1,pages,Presentation,2
+2015-05-27T22:55:00,20,1,MS Excel,General Business,2
+2015-05-27T22:55:00,19,1,loginwindow,General Utilities,0

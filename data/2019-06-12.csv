@@ -1,0 +1,608 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2019-06-12T10:10:00,85,1,Gmail,Email,2
+2019-06-12T10:10:00,44,1,google.com,Search,2
+2019-06-12T10:10:00,36,1,Google Forms,General Business,2
+2019-06-12T10:10:00,25,1,messages,General Social Networking,-2
+2019-06-12T10:10:00,19,1,Slack,Instant Message,2
+2019-06-12T10:10:00,15,1,chocolatefactorytheater.org,Uncategorized,0
+2019-06-12T10:10:00,4,1,jira.braze.com,Design & Planning,2
+2019-06-12T10:10:00,4,1,github.com,General Software Development,2
+2019-06-12T10:10:00,3,1,9to5mac.com,General News & Opinion,-2
+2019-06-12T10:10:00,2,1,loginwindow,General Utilities,0
+2019-06-12T10:10:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2019-06-12T10:10:00,2,1,hdokiejnpimakedhajhdlcegeplioahd,General Utilities,1
+2019-06-12T10:10:00,1,1,developer.apple.com,Engineering & Technology,1
+2019-06-12T10:10:00,1,1,braze.com,Uncategorized,0
+2019-06-12T10:15:00,139,1,Gmail,Email,2
+2019-06-12T10:15:00,81,1,google.com/calendar,Calendars,2
+2019-06-12T10:15:00,39,1,Slack,Instant Message,2
+2019-06-12T10:15:00,37,1,github.com,General Software Development,2
+2019-06-12T10:15:00,2,1,9to5mac.com,General News & Opinion,-2
+2019-06-12T10:15:00,1,1,google.com,Search,2
+2019-06-12T10:20:00,80,1,rescuetime.com,Intelligence,0
+2019-06-12T10:20:00,65,1,Slack,Instant Message,2
+2019-06-12T10:20:00,58,1,github.com,General Software Development,2
+2019-06-12T10:20:00,55,1,servicedesk.braze.com,Uncategorized,0
+2019-06-12T10:20:00,15,1,appboy.github.io,General Software Development,2
+2019-06-12T10:20:00,9,1,google.com,Search,2
+2019-06-12T10:20:00,4,1,braze.com,Uncategorized,0
+2019-06-12T10:20:00,3,1,braze.exceedlms.com,General Reference & Learning,2
+2019-06-12T10:20:00,3,1,Google Documents,Writing,2
+2019-06-12T10:20:00,2,1,Google Forms,General Business,2
+2019-06-12T10:20:00,2,1,braze.productboard.com,Uncategorized,0
+2019-06-12T10:20:00,1,1,accounts.google.com,General Communication & Scheduling,0
+2019-06-12T10:20:00,1,1,Google Spreadsheets,General Business,2
+2019-06-12T10:20:00,1,1,9to5mac.com,General News & Opinion,-2
+2019-06-12T10:20:00,1,1,united.com,Travel & Outdoors,-2
+2019-06-12T10:25:00,149,1,tutorialspoint.com,General Reference & Learning,1
+2019-06-12T10:25:00,73,1,Xcode,Editing & IDEs,2
+2019-06-12T10:25:00,38,1,en.wikipedia.org,General Reference & Learning,1
+2019-06-12T10:25:00,20,1,braze.com,Uncategorized,0
+2019-06-12T10:25:00,12,1,appboy.github.io,General Software Development,2
+2019-06-12T10:25:00,7,1,google.com,Search,2
+2019-06-12T10:30:00,163,1,cocoadevcentral.com,General Software Development,2
+2019-06-12T10:30:00,102,1,tutorialspoint.com,General Reference & Learning,1
+2019-06-12T10:30:00,6,1,google.com,Search,2
+2019-06-12T10:30:00,3,1,screensaverengine,General Utilities,0
+2019-06-12T10:30:00,2,1,loginwindow,General Utilities,0
+2019-06-12T10:35:00,24,1,cocoadevcentral.com,General Software Development,2
+2019-06-12T10:35:00,2,1,screensaverengine,General Utilities,0
+2019-06-12T10:35:00,2,1,loginwindow,General Utilities,0
+2019-06-12T10:40:00,179,1,google.com,Search,2
+2019-06-12T10:40:00,91,1,cocoadevcentral.com,General Software Development,2
+2019-06-12T10:40:00,30,1,Slack,Instant Message,2
+2019-06-12T10:45:00,288,1,cocoadevcentral.com,General Software Development,2
+2019-06-12T10:45:00,9,1,google.com,Search,2
+2019-06-12T10:45:00,2,1,rescuetime.com,Intelligence,0
+2019-06-12T10:45:00,1,1,tomsguide.com,General News & Opinion,-2
+2019-06-12T10:50:00,295,1,cocoadevcentral.com,General Software Development,2
+2019-06-12T10:50:00,5,1,screensaverengine,General Utilities,0
+2019-06-12T10:55:00,205,1,cocoadevcentral.com,General Software Development,2
+2019-06-12T10:55:00,49,1,Slack,Instant Message,2
+2019-06-12T10:55:00,26,1,google.com/calendar,Calendars,2
+2019-06-12T10:55:00,14,1,lastpass,General Utilities,1
+2019-06-12T10:55:00,3,1,united.com,Travel & Outdoors,-2
+2019-06-12T10:55:00,2,1,appboy.github.io,General Software Development,2
+2019-06-12T11:00:00,126,1,united.com,Travel & Outdoors,-2
+2019-06-12T11:00:00,98,1,google.com/calendar,Calendars,2
+2019-06-12T11:00:00,25,1,Google Documents,Writing,2
+2019-06-12T11:00:00,18,1,mystatus.united.com,Travel & Outdoors,-2
+2019-06-12T11:00:00,14,1,google.com,Search,2
+2019-06-12T11:00:00,7,1,github.com,General Software Development,2
+2019-06-12T11:00:00,5,1,braze.com,Uncategorized,0
+2019-06-12T11:00:00,2,1,rescuetime.com,Intelligence,0
+2019-06-12T11:00:00,1,1,tomsguide.com,General News & Opinion,-2
+2019-06-12T11:00:00,1,1,googletraveladservices.com,Uncategorized,0
+2019-06-12T11:00:00,1,1,drive.google.com,General Business,2
+2019-06-12T11:00:00,1,1,braze.productboard.com,Uncategorized,0
+2019-06-12T11:05:00,81,1,cocoadevcentral.com,General Software Development,2
+2019-06-12T11:05:00,79,1,mystatus.united.com,Travel & Outdoors,-2
+2019-06-12T11:05:00,47,1,Slack,Instant Message,2
+2019-06-12T11:05:00,40,1,github.com,General Software Development,2
+2019-06-12T11:05:00,38,1,app.fooda.com,Uncategorized,0
+2019-06-12T11:05:00,8,1,google.com,Search,2
+2019-06-12T11:05:00,6,1,united.com,Travel & Outdoors,-2
+2019-06-12T11:05:00,1,1,fooda.com,Uncategorized,0
+2019-06-12T11:10:00,102,1,github.com,General Software Development,2
+2019-06-12T11:10:00,81,1,Finder,General Utilities,0
+2019-06-12T11:10:00,26,1,google.com/calendar,Calendars,2
+2019-06-12T11:10:00,21,1,google.com,Search,2
+2019-06-12T11:10:00,17,1,imageoptim.com,Uncategorized,0
+2019-06-12T11:10:00,17,1,sublimetext.com,Writing,2
+2019-06-12T11:10:00,14,1,iterm2.com,General Software Development,2
+2019-06-12T11:10:00,3,1,imageoptim,General Utilities,1
+2019-06-12T11:10:00,3,1,cocoadevcentral.com,General Software Development,2
+2019-06-12T11:10:00,2,1,Google Documents,Writing,2
+2019-06-12T11:10:00,2,1,newtab,Browsers,0
+2019-06-12T11:10:00,2,1,braze.com,Uncategorized,0
+2019-06-12T11:10:00,2,1,coreservicesuiagent,General Utilities,0
+2019-06-12T11:10:00,2,1,archive utility,General Utilities,1
+2019-06-12T11:10:00,2,1,self service,General Software Development,2
+2019-06-12T11:10:00,1,1,tomsguide.com,General News & Opinion,-2
+2019-06-12T11:10:00,1,1,rescuetime.com,Intelligence,0
+2019-06-12T11:10:00,1,1,System Preferences,General Utilities,0
+2019-06-12T11:10:00,1,1,app.fooda.com,Uncategorized,0
+2019-06-12T11:15:00,88,1,lastpass,General Utilities,1
+2019-06-12T11:15:00,74,1,github.com,General Software Development,2
+2019-06-12T11:15:00,70,1,Terminal,Systems Operations,2
+2019-06-12T11:15:00,35,1,Notes,Email,0
+2019-06-12T11:15:00,13,1,Slack,Instant Message,2
+2019-06-12T11:15:00,4,1,Preview,General Reference & Learning,2
+2019-06-12T11:15:00,2,1,Finder,General Utilities,0
+2019-06-12T11:15:00,2,1,coreautha,Uncategorized,0
+2019-06-12T11:15:00,2,1,sublimetext.com,Writing,2
+2019-06-12T11:15:00,1,1,messages,General Social Networking,-2
+2019-06-12T11:20:00,189,1,Terminal,Systems Operations,2
+2019-06-12T11:20:00,59,1,github.com,General Software Development,2
+2019-06-12T11:20:00,29,1,askubuntu.com,Engineering & Technology,1
+2019-06-12T11:20:00,10,1,stackoverflow.com,General Software Development,2
+2019-06-12T11:20:00,7,1,newtab,Browsers,0
+2019-06-12T11:20:00,5,1,google.com,Search,2
+2019-06-12T11:25:00,199,1,Terminal,Systems Operations,2
+2019-06-12T11:25:00,51,1,github.com,General Software Development,2
+2019-06-12T11:25:00,31,1,Gmail,Email,2
+2019-06-12T11:25:00,17,1,google.com/calendar,Calendars,2
+2019-06-12T11:25:00,2,1,askubuntu.com,Engineering & Technology,1
+2019-06-12T11:30:00,158,1,usr56.dayforcehcm.com,General Business,2
+2019-06-12T11:30:00,81,1,Slack,Instant Message,2
+2019-06-12T11:30:00,36,1,Terminal,Systems Operations,2
+2019-06-12T11:30:00,12,1,System Preferences,General Utilities,0
+2019-06-12T11:30:00,7,1,Gmail,Email,2
+2019-06-12T11:30:00,5,1,github.com,General Software Development,2
+2019-06-12T11:30:00,1,1,google.com/calendar,Calendars,2
+2019-06-12T11:35:00,220,1,github.com,General Software Development,2
+2019-06-12T11:35:00,29,1,Terminal,Systems Operations,2
+2019-06-12T11:35:00,24,1,Gmail,Email,2
+2019-06-12T11:35:00,16,1,lastpass,General Utilities,1
+2019-06-12T11:35:00,10,1,keychain access,Systems Operations,2
+2019-06-12T11:35:00,1,1,coreautha,Uncategorized,0
+2019-06-12T11:40:00,268,1,Terminal,Systems Operations,2
+2019-06-12T11:40:00,17,1,lastpass,General Utilities,1
+2019-06-12T11:40:00,15,1,github.com,General Software Development,2
+2019-06-12T11:45:00,239,1,Terminal,Systems Operations,2
+2019-06-12T11:45:00,28,1,github.com,General Software Development,2
+2019-06-12T11:45:00,27,1,stackoverflow.com,General Software Development,2
+2019-06-12T11:45:00,4,1,google.com,Search,2
+2019-06-12T11:45:00,2,1,newtab,Browsers,0
+2019-06-12T11:50:00,121,1,Terminal,Systems Operations,2
+2019-06-12T11:50:00,22,1,github.com,General Software Development,2
+2019-06-12T12:40:00,236,1,Slack,Instant Message,2
+2019-06-12T12:40:00,19,1,screensaverengine,General Utilities,0
+2019-06-12T12:40:00,19,1,google.com/calendar,Calendars,2
+2019-06-12T12:40:00,2,1,Terminal,Systems Operations,2
+2019-06-12T12:40:00,1,1,loginwindow,General Utilities,0
+2019-06-12T12:45:00,127,1,google.com/calendar,Calendars,2
+2019-06-12T12:45:00,65,1,Xcode,Editing & IDEs,2
+2019-06-12T12:45:00,43,1,Finder,General Utilities,0
+2019-06-12T12:45:00,23,1,Terminal,Systems Operations,2
+2019-06-12T12:45:00,15,1,github.com,General Software Development,2
+2019-06-12T12:45:00,6,1,screensaverengine,General Utilities,0
+2019-06-12T12:45:00,1,1,loginwindow,General Utilities,0
+2019-06-12T12:50:00,251,1,Xcode,Editing & IDEs,2
+2019-06-12T12:50:00,34,1,github.com,General Software Development,2
+2019-06-12T12:50:00,14,1,Terminal,Systems Operations,2
+2019-06-12T12:55:00,86,1,google.com,Search,2
+2019-06-12T12:55:00,86,1,Slack,Instant Message,2
+2019-06-12T12:55:00,74,1,Xcode,Editing & IDEs,2
+2019-06-12T12:55:00,20,1,loginwindow,General Utilities,0
+2019-06-12T12:55:00,8,1,google.com/calendar,Calendars,2
+2019-06-12T12:55:00,5,1,github.com,General Software Development,2
+2019-06-12T13:00:00,178,1,Slack,Instant Message,2
+2019-06-12T13:00:00,63,1,screensaverengine,General Utilities,0
+2019-06-12T13:00:00,22,1,google.com/calendar,Calendars,2
+2019-06-12T13:00:00,5,1,loginwindow,General Utilities,0
+2019-06-12T13:05:00,242,1,jira.braze.com,Design & Planning,2
+2019-06-12T13:05:00,51,1,screensaverengine,General Utilities,0
+2019-06-12T13:05:00,4,1,loginwindow,General Utilities,0
+2019-06-12T13:05:00,2,1,google.com/calendar,Calendars,2
+2019-06-12T13:05:00,1,1,confluence.braze.com,Uncategorized,0
+2019-06-12T13:10:00,28,1,jira.braze.com,Design & Planning,2
+2019-06-12T13:10:00,1,1,screensaverengine,General Utilities,0
+2019-06-12T13:20:00,25,1,google.com/calendar,Calendars,2
+2019-06-12T13:20:00,1,1,loginwindow,General Utilities,0
+2019-06-12T13:25:00,146,1,Slack,Instant Message,2
+2019-06-12T13:25:00,112,1,google.com/calendar,Calendars,2
+2019-06-12T13:25:00,41,1,google.com,Search,2
+2019-06-12T13:25:00,1,1,newtab,Browsers,0
+2019-06-12T13:30:00,154,1,jira.braze.com,Design & Planning,2
+2019-06-12T13:30:00,96,1,Slack,Instant Message,2
+2019-06-12T13:30:00,43,1,screensaverengine,General Utilities,0
+2019-06-12T13:30:00,5,1,google.com,Search,2
+2019-06-12T13:30:00,1,1,loginwindow,General Utilities,0
+2019-06-12T13:30:00,1,1,keychain access,Systems Operations,2
+2019-06-12T13:35:00,153,1,google.com/calendar,Calendars,2
+2019-06-12T13:35:00,94,1,jira.braze.com,Design & Planning,2
+2019-06-12T13:35:00,52,1,screensaverengine,General Utilities,0
+2019-06-12T13:35:00,1,1,loginwindow,General Utilities,0
+2019-06-12T13:40:00,164,1,screensaverengine,General Utilities,0
+2019-06-12T13:40:00,134,1,google.com/calendar,Calendars,2
+2019-06-12T13:40:00,2,1,System Preferences,General Utilities,0
+2019-06-12T13:45:00,121,1,Slack,Instant Message,2
+2019-06-12T13:45:00,41,1,google.com/calendar,Calendars,2
+2019-06-12T13:45:00,1,1,screensaverengine,General Utilities,0
+2019-06-12T13:45:00,1,1,Xcode,Editing & IDEs,2
+2019-06-12T13:50:00,208,1,jira.braze.com,Design & Planning,2
+2019-06-12T13:50:00,9,1,Google Documents,Writing,2
+2019-06-12T13:50:00,4,1,google.com/calendar,Calendars,2
+2019-06-12T13:50:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2019-06-12T13:50:00,1,1,braze.bamboohr.com,General Business,2
+2019-06-12T13:50:00,1,1,loginwindow,General Utilities,0
+2019-06-12T13:50:00,1,1,usr56.dayforcehcm.com,General Business,2
+2019-06-12T13:55:00,94,1,jira.braze.com,Design & Planning,2
+2019-06-12T13:55:00,2,1,loginwindow,General Utilities,0
+2019-06-12T14:00:00,136,1,Xcode,Editing & IDEs,2
+2019-06-12T14:00:00,49,1,github.com,General Software Development,2
+2019-06-12T14:00:00,6,1,Google Documents,Writing,2
+2019-06-12T14:00:00,4,1,braze.productboard.com,Uncategorized,0
+2019-06-12T14:00:00,1,1,jira.braze.com,Design & Planning,2
+2019-06-12T14:05:00,181,1,Xcode,Editing & IDEs,2
+2019-06-12T14:05:00,70,1,techcrunch.com,Science & Technology,-1
+2019-06-12T14:05:00,38,1,github.com,General Software Development,2
+2019-06-12T14:05:00,10,1,Slack,Instant Message,2
+2019-06-12T14:10:00,236,1,Xcode,Editing & IDEs,2
+2019-06-12T14:10:00,28,1,stackoverflow.com,General Software Development,2
+2019-06-12T14:10:00,14,1,techcrunch.com,Science & Technology,-1
+2019-06-12T14:10:00,11,1,google.com,Search,2
+2019-06-12T14:10:00,8,1,screensaverengine,General Utilities,0
+2019-06-12T14:10:00,2,1,Slack,Instant Message,2
+2019-06-12T14:15:00,199,1,Xcode,Editing & IDEs,2
+2019-06-12T14:15:00,37,1,Terminal,Systems Operations,2
+2019-06-12T14:15:00,25,1,github.com,General Software Development,2
+2019-06-12T14:15:00,21,1,groups.google.com,General Communication & Scheduling,0
+2019-06-12T14:15:00,8,1,System Preferences,General Utilities,0
+2019-06-12T14:15:00,4,1,Finder,General Utilities,0
+2019-06-12T14:15:00,3,1,screensaverengine,General Utilities,0
+2019-06-12T14:15:00,1,1,stackoverflow.com,General Software Development,2
+2019-06-12T14:20:00,49,1,Xcode,Editing & IDEs,2
+2019-06-12T14:20:00,28,1,simulator,General Software Development,2
+2019-06-12T14:20:00,4,1,loginwindow,General Utilities,0
+2019-06-12T14:20:00,3,1,SecurityAgent,Systems Operations,0
+2019-06-12T14:20:00,2,1,screensaverengine,General Utilities,0
+2019-06-12T14:25:00,164,1,google.com,Search,2
+2019-06-12T14:25:00,46,1,simulator,General Software Development,2
+2019-06-12T14:25:00,46,1,Gmail,Email,2
+2019-06-12T14:25:00,22,1,google.com/calendar,Calendars,2
+2019-06-12T14:25:00,10,1,Xcode,Editing & IDEs,2
+2019-06-12T14:25:00,5,1,github.com,General Software Development,2
+2019-06-12T14:25:00,3,1,newtab,Browsers,0
+2019-06-12T14:25:00,1,1,mystatus.united.com,Travel & Outdoors,-2
+2019-06-12T14:25:00,1,1,cocoadevcentral.com,General Software Development,2
+2019-06-12T14:25:00,1,1,stackoverflow.com,General Software Development,2
+2019-06-12T14:25:00,1,1,Terminal,Systems Operations,2
+2019-06-12T14:30:00,107,1,Xcode,Editing & IDEs,2
+2019-06-12T14:30:00,82,1,Google Documents,Writing,2
+2019-06-12T14:30:00,77,1,Slack,Instant Message,2
+2019-06-12T14:30:00,20,1,google.com/calendar,Calendars,2
+2019-06-12T14:30:00,13,1,github.com,General Software Development,2
+2019-06-12T14:30:00,1,1,braze.productboard.com,Uncategorized,0
+2019-06-12T14:35:00,191,1,Xcode,Editing & IDEs,2
+2019-06-12T14:35:00,86,1,simulator,General Software Development,2
+2019-06-12T14:35:00,17,1,github.com,General Software Development,2
+2019-06-12T14:40:00,282,1,Xcode,Editing & IDEs,2
+2019-06-12T14:40:00,14,1,simulator,General Software Development,2
+2019-06-12T14:45:00,277,1,Xcode,Editing & IDEs,2
+2019-06-12T14:45:00,20,1,simulator,General Software Development,2
+2019-06-12T14:50:00,284,1,Xcode,Editing & IDEs,2
+2019-06-12T14:50:00,16,1,simulator,General Software Development,2
+2019-06-12T14:55:00,278,1,Xcode,Editing & IDEs,2
+2019-06-12T14:55:00,22,1,screensaverengine,General Utilities,0
+2019-06-12T15:00:00,294,1,Xcode,Editing & IDEs,2
+2019-06-12T15:00:00,3,1,screensaverengine,General Utilities,0
+2019-06-12T15:05:00,10,1,Xcode,Editing & IDEs,2
+2019-06-12T15:05:00,1,1,screensaverengine,General Utilities,0
+2019-06-12T15:10:00,52,1,Google Documents,Writing,2
+2019-06-12T15:10:00,29,1,jira.braze.com,Design & Planning,2
+2019-06-12T15:10:00,3,1,Terminal,Systems Operations,2
+2019-06-12T15:10:00,2,1,github.com,General Software Development,2
+2019-06-12T15:10:00,1,1,Xcode,Editing & IDEs,2
+2019-06-12T15:15:00,300,1,Terminal,Systems Operations,2
+2019-06-12T15:20:00,191,1,Xcode,Editing & IDEs,2
+2019-06-12T15:20:00,102,1,Terminal,Systems Operations,2
+2019-06-12T15:20:00,6,1,jira.braze.com,Design & Planning,2
+2019-06-12T15:25:00,290,1,Xcode,Editing & IDEs,2
+2019-06-12T15:25:00,8,1,jira.braze.com,Design & Planning,2
+2019-06-12T15:30:00,260,1,Xcode,Editing & IDEs,2
+2019-06-12T15:30:00,28,1,loginwindow,General Utilities,0
+2019-06-12T15:30:00,6,1,jira.braze.com,Design & Planning,2
+2019-06-12T15:30:00,4,1,google.com/calendar,Calendars,2
+2019-06-12T15:30:00,1,1,Gmail,Email,2
+2019-06-12T15:35:00,144,1,Terminal,Systems Operations,2
+2019-06-12T15:35:00,124,1,Xcode,Editing & IDEs,2
+2019-06-12T15:35:00,30,1,github.com,General Software Development,2
+2019-06-12T15:35:00,2,1,google.com/calendar,Calendars,2
+2019-06-12T15:40:00,232,1,github.com,General Software Development,2
+2019-06-12T15:40:00,56,1,Terminal,Systems Operations,2
+2019-06-12T15:40:00,10,1,loginwindow,General Utilities,0
+2019-06-12T15:40:00,2,1,screensaverengine,General Utilities,0
+2019-06-12T15:45:00,167,1,github.com,General Software Development,2
+2019-06-12T15:45:00,132,1,screensaverengine,General Utilities,0
+2019-06-12T15:45:00,1,1,groups.google.com,General Communication & Scheduling,0
+2019-06-12T15:50:00,121,1,Slack,Instant Message,2
+2019-06-12T15:50:00,102,1,github.com,General Software Development,2
+2019-06-12T15:50:00,44,1,9to5mac.com,General News & Opinion,-2
+2019-06-12T15:50:00,18,1,lastpass,General Utilities,1
+2019-06-12T15:50:00,6,1,Gmail,Email,2
+2019-06-12T15:50:00,5,1,braze.productboard.com,Uncategorized,0
+2019-06-12T15:50:00,2,1,coreautha,Uncategorized,0
+2019-06-12T15:50:00,2,1,google.com,Search,2
+2019-06-12T15:55:00,300,1,9to5mac.com,General News & Opinion,-2
+2019-06-12T16:00:00,169,1,en.wikipedia.org,General Reference & Learning,1
+2019-06-12T16:00:00,74,1,jira.braze.com,Design & Planning,2
+2019-06-12T16:00:00,35,1,9to5mac.com,General News & Opinion,-2
+2019-06-12T16:00:00,16,1,google.com,Search,2
+2019-06-12T16:00:00,4,1,github.com,General Software Development,2
+2019-06-12T16:00:00,2,1,newtab,Browsers,0
+2019-06-12T16:05:00,124,1,usr56.dayforcehcm.com,General Business,2
+2019-06-12T16:05:00,75,1,en.wikipedia.org,General Reference & Learning,1
+2019-06-12T16:05:00,52,1,google.com,Search,2
+2019-06-12T16:05:00,17,1,jira.braze.com,Design & Planning,2
+2019-06-12T16:05:00,10,1,Slack,Instant Message,2
+2019-06-12T16:05:00,9,1,Xcode,Editing & IDEs,2
+2019-06-12T16:05:00,4,1,github.com,General Software Development,2
+2019-06-12T16:05:00,4,1,stackoverflow.com,General Software Development,2
+2019-06-12T16:05:00,2,1,confluence.braze.com,Uncategorized,0
+2019-06-12T16:05:00,1,1,drive.google.com,General Business,2
+2019-06-12T16:05:00,1,1,braze.bamboohr.com,General Business,2
+2019-06-12T16:05:00,1,1,groups.google.com,General Communication & Scheduling,0
+2019-06-12T16:10:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2019-06-12T16:15:00,177,1,Xcode,Editing & IDEs,2
+2019-06-12T16:15:00,60,1,en.wikipedia.org,General Reference & Learning,1
+2019-06-12T16:15:00,23,1,Finder,General Utilities,0
+2019-06-12T16:15:00,20,1,jira.braze.com,Design & Planning,2
+2019-06-12T16:15:00,8,1,elgoog.im,General Entertainment,-2
+2019-06-12T16:15:00,6,1,Preview,General Reference & Learning,2
+2019-06-12T16:15:00,4,1,github.com,General Software Development,2
+2019-06-12T16:20:00,245,1,Xcode,Editing & IDEs,2
+2019-06-12T16:20:00,55,1,screensaverengine,General Utilities,0
+2019-06-12T16:25:00,300,1,Xcode,Editing & IDEs,2
+2019-06-12T16:30:00,117,1,Slack,Instant Message,2
+2019-06-12T16:30:00,86,1,Xcode,Editing & IDEs,2
+2019-06-12T16:30:00,24,1,google.com/calendar,Calendars,2
+2019-06-12T16:30:00,6,1,loginwindow,General Utilities,0
+2019-06-12T16:30:00,1,1,jira.braze.com,Design & Planning,2
+2019-06-12T16:35:00,264,1,google.com/calendar,Calendars,2
+2019-06-12T16:35:00,32,1,screensaverengine,General Utilities,0
+2019-06-12T16:35:00,4,1,Xcode,Editing & IDEs,2
+2019-06-12T16:40:00,196,1,google.com/calendar,Calendars,2
+2019-06-12T16:40:00,67,1,Gmail,Email,2
+2019-06-12T16:40:00,30,1,en.wikipedia.org,General Reference & Learning,1
+2019-06-12T16:40:00,4,1,screensaverengine,General Utilities,0
+2019-06-12T16:40:00,1,1,Slack,Instant Message,2
+2019-06-12T16:40:00,1,1,loginwindow,General Utilities,0
+2019-06-12T16:45:00,181,1,Gmail,Email,2
+2019-06-12T16:45:00,45,1,screensaverengine,General Utilities,0
+2019-06-12T17:05:00,117,1,Terminal,Systems Operations,2
+2019-06-12T17:05:00,84,1,Xcode,Editing & IDEs,2
+2019-06-12T17:05:00,18,1,github.com,General Software Development,2
+2019-06-12T17:05:00,4,1,Gmail,Email,2
+2019-06-12T17:05:00,3,1,loginwindow,General Utilities,0
+2019-06-12T17:05:00,3,1,Slack,Instant Message,2
+2019-06-12T17:05:00,2,1,groups.google.com,General Communication & Scheduling,0
+2019-06-12T17:05:00,2,1,simulator,General Software Development,2
+2019-06-12T17:10:00,222,1,Xcode,Editing & IDEs,2
+2019-06-12T17:10:00,45,1,github.com,General Software Development,2
+2019-06-12T17:10:00,19,1,ibubblog.wordpress.com,General News & Opinion,-2
+2019-06-12T17:10:00,11,1,newtab,Browsers,0
+2019-06-12T17:10:00,2,1,google.com,Search,2
+2019-06-12T17:15:00,200,1,Xcode,Editing & IDEs,2
+2019-06-12T17:15:00,85,1,Terminal,Systems Operations,2
+2019-06-12T17:15:00,5,1,jira.braze.com,Design & Planning,2
+2019-06-12T17:15:00,4,1,github.com,General Software Development,2
+2019-06-12T17:15:00,3,1,ibubblog.wordpress.com,General News & Opinion,-2
+2019-06-12T17:15:00,2,1,Preview,General Reference & Learning,2
+2019-06-12T17:20:00,122,1,Xcode,Editing & IDEs,2
+2019-06-12T17:20:00,118,1,Terminal,Systems Operations,2
+2019-06-12T17:20:00,58,1,github.com,General Software Development,2
+2019-06-12T17:20:00,2,1,jira.braze.com,Design & Planning,2
+2019-06-12T17:25:00,232,1,github.com,General Software Development,2
+2019-06-12T17:25:00,14,1,Xcode,Editing & IDEs,2
+2019-06-12T17:25:00,2,1,screensaverengine,General Utilities,0
+2019-06-12T17:25:00,1,1,Terminal,Systems Operations,2
+2019-06-12T17:25:00,1,1,loginwindow,General Utilities,0
+2019-06-12T17:30:00,184,1,Slack,Instant Message,2
+2019-06-12T17:30:00,67,1,ibubblog.wordpress.com,General News & Opinion,-2
+2019-06-12T17:30:00,39,1,github.com,General Software Development,2
+2019-06-12T17:30:00,7,1,Xcode,Editing & IDEs,2
+2019-06-12T17:30:00,3,1,dashboard.buddybuild.com,General Software Development,2
+2019-06-12T17:35:00,103,1,jira.braze.com,Design & Planning,2
+2019-06-12T17:35:00,101,1,Slack,Instant Message,2
+2019-06-12T17:35:00,72,1,Xcode,Editing & IDEs,2
+2019-06-12T17:35:00,19,1,Terminal,Systems Operations,2
+2019-06-12T17:35:00,2,1,github.com,General Software Development,2
+2019-06-12T17:35:00,2,1,ibubblog.wordpress.com,General News & Opinion,-2
+2019-06-12T17:35:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2019-06-12T17:40:00,97,1,jira.braze.com,Design & Planning,2
+2019-06-12T17:40:00,71,1,Slack,Instant Message,2
+2019-06-12T17:40:00,43,1,braze.bamboohr.com,General Business,2
+2019-06-12T17:40:00,36,1,github.com,General Software Development,2
+2019-06-12T17:40:00,14,1,bamboohr.com,General Business,2
+2019-06-12T17:40:00,12,1,google.com,Search,2
+2019-06-12T17:40:00,11,1,app.bamboohr.com,General Business,2
+2019-06-12T17:40:00,7,1,9to5mac.com,General News & Opinion,-2
+2019-06-12T17:40:00,3,1,Google Documents,Writing,2
+2019-06-12T17:40:00,3,1,cocoadevcentral.com,General Software Development,2
+2019-06-12T17:40:00,2,1,confluence.braze.com,Uncategorized,0
+2019-06-12T17:40:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2019-06-12T17:45:00,225,1,google.com,Search,2
+2019-06-12T17:45:00,41,1,braze.bamboohr.com,General Business,2
+2019-06-12T17:45:00,24,1,sweeney.braze.com,General Software Development,2
+2019-06-12T17:45:00,3,1,accounts.google.com,General Communication & Scheduling,0
+2019-06-12T17:45:00,3,1,united.com,Travel & Outdoors,-2
+2019-06-12T17:45:00,3,1,cocoadevcentral.com,General Software Development,2
+2019-06-12T17:45:00,1,1,confluence.braze.com,Uncategorized,0
+2019-06-12T17:50:00,111,1,Gmail,Email,2
+2019-06-12T17:50:00,64,1,servicedesk.braze.com,Uncategorized,0
+2019-06-12T17:50:00,58,1,google.com,Search,2
+2019-06-12T17:50:00,35,1,Slack,Instant Message,2
+2019-06-12T17:50:00,15,1,sweeney.braze.com,General Software Development,2
+2019-06-12T17:50:00,9,1,confluence.braze.com,Uncategorized,0
+2019-06-12T17:50:00,3,1,stackoverflow.com,General Software Development,2
+2019-06-12T17:50:00,3,1,jira.braze.com,Design & Planning,2
+2019-06-12T17:50:00,1,1,usr56.dayforcehcm.com,General Business,2
+2019-06-12T17:50:00,1,1,google.com/calendar,Calendars,2
+2019-06-12T17:55:00,280,1,Gmail,Email,2
+2019-06-12T17:55:00,18,1,Slack,Instant Message,2
+2019-06-12T17:55:00,2,1,google.com,Search,2
+2019-06-12T18:00:00,34,1,Gmail,Email,2
+2019-06-12T18:00:00,28,1,Slack,Instant Message,2
+2019-06-12T18:00:00,19,1,loginwindow,General Utilities,0
+2019-06-12T18:00:00,8,1,en.wikipedia.org,General Reference & Learning,1
+2019-06-12T21:30:00,169,1,wechat,General Social Networking,-2
+2019-06-12T21:30:00,57,1,google.com,Search,2
+2019-06-12T21:30:00,20,1,microsoft word,Writing,2
+2019-06-12T21:30:00,11,1,braze.bamboohr.com,General Business,2
+2019-06-12T21:30:00,7,1,Mail,Email,2
+2019-06-12T21:30:00,3,1,loginwindow,General Utilities,0
+2019-06-12T21:35:00,206,1,wanderu.com,General Reference & Learning,1
+2019-06-12T21:35:00,68,1,google.com,Search,2
+2019-06-12T21:35:00,21,1,Blank Web Browser,Internet Utilities,0
+2019-06-12T21:35:00,4,1,facebook.com,General Social Networking,-2
+2019-06-12T21:40:00,150,1,wanderu.com,General Reference & Learning,1
+2019-06-12T21:40:00,99,1,google.com,Search,2
+2019-06-12T21:40:00,45,1,9to5mac.com,General News & Opinion,-2
+2019-06-12T21:40:00,5,1,drive.google.com,General Business,2
+2019-06-12T21:40:00,1,1,wechat,General Social Networking,-2
+2019-06-12T21:45:00,194,1,wechat,General Social Networking,-2
+2019-06-12T21:45:00,57,1,drive.google.com,General Business,2
+2019-06-12T21:45:00,14,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T21:45:00,12,1,wanderu.com,General Reference & Learning,1
+2019-06-12T21:45:00,11,1,newtab,Browsers,0
+2019-06-12T21:45:00,5,1,9to5mac.com,General News & Opinion,-2
+2019-06-12T21:45:00,5,1,google.com,Search,2
+2019-06-12T21:45:00,1,1,loginwindow,General Utilities,0
+2019-06-12T21:50:00,66,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T21:50:00,60,1,wechat,General Social Networking,-2
+2019-06-12T21:50:00,47,1,Google Spreadsheets,General Business,2
+2019-06-12T21:50:00,45,1,idp.mit.edu,General Reference & Learning,1
+2019-06-12T21:50:00,40,1,drive.google.com,General Business,2
+2019-06-12T21:50:00,18,1,registrar.mit.edu,Presentation,2
+2019-06-12T21:50:00,12,1,uaap.mit.edu,Presentation,2
+2019-06-12T21:50:00,9,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T21:50:00,3,1,google.com,Search,2
+2019-06-12T21:55:00,195,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T21:55:00,40,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T21:55:00,33,1,messages,General Social Networking,-2
+2019-06-12T21:55:00,30,1,uaap.mit.edu,Presentation,2
+2019-06-12T21:55:00,1,1,Google Spreadsheets,General Business,2
+2019-06-12T22:00:00,181,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T22:00:00,84,1,messenger.com,General Social Networking,-2
+2019-06-12T22:00:00,18,1,google.com,Search,2
+2019-06-12T22:00:00,6,1,wechat,General Social Networking,-2
+2019-06-12T22:00:00,5,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T22:00:00,3,1,act.mit.edu,Presentation,2
+2019-06-12T22:00:00,2,1,uaap.mit.edu,Presentation,2
+2019-06-12T22:00:00,1,1,Google Spreadsheets,General Business,2
+2019-06-12T22:05:00,130,1,messenger.com,General Social Networking,-2
+2019-06-12T22:05:00,75,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T22:05:00,39,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T22:05:00,31,1,wechat,General Social Networking,-2
+2019-06-12T22:05:00,12,1,newtab,Browsers,0
+2019-06-12T22:05:00,10,1,registrar.mit.edu,Presentation,2
+2019-06-12T22:05:00,3,1,idp.mit.edu,General Reference & Learning,1
+2019-06-12T22:10:00,133,1,messenger.com,General Social Networking,-2
+2019-06-12T22:10:00,77,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T22:10:00,32,1,Google Spreadsheets,General Business,2
+2019-06-12T22:10:00,28,1,wechat,General Social Networking,-2
+2019-06-12T22:10:00,20,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T22:10:00,5,1,registrar.mit.edu,Presentation,2
+2019-06-12T22:10:00,4,1,drive.google.com,General Business,2
+2019-06-12T22:10:00,1,1,newtab,Browsers,0
+2019-06-12T22:15:00,98,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T22:15:00,67,1,catalog.mit.edu,Presentation,2
+2019-06-12T22:15:00,55,1,messenger.com,General Social Networking,-2
+2019-06-12T22:15:00,35,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T22:15:00,19,1,google.com,Search,2
+2019-06-12T22:15:00,8,1,newtab,Browsers,0
+2019-06-12T22:15:00,8,1,registrar.mit.edu,Presentation,2
+2019-06-12T22:15:00,8,1,Google Spreadsheets,General Business,2
+2019-06-12T22:15:00,2,1,wechat,General Social Networking,-2
+2019-06-12T22:20:00,144,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T22:20:00,53,1,wechat,General Social Networking,-2
+2019-06-12T22:20:00,46,1,hst.mit.edu,General Reference & Learning,1
+2019-06-12T22:20:00,22,1,google.com,Search,2
+2019-06-12T22:20:00,17,1,messenger.com,General Social Networking,-2
+2019-06-12T22:20:00,11,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T22:20:00,3,1,newtab,Browsers,0
+2019-06-12T22:20:00,2,1,Google Spreadsheets,General Business,2
+2019-06-12T22:20:00,1,1,registrar.mit.edu,Presentation,2
+2019-06-12T22:25:00,139,1,hst.mit.edu,General Reference & Learning,1
+2019-06-12T22:25:00,129,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T22:25:00,15,1,google.com,Search,2
+2019-06-12T22:25:00,14,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T22:25:00,3,1,catalog.mit.edu,Presentation,2
+2019-06-12T22:30:00,89,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T22:30:00,75,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T22:30:00,65,1,Mail,Email,2
+2019-06-12T22:30:00,56,1,Google Spreadsheets,General Business,2
+2019-06-12T22:30:00,11,1,hst.mit.edu,General Reference & Learning,1
+2019-06-12T22:30:00,2,1,google.com,Search,2
+2019-06-12T22:30:00,1,1,wechat,General Social Networking,-2
+2019-06-12T22:30:00,1,1,registrar.mit.edu,Presentation,2
+2019-06-12T22:35:00,144,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T22:35:00,62,1,Google Spreadsheets,General Business,2
+2019-06-12T22:35:00,57,1,wechat,General Social Networking,-2
+2019-06-12T22:35:00,18,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T22:35:00,14,1,catalog.mit.edu,Presentation,2
+2019-06-12T22:35:00,3,1,registrar.mit.edu,Presentation,2
+2019-06-12T22:35:00,1,1,google.com,Search,2
+2019-06-12T22:40:00,106,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T22:40:00,84,1,dusp.mit.edu,General Reference & Learning,1
+2019-06-12T22:40:00,48,1,Google Spreadsheets,General Business,2
+2019-06-12T22:40:00,32,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T22:40:00,15,1,google.com,Search,2
+2019-06-12T22:40:00,9,1,registrar.mit.edu,Presentation,2
+2019-06-12T22:40:00,5,1,catalog.mit.edu,Presentation,2
+2019-06-12T22:45:00,133,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T22:45:00,113,1,Google Spreadsheets,General Business,2
+2019-06-12T22:45:00,30,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T22:45:00,16,1,microsoft word,Writing,2
+2019-06-12T22:45:00,7,1,Mail,Email,2
+2019-06-12T22:50:00,205,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T22:50:00,68,1,eduapps.mit.edu,Presentation,2
+2019-06-12T22:50:00,21,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T22:50:00,6,1,registrar.mit.edu,Presentation,2
+2019-06-12T22:55:00,224,1,eecs.mit.edu,General Reference & Learning,1
+2019-06-12T22:55:00,60,1,Google Spreadsheets,General Business,2
+2019-06-12T22:55:00,7,1,eduapps.mit.edu,Presentation,2
+2019-06-12T22:55:00,6,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T22:55:00,3,1,google.com,Search,2
+2019-06-12T23:00:00,122,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T23:00:00,85,1,Google Spreadsheets,General Business,2
+2019-06-12T23:00:00,41,1,catalog.mit.edu,Presentation,2
+2019-06-12T23:00:00,24,1,Mail,Email,2
+2019-06-12T23:00:00,12,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T23:00:00,8,1,google.com,Search,2
+2019-06-12T23:00:00,6,1,registrar.mit.edu,Presentation,2
+2019-06-12T23:00:00,1,1,loginwindow,General Utilities,0
+2019-06-12T23:05:00,187,1,Google Spreadsheets,General Business,2
+2019-06-12T23:05:00,102,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T23:05:00,9,1,catalog.mit.edu,Presentation,2
+2019-06-12T23:05:00,2,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T23:10:00,108,1,Google Spreadsheets,General Business,2
+2019-06-12T23:10:00,101,1,eecs.mit.edu,General Reference & Learning,1
+2019-06-12T23:10:00,86,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T23:10:00,4,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T23:10:00,1,1,catalog.mit.edu,Presentation,2
+2019-06-12T23:15:00,103,1,Google Spreadsheets,General Business,2
+2019-06-12T23:15:00,91,1,eecs.mit.edu,General Reference & Learning,1
+2019-06-12T23:15:00,39,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T23:15:00,34,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T23:15:00,14,1,google.com,Search,2
+2019-06-12T23:15:00,7,1,css.csail.mit.edu,Engineering & Technology,1
+2019-06-12T23:15:00,6,1,newtab,Browsers,0
+2019-06-12T23:15:00,6,1,dusp.mit.edu,General Reference & Learning,1
+2019-06-12T23:20:00,54,1,Google Spreadsheets,General Business,2
+2019-06-12T23:20:00,13,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T23:20:00,3,1,eecs.mit.edu,General Reference & Learning,1
+2019-06-12T23:25:00,86,1,Google Spreadsheets,General Business,2
+2019-06-12T23:25:00,10,1,wechat,General Social Networking,-2
+2019-06-12T23:30:00,147,1,wechat,General Social Networking,-2
+2019-06-12T23:30:00,72,1,Google Spreadsheets,General Business,2
+2019-06-12T23:30:00,70,1,messenger.com,General Social Networking,-2
+2019-06-12T23:30:00,4,1,eecs.mit.edu,General Reference & Learning,1
+2019-06-12T23:30:00,3,1,newtab,Browsers,0
+2019-06-12T23:30:00,2,1,notability,Writing,2
+2019-06-12T23:30:00,1,1,firehose.guide,General Communication & Scheduling,2
+2019-06-12T23:35:00,216,1,wechat,General Social Networking,-2
+2019-06-12T23:35:00,49,1,Google Spreadsheets,General Business,2
+2019-06-12T23:35:00,25,1,smorgasburg.com,Uncategorized,0
+2019-06-12T23:35:00,9,1,google.com,Search,2
+2019-06-12T23:35:00,1,1,catalog.mit.edu,Presentation,2
+2019-06-12T23:40:00,142,1,facebook.com,General Social Networking,-2
+2019-06-12T23:40:00,125,1,wechat,General Social Networking,-2
+2019-06-12T23:40:00,15,1,messenger.com,General Social Networking,-2
+2019-06-12T23:40:00,8,1,smorgasburg.com,Uncategorized,0
+2019-06-12T23:40:00,7,1,Google Spreadsheets,General Business,2
+2019-06-12T23:40:00,3,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T23:45:00,292,1,wechat,General Social Networking,-2
+2019-06-12T23:45:00,8,1,facebook.com,General Social Networking,-2
+2019-06-12T23:50:00,153,1,wechat,General Social Networking,-2
+2019-06-12T23:50:00,135,1,linkedin.com,Professional Networking,1
+2019-06-12T23:50:00,6,1,Preview,General Reference & Learning,2
+2019-06-12T23:50:00,2,1,student.mit.edu,General Reference & Learning,1
+2019-06-12T23:50:00,2,1,Finder,General Utilities,0
+2019-06-12T23:50:00,1,1,newtab,Browsers,0
+2019-06-12T23:55:00,154,1,linkedin.com,Professional Networking,1
+2019-06-12T23:55:00,143,1,wechat,General Social Networking,-2
+2019-06-12T23:55:00,1,1,Finder,General Utilities,0
+2019-06-12T23:55:00,1,1,Preview,General Reference & Learning,2

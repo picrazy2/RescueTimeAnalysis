@@ -1,0 +1,45 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-11-17T15:10:00,123,1,youtube.com,Video,-2
+2018-11-17T15:10:00,37,1,loginwindow,General Utilities,0
+2018-11-17T15:15:00,77,1,mass.gov,General Business,2
+2018-11-17T15:15:00,51,1,atlas-myrmv.massdot.state.ma.us,Uncategorized,0
+2018-11-17T15:15:00,41,1,youtube.com,Video,-2
+2018-11-17T15:15:00,28,1,Mail,Email,2
+2018-11-17T15:15:00,19,1,bankofamerica.com,General Business,2
+2018-11-17T15:15:00,18,1,secure.rmv.state.ma.us,Uncategorized,0
+2018-11-17T15:15:00,17,1,keychain access,Systems Operations,2
+2018-11-17T15:15:00,16,1,messenger.com,General Social Networking,-2
+2018-11-17T15:15:00,12,1,secure.bankofamerica.com,Accounting,2
+2018-11-17T15:15:00,7,1,concursolutions.com,General Business,2
+2018-11-17T15:15:00,6,1,newtab,Browsers,0
+2018-11-17T15:15:00,5,1,todoist,Project Management,2
+2018-11-17T15:15:00,2,1,Finder,General Utilities,0
+2018-11-17T15:20:00,112,1,atlas-myrmv.massdot.state.ma.us,Uncategorized,0
+2018-11-17T15:20:00,111,1,todoist,Project Management,2
+2018-11-17T15:20:00,45,1,secure2.rmv.state.ma.us,Uncategorized,0
+2018-11-17T15:20:00,32,1,secure.rmv.state.ma.us,Uncategorized,0
+2018-11-17T15:25:00,114,1,secure.rmv.state.ma.us,Uncategorized,0
+2018-11-17T15:25:00,114,1,Mail,Email,2
+2018-11-17T15:25:00,46,1,youtube.com,Video,-2
+2018-11-17T15:25:00,25,1,na3.docusign.net,General Business,2
+2018-11-17T15:30:00,163,1,youtube.com,Video,-2
+2018-11-17T15:30:00,79,1,messenger.com,General Social Networking,-2
+2018-11-17T15:30:00,45,1,na3.docusign.net,General Business,2
+2018-11-17T15:30:00,13,1,calendar,Calendars,1
+2018-11-17T15:35:00,221,1,facebook.com,General Social Networking,-2
+2018-11-17T15:35:00,40,1,messenger.com,General Social Networking,-2
+2018-11-17T15:35:00,35,1,calendar,Calendars,1
+2018-11-17T15:35:00,4,1,introml.mit.edu,Presentation,2
+2018-11-17T15:40:00,160,1,video.odl.mit.edu,General Reference & Learning,1
+2018-11-17T15:40:00,76,1,facebook.com,General Social Networking,-2
+2018-11-17T15:40:00,54,1,introml.mit.edu,Presentation,2
+2018-11-17T15:40:00,5,1,calendar,Calendars,1
+2018-11-17T15:40:00,5,1,google.com,Search,2
+2018-11-17T15:45:00,284,1,video.odl.mit.edu,General Reference & Learning,1
+2018-11-17T15:45:00,16,1,introml.mit.edu,Presentation,2
+2018-11-17T15:50:00,81,1,video.odl.mit.edu,General Reference & Learning,1
+2018-11-17T15:55:00,136,1,video.odl.mit.edu,General Reference & Learning,1
+2018-11-17T15:55:00,3,1,messenger.com,General Social Networking,-2
+2018-11-17T16:00:00,300,1,video.odl.mit.edu,General Reference & Learning,1
+2018-11-17T16:05:00,300,1,video.odl.mit.edu,General Reference & Learning,1
+2018-11-17T16:10:00,57,1,video.odl.mit.edu,General Reference & Learning,1

@@ -1,0 +1,137 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2019-05-05T16:30:00,100,1,Keynote,Presentation,2
+2019-05-05T16:30:00,3,1,web.mit.edu,General Reference & Learning,2
+2019-05-05T16:30:00,1,1,loginwindow,General Utilities,0
+2019-05-05T16:35:00,177,1,Keynote,Presentation,2
+2019-05-05T16:35:00,101,1,Google Documents,Writing,2
+2019-05-05T16:35:00,21,1,Finder,General Utilities,0
+2019-05-05T16:35:00,1,1,web.mit.edu,General Reference & Learning,2
+2019-05-05T16:40:00,256,1,Google Documents,Writing,2
+2019-05-05T16:40:00,42,1,Keynote,Presentation,2
+2019-05-05T16:40:00,2,1,Finder,General Utilities,0
+2019-05-05T16:45:00,262,1,Google Documents,Writing,2
+2019-05-05T16:45:00,32,1,messenger.com,General Social Networking,-2
+2019-05-05T16:45:00,6,1,Dictionary,General Reference & Learning,1
+2019-05-05T16:50:00,72,1,Google Documents,Writing,2
+2019-05-05T16:50:00,31,1,messenger.com,General Social Networking,-2
+2019-05-05T16:50:00,1,1,loginwindow,General Utilities,0
+2019-05-05T16:55:00,165,1,messenger.com,General Social Networking,-2
+2019-05-05T16:55:00,88,1,Google Documents,Writing,2
+2019-05-05T16:55:00,27,1,en.wikipedia.org,General Reference & Learning,1
+2019-05-05T16:55:00,15,1,google.com,Search,2
+2019-05-05T16:55:00,3,1,stackoverflow.com,General Software Development,2
+2019-05-05T16:55:00,2,1,eclipse,Editing & IDEs,2
+2019-05-05T17:00:00,87,1,Google Documents,Writing,2
+2019-05-05T17:00:00,71,1,google.com,Search,2
+2019-05-05T17:00:00,49,1,mit.edu,Presentation,2
+2019-05-05T17:00:00,22,1,unix.stackexchange.com,General Reference & Learning,1
+2019-05-05T17:00:00,21,1,stackoverflow.com,General Software Development,2
+2019-05-05T17:00:00,21,1,Finder,General Utilities,0
+2019-05-05T17:00:00,11,1,askubuntu.com,Engineering & Technology,1
+2019-05-05T17:00:00,10,1,map.baidu.com,Maps & Regional,-2
+2019-05-05T17:00:00,4,1,Dictionary,General Reference & Learning,1
+2019-05-05T17:00:00,3,1,eclipse,Editing & IDEs,2
+2019-05-05T17:05:00,51,1,Google Documents,Writing,2
+2019-05-05T17:05:00,41,1,Terminal,Systems Operations,2
+2019-05-05T17:05:00,38,1,macobserver.com,General News & Opinion,-2
+2019-05-05T17:05:00,31,1,google.com,Search,2
+2019-05-05T17:05:00,11,1,Finder,General Utilities,0
+2019-05-05T17:05:00,5,1,messenger.com,General Social Networking,-2
+2019-05-05T17:05:00,2,1,eclipse,Editing & IDEs,2
+2019-05-05T17:05:00,1,1,loginwindow,General Utilities,0
+2019-05-05T21:50:00,83,1,9to5mac.com,General News & Opinion,-2
+2019-05-05T21:50:00,43,1,Mail,Email,2
+2019-05-05T21:50:00,22,1,wechat,General Social Networking,-2
+2019-05-05T21:50:00,6,1,Google Documents,Writing,2
+2019-05-05T21:50:00,3,1,macobserver.com,General News & Opinion,-2
+2019-05-05T21:50:00,2,1,loginwindow,General Utilities,0
+2019-05-05T21:50:00,1,1,messenger.com,General Social Networking,-2
+2019-05-05T22:00:00,127,1,wechat,General Social Networking,-2
+2019-05-05T22:15:00,214,1,Google Documents,Writing,2
+2019-05-05T22:15:00,49,1,messenger.com,General Social Networking,-2
+2019-05-05T22:15:00,10,1,9to5mac.com,General News & Opinion,-2
+2019-05-05T22:15:00,6,1,wechat,General Social Networking,-2
+2019-05-05T22:15:00,6,1,unix.stackexchange.com,General Reference & Learning,1
+2019-05-05T22:15:00,5,1,mit.edu,Presentation,2
+2019-05-05T22:15:00,1,1,google chrome,Browsers,0
+2019-05-05T22:20:00,265,1,Google Documents,Writing,2
+2019-05-05T22:20:00,17,1,Notes,Email,0
+2019-05-05T22:20:00,9,1,messenger.com,General Social Networking,-2
+2019-05-05T22:20:00,6,1,users,General Software Development,2
+2019-05-05T22:20:00,2,1,9to5mac.com,General News & Opinion,-2
+2019-05-05T22:20:00,1,1,mit.edu,Presentation,2
+2019-05-05T22:25:00,244,1,Google Documents,Writing,2
+2019-05-05T22:25:00,29,1,Notes,Email,0
+2019-05-05T22:25:00,26,1,mit.edu,Presentation,2
+2019-05-05T22:25:00,1,1,users,General Software Development,2
+2019-05-05T22:30:00,193,1,calendar,Calendars,1
+2019-05-05T22:30:00,41,1,messenger.com,General Social Networking,-2
+2019-05-05T22:30:00,30,1,messages,General Social Networking,-2
+2019-05-05T22:30:00,25,1,Google Documents,Writing,2
+2019-05-05T22:30:00,4,1,users,General Software Development,2
+2019-05-05T22:30:00,3,1,Mail,Email,2
+2019-05-05T22:30:00,3,1,wechat,General Social Networking,-2
+2019-05-05T22:30:00,1,1,gradescope.com,General Reference & Learning,1
+2019-05-05T22:35:00,230,1,Google Documents,Writing,2
+2019-05-05T22:35:00,60,1,calendar,Calendars,1
+2019-05-05T22:35:00,8,1,messenger.com,General Social Networking,-2
+2019-05-05T22:35:00,2,1,Terminal,Systems Operations,2
+2019-05-05T22:40:00,271,1,Google Documents,Writing,2
+2019-05-05T22:40:00,26,1,Notes,Email,0
+2019-05-05T22:40:00,3,1,calendar,Calendars,1
+2019-05-05T22:45:00,198,1,Google Documents,Writing,2
+2019-05-05T22:45:00,96,1,messenger.com,General Social Networking,-2
+2019-05-05T22:45:00,2,1,9to5mac.com,General News & Opinion,-2
+2019-05-05T22:45:00,2,1,overleaf.com,Writing,2
+2019-05-05T22:45:00,2,1,gradescope.com,General Reference & Learning,1
+2019-05-05T22:50:00,230,1,Google Documents,Writing,2
+2019-05-05T22:50:00,61,1,wechat,General Social Networking,-2
+2019-05-05T22:50:00,5,1,Notes,Email,0
+2019-05-05T22:50:00,4,1,messenger.com,General Social Networking,-2
+2019-05-05T22:55:00,272,1,Google Documents,Writing,2
+2019-05-05T22:55:00,28,1,wechat,General Social Networking,-2
+2019-05-05T23:00:00,132,1,Google Documents,Writing,2
+2019-05-05T23:00:00,82,1,Keynote,Presentation,2
+2019-05-05T23:00:00,71,1,Notes,Email,0
+2019-05-05T23:00:00,11,1,overleaf.com,Writing,2
+2019-05-05T23:00:00,4,1,9to5mac.com,General News & Opinion,-2
+2019-05-05T23:05:00,267,1,Keynote,Presentation,2
+2019-05-05T23:05:00,12,1,Google Documents,Writing,2
+2019-05-05T23:05:00,12,1,wechat,General Social Networking,-2
+2019-05-05T23:05:00,7,1,Notes,Email,0
+2019-05-05T23:05:00,1,1,overleaf.com,Writing,2
+2019-05-05T23:10:00,152,1,Google Documents,Writing,2
+2019-05-05T23:10:00,111,1,messenger.com,General Social Networking,-2
+2019-05-05T23:10:00,27,1,Finder,General Utilities,0
+2019-05-05T23:10:00,9,1,wechat,General Social Networking,-2
+2019-05-05T23:10:00,1,1,Notes,Email,0
+2019-05-05T23:15:00,86,1,messenger.com,General Social Networking,-2
+2019-05-05T23:15:00,67,1,Google Documents,Writing,2
+2019-05-05T23:15:00,13,1,wechat,General Social Networking,-2
+2019-05-05T23:30:00,144,1,wechat,General Social Networking,-2
+2019-05-05T23:30:00,5,1,Google Documents,Writing,2
+2019-05-05T23:30:00,1,1,messenger.com,General Social Networking,-2
+2019-05-05T23:35:00,204,1,Google Documents,Writing,2
+2019-05-05T23:35:00,63,1,wechat,General Social Networking,-2
+2019-05-05T23:35:00,23,1,calendar,Calendars,1
+2019-05-05T23:35:00,5,1,messenger.com,General Social Networking,-2
+2019-05-05T23:35:00,4,1,Notes,Email,0
+2019-05-05T23:35:00,1,1,web.mit.edu,General Reference & Learning,2
+2019-05-05T23:40:00,276,1,Google Documents,Writing,2
+2019-05-05T23:40:00,22,1,messenger.com,General Social Networking,-2
+2019-05-05T23:40:00,1,1,calendar,Calendars,1
+2019-05-05T23:40:00,1,1,wechat,General Social Networking,-2
+2019-05-05T23:45:00,117,1,Google Documents,Writing,2
+2019-05-05T23:45:00,102,1,sublime text,Editing & IDEs,2
+2019-05-05T23:45:00,46,1,mit.edu,Presentation,2
+2019-05-05T23:45:00,19,1,Finder,General Utilities,0
+2019-05-05T23:45:00,16,1,Terminal,Systems Operations,2
+2019-05-05T23:50:00,220,1,Google Documents,Writing,2
+2019-05-05T23:50:00,33,1,Terminal,Systems Operations,2
+2019-05-05T23:50:00,20,1,messenger.com,General Social Networking,-2
+2019-05-05T23:50:00,19,1,Finder,General Utilities,0
+2019-05-05T23:50:00,4,1,sublime text,Editing & IDEs,2
+2019-05-05T23:50:00,2,1,wechat,General Social Networking,-2
+2019-05-05T23:50:00,1,1,calendar,Calendars,1
+2019-05-05T23:55:00,269,1,Google Documents,Writing,2
+2019-05-05T23:55:00,31,1,messenger.com,General Social Networking,-2

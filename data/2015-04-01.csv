@@ -1,0 +1,236 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2015-04-01T10:20:00,159,1,Mail,Email,2
+2015-04-01T10:20:00,26,1,microsoft word,Writing,2
+2015-04-01T10:20:00,4,1,Skype,General Social Networking,-2
+2015-04-01T10:20:00,2,1,google.com,Search,2
+2015-04-01T10:25:00,177,1,microsoft word,Writing,2
+2015-04-01T10:25:00,44,1,google.com,Search,2
+2015-04-01T10:25:00,17,1,Skype,General Social Networking,-2
+2015-04-01T10:25:00,5,1,easybib.com,Search,2
+2015-04-01T10:25:00,3,1,kindle,General Reference & Learning,2
+2015-04-01T10:25:00,1,1,scholarship.law.duke.edu,General Business,2
+2015-04-01T10:25:00,1,1,brainyquote.com,Search,0
+2015-04-01T10:30:00,107,1,google.com,Search,2
+2015-04-01T10:30:00,61,1,public_koch_its,Uncategorized,0
+2015-04-01T10:30:00,7,1,printerproxy,General Business,2
+2015-04-01T10:30:00,4,1,Mail,Email,2
+2015-04-01T10:30:00,4,1,microsoft word,Writing,2
+2015-04-01T10:35:00,103,1,imdb.com,Video,-2
+2015-04-01T10:35:00,101,1,google.com,Search,2
+2015-04-01T10:35:00,87,1,Mail,Email,2
+2015-04-01T10:35:00,8,1,app store,General Shopping,-2
+2015-04-01T10:40:00,148,1,Mail,Email,2
+2015-04-01T10:40:00,18,1,loginwindow,General Utilities,0
+2015-04-01T11:40:00,93,1,Mail,Email,2
+2015-04-01T11:45:00,97,1,app store,General Shopping,-2
+2015-04-01T11:45:00,62,1,microsoft onenote,Intelligence,2
+2015-04-01T11:45:00,60,1,microsoft word,Writing,2
+2015-04-01T11:45:00,55,1,Mail,Email,2
+2015-04-01T11:45:00,10,1,imdb.com,Video,-2
+2015-04-01T11:45:00,9,1,google.com,Search,2
+2015-04-01T11:50:00,296,1,microsoft onenote,Intelligence,2
+2015-04-01T11:50:00,2,1,SecurityAgent,Systems Operations,0
+2015-04-01T11:55:00,285,1,microsoft onenote,Intelligence,2
+2015-04-01T11:55:00,14,1,Mail,Email,2
+2015-04-01T12:00:00,284,1,microsoft onenote,Intelligence,2
+2015-04-01T12:00:00,13,1,Finder,General Utilities,0
+2015-04-01T12:05:00,143,1,microsoft onenote,Intelligence,2
+2015-04-01T12:05:00,79,1,Microsoft OneDrive,General Utilities,1
+2015-04-01T12:05:00,43,1,Finder,General Utilities,0
+2015-04-01T12:05:00,12,1,google.com,Search,2
+2015-04-01T12:05:00,9,1,login.live.com,Email,0
+2015-04-01T12:05:00,8,1,account.microsoft.com,General Business,2
+2015-04-01T12:05:00,2,1,Safari,Browsers,2
+2015-04-01T12:10:00,118,1,microsoft onenote,Intelligence,2
+2015-04-01T12:10:00,82,1,onedrive,File Sharing,-2
+2015-04-01T12:10:00,32,1,app store,General Shopping,-2
+2015-04-01T12:10:00,25,1,alfred 2,General Utilities,1
+2015-04-01T12:10:00,17,1,Microsoft OneDrive,General Utilities,1
+2015-04-01T12:10:00,10,1,google.com,Search,2
+2015-04-01T12:10:00,10,1,Finder,General Utilities,0
+2015-04-01T12:15:00,161,1,Finder,General Utilities,0
+2015-04-01T12:15:00,118,1,onedrive,File Sharing,-2
+2015-04-01T12:15:00,9,1,TextEdit,Writing,2
+2015-04-01T12:15:00,8,1,console,Systems Operations,2
+2015-04-01T12:20:00,222,1,microsoft onenote,Intelligence,2
+2015-04-01T12:20:00,47,1,Finder,General Utilities,0
+2015-04-01T12:20:00,19,1,Mail,Email,2
+2015-04-01T12:20:00,7,1,OneNote - onenote.com,Writing,2
+2015-04-01T12:20:00,3,1,Safari,Browsers,2
+2015-04-01T12:20:00,1,1,facebook.com,General Social Networking,-2
+2015-04-01T12:25:00,169,1,Finder,General Utilities,0
+2015-04-01T12:25:00,130,1,microsoft onenote,Intelligence,2
+2015-04-01T12:30:00,105,1,microsoft onenote,Intelligence,2
+2015-04-01T12:30:00,104,1,Finder,General Utilities,0
+2015-04-01T12:30:00,47,1,apple.stackexchange.com,Engineering & Technology,1
+2015-04-01T12:30:00,30,1,Safari,Browsers,2
+2015-04-01T12:30:00,4,1,google.com,Search,2
+2015-04-01T12:30:00,3,1,google drive,General Business,2
+2015-04-01T12:35:00,130,1,TextEdit,Writing,2
+2015-04-01T12:35:00,115,1,Finder,General Utilities,0
+2015-04-01T12:35:00,2,1,usernotificationcenter,General Utilities,0
+2015-04-01T12:40:00,81,1,TextWrangler,General Software Development,2
+2015-04-01T12:40:00,66,1,Finder,General Utilities,0
+2015-04-01T12:40:00,42,1,app store,General Shopping,-2
+2015-04-01T12:40:00,41,1,microsoft onenote,Intelligence,2
+2015-04-01T12:40:00,35,1,microsoft word,Writing,2
+2015-04-01T12:40:00,10,1,Xcode,Editing & IDEs,2
+2015-04-01T12:40:00,9,1,TextEdit,Writing,2
+2015-04-01T12:40:00,7,1,alfred 2,General Utilities,1
+2015-04-01T12:40:00,2,1,usernotificationcenter,General Utilities,0
+2015-04-01T12:40:00,2,1,SecurityAgent,Systems Operations,0
+2015-04-01T12:40:00,1,1,loginwindow,General Utilities,0
+2015-04-01T12:45:00,73,1,app store,General Shopping,-2
+2015-04-01T12:45:00,65,1,evernote,Intelligence,2
+2015-04-01T12:45:00,65,1,Finder,General Utilities,0
+2015-04-01T12:45:00,57,1,discussion.evernote.com,Intelligence,2
+2015-04-01T12:45:00,13,1,google.com,Search,2
+2015-04-01T12:45:00,11,1,apple.stackexchange.com,Engineering & Technology,1
+2015-04-01T12:45:00,9,1,evernote helper,General Reference & Learning,1
+2015-04-01T12:45:00,1,1,usernotificationcenter,General Utilities,0
+2015-04-01T12:50:00,90,1,Finder,General Utilities,0
+2015-04-01T12:50:00,68,1,evernote,Intelligence,2
+2015-04-01T12:50:00,17,1,loginwindow,General Utilities,0
+2015-04-01T12:50:00,6,1,discussion.evernote.com,Intelligence,2
+2015-04-01T12:50:00,5,1,alfred 2,General Utilities,1
+2015-04-01T18:40:00,207,1,Mail,Email,2
+2015-04-01T18:40:00,20,1,kanunu8.com,General Entertainment,-2
+2015-04-01T19:45:00,90,1,Mail,Email,2
+2015-04-01T19:45:00,44,1,loginwindow,General Utilities,0
+2015-04-01T19:50:00,166,1,Mail,Email,2
+2015-04-01T19:50:00,2,1,kanunu8.com,General Entertainment,-2
+2015-04-01T20:40:00,221,1,Skype,General Social Networking,-2
+2015-04-01T20:40:00,8,1,Mail,Email,2
+2015-04-01T20:40:00,4,1,kanunu8.com,General Entertainment,-2
+2015-04-01T20:45:00,300,1,Skype,General Social Networking,-2
+2015-04-01T20:50:00,300,1,Skype,General Social Networking,-2
+2015-04-01T20:55:00,246,1,google.com,Search,2
+2015-04-01T20:55:00,26,1,Skype,General Social Networking,-2
+2015-04-01T20:55:00,15,1,mobile - arctan(4,Uncategorized,0
+2015-04-01T20:55:00,7,1,kanunu8.com,General Entertainment,-2
+2015-04-01T20:55:00,6,1,Blank Web Browser,Internet Utilities,0
+2015-04-01T21:00:00,300,1,google.com,Search,2
+2015-04-01T21:05:00,300,1,google.com,Search,2
+2015-04-01T21:10:00,300,1,google.com,Search,2
+2015-04-01T21:15:00,300,1,google.com,Search,2
+2015-04-01T21:20:00,87,1,google.com,Search,2
+2015-04-01T21:30:00,168,1,Skype,General Social Networking,-2
+2015-04-01T21:30:00,2,1,google.com,Search,2
+2015-04-01T21:35:00,148,1,Skype,General Social Networking,-2
+2015-04-01T21:35:00,133,1,Mail,Email,2
+2015-04-01T21:35:00,18,1,microsoft word,Writing,2
+2015-04-01T21:40:00,204,1,Mail,Email,2
+2015-04-01T21:40:00,66,1,Skype,General Social Networking,-2
+2015-04-01T21:40:00,25,1,store.apple.com,Electronics,-2
+2015-04-01T21:40:00,4,1,google.com,Search,2
+2015-04-01T21:45:00,298,1,hjedesign.com,Graphic Design,2
+2015-04-01T21:45:00,1,1,kindle,General Reference & Learning,2
+2015-04-01T21:45:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2015-04-01T21:50:00,295,1,hjedesign.com,Graphic Design,2
+2015-04-01T21:50:00,3,1,Safari,Browsers,2
+2015-04-01T21:55:00,285,1,hjedesign.com,Graphic Design,2
+2015-04-01T22:05:00,24,1,microsoft word,Writing,2
+2015-04-01T22:10:00,14,1,hjedesign.com,Graphic Design,2
+2015-04-01T22:15:00,260,1,Safari,Browsers,2
+2015-04-01T22:15:00,28,1,google.com,Search,2
+2015-04-01T22:15:00,7,1,en.wikipedia.org,General Reference & Learning,1
+2015-04-01T22:15:00,3,1,hjedesign.com,Graphic Design,2
+2015-04-01T22:20:00,159,1,microsoft word,Writing,2
+2015-04-01T22:20:00,63,1,Safari,Browsers,2
+2015-04-01T22:20:00,15,1,upload.wikimedia.org,Search,0
+2015-04-01T22:20:00,11,1,wps.prenhall.com,Email,0
+2015-04-01T22:20:00,6,1,facebook.com,General Social Networking,-2
+2015-04-01T22:20:00,6,1,google.com,Search,2
+2015-04-01T22:20:00,6,1,en.wikipedia.org,General Reference & Learning,1
+2015-04-01T22:20:00,6,1,jobs.apple.com,Employment,2
+2015-04-01T22:20:00,3,1,gruppofrattura.it,Uncategorized,0
+2015-04-01T22:20:00,3,1,infoplease.com,General Reference & Learning,1
+2015-04-01T22:20:00,3,1,qph.is.quoracdn.net,Uncategorized,0
+2015-04-01T22:20:00,2,1,graphene.nus.edu.sg,General Reference & Learning,1
+2015-04-01T22:20:00,2,1,sparknotes.com,Search,2
+2015-04-01T22:20:00,2,1,itech.dickinson.edu,General Reference & Learning,1
+2015-04-01T22:20:00,2,1,ewels.info,Uncategorized,0
+2015-04-01T22:20:00,2,1,Google Forms,General Business,2
+2015-04-01T22:20:00,1,1,dalearn.deerfield.edu,General Reference & Learning,2
+2015-04-01T22:20:00,1,1,dainfo.deerfield.edu,General Reference & Learning,1
+2015-04-01T22:20:00,1,1,thoughtcatalog.com,General News & Opinion,-2
+2015-04-01T22:20:00,1,1,Skype,General Social Networking,-2
+2015-04-01T22:20:00,1,1,app store,General Shopping,-2
+2015-04-01T22:20:00,1,1,publishingperspectives.com,General Business,2
+2015-04-01T22:25:00,153,1,microsoft word,Writing,2
+2015-04-01T22:25:00,136,1,qph.is.quoracdn.net,Uncategorized,0
+2015-04-01T22:25:00,10,1,wps.prenhall.com,Email,0
+2015-04-01T22:25:00,1,1,itech.dickinson.edu,General Reference & Learning,1
+2015-04-01T22:30:00,229,1,microsoft word,Writing,2
+2015-04-01T22:30:00,71,1,qph.is.quoracdn.net,Uncategorized,0
+2015-04-01T22:35:00,298,1,microsoft word,Writing,2
+2015-04-01T22:35:00,2,1,Dictionary,General Reference & Learning,1
+2015-04-01T22:40:00,185,1,microsoft word,Writing,2
+2015-04-01T22:40:00,73,1,Mail,Email,2
+2015-04-01T22:40:00,14,1,Dictionary,General Reference & Learning,1
+2015-04-01T22:40:00,11,1,itech.dickinson.edu,General Reference & Learning,1
+2015-04-01T22:40:00,7,1,wps.prenhall.com,Email,0
+2015-04-01T22:40:00,6,1,qph.is.quoracdn.net,Uncategorized,0
+2015-04-01T22:40:00,2,1,upload.wikimedia.org,Search,0
+2015-04-01T22:40:00,1,1,tincta,General Software Development,2
+2015-04-01T22:45:00,299,1,microsoft word,Writing,2
+2015-04-01T22:50:00,300,1,microsoft word,Writing,2
+2015-04-01T22:55:00,250,1,microsoft word,Writing,2
+2015-04-01T22:55:00,25,1,ewels.info,Uncategorized,0
+2015-04-01T22:55:00,9,1,gruppofrattura.it,Uncategorized,0
+2015-04-01T22:55:00,5,1,Mail,Email,2
+2015-04-01T22:55:00,4,1,itech.dickinson.edu,General Reference & Learning,1
+2015-04-01T22:55:00,4,1,Skype,General Social Networking,-2
+2015-04-01T22:55:00,2,1,upload.wikimedia.org,Search,0
+2015-04-01T22:55:00,1,1,Safari,Browsers,2
+2015-04-01T23:00:00,227,1,microsoft word,Writing,2
+2015-04-01T23:00:00,52,1,Mail,Email,2
+2015-04-01T23:00:00,14,1,upload.wikimedia.org,Search,0
+2015-04-01T23:00:00,6,1,gruppofrattura.it,Uncategorized,0
+2015-04-01T23:05:00,191,1,microsoft word,Writing,2
+2015-04-01T23:05:00,71,1,en.wikipedia.org,General Reference & Learning,1
+2015-04-01T23:05:00,20,1,upload.wikimedia.org,Search,0
+2015-04-01T23:05:00,11,1,google.com,Search,2
+2015-04-01T23:05:00,7,1,nanocomptech.com,Uncategorized,0
+2015-04-01T23:10:00,152,1,microsoft word,Writing,2
+2015-04-01T23:10:00,123,1,dmun.comxa.com,Uncategorized,0
+2015-04-01T23:10:00,14,1,Mail,Email,2
+2015-04-01T23:10:00,5,1,google.com,Search,2
+2015-04-01T23:10:00,3,1,en.wikipedia.org,General Reference & Learning,1
+2015-04-01T23:10:00,2,1,Safari,Browsers,2
+2015-04-01T23:10:00,1,1,nanocomptech.com,Uncategorized,0
+2015-04-01T23:15:00,223,1,microsoft word,Writing,2
+2015-04-01T23:15:00,49,1,dmun.comxa.com,Uncategorized,0
+2015-04-01T23:15:00,14,1,robaid.com,Uncategorized,0
+2015-04-01T23:15:00,9,1,google.com,Search,2
+2015-04-01T23:15:00,3,1,Finder,General Utilities,0
+2015-04-01T23:15:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2015-04-01T23:15:00,1,1,nanocomptech.com,Uncategorized,0
+2015-04-01T23:20:00,128,1,en.wikipedia.org,General Reference & Learning,1
+2015-04-01T23:20:00,104,1,microsoft word,Writing,2
+2015-04-01T23:20:00,50,1,Preview,General Reference & Learning,2
+2015-04-01T23:20:00,11,1,quickcounter,Uncategorized,0
+2015-04-01T23:20:00,5,1,robaid.com,Uncategorized,0
+2015-04-01T23:25:00,175,1,microsoft word,Writing,2
+2015-04-01T23:25:00,125,1,en.wikipedia.org,General Reference & Learning,1
+2015-04-01T23:30:00,185,1,microsoft word,Writing,2
+2015-04-01T23:30:00,113,1,en.wikipedia.org,General Reference & Learning,1
+2015-04-01T23:30:00,1,1,Finder,General Utilities,0
+2015-04-01T23:35:00,116,1,en.wikipedia.org,General Reference & Learning,1
+2015-04-01T23:35:00,102,1,microsoft word,Writing,2
+2015-04-01T23:35:00,68,1,google.com,Search,2
+2015-04-01T23:35:00,11,1,robaid.com,Uncategorized,0
+2015-04-01T23:35:00,2,1,dmun.comxa.com,Uncategorized,0
+2015-04-01T23:40:00,222,1,microsoft word,Writing,2
+2015-04-01T23:40:00,41,1,en.wikipedia.org,General Reference & Learning,1
+2015-04-01T23:40:00,26,1,nanocomptech.com,Uncategorized,0
+2015-04-01T23:40:00,6,1,Skype,General Social Networking,-2
+2015-04-01T23:40:00,5,1,Finder,General Utilities,0
+2015-04-01T23:45:00,285,1,microsoft word,Writing,2
+2015-04-01T23:45:00,12,1,en.wikipedia.org,General Reference & Learning,1
+2015-04-01T23:45:00,3,1,nanocomptech.com,Uncategorized,0
+2015-04-01T23:50:00,214,1,microsoft word,Writing,2
+2015-04-01T23:50:00,79,1,en.wikipedia.org,General Reference & Learning,1
+2015-04-01T23:50:00,7,1,Dictionary,General Reference & Learning,1
+2015-04-01T23:55:00,299,1,microsoft word,Writing,2
+2015-04-01T23:55:00,1,1,en.wikipedia.org,General Reference & Learning,1

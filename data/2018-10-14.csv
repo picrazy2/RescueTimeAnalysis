@@ -1,0 +1,111 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2018-10-14T19:15:00,29,1,messenger.com,General Social Networking,-2
+2018-10-14T19:15:00,15,1,safari-resource:,Browsers,0
+2018-10-14T19:15:00,4,1,introml.mit.edu,Presentation,2
+2018-10-14T19:20:00,183,1,Google Forms,General Business,2
+2018-10-14T19:20:00,72,1,Mail,Email,2
+2018-10-14T19:20:00,39,1,Google Spreadsheets,General Business,2
+2018-10-14T19:20:00,5,1,Safari,Browsers,2
+2018-10-14T19:25:00,100,1,calendar,Calendars,1
+2018-10-14T19:25:00,93,1,Google Spreadsheets,General Business,2
+2018-10-14T19:25:00,61,1,messenger.com,General Social Networking,-2
+2018-10-14T19:25:00,39,1,Google Forms,General Business,2
+2018-10-14T19:25:00,7,1,Mail,Email,2
+2018-10-14T19:30:00,107,1,Google Forms,General Business,2
+2018-10-14T19:30:00,76,1,messenger.com,General Social Networking,-2
+2018-10-14T19:30:00,39,1,wechat,General Social Networking,-2
+2018-10-14T19:30:00,39,1,calendar,Calendars,1
+2018-10-14T19:30:00,26,1,google.com/calendar,Calendars,2
+2018-10-14T19:30:00,12,1,Mail,Email,2
+2018-10-14T19:35:00,169,1,calendar,Calendars,1
+2018-10-14T19:35:00,73,1,messenger.com,General Social Networking,-2
+2018-10-14T19:35:00,24,1,Mail,Email,2
+2018-10-14T19:35:00,9,1,messages,General Social Networking,-2
+2018-10-14T19:35:00,8,1,wechat,General Social Networking,-2
+2018-10-14T19:35:00,7,1,Google Forms,General Business,2
+2018-10-14T19:35:00,6,1,reminders,General Communication & Scheduling,0
+2018-10-14T19:35:00,3,1,Google Spreadsheets,General Business,2
+2018-10-14T19:40:00,132,1,todoist,Project Management,2
+2018-10-14T19:40:00,68,1,en.todoist.com,General Communication & Scheduling,0
+2018-10-14T19:40:00,49,1,app store,General Shopping,-2
+2018-10-14T19:40:00,14,1,messenger.com,General Social Networking,-2
+2018-10-14T19:40:00,9,1,google.com,Search,2
+2018-10-14T19:40:00,7,1,flexibits.com,Calendars,0
+2018-10-14T19:40:00,6,1,itunes.apple.com,General Shopping,-2
+2018-10-14T19:40:00,5,1,reminders,General Communication & Scheduling,0
+2018-10-14T19:40:00,3,1,drive.google.com,General Business,2
+2018-10-14T19:40:00,3,1,Google Forms,General Business,2
+2018-10-14T19:40:00,2,1,Safari,Browsers,2
+2018-10-14T19:45:00,205,1,todoist,Project Management,2
+2018-10-14T19:45:00,45,1,get.todoist.help,Uncategorized,0
+2018-10-14T19:45:00,38,1,flexibits.com,Calendars,0
+2018-10-14T19:45:00,6,1,calendar,Calendars,1
+2018-10-14T19:45:00,4,1,google.com,Search,2
+2018-10-14T19:45:00,1,1,Google Spreadsheets,General Business,2
+2018-10-14T19:45:00,1,1,en.todoist.com,General Communication & Scheduling,0
+2018-10-14T19:50:00,145,1,doodle.com,Internet Utilities,1
+2018-10-14T19:50:00,69,1,todoist,Project Management,2
+2018-10-14T19:50:00,43,1,messenger.com,General Social Networking,-2
+2018-10-14T19:50:00,32,1,en.todoist.com,General Communication & Scheduling,0
+2018-10-14T19:50:00,1,1,loginwindow,General Utilities,0
+2018-10-14T19:55:00,18,1,messenger.com,General Social Networking,-2
+2018-10-14T19:55:00,1,1,loginwindow,General Utilities,0
+2018-10-14T20:35:00,46,1,Google Forms,General Business,2
+2018-10-14T20:35:00,39,1,doodle.com,Internet Utilities,1
+2018-10-14T20:35:00,14,1,messenger.com,General Social Networking,-2
+2018-10-14T20:35:00,8,1,itunes.apple.com,General Shopping,-2
+2018-10-14T20:35:00,2,1,loginwindow,General Utilities,0
+2018-10-14T20:35:00,2,1,get.todoist.help,Uncategorized,0
+2018-10-14T20:35:00,2,1,Safari,Browsers,2
+2018-10-14T20:40:00,210,1,Google Forms,General Business,2
+2018-10-14T20:40:00,54,1,messenger.com,General Social Networking,-2
+2018-10-14T20:40:00,25,1,doodle.com,Internet Utilities,1
+2018-10-14T20:40:00,5,1,calendar,Calendars,1
+2018-10-14T20:40:00,3,1,introml.mit.edu,Presentation,2
+2018-10-14T20:40:00,1,1,Google Spreadsheets,General Business,2
+2018-10-14T20:40:00,1,1,en.todoist.com,General Communication & Scheduling,0
+2018-10-14T20:45:00,280,1,Google Forms,General Business,2
+2018-10-14T20:45:00,20,1,calendar,Calendars,1
+2018-10-14T20:50:00,137,1,Google Forms,General Business,2
+2018-10-14T20:50:00,96,1,messenger.com,General Social Networking,-2
+2018-10-14T20:50:00,55,1,facebook.com,General Social Networking,-2
+2018-10-14T20:50:00,5,1,youtube.com,Video,-2
+2018-10-14T20:50:00,5,1,Mail,Email,2
+2018-10-14T20:50:00,1,1,introml.mit.edu,Presentation,2
+2018-10-14T20:55:00,223,1,messenger.com,General Social Networking,-2
+2018-10-14T20:55:00,62,1,facebook.com,General Social Networking,-2
+2018-10-14T20:55:00,14,1,wechat,General Social Networking,-2
+2018-10-14T21:00:00,105,1,messenger.com,General Social Networking,-2
+2018-10-14T21:00:00,50,1,piazza.com,General Reference & Learning,2
+2018-10-14T21:00:00,43,1,Google Spreadsheets,General Business,2
+2018-10-14T21:00:00,36,1,calendar,Calendars,1
+2018-10-14T21:00:00,31,1,messages,General Social Networking,-2
+2018-10-14T21:00:00,13,1,Google Forms,General Business,2
+2018-10-14T21:00:00,7,1,engadget.com,Science & Technology,-1
+2018-10-14T21:00:00,3,1,wechat,General Social Networking,-2
+2018-10-14T21:00:00,3,1,doodle.com,Internet Utilities,1
+2018-10-14T21:00:00,3,1,en.todoist.com,General Communication & Scheduling,0
+2018-10-14T21:00:00,2,1,keylimeinteractive.com,Uncategorized,0
+2018-10-14T21:00:00,2,1,introml.mit.edu,Presentation,2
+2018-10-14T21:00:00,1,1,todoist,Project Management,2
+2018-10-14T21:05:00,147,1,messenger.com,General Social Networking,-2
+2018-10-14T21:05:00,66,1,calendar,Calendars,1
+2018-10-14T21:05:00,39,1,engadget.com,Science & Technology,-1
+2018-10-14T21:05:00,21,1,Mail,Email,2
+2018-10-14T21:05:00,21,1,wechat,General Social Networking,-2
+2018-10-14T21:05:00,4,1,Google Spreadsheets,General Business,2
+2018-10-14T21:05:00,1,1,doodle.com,Internet Utilities,1
+2018-10-14T21:10:00,167,1,messenger.com,General Social Networking,-2
+2018-10-14T21:10:00,21,1,messages,General Social Networking,-2
+2018-10-14T21:10:00,1,1,loginwindow,General Utilities,0
+2018-10-14T23:20:00,6,1,Safari,Browsers,2
+2018-10-14T23:20:00,3,1,messenger.com,General Social Networking,-2
+2018-10-14T23:20:00,1,1,loginwindow,General Utilities,0
+2018-10-14T23:25:00,43,1,messenger.com,General Social Networking,-2
+2018-10-14T23:30:00,251,1,messenger.com,General Social Networking,-2
+2018-10-14T23:35:00,300,1,messenger.com,General Social Networking,-2
+2018-10-14T23:40:00,264,1,messenger.com,General Social Networking,-2
+2018-10-14T23:45:00,237,1,messenger.com,General Social Networking,-2
+2018-10-14T23:50:00,295,1,messenger.com,General Social Networking,-2
+2018-10-14T23:55:00,295,1,messenger.com,General Social Networking,-2
+2018-10-14T23:55:00,3,1,macshiny.com,Uncategorized,0

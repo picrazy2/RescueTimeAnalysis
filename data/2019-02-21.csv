@@ -1,0 +1,193 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2019-02-21T00:00:00,297,1,microsoft word,Writing,2
+2019-02-21T00:00:00,3,1,notability,Writing,2
+2019-02-21T00:05:00,300,1,microsoft word,Writing,2
+2019-02-21T00:10:00,300,1,microsoft word,Writing,2
+2019-02-21T00:15:00,300,1,microsoft word,Writing,2
+2019-02-21T00:20:00,165,1,microsoft word,Writing,2
+2019-02-21T00:20:00,135,1,learning-modules.mit.edu,General Reference & Learning,1
+2019-02-21T00:25:00,103,1,microsoft word,Writing,2
+2019-02-21T00:25:00,100,1,learning-modules.mit.edu,General Reference & Learning,1
+2019-02-21T00:25:00,81,1,web-cert.mit.edu,Presentation,2
+2019-02-21T00:25:00,16,1,mit.edu,Presentation,2
+2019-02-21T00:30:00,198,1,web-cert.mit.edu,Presentation,2
+2019-02-21T00:30:00,40,1,secure.bankofamerica.com,Accounting,2
+2019-02-21T00:30:00,16,1,mit.edu,Presentation,2
+2019-02-21T00:30:00,9,1,learning-modules.mit.edu,General Reference & Learning,1
+2019-02-21T00:30:00,3,1,9to5mac.com,General News & Opinion,-2
+2019-02-21T00:30:00,3,1,bankofamerica.com,General Business,2
+2019-02-21T00:40:00,226,1,united.com,Travel & Outdoors,-2
+2019-02-21T00:40:00,55,1,web-cert.mit.edu,Presentation,2
+2019-02-21T00:40:00,5,1,web.mit.edu,General Reference & Learning,2
+2019-02-21T00:40:00,3,1,mit.edu,Presentation,2
+2019-02-21T00:40:00,2,1,drive.google.com,General Business,2
+2019-02-21T00:40:00,1,1,Google Presentations,Presentation,2
+2019-02-21T00:45:00,165,1,united.com,Travel & Outdoors,-2
+2019-02-21T00:45:00,62,1,web-cert.mit.edu,Presentation,2
+2019-02-21T00:45:00,30,1,mystatus.united.com,Travel & Outdoors,-2
+2019-02-21T00:45:00,20,1,mit.edu,Presentation,2
+2019-02-21T00:45:00,15,1,promotions.united.com,Travel & Outdoors,-2
+2019-02-21T00:45:00,3,1,web.mit.edu,General Reference & Learning,2
+2019-02-21T00:45:00,3,1,secure.bankofamerica.com,Accounting,2
+2019-02-21T00:45:00,2,1,omni.csail.mit.edu,General Reference & Learning,1
+2019-02-21T00:50:00,110,1,united.com,Travel & Outdoors,-2
+2019-02-21T00:50:00,98,1,web-cert.mit.edu,Presentation,2
+2019-02-21T00:50:00,49,1,messages,General Social Networking,-2
+2019-02-21T00:50:00,43,1,promotions.united.com,Travel & Outdoors,-2
+2019-02-21T00:55:00,213,1,Google Presentations,Presentation,2
+2019-02-21T00:55:00,87,1,web-cert.mit.edu,Presentation,2
+2019-02-21T01:00:00,284,1,Google Presentations,Presentation,2
+2019-02-21T01:00:00,13,1,en.wikipedia.org,General Reference & Learning,1
+2019-02-21T01:00:00,3,1,everythingchopsticks.com,Uncategorized,0
+2019-02-21T01:05:00,12,1,Google Presentations,Presentation,2
+2019-02-21T01:20:00,112,1,microsoft word,Writing,2
+2019-02-21T01:20:00,46,1,mit.edu,Presentation,2
+2019-02-21T01:20:00,37,1,youtube.com,Video,-2
+2019-02-21T01:20:00,16,1,messenger.com,General Social Networking,-2
+2019-02-21T01:20:00,2,1,wechat,General Social Networking,-2
+2019-02-21T01:20:00,1,1,Mail,Email,2
+2019-02-21T01:25:00,155,1,mit.edu,Presentation,2
+2019-02-21T01:25:00,99,1,mobile - brassrat2021.mit.edu,Uncategorized,0
+2019-02-21T01:25:00,32,1,omni.csail.mit.edu,General Reference & Learning,1
+2019-02-21T01:25:00,5,1,messenger.com,General Social Networking,-2
+2019-02-21T01:25:00,4,1,newtab,Browsers,0
+2019-02-21T01:25:00,3,1,web.mit.edu,General Reference & Learning,2
+2019-02-21T01:25:00,1,1,Google Spreadsheets,General Business,2
+2019-02-21T01:25:00,1,1,Google Forms,General Business,2
+2019-02-21T01:30:00,139,1,caesar.csail.mit.edu,General Reference & Learning,1
+2019-02-21T01:30:00,130,1,omni.csail.mit.edu,General Reference & Learning,1
+2019-02-21T01:30:00,20,1,web.mit.edu,General Reference & Learning,2
+2019-02-21T01:30:00,6,1,Google Spreadsheets,General Business,2
+2019-02-21T01:30:00,2,1,drive.google.com,General Business,2
+2019-02-21T01:30:00,2,1,wechat,General Social Networking,-2
+2019-02-21T01:35:00,23,1,Google Spreadsheets,General Business,2
+2019-02-21T01:35:00,4,1,google.com,Search,2
+2019-02-21T01:35:00,1,1,drive.google.com,General Business,2
+2019-02-21T01:40:00,123,1,mobile - brassrat2021.mit.edu,Uncategorized,0
+2019-02-21T01:40:00,55,1,Google Spreadsheets,General Business,2
+2019-02-21T01:40:00,19,1,messenger.com,General Social Networking,-2
+2019-02-21T01:40:00,14,1,calendar,Calendars,1
+2019-02-21T01:40:00,4,1,Mail,Email,2
+2019-02-21T01:45:00,187,1,microsoft word,Writing,2
+2019-02-21T01:45:00,26,1,messenger.com,General Social Networking,-2
+2019-02-21T01:45:00,13,1,printerproxy,General Business,2
+2019-02-21T01:45:00,13,1,Google Spreadsheets,General Business,2
+2019-02-21T01:45:00,3,1,mobile - brassrat2021.mit.edu,Uncategorized,0
+2019-02-21T01:45:00,2,1,calendar,Calendars,1
+2019-02-21T01:45:00,2,1,18.2.227.201,Uncategorized,0
+2019-02-21T01:45:00,1,1,loginwindow,General Utilities,0
+2019-02-21T01:45:00,1,1,drive.google.com,General Business,2
+2019-02-21T14:10:00,83,1,Mail,Email,2
+2019-02-21T14:10:00,67,1,connect.intuit.com,Accounting,2
+2019-02-21T14:10:00,45,1,secure.bankofamerica.com,Accounting,2
+2019-02-21T14:10:00,28,1,todoist,Project Management,2
+2019-02-21T14:10:00,21,1,messenger.com,General Social Networking,-2
+2019-02-21T14:10:00,14,1,bankofamerica.com,General Business,2
+2019-02-21T14:10:00,12,1,Google Forms,General Business,2
+2019-02-21T14:10:00,11,1,Notes,Email,0
+2019-02-21T14:10:00,3,1,mobile - brassrat2021.mit.edu,Uncategorized,0
+2019-02-21T14:10:00,3,1,loginwindow,General Utilities,0
+2019-02-21T14:10:00,1,1,links.notification.intuit.com,Uncategorized,0
+2019-02-21T14:10:00,1,1,goo.gl,Internet Utilities,1
+2019-02-21T14:15:00,235,1,Google Forms,General Business,2
+2019-02-21T14:15:00,28,1,drive.google.com,General Business,2
+2019-02-21T14:15:00,15,1,calendar,Calendars,1
+2019-02-21T14:15:00,13,1,messenger.com,General Social Networking,-2
+2019-02-21T14:15:00,7,1,Mail,Email,2
+2019-02-21T14:15:00,2,1,connect.intuit.com,Accounting,2
+2019-02-21T14:20:00,111,1,Mail,Email,2
+2019-02-21T14:20:00,9,1,Google Forms,General Business,2
+2019-02-21T14:20:00,5,1,todoist,Project Management,2
+2019-02-21T14:20:00,1,1,loginwindow,General Utilities,0
+2019-02-21T19:20:00,157,1,microsoft word,Writing,2
+2019-02-21T19:20:00,37,1,mit.edu,Presentation,2
+2019-02-21T19:20:00,25,1,Google Spreadsheets,General Business,2
+2019-02-21T19:20:00,11,1,messenger.com,General Social Networking,-2
+2019-02-21T19:20:00,6,1,todoist,Project Management,2
+2019-02-21T19:20:00,1,1,drive.google.com,General Business,2
+2019-02-21T19:20:00,1,1,Google Forms,General Business,2
+2019-02-21T19:25:00,152,1,microsoft word,Writing,2
+2019-02-21T19:25:00,9,1,Google Spreadsheets,General Business,2
+2019-02-21T19:25:00,8,1,Mail,Email,2
+2019-02-21T19:25:00,3,1,todoist,Project Management,2
+2019-02-21T19:40:00,12,1,dropbox.com,File Sharing,2
+2019-02-21T19:40:00,3,1,Google Spreadsheets,General Business,2
+2019-02-21T19:45:00,160,1,microsoft word,Writing,2
+2019-02-21T19:45:00,86,1,dropbox.com,File Sharing,2
+2019-02-21T19:45:00,41,1,messenger.com,General Social Networking,-2
+2019-02-21T19:45:00,6,1,idp.mit.edu,General Reference & Learning,1
+2019-02-21T19:45:00,4,1,l.messenger.com,Instant Message,-1
+2019-02-21T19:45:00,2,1,Mail,Email,2
+2019-02-21T19:50:00,240,1,microsoft word,Writing,2
+2019-02-21T19:50:00,41,1,Preview,General Reference & Learning,2
+2019-02-21T19:50:00,7,1,Finder,General Utilities,0
+2019-02-21T19:50:00,6,1,drive.google.com,General Business,2
+2019-02-21T19:50:00,3,1,l.messenger.com,Instant Message,-1
+2019-02-21T19:50:00,2,1,messenger.com,General Social Networking,-2
+2019-02-21T19:50:00,1,1,mit.edu,Presentation,2
+2019-02-21T19:55:00,127,1,microsoft word,Writing,2
+2019-02-21T19:55:00,113,1,Preview,General Reference & Learning,2
+2019-02-21T19:55:00,37,1,google.com,Search,2
+2019-02-21T19:55:00,11,1,drive.google.com,General Business,2
+2019-02-21T19:55:00,9,1,yellowbook.com,Marketing,2
+2019-02-21T19:55:00,2,1,Mail,Email,2
+2019-02-21T19:55:00,1,1,9to5mac.com,General News & Opinion,-2
+2019-02-21T20:00:00,292,1,microsoft word,Writing,2
+2019-02-21T20:00:00,5,1,yellowbook.com,Marketing,2
+2019-02-21T20:00:00,3,1,Preview,General Reference & Learning,2
+2019-02-21T20:05:00,164,1,Preview,General Reference & Learning,2
+2019-02-21T20:05:00,94,1,microsoft word,Writing,2
+2019-02-21T20:05:00,20,1,google.com,Search,2
+2019-02-21T20:05:00,10,1,dyn.com,Systems Operations,2
+2019-02-21T20:05:00,8,1,9to5mac.com,General News & Opinion,-2
+2019-02-21T20:05:00,4,1,yellowbook.com,Marketing,2
+2019-02-21T20:10:00,182,1,microsoft word,Writing,2
+2019-02-21T20:10:00,95,1,Preview,General Reference & Learning,2
+2019-02-21T20:10:00,23,1,Mail,Email,2
+2019-02-21T20:15:00,272,1,microsoft word,Writing,2
+2019-02-21T20:15:00,28,1,Preview,General Reference & Learning,2
+2019-02-21T20:20:00,300,1,microsoft word,Writing,2
+2019-02-21T20:25:00,178,1,microsoft word,Writing,2
+2019-02-21T20:25:00,31,1,messenger.com,General Social Networking,-2
+2019-02-21T20:25:00,15,1,6033.scripts.mit.edu:444,Uncategorized,0
+2019-02-21T20:25:00,13,1,Finder,General Utilities,0
+2019-02-21T20:25:00,5,1,mit.edu,Presentation,2
+2019-02-21T20:25:00,4,1,Mail,Email,2
+2019-02-21T20:25:00,2,1,9to5mac.com,General News & Opinion,-2
+2019-02-21T20:25:00,2,1,messages,General Social Networking,-2
+2019-02-21T20:25:00,1,1,loginwindow,General Utilities,0
+2019-02-21T20:30:00,42,1,Mail,Email,2
+2019-02-21T20:30:00,4,1,messages,General Social Networking,-2
+2019-02-21T20:30:00,1,1,loginwindow,General Utilities,0
+2019-02-21T20:35:00,125,1,todoist,Project Management,2
+2019-02-21T20:35:00,33,1,omni.csail.mit.edu,General Reference & Learning,1
+2019-02-21T20:35:00,26,1,9to5mac.com,General News & Opinion,-2
+2019-02-21T20:35:00,10,1,google.com,Search,2
+2019-02-21T20:35:00,4,1,Mail,Email,2
+2019-02-21T20:35:00,3,1,6033.scripts.mit.edu:444,Uncategorized,0
+2019-02-21T20:35:00,1,1,andropogon.com,Uncategorized,0
+2019-02-21T20:35:00,1,1,6031.mit.edu:444,Uncategorized,0
+2019-02-21T20:35:00,1,1,web.mit.edu,General Reference & Learning,2
+2019-02-21T20:35:00,1,1,drive.google.com,General Business,2
+2019-02-21T20:35:00,1,1,constellation.csail.mit.edu,General Reference & Learning,1
+2019-02-21T20:35:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2019-02-21T20:35:00,1,1,web.mst.edu,General Reference & Learning,1
+2019-02-21T20:35:00,1,1,clicker.csail.mit.edu,General Reference & Learning,1
+2019-02-21T20:35:00,1,1,hansonellis.com,Uncategorized,0
+2019-02-21T20:40:00,259,1,9to5mac.com,General News & Opinion,-2
+2019-02-21T20:40:00,21,1,google.com,Search,2
+2019-02-21T20:40:00,20,1,washingtonpost.com,General News & Opinion,-2
+2019-02-21T20:45:00,79,1,washingtonpost.com,General News & Opinion,-2
+2019-02-21T20:45:00,75,1,google.com,Search,2
+2019-02-21T20:45:00,62,1,theverge.com,Science & Technology,-1
+2019-02-21T20:45:00,37,1,en.wikipedia.org,General Reference & Learning,1
+2019-02-21T20:45:00,23,1,nytimes.com,General News & Opinion,-2
+2019-02-21T20:45:00,21,1,business.financialpost.com,Business,-1
+2019-02-21T20:45:00,2,1,cbooo.cn,Uncategorized,0
+2019-02-21T20:50:00,122,1,en.wikipedia.org,General Reference & Learning,1
+2019-02-21T20:50:00,64,1,google.com,Search,2
+2019-02-21T20:50:00,55,1,youtube.com,Video,-2
+2019-02-21T20:50:00,47,1,boxofficemojo.com,General Entertainment,-2
+2019-02-21T20:50:00,12,1,uline.com,General Shopping,-2
+2019-02-21T20:55:00,242,1,youtube.com,Video,-2
+2019-02-21T20:55:00,1,1,loginwindow,General Utilities,0

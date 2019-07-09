@@ -1,0 +1,351 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2016-11-27T00:30:00,31,1,google.com,Search,2
+2016-11-27T00:30:00,5,1,loginwindow,General Utilities,0
+2016-11-27T00:35:00,116,1,facebook.com,General Social Networking,-2
+2016-11-27T00:35:00,114,1,buzzfeed.com,General News & Opinion,-2
+2016-11-27T00:35:00,27,1,microsoft word,Writing,2
+2016-11-27T00:35:00,26,1,google.com,Search,2
+2016-11-27T00:35:00,8,1,et.airchina.com.cn,General News & Opinion,-2
+2016-11-27T00:35:00,2,1,Mail,Email,2
+2016-11-27T00:40:00,118,1,buzzfeed.com,General News & Opinion,-2
+2016-11-27T00:40:00,115,1,refinery29.com,General News & Opinion,-2
+2016-11-27T00:40:00,49,1,microsoft word,Writing,2
+2016-11-27T00:40:00,17,1,facebook.com,General Social Networking,-2
+2016-11-27T00:45:00,258,1,microsoft word,Writing,2
+2016-11-27T00:45:00,42,1,facebook.com,General Social Networking,-2
+2016-11-27T00:50:00,207,1,facebook.com,General Social Networking,-2
+2016-11-27T00:50:00,91,1,microsoft word,Writing,2
+2016-11-27T00:55:00,250,1,facebook.com,General Social Networking,-2
+2016-11-27T00:55:00,49,1,microsoft word,Writing,2
+2016-11-27T01:00:00,164,1,Notes,Email,0
+2016-11-27T01:00:00,88,1,microsoft word,Writing,2
+2016-11-27T01:00:00,35,1,facebook.com,General Social Networking,-2
+2016-11-27T01:00:00,10,1,Mail,Email,2
+2016-11-27T01:05:00,261,1,microsoft word,Writing,2
+2016-11-27T01:05:00,22,1,Mail,Email,2
+2016-11-27T01:05:00,13,1,Notes,Email,0
+2016-11-27T01:05:00,4,1,Finder,General Utilities,0
+2016-11-27T01:10:00,150,1,Notes,Email,0
+2016-11-27T01:10:00,147,1,microsoft word,Writing,2
+2016-11-27T01:10:00,1,1,Mail,Email,2
+2016-11-27T01:15:00,197,1,amazon.com,General Shopping,-1
+2016-11-27T01:15:00,70,1,Notes,Email,0
+2016-11-27T01:15:00,22,1,loginwindow,General Utilities,0
+2016-11-27T01:15:00,6,1,facebook.com,General Social Networking,-2
+2016-11-27T01:15:00,2,1,google.com,Search,2
+2016-11-27T01:20:00,12,1,loginwindow,General Utilities,0
+2016-11-27T11:30:00,197,1,amazon.com,General Shopping,-1
+2016-11-27T11:30:00,71,1,map.baidu.com,Maps & Regional,-2
+2016-11-27T11:35:00,109,1,Mail,Email,2
+2016-11-27T11:35:00,101,1,map.baidu.com,Maps & Regional,-2
+2016-11-27T11:35:00,90,1,admissions.universityofcalifornia.edu,General Reference & Learning,2
+2016-11-27T11:40:00,152,1,Mail,Email,2
+2016-11-27T11:40:00,61,1,facebook.com,General Social Networking,-2
+2016-11-27T11:40:00,50,1,google.com,Search,2
+2016-11-27T11:40:00,32,1,microsoft word,Writing,2
+2016-11-27T11:40:00,2,1,admissions.universityofcalifornia.edu,General Reference & Learning,2
+2016-11-27T11:45:00,209,1,google.com,Search,2
+2016-11-27T11:45:00,66,1,microsoft word,Writing,2
+2016-11-27T11:45:00,16,1,Mail,Email,2
+2016-11-27T11:50:00,284,1,microsoft word,Writing,2
+2016-11-27T11:50:00,14,1,facebook.com,General Social Networking,-2
+2016-11-27T11:50:00,1,1,google.com,Search,2
+2016-11-27T11:55:00,243,1,facebook.com,General Social Networking,-2
+2016-11-27T11:55:00,56,1,businessinsider.com,General News & Opinion,-2
+2016-11-27T12:00:00,141,1,businessinsider.com,General News & Opinion,-2
+2016-11-27T12:00:00,135,1,microsoft word,Writing,2
+2016-11-27T12:00:00,11,1,google.com,Search,2
+2016-11-27T12:00:00,9,1,facebook.com,General Social Networking,-2
+2016-11-27T12:00:00,3,1,Safari,Browsers,2
+2016-11-27T12:05:00,193,1,baike.baidu.com,Search,0
+2016-11-27T12:05:00,79,1,image.baidu.com,Search,0
+2016-11-27T12:05:00,22,1,google.com,Search,2
+2016-11-27T12:05:00,2,1,Safari,Browsers,2
+2016-11-27T12:10:00,136,1,microsoft word,Writing,2
+2016-11-27T12:10:00,131,1,baike.baidu.com,Search,0
+2016-11-27T12:10:00,33,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T12:15:00,299,1,microsoft word,Writing,2
+2016-11-27T12:20:00,300,1,microsoft word,Writing,2
+2016-11-27T12:25:00,109,1,microsoft word,Writing,2
+2016-11-27T12:30:00,15,1,microsoft word,Writing,2
+2016-11-27T12:35:00,142,1,facebook.com,General Social Networking,-2
+2016-11-27T12:35:00,142,1,microsoft word,Writing,2
+2016-11-27T12:35:00,12,1,Mail,Email,2
+2016-11-27T12:35:00,4,1,baike.baidu.com,Search,0
+2016-11-27T12:40:00,280,1,microsoft word,Writing,2
+2016-11-27T12:40:00,9,1,my.mit.edu,General Reference & Learning,1
+2016-11-27T12:40:00,6,1,facebook.com,General Social Networking,-2
+2016-11-27T12:40:00,4,1,Safari,Browsers,2
+2016-11-27T12:45:00,300,1,microsoft word,Writing,2
+2016-11-27T12:50:00,164,1,microsoft word,Writing,2
+2016-11-27T13:00:00,206,1,microsoft word,Writing,2
+2016-11-27T13:05:00,289,1,microsoft word,Writing,2
+2016-11-27T13:05:00,10,1,Finder,General Utilities,0
+2016-11-27T13:10:00,273,1,microsoft word,Writing,2
+2016-11-27T13:10:00,21,1,google.com,Search,2
+2016-11-27T13:10:00,6,1,my.mit.edu,General Reference & Learning,1
+2016-11-27T13:15:00,139,1,rottentomatoes.com,General Entertainment,-2
+2016-11-27T13:15:00,93,1,google.com,Search,2
+2016-11-27T13:15:00,55,1,microsoft word,Writing,2
+2016-11-27T13:15:00,10,1,Safari,Browsers,2
+2016-11-27T13:15:00,1,1,baike.baidu.com,Search,0
+2016-11-27T13:20:00,135,1,shortlist.com,General Entertainment,-2
+2016-11-27T13:20:00,124,1,microsoft word,Writing,2
+2016-11-27T13:20:00,13,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T13:20:00,12,1,Safari,Browsers,2
+2016-11-27T13:20:00,6,1,google.com,Search,2
+2016-11-27T13:20:00,2,1,rottentomatoes.com,General Entertainment,-2
+2016-11-27T13:20:00,2,1,Mail,Email,2
+2016-11-27T13:20:00,1,1,my.mit.edu,General Reference & Learning,1
+2016-11-27T13:25:00,14,1,microsoft word,Writing,2
+2016-11-27T15:15:00,161,1,microsoft word,Writing,2
+2016-11-27T15:15:00,43,1,Mail,Email,2
+2016-11-27T15:15:00,7,1,my.mit.edu,General Reference & Learning,1
+2016-11-27T15:15:00,3,1,apple.com,Engineering & Technology,-1
+2016-11-27T15:15:00,1,1,loginwindow,General Utilities,0
+2016-11-27T15:20:00,45,1,microsoft word,Writing,2
+2016-11-27T15:20:00,1,1,my.mit.edu,General Reference & Learning,1
+2016-11-27T15:25:00,181,1,microsoft word,Writing,2
+2016-11-27T15:30:00,276,1,microsoft word,Writing,2
+2016-11-27T15:30:00,23,1,Dictionary,General Reference & Learning,1
+2016-11-27T15:35:00,118,1,microsoft word,Writing,2
+2016-11-27T15:35:00,10,1,Dictionary,General Reference & Learning,1
+2016-11-27T15:40:00,29,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T15:40:00,26,1,microsoft word,Writing,2
+2016-11-27T15:40:00,9,1,my.mit.edu,General Reference & Learning,1
+2016-11-27T15:40:00,5,1,Mail,Email,2
+2016-11-27T15:45:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T15:50:00,232,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T15:50:00,67,1,microsoft word,Writing,2
+2016-11-27T15:50:00,1,1,Mail,Email,2
+2016-11-27T15:55:00,173,1,microsoft word,Writing,2
+2016-11-27T15:55:00,125,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T16:00:00,299,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T16:05:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T16:10:00,198,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T16:10:00,102,1,microsoft word,Writing,2
+2016-11-27T16:15:00,278,1,microsoft word,Writing,2
+2016-11-27T16:15:00,21,1,Mail,Email,2
+2016-11-27T16:20:00,300,1,microsoft word,Writing,2
+2016-11-27T16:25:00,300,1,microsoft word,Writing,2
+2016-11-27T16:30:00,262,1,microsoft word,Writing,2
+2016-11-27T16:30:00,26,1,Dictionary,General Reference & Learning,1
+2016-11-27T16:30:00,8,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T16:30:00,1,1,my.mit.edu,General Reference & Learning,1
+2016-11-27T16:35:00,259,1,microsoft word,Writing,2
+2016-11-27T16:35:00,37,1,Mail,Email,2
+2016-11-27T16:35:00,2,1,my.mit.edu,General Reference & Learning,1
+2016-11-27T16:35:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T16:40:00,299,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T16:45:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T16:50:00,240,1,microsoft word,Writing,2
+2016-11-27T16:50:00,57,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T16:55:00,286,1,microsoft word,Writing,2
+2016-11-27T16:55:00,14,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T17:00:00,293,1,microsoft word,Writing,2
+2016-11-27T17:00:00,7,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T17:05:00,154,1,microsoft word,Writing,2
+2016-11-27T17:05:00,133,1,artofmanliness.com,General News & Opinion,-2
+2016-11-27T17:05:00,5,1,google.com,Search,2
+2016-11-27T17:05:00,4,1,Safari,Browsers,2
+2016-11-27T17:05:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T17:10:00,152,1,artofmanliness.com,General News & Opinion,-2
+2016-11-27T17:10:00,45,1,microsoft word,Writing,2
+2016-11-27T17:10:00,7,1,Safari,Browsers,2
+2016-11-27T17:10:00,4,1,google.com,Search,2
+2016-11-27T17:10:00,3,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T17:10:00,2,1,listverse.com,General News & Opinion,-2
+2016-11-27T17:15:00,290,1,microsoft word,Writing,2
+2016-11-27T17:15:00,9,1,Mail,Email,2
+2016-11-27T17:20:00,159,1,gaoloumi.com,Regional,-2
+2016-11-27T17:20:00,114,1,microsoft word,Writing,2
+2016-11-27T17:20:00,10,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T17:20:00,7,1,Safari,Browsers,2
+2016-11-27T17:20:00,3,1,messages,General Social Networking,-2
+2016-11-27T17:25:00,245,1,gaoloumi.com,Regional,-2
+2016-11-27T17:25:00,52,1,Preview,General Reference & Learning,2
+2016-11-27T17:30:00,299,1,gaoloumi.com,Regional,-2
+2016-11-27T17:35:00,276,1,gaoloumi.com,Regional,-2
+2016-11-27T17:35:00,24,1,MS Excel,General Business,2
+2016-11-27T17:40:00,230,1,MS Excel,General Business,2
+2016-11-27T17:40:00,58,1,google.com,Search,2
+2016-11-27T17:40:00,6,1,Safari,Browsers,2
+2016-11-27T17:40:00,2,1,gaoloumi.com,Regional,-2
+2016-11-27T17:45:00,175,1,google.com,Search,2
+2016-11-27T17:45:00,125,1,MS Excel,General Business,2
+2016-11-27T17:50:00,135,1,MS Excel,General Business,2
+2016-11-27T17:50:00,103,1,airlineratings.com,General Reference & Learning,1
+2016-11-27T17:50:00,56,1,google.com,Search,2
+2016-11-27T17:50:00,4,1,Safari,Browsers,2
+2016-11-27T17:55:00,156,1,Mail,Email,2
+2016-11-27T17:55:00,144,1,MS Excel,General Business,2
+2016-11-27T18:00:00,26,1,loginwindow,General Utilities,0
+2016-11-27T18:00:00,7,1,MS Excel,General Business,2
+2016-11-27T20:25:00,31,1,MS Excel,General Business,2
+2016-11-27T20:25:00,6,1,Mail,Email,2
+2016-11-27T20:30:00,94,1,lonelyplanet.com,Travel & Outdoors,-2
+2016-11-27T20:30:00,82,1,koreanclass101.com,Search,0
+2016-11-27T20:30:00,51,1,google.com,Search,2
+2016-11-27T20:30:00,39,1,jacdec.de,Uncategorized,0
+2016-11-27T20:30:00,19,1,Safari,Browsers,2
+2016-11-27T20:30:00,14,1,MS Excel,General Business,2
+2016-11-27T20:30:00,1,1,Mail,Email,2
+2016-11-27T20:35:00,181,1,MS Excel,General Business,2
+2016-11-27T20:35:00,41,1,microsoft word,Writing,2
+2016-11-27T20:35:00,40,1,google.com,Search,2
+2016-11-27T20:35:00,16,1,Mail,Email,2
+2016-11-27T20:35:00,10,1,Finder,General Utilities,0
+2016-11-27T20:35:00,4,1,messages,General Social Networking,-2
+2016-11-27T20:35:00,1,1,Notes,Email,0
+2016-11-27T20:40:00,265,1,MS Excel,General Business,2
+2016-11-27T20:40:00,35,1,google.com,Search,2
+2016-11-27T20:45:00,114,1,undergrad.admissions.columbia.edu,General Reference & Learning,1
+2016-11-27T20:45:00,112,1,microsoft word,Writing,2
+2016-11-27T20:45:00,36,1,google.com,Search,2
+2016-11-27T20:45:00,18,1,columbia.edu,General Reference & Learning,1
+2016-11-27T20:45:00,14,1,MS Excel,General Business,2
+2016-11-27T20:45:00,4,1,Safari,Browsers,2
+2016-11-27T20:50:00,237,1,microsoft word,Writing,2
+2016-11-27T20:50:00,53,1,MS Excel,General Business,2
+2016-11-27T20:50:00,9,1,Mail,Email,2
+2016-11-27T20:55:00,114,1,MS Excel,General Business,2
+2016-11-27T20:55:00,83,1,facebook.com,General Social Networking,-2
+2016-11-27T20:55:00,49,1,microsoft word,Writing,2
+2016-11-27T20:55:00,36,1,google.com,Search,2
+2016-11-27T20:55:00,10,1,undergrad.admissions.columbia.edu,General Reference & Learning,1
+2016-11-27T20:55:00,3,1,Safari,Browsers,2
+2016-11-27T21:00:00,113,1,facebook.com,General Social Networking,-2
+2016-11-27T21:00:00,70,1,drive.google.com,General Business,2
+2016-11-27T21:00:00,46,1,rescuetime.com,Intelligence,0
+2016-11-27T21:00:00,16,1,MS Excel,General Business,2
+2016-11-27T21:00:00,13,1,messages,General Social Networking,-2
+2016-11-27T21:00:00,12,1,creative cloud,General Design & Composition,2
+2016-11-27T21:00:00,11,1,Safari,Browsers,2
+2016-11-27T21:00:00,10,1,Finder,General Utilities,0
+2016-11-27T21:00:00,6,1,Preview,General Reference & Learning,2
+2016-11-27T21:00:00,2,1,google.com,Search,2
+2016-11-27T21:05:00,230,1,facebook.com,General Social Networking,-2
+2016-11-27T21:05:00,23,1,messages,General Social Networking,-2
+2016-11-27T21:05:00,14,1,drive.google.com,General Business,2
+2016-11-27T21:05:00,11,1,Skype,General Social Networking,-2
+2016-11-27T21:05:00,11,1,creative cloud,General Design & Composition,2
+2016-11-27T21:05:00,9,1,SecurityAgent,Systems Operations,0
+2016-11-27T21:10:00,300,1,facebook.com,General Social Networking,-2
+2016-11-27T21:15:00,120,1,lightroom,Presentation,2
+2016-11-27T21:15:00,66,1,facebook.com,General Social Networking,-2
+2016-11-27T21:15:00,44,1,photoshop cc,General Design & Composition,2
+2016-11-27T21:15:00,29,1,adobe application manager,General Utilities,1
+2016-11-27T21:15:00,5,1,Finder,General Utilities,0
+2016-11-27T21:15:00,5,1,creative cloud,General Design & Composition,2
+2016-11-27T21:15:00,2,1,Safari,Browsers,2
+2016-11-27T21:20:00,260,1,photoshop cc,General Design & Composition,2
+2016-11-27T21:25:00,143,1,youtube.com,Video,-2
+2016-11-27T21:25:00,35,1,photoshop cc,General Design & Composition,2
+2016-11-27T21:25:00,7,1,Safari,Browsers,2
+2016-11-27T21:25:00,2,1,google.com,Search,2
+2016-11-27T21:30:00,92,1,photoshop cc,General Design & Composition,2
+2016-11-27T21:30:00,72,1,facebook.com,General Social Networking,-2
+2016-11-27T21:30:00,45,1,youtube.com,Video,-2
+2016-11-27T21:30:00,42,1,drive.google.com,General Business,2
+2016-11-27T21:30:00,29,1,lightroom,Presentation,2
+2016-11-27T21:30:00,11,1,Finder,General Utilities,0
+2016-11-27T21:30:00,2,1,Safari,Browsers,2
+2016-11-27T21:35:00,165,1,microsoft word,Writing,2
+2016-11-27T21:35:00,36,1,facebook.com,General Social Networking,-2
+2016-11-27T21:35:00,27,1,bulletin.engineering.columbia.edu,General Reference & Learning,1
+2016-11-27T21:35:00,25,1,columbia.edu,General Reference & Learning,1
+2016-11-27T21:35:00,15,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T21:35:00,15,1,undergrad.admissions.columbia.edu,General Reference & Learning,1
+2016-11-27T21:35:00,6,1,youtube.com,Video,-2
+2016-11-27T21:35:00,6,1,Safari,Browsers,2
+2016-11-27T21:40:00,292,1,microsoft word,Writing,2
+2016-11-27T21:40:00,6,1,messages,General Social Networking,-2
+2016-11-27T21:40:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T21:45:00,219,1,microsoft word,Writing,2
+2016-11-27T21:45:00,59,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T21:45:00,20,1,google.com,Search,2
+2016-11-27T21:45:00,2,1,Safari,Browsers,2
+2016-11-27T21:50:00,278,1,microsoft word,Writing,2
+2016-11-27T21:50:00,22,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T21:55:00,69,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T21:55:00,4,1,microsoft word,Writing,2
+2016-11-27T22:00:00,34,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T22:00:00,22,1,bulletin.engineering.columbia.edu,General Reference & Learning,1
+2016-11-27T22:00:00,15,1,engineering.columbia.edu,General Reference & Learning,1
+2016-11-27T22:00:00,7,1,microsoft word,Writing,2
+2016-11-27T22:05:00,299,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T22:10:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T22:15:00,298,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T22:15:00,2,1,engineering.columbia.edu,General Reference & Learning,1
+2016-11-27T22:20:00,264,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T22:20:00,19,1,google.com,Search,2
+2016-11-27T22:20:00,14,1,ecns.cn,Uncategorized,0
+2016-11-27T22:20:00,3,1,Safari,Browsers,2
+2016-11-27T22:25:00,260,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T22:25:00,26,1,ecns.cn,Uncategorized,0
+2016-11-27T22:25:00,13,1,calendar,Calendars,1
+2016-11-27T22:30:00,300,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T22:35:00,273,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T22:35:00,26,1,ecns.cn,Uncategorized,0
+2016-11-27T22:40:00,186,1,microsoft word,Writing,2
+2016-11-27T22:40:00,74,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T22:40:00,20,1,map.baidu.com,Maps & Regional,-2
+2016-11-27T22:40:00,18,1,google.com,Search,2
+2016-11-27T22:40:00,1,1,messages,General Social Networking,-2
+2016-11-27T22:45:00,136,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T22:45:00,79,1,google earth,Maps & Regional,1
+2016-11-27T22:45:00,25,1,wikidata.org,General Reference & Learning,1
+2016-11-27T22:45:00,23,1,installer,General Utilities,1
+2016-11-27T22:45:00,17,1,Finder,General Utilities,0
+2016-11-27T22:45:00,8,1,google.com,Search,2
+2016-11-27T22:45:00,6,1,beijingrelocation.com,Uncategorized,0
+2016-11-27T22:45:00,2,1,SecurityAgent,Systems Operations,0
+2016-11-27T22:45:00,2,1,Safari,Browsers,2
+2016-11-27T22:50:00,231,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T22:50:00,30,1,google.com,Search,2
+2016-11-27T22:50:00,19,1,edition.cnn.com,General News & Opinion,-2
+2016-11-27T22:50:00,13,1,ecns.cn,Uncategorized,0
+2016-11-27T22:50:00,2,1,Safari,Browsers,2
+2016-11-27T22:50:00,2,1,thenanfang.com,General News & Opinion,-2
+2016-11-27T22:55:00,271,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T22:55:00,26,1,thenanfang.com,General News & Opinion,-2
+2016-11-27T22:55:00,3,1,google.com,Search,2
+2016-11-27T23:00:00,298,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T23:00:00,1,1,microsoft autoupdate,General Utilities,1
+2016-11-27T23:05:00,294,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T23:05:00,2,1,engineering.columbia.edu,General Reference & Learning,1
+2016-11-27T23:05:00,1,1,drive.google.com,General Business,2
+2016-11-27T23:10:00,174,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T23:10:00,126,1,atimes.com,General News & Opinion,-2
+2016-11-27T23:15:00,126,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T23:15:00,112,1,google.com,Search,2
+2016-11-27T23:15:00,25,1,globalsherpa.org,Uncategorized,0
+2016-11-27T23:15:00,16,1,ebeijing.gov.cn,Legal & Gov't,1
+2016-11-27T23:15:00,10,1,atimes.com,General News & Opinion,-2
+2016-11-27T23:15:00,9,1,beijing.china.org.cn,General News & Opinion,-2
+2016-11-27T23:15:00,1,1,drive.google.com,General Business,2
+2016-11-27T23:20:00,257,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T23:20:00,36,1,google.com,Search,2
+2016-11-27T23:20:00,3,1,engineering.columbia.edu,General Reference & Learning,1
+2016-11-27T23:20:00,3,1,ebeijing.gov.cn,Legal & Gov't,1
+2016-11-27T23:25:00,250,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T23:25:00,49,1,ebeijing.gov.cn,Legal & Gov't,1
+2016-11-27T23:30:00,276,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T23:30:00,14,1,beta.fortune.com,Business,-1
+2016-11-27T23:30:00,5,1,ebeijing.gov.cn,Legal & Gov't,1
+2016-11-27T23:30:00,4,1,google.com,Search,2
+2016-11-27T23:35:00,172,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T23:35:00,54,1,telegraph.co.uk,General News & Opinion,-2
+2016-11-27T23:35:00,39,1,expatarrivals.com,Travel & Outdoors,-2
+2016-11-27T23:35:00,19,1,google.com,Search,2
+2016-11-27T23:35:00,14,1,internations.org,General Social Networking,-2
+2016-11-27T23:35:00,2,1,beta.fortune.com,Business,-1
+2016-11-27T23:40:00,298,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T23:45:00,299,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T23:50:00,248,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T23:50:00,35,1,usnews.com,General News & Opinion,-2
+2016-11-27T23:50:00,7,1,Safari,Browsers,2
+2016-11-27T23:50:00,6,1,google.com,Search,2
+2016-11-27T23:50:00,4,1,beta.fortune.com,Business,-1
+2016-11-27T23:55:00,294,1,en.wikipedia.org,General Reference & Learning,1
+2016-11-27T23:55:00,6,1,expatarrivals.com,Travel & Outdoors,-2

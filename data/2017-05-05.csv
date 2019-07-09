@@ -1,0 +1,226 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2017-05-05T00:00:00,10,1,Safari,Browsers,2
+2017-05-05T00:00:00,3,1,Notes,Email,0
+2017-05-05T00:00:00,3,1,Dropbox,File Sharing,-2
+2017-05-05T00:00:00,2,1,usernotificationcenter,General Utilities,0
+2017-05-05T00:00:00,2,1,Google Spreadsheets,General Business,2
+2017-05-05T00:00:00,2,1,applications,General Business,2
+2017-05-05T00:05:00,71,1,owa.exchange.mit.edu,Email,0
+2017-05-05T00:05:00,54,1,facebook.com,General Social Networking,-2
+2017-05-05T00:05:00,53,1,dropbox.com,File Sharing,2
+2017-05-05T00:05:00,45,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-05T00:05:00,28,1,thebeijinger.com,General News & Opinion,-2
+2017-05-05T00:05:00,9,1,Safari,Browsers,2
+2017-05-05T00:05:00,8,1,login.live.com,Email,0
+2017-05-05T00:05:00,7,1,gaoloumi.com,Regional,-2
+2017-05-05T00:05:00,7,1,en.wikipedia.org,General Reference & Learning,1
+2017-05-05T00:05:00,6,1,messages,General Social Networking,-2
+2017-05-05T00:05:00,5,1,applications,General Business,2
+2017-05-05T00:05:00,3,1,outlook.live.com,Email,0
+2017-05-05T00:05:00,2,1,Mail,Email,2
+2017-05-05T00:10:00,191,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-05T00:10:00,65,1,facebook.com,General Social Networking,-2
+2017-05-05T00:10:00,14,1,dainfo.deerfield.edu,General Reference & Learning,1
+2017-05-05T00:10:00,12,1,Google Spreadsheets,General Business,2
+2017-05-05T00:10:00,8,1,gaoloumi.com,Regional,-2
+2017-05-05T00:10:00,8,1,messages,General Social Networking,-2
+2017-05-05T00:10:00,2,1,Safari,Browsers,2
+2017-05-05T00:15:00,298,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-05T00:15:00,1,1,usernotificationcenter,General Utilities,0
+2017-05-05T00:20:00,297,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-05T00:25:00,299,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-05T00:30:00,264,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-05T01:15:00,17,1,loginwindow,General Utilities,0
+2017-05-05T08:40:00,93,1,gaoloumi.com,Regional,-2
+2017-05-05T08:40:00,60,1,google.com,Search,2
+2017-05-05T08:40:00,32,1,loginwindow,General Utilities,0
+2017-05-05T08:40:00,3,1,scmp.com,General News & Opinion,-2
+2017-05-05T08:40:00,2,1,Finder,General Utilities,0
+2017-05-05T08:40:00,1,1,ft.com,General News & Opinion,-2
+2017-05-05T08:50:00,31,1,loginwindow,General Utilities,0
+2017-05-05T08:50:00,11,1,google.com,Search,2
+2017-05-05T08:50:00,3,1,gaoloumi.com,Regional,-2
+2017-05-05T08:50:00,1,1,Safari,Browsers,2
+2017-05-05T08:55:00,152,1,google.com,Search,2
+2017-05-05T08:55:00,59,1,cnbc.com,Business,-1
+2017-05-05T09:00:00,291,1,pscp.tv,Uncategorized,0
+2017-05-05T09:00:00,8,1,cnbc.com,Business,-1
+2017-05-05T09:00:00,1,1,t.co,General Social Networking,-2
+2017-05-05T09:05:00,300,1,pscp.tv,Uncategorized,0
+2017-05-05T09:10:00,180,1,pscp.tv,Uncategorized,0
+2017-05-05T09:10:00,61,1,google.com,Search,2
+2017-05-05T09:10:00,48,1,nytimes.com,General News & Opinion,-2
+2017-05-05T09:10:00,9,1,cnbc.com,Business,-1
+2017-05-05T09:15:00,72,1,nytimes.com,General News & Opinion,-2
+2017-05-05T09:15:00,21,1,google.com,Search,2
+2017-05-05T09:15:00,16,1,loginwindow,General Utilities,0
+2017-05-05T09:20:00,134,1,en.wikipedia.org,General Reference & Learning,1
+2017-05-05T09:20:00,9,1,google.com,Search,2
+2017-05-05T09:20:00,8,1,Safari,Browsers,2
+2017-05-05T09:25:00,280,1,en.wikipedia.org,General Reference & Learning,1
+2017-05-05T09:25:00,15,1,google.com,Search,2
+2017-05-05T09:25:00,3,1,Safari,Browsers,2
+2017-05-05T09:30:00,139,1,en.wikipedia.org,General Reference & Learning,1
+2017-05-05T09:30:00,63,1,matlab,General Software Development,2
+2017-05-05T09:30:00,20,1,map.baidu.com,Maps & Regional,-2
+2017-05-05T09:30:00,16,1,loginwindow,General Utilities,0
+2017-05-05T09:30:00,16,1,Safari,Browsers,2
+2017-05-05T09:30:00,10,1,google.com,Search,2
+2017-05-05T09:30:00,2,1,RescueTime,Intelligence,0
+2017-05-05T09:35:00,98,1,wunderground.com,General News & Opinion,-2
+2017-05-05T09:35:00,90,1,data.cma.cn,Uncategorized,0
+2017-05-05T09:35:00,77,1,baidu.com,Search,2
+2017-05-05T09:35:00,10,1,google.com,Search,2
+2017-05-05T09:35:00,10,1,tianqi.2345.com,Search,0
+2017-05-05T09:35:00,8,1,Safari,Browsers,2
+2017-05-05T09:35:00,7,1,translate.google.com,Search,1
+2017-05-05T09:40:00,76,1,lishi.tianqi.com,Uncategorized,0
+2017-05-05T09:40:00,48,1,en.tutiempo.net,Uncategorized,0
+2017-05-05T09:40:00,46,1,blog.sina.com.cn,General News & Opinion,-2
+2017-05-05T09:40:00,34,1,baidu.com,Search,2
+2017-05-05T09:40:00,31,1,data.cma.cn,Uncategorized,0
+2017-05-05T09:40:00,22,1,creative cloud,General Design & Composition,2
+2017-05-05T09:40:00,21,1,tianqi.2345.com,Search,0
+2017-05-05T09:40:00,16,1,weather.com.cn,General Entertainment,-2
+2017-05-05T09:40:00,6,1,applications,General Business,2
+2017-05-05T09:45:00,150,1,en.tutiempo.net,Uncategorized,0
+2017-05-05T09:45:00,108,1,matlab,General Software Development,2
+2017-05-05T09:45:00,32,1,mundomanz.com,Uncategorized,0
+2017-05-05T09:45:00,9,1,blog.sina.com.cn,General News & Opinion,-2
+2017-05-05T09:50:00,211,1,tianqihoubao.com,Uncategorized,0
+2017-05-05T09:50:00,88,1,en.tutiempo.net,Uncategorized,0
+2017-05-05T09:50:00,1,1,mundomanz.com,Uncategorized,0
+2017-05-05T09:55:00,255,1,tianqihoubao.com,Uncategorized,0
+2017-05-05T09:55:00,26,1,Safari,Browsers,2
+2017-05-05T09:55:00,16,1,en.tutiempo.net,Uncategorized,0
+2017-05-05T09:55:00,1,1,mundomanz.com,Uncategorized,0
+2017-05-05T10:00:00,152,1,MS Excel,General Business,2
+2017-05-05T10:00:00,129,1,tianqihoubao.com,Uncategorized,0
+2017-05-05T10:00:00,5,1,photoshop cc,General Design & Composition,2
+2017-05-05T10:00:00,4,1,en.tutiempo.net,Uncategorized,0
+2017-05-05T10:00:00,2,1,data.cma.cn,Uncategorized,0
+2017-05-05T10:00:00,2,1,blog.sina.com.cn,General News & Opinion,-2
+2017-05-05T10:00:00,2,1,lishi.tianqi.com,Uncategorized,0
+2017-05-05T10:00:00,2,1,baidu.com,Search,2
+2017-05-05T10:00:00,1,1,microsoft autoupdate,General Utilities,1
+2017-05-05T10:05:00,106,1,MS Excel,General Business,2
+2017-05-05T10:05:00,103,1,tianqihoubao.com,Uncategorized,0
+2017-05-05T10:05:00,17,1,loginwindow,General Utilities,0
+2017-05-05T11:05:00,134,1,quartus,General Software Development,2
+2017-05-05T11:10:00,300,1,quartus,General Software Development,2
+2017-05-05T11:15:00,300,1,quartus,General Software Development,2
+2017-05-05T11:20:00,299,1,quartus,General Software Development,2
+2017-05-05T11:25:00,184,1,quartus,General Software Development,2
+2017-05-05T11:25:00,109,1,Google Chrome,Browsers,0
+2017-05-05T11:25:00,50,1,en.wikipedia.org,General Reference & Learning,1
+2017-05-05T11:25:00,7,1,system idle process,Other,0
+2017-05-05T11:30:00,164,1,quartus,General Software Development,2
+2017-05-05T11:30:00,77,1,google.com,Search,2
+2017-05-05T11:30:00,57,1,Google Chrome,Browsers,0
+2017-05-05T11:30:00,2,1,Windows Explorer,General Utilities,1
+2017-05-05T11:35:00,300,1,quartus,General Software Development,2
+2017-05-05T11:35:00,47,1,logic,General Software Development,2
+2017-05-05T11:35:00,22,1,Finder,General Utilities,0
+2017-05-05T11:35:00,5,1,coreservicesuiagent,General Utilities,0
+2017-05-05T11:35:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2017-05-05T11:40:00,300,1,quartus,General Software Development,2
+2017-05-05T11:45:00,298,1,quartus,General Software Development,2
+2017-05-05T11:45:00,70,1,logic,General Software Development,2
+2017-05-05T11:50:00,106,1,quartus,General Software Development,2
+2017-05-05T11:50:00,56,1,facebook.com,General Social Networking,-2
+2017-05-05T11:50:00,19,1,logic,General Software Development,2
+2017-05-05T11:50:00,18,1,loginwindow,General Utilities,0
+2017-05-05T11:50:00,13,1,Finder,General Utilities,0
+2017-05-05T11:50:00,7,1,eclipse,Editing & IDEs,2
+2017-05-05T12:40:00,8,1,facebook.com,General Social Networking,-2
+2017-05-05T12:40:00,6,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-05T12:45:00,254,1,facebook.com,General Social Networking,-2
+2017-05-05T12:45:00,2,1,usernotificationcenter,General Utilities,0
+2017-05-05T13:10:00,166,1,nytimes.com,General News & Opinion,-2
+2017-05-05T13:10:00,36,1,messages,General Social Networking,-2
+2017-05-05T13:10:00,35,1,facebook.com,General Social Networking,-2
+2017-05-05T13:10:00,1,1,en.wikipedia.org,General Reference & Learning,1
+2017-05-05T13:10:00,1,1,usernotificationcenter,General Utilities,0
+2017-05-05T13:10:00,1,1,dropbox.com,File Sharing,2
+2017-05-05T13:15:00,145,1,nytimes.com,General News & Opinion,-2
+2017-05-05T13:15:00,127,1,thebeijinger.com,General News & Opinion,-2
+2017-05-05T13:15:00,18,1,Mail,Email,2
+2017-05-05T13:15:00,6,1,applications,General Business,2
+2017-05-05T13:15:00,2,1,Google Spreadsheets,General Business,2
+2017-05-05T13:20:00,203,1,facebook.com,General Social Networking,-2
+2017-05-05T13:20:00,73,1,thebeijinger.com,General News & Opinion,-2
+2017-05-05T13:20:00,12,1,nytimes.com,General News & Opinion,-2
+2017-05-05T13:20:00,3,1,google.com,Search,2
+2017-05-05T13:20:00,2,1,outlook.live.com,Email,0
+2017-05-05T13:20:00,2,1,Safari,Browsers,2
+2017-05-05T13:20:00,2,1,en.wikipedia.org,General Reference & Learning,1
+2017-05-05T13:20:00,1,1,usernotificationcenter,General Utilities,0
+2017-05-05T13:25:00,160,1,en.wikipedia.org,General Reference & Learning,1
+2017-05-05T18:50:00,3,1,loginwindow,General Utilities,0
+2017-05-05T21:40:00,21,1,youtube.com,Video,-2
+2017-05-05T21:40:00,4,1,Safari,Browsers,2
+2017-05-05T21:45:00,297,1,youtube.com,Video,-2
+2017-05-05T21:45:00,3,1,Safari,Browsers,2
+2017-05-05T21:50:00,154,1,youtube.com,Video,-2
+2017-05-05T21:50:00,23,1,sport.es,General News & Opinion,-2
+2017-05-05T21:50:00,9,1,Safari,Browsers,2
+2017-05-05T21:50:00,6,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-05T21:55:00,224,1,youtube.com,Video,-2
+2017-05-05T21:55:00,75,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-05T22:00:00,300,1,youtube.com,Video,-2
+2017-05-05T22:05:00,297,1,youtube.com,Video,-2
+2017-05-05T22:05:00,3,1,messages,General Social Networking,-2
+2017-05-05T22:10:00,299,1,youtube.com,Video,-2
+2017-05-05T22:15:00,300,1,youtube.com,Video,-2
+2017-05-05T22:20:00,300,1,youtube.com,Video,-2
+2017-05-05T22:25:00,300,1,youtube.com,Video,-2
+2017-05-05T22:30:00,300,1,youtube.com,Video,-2
+2017-05-05T22:35:00,300,1,youtube.com,Video,-2
+2017-05-05T22:40:00,300,1,youtube.com,Video,-2
+2017-05-05T22:45:00,300,1,youtube.com,Video,-2
+2017-05-05T22:50:00,296,1,youtube.com,Video,-2
+2017-05-05T22:50:00,4,1,messages,General Social Networking,-2
+2017-05-05T22:55:00,241,1,messages,General Social Networking,-2
+2017-05-05T22:55:00,30,1,facebook.com,General Social Networking,-2
+2017-05-05T22:55:00,24,1,nytimes.com,General News & Opinion,-2
+2017-05-05T22:55:00,3,1,Google Spreadsheets,General Business,2
+2017-05-05T22:55:00,1,1,youtube.com,Video,-2
+2017-05-05T23:00:00,210,1,youtube.com,Video,-2
+2017-05-05T23:00:00,10,1,Safari,Browsers,2
+2017-05-05T23:00:00,6,1,sport.es,General News & Opinion,-2
+2017-05-05T23:00:00,3,1,google.com,Search,2
+2017-05-05T23:00:00,3,1,usernotificationcenter,General Utilities,0
+2017-05-05T23:00:00,3,1,messages,General Social Networking,-2
+2017-05-05T23:00:00,3,1,applications,General Business,2
+2017-05-05T23:00:00,2,1,ciudadsabina.com,General Entertainment,-2
+2017-05-05T23:05:00,130,1,ciudadsabina.com,General Entertainment,-2
+2017-05-05T23:05:00,64,1,youtube.com,Video,-2
+2017-05-05T23:05:00,26,1,dainfo.deerfield.edu,General Reference & Learning,1
+2017-05-05T23:05:00,7,1,google.com,Search,2
+2017-05-05T23:05:00,3,1,Safari,Browsers,2
+2017-05-05T23:10:00,167,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-05T23:10:00,73,1,youtube.com,Video,-2
+2017-05-05T23:10:00,27,1,taringa.net,General News & Opinion,-2
+2017-05-05T23:10:00,16,1,google.com,Search,2
+2017-05-05T23:10:00,14,1,elpais.com,General News & Opinion,-2
+2017-05-05T23:10:00,3,1,usernotificationcenter,General Utilities,0
+2017-05-05T23:15:00,174,1,messages,General Social Networking,-2
+2017-05-05T23:15:00,54,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-05T23:15:00,34,1,Finder,General Utilities,0
+2017-05-05T23:15:00,27,1,youtube.com,Video,-2
+2017-05-05T23:15:00,6,1,elpais.com,General News & Opinion,-2
+2017-05-05T23:15:00,5,1,usernotificationcenter,General Utilities,0
+2017-05-05T23:20:00,268,1,youtube.com,Video,-2
+2017-05-05T23:20:00,28,1,messages,General Social Networking,-2
+2017-05-05T23:20:00,3,1,elpais.com,General News & Opinion,-2
+2017-05-05T23:25:00,259,1,youtube.com,Video,-2
+2017-05-05T23:25:00,29,1,usernotificationcenter,General Utilities,0
+2017-05-05T23:25:00,12,1,applications,General Business,2
+2017-05-05T23:30:00,213,1,youtube.com,Video,-2
+2017-05-05T23:30:00,86,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-05T23:35:00,300,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-05T23:40:00,111,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-05T23:40:00,11,1,usernotificationcenter,General Utilities,0
+2017-05-05T23:50:00,263,1,adobe premiere pro cc 2015,Video Editing,2
+2017-05-05T23:50:00,7,1,facetime,Voice Chat,-2
+2017-05-05T23:50:00,2,1,usernotificationcenter,General Utilities,0

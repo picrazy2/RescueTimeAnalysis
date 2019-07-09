@@ -1,0 +1,296 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2017-11-29T00:05:00,277,1,iTunes,Music,0
+2017-11-29T00:05:00,12,1,wechat,General Social Networking,-2
+2017-11-29T00:10:00,300,1,iTunes,Music,0
+2017-11-29T00:15:00,300,1,iTunes,Music,0
+2017-11-29T00:20:00,171,1,iTunes,Music,0
+2017-11-29T00:20:00,103,1,baike.baidu.com,Search,0
+2017-11-29T00:20:00,14,1,baidu.com,Search,2
+2017-11-29T00:20:00,12,1,stellar.mit.edu,General Reference & Learning,1
+2017-11-29T00:25:00,244,1,iTunes,Music,0
+2017-11-29T00:25:00,42,1,forbes.com,General News & Opinion,-2
+2017-11-29T00:25:00,9,1,Safari,Browsers,2
+2017-11-29T00:25:00,3,1,google.com,Search,2
+2017-11-29T00:25:00,2,1,baike.baidu.com,Search,0
+2017-11-29T00:30:00,222,1,iTunes,Music,0
+2017-11-29T00:30:00,74,1,baike.baidu.com,Search,0
+2017-11-29T00:30:00,4,1,forbes.com,General News & Opinion,-2
+2017-11-29T00:35:00,300,1,iTunes,Music,0
+2017-11-29T00:40:00,300,1,iTunes,Music,0
+2017-11-29T00:45:00,300,1,iTunes,Music,0
+2017-11-29T00:50:00,292,1,iTunes,Music,0
+2017-11-29T00:50:00,6,1,youtube.com,Video,-2
+2017-11-29T00:50:00,2,1,baike.baidu.com,Search,0
+2017-11-29T00:55:00,274,1,iTunes,Music,0
+2017-11-29T00:55:00,14,1,youtube.com,Video,-2
+2017-11-29T00:55:00,8,1,Finder,General Utilities,0
+2017-11-29T00:55:00,4,1,wechat,General Social Networking,-2
+2017-11-29T01:00:00,114,1,iTunes,Music,0
+2017-11-29T01:40:00,9,1,System Preferences,General Utilities,0
+2017-11-29T01:40:00,7,1,Safari,Browsers,2
+2017-11-29T01:40:00,3,1,implicit.harvard.edu,General Reference & Learning,1
+2017-11-29T01:45:00,271,1,implicit.harvard.edu,General Reference & Learning,1
+2017-11-29T01:50:00,300,1,implicit.harvard.edu,General Reference & Learning,1
+2017-11-29T01:55:00,154,1,implicit.harvard.edu,General Reference & Learning,1
+2017-11-29T01:55:00,34,1,loginwindow,General Utilities,0
+2017-11-29T01:55:00,1,1,letitbefaster.website,Uncategorized,0
+2017-11-29T13:35:00,145,1,9to5mac.com,General News & Opinion,-2
+2017-11-29T13:35:00,31,1,gaoloumi.com,Regional,-2
+2017-11-29T13:35:00,23,1,facebook.com,General Social Networking,-2
+2017-11-29T13:35:00,13,1,Mail,Email,2
+2017-11-29T13:35:00,2,1,Safari,Browsers,2
+2017-11-29T13:35:00,1,1,Google Documents,Writing,2
+2017-11-29T13:40:00,267,1,9to5mac.com,General News & Opinion,-2
+2017-11-29T13:40:00,30,1,google.com,Search,2
+2017-11-29T13:40:00,3,1,Safari,Browsers,2
+2017-11-29T13:45:00,196,1,9to5mac.com,General News & Opinion,-2
+2017-11-29T13:45:00,98,1,gaoloumi.com,Regional,-2
+2017-11-29T13:45:00,6,1,google.com,Search,2
+2017-11-29T13:50:00,173,1,gaoloumi.com,Regional,-2
+2017-11-29T13:50:00,122,1,facebook.com,General Social Networking,-2
+2017-11-29T13:50:00,3,1,sixohone.mit.edu,Presentation,2
+2017-11-29T13:50:00,1,1,Google Documents,Writing,2
+2017-11-29T13:55:00,227,1,facebook.com,General Social Networking,-2
+2017-11-29T13:55:00,24,1,baike.baidu.com,Search,0
+2017-11-29T13:55:00,22,1,google.com,Search,2
+2017-11-29T13:55:00,12,1,snakes-on-a-robot.readthedocs.io,Uncategorized,0
+2017-11-29T13:55:00,8,1,sixohone.mit.edu,Presentation,2
+2017-11-29T13:55:00,4,1,en.wikipedia.org,General Reference & Learning,1
+2017-11-29T13:55:00,1,1,9to5mac.com,General News & Opinion,-2
+2017-11-29T13:55:00,1,1,gaoloumi.com,Regional,-2
+2017-11-29T14:00:00,211,1,en.wikipedia.org,General Reference & Learning,1
+2017-11-29T14:00:00,63,1,facebook.com,General Social Networking,-2
+2017-11-29T14:00:00,21,1,baike.baidu.com,Search,0
+2017-11-29T14:00:00,2,1,google.com,Search,2
+2017-11-29T14:00:00,1,1,l.facebook.com,General Social Networking,-2
+2017-11-29T14:00:00,1,1,app store,General Shopping,-2
+2017-11-29T14:05:00,114,1,baike.baidu.com,Search,0
+2017-11-29T14:05:00,89,1,en.wikipedia.org,General Reference & Learning,1
+2017-11-29T14:05:00,73,1,facebook.com,General Social Networking,-2
+2017-11-29T14:05:00,23,1,gaoloumi.com,Regional,-2
+2017-11-29T14:05:00,1,1,Google Documents,Writing,2
+2017-11-29T14:10:00,225,1,en.wikipedia.org,General Reference & Learning,1
+2017-11-29T14:10:00,48,1,Safari,Browsers,2
+2017-11-29T14:10:00,22,1,gaoloumi.com,Regional,-2
+2017-11-29T14:10:00,5,1,google.com,Search,2
+2017-11-29T14:15:00,216,1,en.wikipedia.org,General Reference & Learning,1
+2017-11-29T14:15:00,34,1,engadget.com,Science & Technology,-1
+2017-11-29T14:15:00,28,1,statista.com,Intelligence,2
+2017-11-29T14:15:00,13,1,google.com,Search,2
+2017-11-29T14:15:00,9,1,Safari,Browsers,2
+2017-11-29T14:20:00,21,1,loginwindow,General Utilities,0
+2017-11-29T14:20:00,9,1,en.wikipedia.org,General Reference & Learning,1
+2017-11-29T18:15:00,124,1,en.wikipedia.org,General Reference & Learning,1
+2017-11-29T18:15:00,112,1,Mail,Email,2
+2017-11-29T18:15:00,20,1,backup and sync from google,Uncategorized,0
+2017-11-29T18:15:00,5,1,Activity Monitor,General Utilities,0
+2017-11-29T18:15:00,3,1,messenger.com,General Social Networking,-2
+2017-11-29T18:15:00,2,1,l.facebook.com,General Social Networking,-2
+2017-11-29T18:15:00,2,1,iTunes,Music,0
+2017-11-29T18:15:00,2,1,wechat,General Social Networking,-2
+2017-11-29T18:15:00,1,1,youtube.com,Video,-2
+2017-11-29T18:20:00,296,1,en.wikipedia.org,General Reference & Learning,1
+2017-11-29T18:20:00,3,1,youtube.com,Video,-2
+2017-11-29T18:25:00,219,1,en.wikipedia.org,General Reference & Learning,1
+2017-11-29T18:25:00,57,1,Mail,Email,2
+2017-11-29T18:25:00,19,1,facetime,Voice Chat,-2
+2017-11-29T18:25:00,5,1,youtube.com,Video,-2
+2017-11-29T18:30:00,254,1,en.wikipedia.org,General Reference & Learning,1
+2017-11-29T18:30:00,35,1,facetime,Voice Chat,-2
+2017-11-29T18:30:00,5,1,iTunes,Music,0
+2017-11-29T18:30:00,1,1,google.com,Search,2
+2017-11-29T18:35:00,166,1,iTunes,Music,0
+2017-11-29T18:35:00,80,1,wechat,General Social Networking,-2
+2017-11-29T18:35:00,54,1,facetime,Voice Chat,-2
+2017-11-29T18:40:00,99,1,iTunes,Music,0
+2017-11-29T18:50:00,114,1,Finder,General Utilities,0
+2017-11-29T18:50:00,82,1,drive.google.com,General Business,2
+2017-11-29T18:50:00,7,1,en.wikipedia.org,General Reference & Learning,1
+2017-11-29T18:50:00,3,1,Safari,Browsers,2
+2017-11-29T18:50:00,2,1,facetime,Voice Chat,-2
+2017-11-29T18:55:00,217,1,Finder,General Utilities,0
+2017-11-29T18:55:00,42,1,en.wikipedia.org,General Reference & Learning,1
+2017-11-29T18:55:00,10,1,drive.google.com,General Business,2
+2017-11-29T19:00:00,4,1,en.wikipedia.org,General Reference & Learning,1
+2017-11-29T19:00:00,1,1,drive.google.com,General Business,2
+2017-11-29T19:05:00,15,1,en.wikipedia.org,General Reference & Learning,1
+2017-11-29T19:05:00,6,1,messenger.com,General Social Networking,-2
+2017-11-29T19:05:00,4,1,messages,General Social Networking,-2
+2017-11-29T19:05:00,3,1,web.groupme.com,Instant Message,-1
+2017-11-29T19:10:00,153,1,en.wikipedia.org,General Reference & Learning,1
+2017-11-29T19:15:00,114,1,en.wikipedia.org,General Reference & Learning,1
+2017-11-29T19:15:00,102,1,Mail,Email,2
+2017-11-29T19:15:00,81,1,drive.google.com,General Business,2
+2017-11-29T19:15:00,2,1,Activity Monitor,General Utilities,0
+2017-11-29T19:15:00,1,1,calendar,Calendars,1
+2017-11-29T19:20:00,40,1,drive.google.com,General Business,2
+2017-11-29T19:20:00,1,1,Mail,Email,2
+2017-11-29T19:25:00,26,1,wechat,General Social Networking,-2
+2017-11-29T19:30:00,236,1,wechat,General Social Networking,-2
+2017-11-29T19:30:00,64,1,drive.google.com,General Business,2
+2017-11-29T19:35:00,243,1,drive.google.com,General Business,2
+2017-11-29T19:35:00,57,1,Mail,Email,2
+2017-11-29T19:40:00,247,1,Mail,Email,2
+2017-11-29T19:40:00,30,1,wechat,General Social Networking,-2
+2017-11-29T19:40:00,14,1,alexa.amazon.com,General Shopping,-2
+2017-11-29T19:40:00,7,1,Finder,General Utilities,0
+2017-11-29T19:40:00,2,1,facetime,Voice Chat,-2
+2017-11-29T19:45:00,162,1,keychain access,Systems Operations,2
+2017-11-29T19:45:00,133,1,alexa.amazon.com,General Shopping,-2
+2017-11-29T19:45:00,3,1,Keynote,Presentation,2
+2017-11-29T19:45:00,2,1,SecurityAgent,Systems Operations,0
+2017-11-29T19:50:00,85,1,google.com,Search,2
+2017-11-29T19:50:00,70,1,forum.universal-devices.com,Uncategorized,0
+2017-11-29T19:50:00,67,1,keychain access,Systems Operations,2
+2017-11-29T19:50:00,40,1,alexa.amazon.com,General Shopping,-2
+2017-11-29T19:50:00,15,1,amazon.com,General Shopping,-1
+2017-11-29T19:50:00,12,1,support.alexa.com,Search,0
+2017-11-29T19:50:00,11,1,Safari,Browsers,2
+2017-11-29T19:55:00,181,1,google.com,Search,2
+2017-11-29T19:55:00,96,1,amazon-alexa.appstor.io,Uncategorized,0
+2017-11-29T19:55:00,17,1,echotalk.org,Uncategorized,0
+2017-11-29T19:55:00,6,1,Safari,Browsers,2
+2017-11-29T20:00:00,220,1,alexa.amazon.com,General Shopping,-2
+2017-11-29T20:00:00,88,1,keychain access,Systems Operations,2
+2017-11-29T20:00:00,47,1,amazon.com,General Shopping,-1
+2017-11-29T20:00:00,24,1,wechat,General Social Networking,-2
+2017-11-29T20:00:00,20,1,implicit.harvard.edu,General Reference & Learning,1
+2017-11-29T20:00:00,19,1,loginwindow,General Utilities,0
+2017-11-29T20:00:00,15,1,SecurityAgent,Systems Operations,0
+2017-11-29T20:00:00,7,1,google.com,Search,2
+2017-11-29T20:00:00,6,1,en.wikipedia.org,General Reference & Learning,1
+2017-11-29T20:00:00,3,1,Keynote,Presentation,2
+2017-11-29T20:00:00,1,1,amazon-alexa.appstor.io,Uncategorized,0
+2017-11-29T20:00:00,1,1,drive.google.com,General Business,2
+2017-11-29T20:05:00,181,1,alexa.amazon.com,General Shopping,-2
+2017-11-29T20:05:00,75,1,amazon.com,General Shopping,-1
+2017-11-29T20:05:00,14,1,applications,General Business,2
+2017-11-29T20:05:00,14,1,SecurityAgent,Systems Operations,0
+2017-11-29T20:05:00,11,1,keychain access,Systems Operations,2
+2017-11-29T20:05:00,5,1,backup and sync from google,Uncategorized,0
+2017-11-29T20:10:00,115,1,Mail,Email,2
+2017-11-29T20:10:00,103,1,amazon.com,General Shopping,-1
+2017-11-29T20:10:00,79,1,messenger.com,General Social Networking,-2
+2017-11-29T20:10:00,3,1,baike.baidu.com,Search,0
+2017-11-29T20:15:00,294,1,messenger.com,General Social Networking,-2
+2017-11-29T20:15:00,33,1,loginwindow,General Utilities,0
+2017-11-29T20:15:00,5,1,amazon.com,General Shopping,-1
+2017-11-29T20:20:00,173,1,google.com,Search,2
+2017-11-29T20:20:00,32,1,cnet.com,Science & Technology,-1
+2017-11-29T20:20:00,28,1,reddit.com,General News & Opinion,-2
+2017-11-29T20:20:00,27,1,9to5mac.com,General News & Opinion,-2
+2017-11-29T20:20:00,21,1,forum.universal-devices.com,Uncategorized,0
+2017-11-29T20:20:00,12,1,alexa.com,Search,0
+2017-11-29T20:20:00,3,1,amazon.com,General Shopping,-1
+2017-11-29T20:20:00,3,1,wechat,General Social Networking,-2
+2017-11-29T20:25:00,233,1,wechat,General Social Networking,-2
+2017-11-29T20:25:00,32,1,google.com,Search,2
+2017-11-29T20:25:00,28,1,amazon.com,General Shopping,-1
+2017-11-29T20:25:00,7,1,forum.universal-devices.com,Uncategorized,0
+2017-11-29T20:30:00,134,1,wechat,General Social Networking,-2
+2017-11-29T20:30:00,92,1,en.community.sonos.com,Uncategorized,0
+2017-11-29T20:30:00,51,1,tuneskit.com,Uncategorized,0
+2017-11-29T20:30:00,18,1,google.com,Search,2
+2017-11-29T20:30:00,4,1,Safari,Browsers,2
+2017-11-29T20:30:00,1,1,amazon.com,General Shopping,-1
+2017-11-29T20:35:00,104,1,Finder,General Utilities,0
+2017-11-29T20:35:00,95,1,amazon music,Music,-2
+2017-11-29T20:35:00,63,1,amazon.com,General Shopping,-1
+2017-11-29T20:35:00,23,1,tuneskit.com,Uncategorized,0
+2017-11-29T20:35:00,6,1,google.com,Search,2
+2017-11-29T20:35:00,5,1,Safari,Browsers,2
+2017-11-29T20:35:00,2,1,diskimages ui agent,General Utilities,1
+2017-11-29T20:35:00,1,1,diskimagemounter,General Utilities,1
+2017-11-29T20:40:00,246,1,amazon music,Music,-2
+2017-11-29T20:40:00,31,1,Finder,General Utilities,0
+2017-11-29T20:40:00,23,1,iTunes,Music,0
+2017-11-29T20:45:00,125,1,wechat,General Social Networking,-2
+2017-11-29T20:45:00,51,1,amazon music,Music,-2
+2017-11-29T20:45:00,5,1,messenger.com,General Social Networking,-2
+2017-11-29T20:45:00,3,1,Safari,Browsers,2
+2017-11-29T20:50:00,45,1,spotify,General Entertainment,-2
+2017-11-29T20:50:00,3,1,wechat,General Social Networking,-2
+2017-11-29T20:55:00,291,1,spotify,General Entertainment,-2
+2017-11-29T20:55:00,9,1,iTunes,Music,0
+2017-11-29T21:00:00,170,1,amazon music,Music,-2
+2017-11-29T21:00:00,79,1,spotify,General Entertainment,-2
+2017-11-29T21:00:00,31,1,Finder,General Utilities,0
+2017-11-29T21:00:00,20,1,messenger.com,General Social Networking,-2
+2017-11-29T21:05:00,165,1,amazon music,Music,-2
+2017-11-29T21:05:00,77,1,Finder,General Utilities,0
+2017-11-29T21:05:00,18,1,tuneskit.com,Uncategorized,0
+2017-11-29T21:05:00,18,1,iTunes,Music,0
+2017-11-29T21:05:00,12,1,wechat,General Social Networking,-2
+2017-11-29T21:05:00,5,1,messenger.com,General Social Networking,-2
+2017-11-29T21:05:00,2,1,spotify.com,General Entertainment,-2
+2017-11-29T21:05:00,2,1,amazon.com,General Shopping,-1
+2017-11-29T21:10:00,143,1,messenger.com,General Social Networking,-2
+2017-11-29T21:10:00,126,1,alexa.amazon.com,General Shopping,-2
+2017-11-29T21:10:00,18,1,wechat,General Social Networking,-2
+2017-11-29T21:10:00,9,1,backup and sync from google,Uncategorized,0
+2017-11-29T21:10:00,3,1,Safari,Browsers,2
+2017-11-29T21:10:00,1,1,baike.baidu.com,Search,0
+2017-11-29T21:15:00,258,1,messenger.com,General Social Networking,-2
+2017-11-29T21:15:00,42,1,alexa.amazon.com,General Shopping,-2
+2017-11-29T21:20:00,190,1,alexa.amazon.com,General Shopping,-2
+2017-11-29T21:20:00,92,1,google.com,Search,2
+2017-11-29T21:20:00,11,1,Finder,General Utilities,0
+2017-11-29T21:20:00,5,1,Safari,Browsers,2
+2017-11-29T21:20:00,1,1,wechat,General Social Networking,-2
+2017-11-29T21:25:00,75,1,google.com,Search,2
+2017-11-29T21:25:00,1,1,keychain access,Systems Operations,2
+2017-11-29T23:15:00,174,1,wechat,General Social Networking,-2
+2017-11-29T23:15:00,28,1,reddit.com,General News & Opinion,-2
+2017-11-29T23:15:00,8,1,loginwindow,General Utilities,0
+2017-11-29T23:15:00,8,1,google.com,Search,2
+2017-11-29T23:20:00,246,1,alexa.amazon.com,General Shopping,-2
+2017-11-29T23:20:00,30,1,reddit.com,General News & Opinion,-2
+2017-11-29T23:20:00,12,1,mysmarthomegear.com,Uncategorized,0
+2017-11-29T23:20:00,7,1,Safari,Browsers,2
+2017-11-29T23:20:00,5,1,google.com,Search,2
+2017-11-29T23:25:00,72,1,tomsguide.com,General News & Opinion,-2
+2017-11-29T23:25:00,71,1,alexa.amazon.com,General Shopping,-2
+2017-11-29T23:25:00,59,1,messenger.com,General Social Networking,-2
+2017-11-29T23:25:00,55,1,Mail,Email,2
+2017-11-29T23:25:00,20,1,wechat,General Social Networking,-2
+2017-11-29T23:25:00,15,1,google.com,Search,2
+2017-11-29T23:25:00,4,1,reddit.com,General News & Opinion,-2
+2017-11-29T23:30:00,138,1,wechat,General Social Networking,-2
+2017-11-29T23:30:00,126,1,messenger.com,General Social Networking,-2
+2017-11-29T23:30:00,35,1,tomsguide.com,General News & Opinion,-2
+2017-11-29T23:35:00,81,1,wechat,General Social Networking,-2
+2017-11-29T23:35:00,77,1,google.com,Search,2
+2017-11-29T23:35:00,57,1,loginwindow,General Utilities,0
+2017-11-29T23:35:00,34,1,tomsguide.com,General News & Opinion,-2
+2017-11-29T23:35:00,24,1,calendar,Calendars,1
+2017-11-29T23:35:00,23,1,Activity Monitor,General Utilities,0
+2017-11-29T23:35:00,2,1,alexa.amazon.com,General Shopping,-2
+2017-11-29T23:35:00,1,1,messages,General Social Networking,-2
+2017-11-29T23:40:00,111,1,amazon.com,General Shopping,-1
+2017-11-29T23:40:00,80,1,messenger.com,General Social Networking,-2
+2017-11-29T23:40:00,77,1,Activity Monitor,General Utilities,0
+2017-11-29T23:40:00,12,1,huetips.com,Uncategorized,0
+2017-11-29T23:40:00,9,1,google.com,Search,2
+2017-11-29T23:40:00,7,1,tomsguide.com,General News & Opinion,-2
+2017-11-29T23:40:00,2,1,spotify.com,General Entertainment,-2
+2017-11-29T23:40:00,1,1,Safari,Browsers,2
+2017-11-29T23:45:00,139,1,huetips.com,Uncategorized,0
+2017-11-29T23:45:00,36,1,reddit.com,General News & Opinion,-2
+2017-11-29T23:45:00,28,1,google.com,Search,2
+2017-11-29T23:45:00,25,1,ifttt.com,Internet Utilities,1
+2017-11-29T23:45:00,23,1,account.meethue.com,Uncategorized,0
+2017-11-29T23:45:00,22,1,www2.meethue.com,Uncategorized,0
+2017-11-29T23:45:00,19,1,amazon.com,General Shopping,-1
+2017-11-29T23:45:00,6,1,Safari,Browsers,2
+2017-11-29T23:50:00,194,1,reddit.com,General News & Opinion,-2
+2017-11-29T23:50:00,41,1,huetips.com,Uncategorized,0
+2017-11-29T23:50:00,27,1,account.meethue.com,Uncategorized,0
+2017-11-29T23:50:00,21,1,ifttt.com,Internet Utilities,1
+2017-11-29T23:50:00,9,1,google.com,Search,2
+2017-11-29T23:50:00,7,1,messenger.com,General Social Networking,-2
+2017-11-29T23:50:00,1,1,amazon-alexa.appstor.io,Uncategorized,0
+2017-11-29T23:55:00,130,1,huetips.com,Uncategorized,0
+2017-11-29T23:55:00,127,1,spotify,General Entertainment,-2
+2017-11-29T23:55:00,32,1,google.com,Search,2
+2017-11-29T23:55:00,6,1,iTunes,Music,0
+2017-11-29T23:55:00,5,1,github.com,General Software Development,2

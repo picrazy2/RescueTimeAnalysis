@@ -1,0 +1,94 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2013-11-09T13:40:00,42,1,rescuetime.com,Intelligence,0
+2013-11-09T13:40:00,37,1,loginwindow,General Utilities,0
+2013-11-09T14:30:00,54,1,rescuetime.com,Intelligence,0
+2013-11-09T14:35:00,300,1,rescuetime.com,Intelligence,0
+2013-11-09T14:40:00,46,1,rescuetime.com,Intelligence,0
+2013-11-09T15:30:00,107,1,Skype,General Social Networking,-2
+2013-11-09T15:30:00,12,1,chacha.com,Search,0
+2013-11-09T15:30:00,1,1,Finder,General Utilities,0
+2013-11-09T15:35:00,44,1,loginwindow,General Utilities,0
+2013-11-09T15:35:00,6,1,chacha.com,Search,0
+2013-11-09T15:45:00,133,1,VLC Media Player,Video,-2
+2013-11-09T15:45:00,113,1,Skype,General Social Networking,-2
+2013-11-09T15:45:00,22,1,chacha.com,Search,0
+2013-11-09T15:45:00,10,1,Finder,General Utilities,0
+2013-11-09T15:50:00,300,1,Skype,General Social Networking,-2
+2013-11-09T15:55:00,300,1,Skype,General Social Networking,-2
+2013-11-09T16:00:00,226,1,Skype,General Social Networking,-2
+2013-11-09T16:00:00,74,1,VLC Media Player,Video,-2
+2013-11-09T16:05:00,300,1,VLC Media Player,Video,-2
+2013-11-09T16:10:00,231,1,VLC Media Player,Video,-2
+2013-11-09T18:25:00,118,1,chacha.com,Search,0
+2013-11-09T18:25:00,25,1,Skype,General Social Networking,-2
+2013-11-09T18:25:00,16,1,loginwindow,General Utilities,0
+2013-11-09T18:25:00,12,1,VLC Media Player,Video,-2
+2013-11-09T18:25:00,11,1,Finder,General Utilities,0
+2013-11-09T18:25:00,4,1,tv.sohu.com,Video,-2
+2013-11-09T18:30:00,290,1,tv.sohu.com,Video,-2
+2013-11-09T18:30:00,10,1,Skype,General Social Networking,-2
+2013-11-09T18:35:00,300,1,tv.sohu.com,Video,-2
+2013-11-09T18:40:00,300,1,tv.sohu.com,Video,-2
+2013-11-09T18:45:00,283,1,tv.sohu.com,Video,-2
+2013-11-09T18:45:00,17,1,Skype,General Social Networking,-2
+2013-11-09T18:50:00,269,1,tv.sohu.com,Video,-2
+2013-11-09T18:50:00,31,1,Skype,General Social Networking,-2
+2013-11-09T18:55:00,208,1,tv.sohu.com,Video,-2
+2013-11-09T21:05:00,206,1,Skype,General Social Networking,-2
+2013-11-09T21:05:00,71,1,loginwindow,General Utilities,0
+2013-11-09T21:05:00,44,1,app store,General Shopping,-2
+2013-11-09T21:05:00,23,1,soku.com,Video,-2
+2013-11-09T21:05:00,19,1,Finder,General Utilities,0
+2013-11-09T21:10:00,116,1,Skype,General Social Networking,-2
+2013-11-09T21:10:00,91,1,VLC Media Player,Video,-2
+2013-11-09T21:10:00,65,1,Finder,General Utilities,0
+2013-11-09T21:10:00,15,1,usernotificationcenter,General Utilities,0
+2013-11-09T21:10:00,13,1,System Preferences,General Utilities,0
+2013-11-09T21:15:00,300,1,Skype,General Social Networking,-2
+2013-11-09T21:20:00,300,1,Skype,General Social Networking,-2
+2013-11-09T21:25:00,300,1,Skype,General Social Networking,-2
+2013-11-09T21:30:00,218,1,Skype,General Social Networking,-2
+2013-11-09T21:30:00,78,1,VLC Media Player,Video,-2
+2013-11-09T21:30:00,4,1,Finder,General Utilities,0
+2013-11-09T21:35:00,156,1,VLC Media Player,Video,-2
+2013-11-09T21:35:00,144,1,Skype,General Social Networking,-2
+2013-11-09T21:40:00,300,1,Skype,General Social Networking,-2
+2013-11-09T21:45:00,262,1,Skype,General Social Networking,-2
+2013-11-09T21:45:00,32,1,evernote,Intelligence,2
+2013-11-09T21:45:00,5,1,VLC Media Player,Video,-2
+2013-11-09T21:45:00,1,1,alfred,General Utilities,2
+2013-11-09T21:50:00,300,1,Skype,General Social Networking,-2
+2013-11-09T21:55:00,108,1,Skype,General Social Networking,-2
+2013-11-09T21:55:00,89,1,soku.com,Video,-2
+2013-11-09T21:55:00,87,1,TextEdit,Writing,2
+2013-11-09T21:55:00,8,1,Mail,Email,2
+2013-11-09T21:55:00,7,1,Finder,General Utilities,0
+2013-11-09T21:55:00,1,1,alfred,General Utilities,2
+2013-11-09T22:00:00,245,1,soku.com,Video,-2
+2013-11-09T22:00:00,46,1,VLC Media Player,Video,-2
+2013-11-09T22:00:00,6,1,Finder,General Utilities,0
+2013-11-09T22:00:00,2,1,TextEdit,Writing,2
+2013-11-09T22:00:00,1,1,google chrome,Browsers,0
+2013-11-09T22:05:00,210,1,VLC Media Player,Video,-2
+2013-11-09T22:05:00,90,1,Skype,General Social Networking,-2
+2013-11-09T22:10:00,202,1,Skype,General Social Networking,-2
+2013-11-09T22:10:00,98,1,VLC Media Player,Video,-2
+2013-11-09T22:15:00,186,1,VLC Media Player,Video,-2
+2013-11-09T22:15:00,111,1,TextEdit,Writing,2
+2013-11-09T22:15:00,3,1,Skype,General Social Networking,-2
+2013-11-09T22:20:00,295,1,VLC Media Player,Video,-2
+2013-11-09T22:20:00,5,1,TextEdit,Writing,2
+2013-11-09T22:25:00,184,1,VLC Media Player,Video,-2
+2013-11-09T22:25:00,114,1,Skype,General Social Networking,-2
+2013-11-09T22:25:00,2,1,TextEdit,Writing,2
+2013-11-09T22:30:00,153,1,ibooks,General Reference & Learning,1
+2013-11-09T22:30:00,140,1,Skype,General Social Networking,-2
+2013-11-09T22:30:00,4,1,app store,General Shopping,-2
+2013-11-09T22:30:00,3,1,TextEdit,Writing,2
+2013-11-09T22:35:00,161,1,ibooks,General Reference & Learning,1
+2013-11-09T22:35:00,139,1,mail.isb.bj.edu.cn,Uncategorized,0
+2013-11-09T22:40:00,257,1,mail.isb.bj.edu.cn,Uncategorized,0
+2013-11-09T23:10:00,100,1,TextEdit,Writing,2
+2013-11-09T23:15:00,31,1,TextEdit,Writing,2
+2013-11-09T23:50:00,138,1,loginwindow,General Utilities,0
+2013-11-09T23:50:00,3,1,forums.macrumors.com,General News & Opinion,-2

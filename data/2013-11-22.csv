@@ -1,0 +1,240 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2013-11-22T01:45:00,33,1,screensaverengine,General Utilities,0
+2013-11-22T03:10:00,155,1,loginwindow,General Utilities,0
+2013-11-22T03:15:00,98,1,loginwindow,General Utilities,0
+2013-11-22T07:55:00,38,1,µtorrent,File Sharing,-2
+2013-11-22T07:55:00,5,1,Finder,General Utilities,0
+2013-11-22T08:00:00,127,1,Finder,General Utilities,0
+2013-11-22T08:00:00,22,1,loginwindow,General Utilities,0
+2013-11-22T08:25:00,45,1,microsoft word,Writing,2
+2013-11-22T08:25:00,2,1,Finder,General Utilities,0
+2013-11-22T09:55:00,105,1,Finder,General Utilities,0
+2013-11-22T10:00:00,250,1,boson x,Games,-1
+2013-11-22T10:00:00,10,1,Finder,General Utilities,0
+2013-11-22T10:05:00,183,1,boson x,Games,-1
+2013-11-22T10:05:00,106,1,Finder,General Utilities,0
+2013-11-22T10:35:00,8,1,portal.ssat.org,Uncategorized,0
+2013-11-22T10:40:00,1,1,portal.ssat.org,Uncategorized,0
+2013-11-22T10:40:00,1,1,apple.com,Engineering & Technology,-1
+2013-11-22T11:20:00,69,1,Finder,General Utilities,0
+2013-11-22T11:20:00,42,1,microsoft outlook,Email,2
+2013-11-22T11:20:00,2,1,apple.com,Engineering & Technology,-1
+2013-11-22T11:25:00,39,1,Finder,General Utilities,0
+2013-11-22T12:15:00,76,1,Finder,General Utilities,0
+2013-11-22T12:15:00,66,1,Keynote,Presentation,2
+2013-11-22T12:15:00,18,1,microsoft outlook,Email,2
+2013-11-22T12:15:00,2,1,alfred,General Utilities,2
+2013-11-22T12:15:00,2,1,usernotificationcenter,General Utilities,0
+2013-11-22T12:20:00,281,1,Keynote,Presentation,2
+2013-11-22T12:20:00,19,1,alfred,General Utilities,2
+2013-11-22T12:25:00,280,1,Keynote,Presentation,2
+2013-11-22T12:25:00,19,1,Calculator,General Utilities,1
+2013-11-22T12:25:00,1,1,alfred,General Utilities,2
+2013-11-22T12:30:00,282,1,Keynote,Presentation,2
+2013-11-22T12:30:00,17,1,Calculator,General Utilities,1
+2013-11-22T12:30:00,1,1,apple.com,Engineering & Technology,-1
+2013-11-22T12:35:00,299,1,Keynote,Presentation,2
+2013-11-22T12:40:00,198,1,Keynote,Presentation,2
+2013-11-22T12:40:00,102,1,MS Excel,General Business,2
+2013-11-22T12:45:00,109,1,MS Excel,General Business,2
+2013-11-22T12:45:00,103,1,Keynote,Presentation,2
+2013-11-22T12:45:00,45,1,microsoft word,Writing,2
+2013-11-22T12:45:00,34,1,plantronics.com,General Entertainment,-2
+2013-11-22T12:45:00,5,1,apple.com,Engineering & Technology,-1
+2013-11-22T12:50:00,205,1,microsoft word,Writing,2
+2013-11-22T12:50:00,92,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2013-11-22T12:50:00,3,1,plantronics.com,General Entertainment,-2
+2013-11-22T12:55:00,300,1,microsoft word,Writing,2
+2013-11-22T13:00:00,195,1,Keynote,Presentation,2
+2013-11-22T13:00:00,101,1,microsoft word,Writing,2
+2013-11-22T13:05:00,162,1,microsoft word,Writing,2
+2013-11-22T13:05:00,58,1,support.apple.com,Search,0
+2013-11-22T13:05:00,38,1,Keynote,Presentation,2
+2013-11-22T13:05:00,35,1,bing.com,Search,2
+2013-11-22T13:05:00,4,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2013-11-22T13:05:00,2,1,MS Excel,General Business,2
+2013-11-22T13:10:00,155,1,microsoft word,Writing,2
+2013-11-22T13:10:00,62,1,google.com,Search,2
+2013-11-22T13:10:00,54,1,support.apple.com,Search,0
+2013-11-22T13:10:00,20,1,Keynote,Presentation,2
+2013-11-22T13:10:00,5,1,tuftsobserver.org,Uncategorized,0
+2013-11-22T13:10:00,2,1,Finder,General Utilities,0
+2013-11-22T13:15:00,82,1,google.com,Search,2
+2013-11-22T13:15:00,62,1,microsoft word,Writing,2
+2013-11-22T13:15:00,43,1,discussions.apple.com,Science & Technology,-1
+2013-11-22T13:15:00,39,1,kb.mit.edu,General Reference & Learning,1
+2013-11-22T13:15:00,24,1,Keynote,Presentation,2
+2013-11-22T13:15:00,17,1,System Preferences,General Utilities,0
+2013-11-22T13:15:00,14,1,support.apple.com,Search,0
+2013-11-22T13:15:00,8,1,apple.com,Engineering & Technology,-1
+2013-11-22T13:15:00,6,1,Finder,General Utilities,0
+2013-11-22T13:15:00,2,1,elearning.isb.bj.edu.cn,General Reference & Learning,2
+2013-11-22T13:15:00,1,1,thehague.thimun.org,Search,0
+2013-11-22T13:20:00,234,1,support.apple.com,Search,0
+2013-11-22T13:20:00,38,1,microsoft outlook,Email,2
+2013-11-22T13:20:00,18,1,kb.mit.edu,General Reference & Learning,1
+2013-11-22T13:20:00,8,1,google.com,Search,2
+2013-11-22T13:20:00,2,1,microsoft word,Writing,2
+2013-11-22T13:25:00,176,1,support.apple.com,Search,0
+2013-11-22T13:25:00,112,1,Keynote,Presentation,2
+2013-11-22T13:25:00,12,1,systemuiserver,General Utilities,1
+2013-11-22T13:30:00,280,1,Keynote,Presentation,2
+2013-11-22T13:30:00,11,1,Finder,General Utilities,0
+2013-11-22T13:30:00,6,1,support.apple.com,Search,0
+2013-11-22T13:30:00,1,1,apple.com,Engineering & Technology,-1
+2013-11-22T13:35:00,202,1,Keynote,Presentation,2
+2013-11-22T13:35:00,77,1,boson x,Games,-1
+2013-11-22T13:35:00,10,1,google.com,Search,2
+2013-11-22T13:35:00,4,1,microsoft word,Writing,2
+2013-11-22T13:35:00,3,1,alfred,General Utilities,2
+2013-11-22T13:35:00,3,1,support.apple.com,Search,0
+2013-11-22T13:40:00,300,1,boson x,Games,-1
+2013-11-22T13:45:00,85,1,boson x,Games,-1
+2013-11-22T13:50:00,56,1,microsoft word,Writing,2
+2013-11-22T13:55:00,287,1,boson x,Games,-1
+2013-11-22T13:55:00,11,1,microsoft word,Writing,2
+2013-11-22T13:55:00,2,1,alfred,General Utilities,2
+2013-11-22T14:00:00,54,1,boson x,Games,-1
+2013-11-22T14:55:00,11,1,g.isb.bj.edu.cn,General Reference & Learning,1
+2013-11-22T14:55:00,6,1,icloud.com,General Software Development,2
+2013-11-22T14:55:00,3,1,microsoft word,Writing,2
+2013-11-22T15:05:00,39,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2013-11-22T15:05:00,10,1,aimersoft.com,Uncategorized,0
+2013-11-22T15:05:00,5,1,soku.com,Video,-2
+2013-11-22T15:30:00,83,1,politicsprotestaya.epad.isb.bj.edu.cn,General Design & Composition,2
+2013-11-22T15:30:00,52,1,uyghurcongress.org,Uncategorized,0
+2013-11-22T15:30:00,10,1,google.com,Search,2
+2013-11-22T15:30:00,5,1,soku.com,Video,-2
+2013-11-22T15:30:00,1,1,grades.isb.bj.edu.cn,General Reference & Learning,1
+2013-11-22T15:35:00,160,1,uyghurcongress.org,Uncategorized,0
+2013-11-22T15:35:00,134,1,politicsprotestaya.epad.isb.bj.edu.cn,General Design & Composition,2
+2013-11-22T15:35:00,3,1,soku.com,Video,-2
+2013-11-22T15:35:00,2,1,cia.gov,Search,0
+2013-11-22T15:40:00,118,1,uyghurcongress.org,Uncategorized,0
+2013-11-22T15:40:00,30,1,Skype,General Social Networking,-2
+2013-11-22T15:40:00,17,1,microsoft outlook,Email,2
+2013-11-22T15:40:00,12,1,MS Excel,General Business,2
+2013-11-22T15:40:00,2,1,Activity Monitor,General Utilities,0
+2013-11-22T15:40:00,1,1,app store,General Shopping,-2
+2013-11-22T15:45:00,100,1,uyghurcongress.org,Uncategorized,0
+2013-11-22T15:50:00,171,1,epad.isb.bj.edu.cn,General Design & Composition,2
+2013-11-22T15:50:00,113,1,uyghurcongress.org,Uncategorized,0
+2013-11-22T15:50:00,14,1,politicsprotestaya.epad.isb.bj.edu.cn,General Design & Composition,2
+2013-11-22T15:50:00,2,1,google.com,Search,2
+2013-11-22T15:55:00,178,1,uyghurcongress.org,Uncategorized,0
+2013-11-22T15:55:00,64,1,politicsprotestaya.epad.isb.bj.edu.cn,General Design & Composition,2
+2013-11-22T15:55:00,29,1,iskysoft.com,Electronics,-2
+2013-11-22T15:55:00,27,1,soku.com,Video,-2
+2013-11-22T15:55:00,1,1,ehow.com,Search,0
+2013-11-22T15:55:00,1,1,Calculator,General Utilities,1
+2013-11-22T16:00:00,95,1,uyghurcongress.org,Uncategorized,0
+2013-11-22T16:00:00,84,1,microsoft outlook,Email,2
+2013-11-22T16:00:00,71,1,politicsprotestaya.epad.isb.bj.edu.cn,General Design & Composition,2
+2013-11-22T16:00:00,44,1,boson x,Games,-1
+2013-11-22T16:00:00,3,1,alfred,General Utilities,2
+2013-11-22T16:05:00,294,1,microsoft outlook,Email,2
+2013-11-22T16:05:00,6,1,uyghurcongress.org,Uncategorized,0
+2013-11-22T16:10:00,266,1,microsoft outlook,Email,2
+2013-11-22T16:10:00,32,1,uyghurcongress.org,Uncategorized,0
+2013-11-22T16:15:00,51,1,uyghurcongress.org,Uncategorized,0
+2013-11-22T16:15:00,8,1,SecurityAgent,Systems Operations,0
+2013-11-22T17:50:00,89,1,microsoft word,Writing,2
+2013-11-22T17:50:00,36,1,microsoft outlook,Email,2
+2013-11-22T17:50:00,19,1,uyghurcongress.org,Uncategorized,0
+2013-11-22T17:50:00,7,1,alfred,General Utilities,2
+2013-11-22T17:50:00,6,1,g.isb.bj.edu.cn,General Reference & Learning,1
+2013-11-22T17:50:00,2,1,support.apple.com,Search,0
+2013-11-22T17:55:00,241,1,microsoft word,Writing,2
+2013-11-22T17:55:00,50,1,Skype,General Social Networking,-2
+2013-11-22T17:55:00,3,1,alfred,General Utilities,2
+2013-11-22T18:00:00,300,1,microsoft word,Writing,2
+2013-11-22T18:05:00,300,1,microsoft word,Writing,2
+2013-11-22T18:05:00,41,1,handbrake,Video Editing,2
+2013-11-22T18:05:00,39,1,Finder,General Utilities,0
+2013-11-22T18:05:00,14,1,µtorrent,File Sharing,-2
+2013-11-22T18:05:00,1,1,alfred,General Utilities,2
+2013-11-22T18:10:00,300,1,microsoft word,Writing,2
+2013-11-22T18:10:00,234,1,Finder,General Utilities,0
+2013-11-22T18:10:00,57,1,VLC Media Player,Video,-2
+2013-11-22T18:10:00,6,1,handbrake,Video Editing,2
+2013-11-22T18:10:00,3,1,Skype,General Social Networking,-2
+2013-11-22T18:15:00,300,1,microsoft word,Writing,2
+2013-11-22T18:15:00,96,1,handbrake,Video Editing,2
+2013-11-22T18:15:00,69,1,Safari,Browsers,2
+2013-11-22T18:15:00,54,1,Finder,General Utilities,0
+2013-11-22T18:15:00,33,1,alfred,General Utilities,2
+2013-11-22T18:15:00,28,1,µtorrent,File Sharing,-2
+2013-11-22T18:15:00,14,1,VLC Media Player,Video,-2
+2013-11-22T18:15:00,6,1,Skype,General Social Networking,-2
+2013-11-22T18:20:00,300,1,microsoft word,Writing,2
+2013-11-22T18:20:00,129,1,Skype,General Social Networking,-2
+2013-11-22T18:20:00,110,1,handbrake,Video Editing,2
+2013-11-22T18:20:00,44,1,µtorrent,File Sharing,-2
+2013-11-22T18:20:00,14,1,Finder,General Utilities,0
+2013-11-22T18:20:00,3,1,alfred,General Utilities,2
+2013-11-22T18:25:00,196,1,microsoft word,Writing,2
+2013-11-22T18:25:00,160,1,iTunes,Music,0
+2013-11-22T18:25:00,73,1,Finder,General Utilities,0
+2013-11-22T18:25:00,41,1,handbrake,Video Editing,2
+2013-11-22T18:25:00,17,1,µtorrent,File Sharing,-2
+2013-11-22T18:25:00,9,1,Skype,General Social Networking,-2
+2013-11-22T18:30:00,83,1,handbrake,Video Editing,2
+2013-11-22T18:30:00,82,1,iTunes,Music,0
+2013-11-22T18:30:00,61,1,Finder,General Utilities,0
+2013-11-22T18:30:00,53,1,µtorrent,File Sharing,-2
+2013-11-22T18:30:00,14,1,Skype,General Social Networking,-2
+2013-11-22T18:30:00,7,1,System Preferences,General Utilities,0
+2013-11-22T18:35:00,175,1,iTunes,Music,0
+2013-11-22T18:35:00,108,1,handbrake,Video Editing,2
+2013-11-22T18:35:00,12,1,Dropbox,File Sharing,-2
+2013-11-22T18:35:00,3,1,Skype,General Social Networking,-2
+2013-11-22T18:35:00,2,1,µtorrent,File Sharing,-2
+2013-11-22T18:40:00,160,1,Skype,General Social Networking,-2
+2013-11-22T18:40:00,135,1,handbrake,Video Editing,2
+2013-11-22T18:40:00,5,1,µtorrent,File Sharing,-2
+2013-11-22T18:45:00,261,1,Skype,General Social Networking,-2
+2013-11-22T18:45:00,23,1,handbrake,Video Editing,2
+2013-11-22T18:45:00,10,1,µtorrent,File Sharing,-2
+2013-11-22T18:45:00,3,1,Safari,Browsers,2
+2013-11-22T18:45:00,3,1,kickass.to,File Sharing,-2
+2013-11-22T18:50:00,199,1,Skype,General Social Networking,-2
+2013-11-22T18:50:00,94,1,µtorrent,File Sharing,-2
+2013-11-22T18:50:00,6,1,kickass.to,File Sharing,-2
+2013-11-22T18:50:00,1,1,Finder,General Utilities,0
+2013-11-22T18:55:00,111,1,Skype,General Social Networking,-2
+2013-11-22T18:55:00,73,1,microsoft word,Writing,2
+2013-11-22T18:55:00,73,1,kickass.to,File Sharing,-2
+2013-11-22T18:55:00,44,1,iTunes,Music,0
+2013-11-22T18:55:00,28,1,handbrake,Video Editing,2
+2013-11-22T18:55:00,26,1,µtorrent,File Sharing,-2
+2013-11-22T18:55:00,18,1,Finder,General Utilities,0
+2013-11-22T19:00:00,76,1,Skype,General Social Networking,-2
+2013-11-22T19:00:00,58,1,microsoft word,Writing,2
+2013-11-22T19:00:00,42,1,iTunes,Music,0
+2013-11-22T19:00:00,13,1,handbrake,Video Editing,2
+2013-11-22T19:00:00,1,1,kickass.to,File Sharing,-2
+2013-11-22T19:30:00,49,1,handbrake,Video Editing,2
+2013-11-22T22:30:00,44,1,Finder,General Utilities,0
+2013-11-22T22:30:00,20,1,handbrake,Video Editing,2
+2013-11-22T22:30:00,11,1,iTunes,Music,0
+2013-11-22T22:30:00,10,1,Skype,General Social Networking,-2
+2013-11-22T22:30:00,9,1,kickass.to,File Sharing,-2
+2013-11-22T22:30:00,2,1,software update,General Utilities,1
+2013-11-22T22:30:00,2,1,loginwindow,General Utilities,0
+2013-11-22T22:35:00,110,1,iTunes,Music,0
+2013-11-22T22:35:00,40,1,Finder,General Utilities,0
+2013-11-22T22:35:00,4,1,handbrake,Video Editing,2
+2013-11-22T23:40:00,27,1,iTunes,Music,0
+2013-11-22T23:40:00,8,1,Finder,General Utilities,0
+2013-11-22T23:40:00,4,1,software update,General Utilities,1
+2013-11-22T23:40:00,2,1,Dropbox,File Sharing,-2
+2013-11-22T23:40:00,2,1,handbrake,Video Editing,2
+2013-11-22T23:45:00,31,1,Finder,General Utilities,0
+2013-11-22T23:45:00,4,1,iTunes,Music,0
+2013-11-22T23:45:00,2,1,kickass.to,File Sharing,-2
+2013-11-22T23:50:00,168,1,Finder,General Utilities,0
+2013-11-22T23:50:00,44,1,iTunes,Music,0
+2013-11-22T23:50:00,22,1,loginwindow,General Utilities,0
+2013-11-22T23:55:00,157,1,iTunes,Music,0
+2013-11-22T23:55:00,22,1,loginwindow,General Utilities,0
+2013-11-22T23:55:00,6,1,Dropbox,File Sharing,-2
