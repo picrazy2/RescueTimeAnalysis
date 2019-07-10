@@ -1,0 +1,172 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2019-07-10T00:00:00,235,1,youtube.com,Video,-2
+2019-07-10T00:00:00,53,1,campervan-hq.com,Uncategorized,0
+2019-07-10T00:00:00,12,1,mbvans.com,Uncategorized,0
+2019-07-10T00:05:00,174,1,youtube.com,Video,-2
+2019-07-10T00:05:00,97,1,notability,Writing,2
+2019-07-10T00:05:00,29,1,wechat,General Social Networking,-2
+2019-07-10T00:10:00,300,1,youtube.com,Video,-2
+2019-07-10T00:15:00,211,1,youtube.com,Video,-2
+2019-07-10T00:15:00,77,1,notability,Writing,2
+2019-07-10T00:15:00,9,1,wechat,General Social Networking,-2
+2019-07-10T00:15:00,3,1,Mail,Email,2
+2019-07-10T00:20:00,170,1,youtube.com,Video,-2
+2019-07-10T00:20:00,117,1,amazon.com,General Shopping,-1
+2019-07-10T00:20:00,11,1,gnomadhome.com,Uncategorized,0
+2019-07-10T00:20:00,2,1,amzn.to,General Shopping,-2
+2019-07-10T00:25:00,160,1,amazon.com,General Shopping,-1
+2019-07-10T00:25:00,140,1,wechat,General Social Networking,-2
+2019-07-10T00:30:00,178,1,notability,Writing,2
+2019-07-10T00:30:00,102,1,amazon.com,General Shopping,-1
+2019-07-10T00:30:00,7,1,wechat,General Social Networking,-2
+2019-07-10T00:40:00,142,1,wechat,General Social Networking,-2
+2019-07-10T00:40:00,139,1,greenmatch.co.uk,Uncategorized,0
+2019-07-10T00:40:00,13,1,google.com,Search,2
+2019-07-10T00:40:00,3,1,newtab,Browsers,0
+2019-07-10T00:40:00,1,1,amazon.com,General Shopping,-1
+2019-07-10T00:40:00,1,1,Mail,Email,2
+2019-07-10T00:45:00,189,1,notability,Writing,2
+2019-07-10T00:45:00,107,1,wechat,General Social Networking,-2
+2019-07-10T00:45:00,4,1,amazon.com,General Shopping,-1
+2019-07-10T00:50:00,170,1,Notes,Email,0
+2019-07-10T00:50:00,121,1,notability,Writing,2
+2019-07-10T00:50:00,9,1,wechat,General Social Networking,-2
+2019-07-10T00:55:00,166,1,amazon.com,General Shopping,-1
+2019-07-10T00:55:00,64,1,Notes,Email,0
+2019-07-10T00:55:00,34,1,google.com,Search,2
+2019-07-10T00:55:00,12,1,usautoauthority.com,Uncategorized,0
+2019-07-10T00:55:00,12,1,eberspacher.com,Uncategorized,0
+2019-07-10T00:55:00,7,1,wechat,General Social Networking,-2
+2019-07-10T00:55:00,5,1,heatso.com,Uncategorized,0
+2019-07-10T01:00:00,209,1,amazon.com,General Shopping,-1
+2019-07-10T01:00:00,41,1,dometic.com,General Reference & Learning,1
+2019-07-10T01:00:00,33,1,wechat,General Social Networking,-2
+2019-07-10T01:00:00,17,1,google.com,Search,2
+2019-07-10T01:05:00,211,1,cargurus.com,General Shopping,-2
+2019-07-10T01:05:00,29,1,amazon.com,General Shopping,-1
+2019-07-10T01:05:00,12,1,wechat,General Social Networking,-2
+2019-07-10T01:05:00,8,1,newtab,Browsers,0
+2019-07-10T01:05:00,6,1,google.com,Search,2
+2019-07-10T01:05:00,2,1,flexfits.com,Uncategorized,0
+2019-07-10T10:35:00,123,1,Slack,Instant Message,2
+2019-07-10T10:35:00,31,1,google.com/calendar,Calendars,2
+2019-07-10T10:35:00,10,1,usr56.dayforcehcm.com,General Business,2
+2019-07-10T10:35:00,7,1,brazetechnology.slack.com,Instant Message,-1
+2019-07-10T10:40:00,93,1,Slack,Instant Message,2
+2019-07-10T10:40:00,49,1,usr56.dayforcehcm.com,General Business,2
+2019-07-10T10:40:00,45,1,github.com,General Software Development,2
+2019-07-10T10:40:00,31,1,splinter.com.au,Engineering & Technology,1
+2019-07-10T10:40:00,27,1,Xcode,Editing & IDEs,2
+2019-07-10T10:40:00,17,1,google.com/calendar,Calendars,2
+2019-07-10T10:40:00,13,1,Gmail,Email,2
+2019-07-10T10:40:00,7,1,brazetechnology.slack.com,Instant Message,-1
+2019-07-10T10:40:00,7,1,system information,General Utilities,0
+2019-07-10T10:40:00,7,1,jira.braze.com,Design & Planning,2
+2019-07-10T10:40:00,3,1,google.com,Search,2
+2019-07-10T10:45:00,277,1,Xcode,Editing & IDEs,2
+2019-07-10T10:45:00,15,1,splinter.com.au,Engineering & Technology,1
+2019-07-10T10:45:00,7,1,google.com,Search,2
+2019-07-10T10:50:00,297,1,Xcode,Editing & IDEs,2
+2019-07-10T10:55:00,299,1,Xcode,Editing & IDEs,2
+2019-07-10T11:00:00,297,1,Xcode,Editing & IDEs,2
+2019-07-10T11:05:00,191,1,Xcode,Editing & IDEs,2
+2019-07-10T11:05:00,100,1,Terminal,Systems Operations,2
+2019-07-10T11:10:00,212,1,Terminal,Systems Operations,2
+2019-07-10T11:10:00,16,1,Xcode,Editing & IDEs,2
+2019-07-10T11:15:00,176,1,Xcode,Editing & IDEs,2
+2019-07-10T11:15:00,72,1,Slack,Instant Message,2
+2019-07-10T11:15:00,52,1,screensaverengine,General Utilities,0
+2019-07-10T11:20:00,116,1,Terminal,Systems Operations,2
+2019-07-10T11:20:00,69,1,Xcode,Editing & IDEs,2
+2019-07-10T11:20:00,56,1,Slack,Instant Message,2
+2019-07-10T11:20:00,40,1,jira.braze.com,Design & Planning,2
+2019-07-10T11:20:00,15,1,github.com,General Software Development,2
+2019-07-10T11:20:00,4,1,accounts.google.com,General Communication & Scheduling,0
+2019-07-10T11:25:00,300,1,Xcode,Editing & IDEs,2
+2019-07-10T11:30:00,129,1,Xcode,Editing & IDEs,2
+2019-07-10T11:30:00,77,1,Slack,Instant Message,2
+2019-07-10T11:30:00,62,1,github.com,General Software Development,2
+2019-07-10T11:30:00,24,1,Terminal,Systems Operations,2
+2019-07-10T11:30:00,5,1,jira.braze.com,Design & Planning,2
+2019-07-10T11:35:00,171,1,Slack,Instant Message,2
+2019-07-10T11:35:00,45,1,rescuetime.com,Intelligence,0
+2019-07-10T11:35:00,24,1,jira.braze.com,Design & Planning,2
+2019-07-10T11:35:00,23,1,9to5mac.com,General News & Opinion,-2
+2019-07-10T11:35:00,15,1,Xcode,Editing & IDEs,2
+2019-07-10T11:35:00,13,1,github.com,General Software Development,2
+2019-07-10T11:35:00,3,1,apple.com,Engineering & Technology,-1
+2019-07-10T11:35:00,3,1,usr56.dayforcehcm.com,General Business,2
+2019-07-10T11:35:00,3,1,screensaverengine,General Utilities,0
+2019-07-10T11:40:00,136,1,sublime text,Editing & IDEs,2
+2019-07-10T11:40:00,60,1,9to5mac.com,General News & Opinion,-2
+2019-07-10T11:40:00,17,1,Slack,Instant Message,2
+2019-07-10T11:40:00,16,1,stackoverflow.com,General Software Development,2
+2019-07-10T11:40:00,15,1,pandas.pydata.org,Engineering & Technology,1
+2019-07-10T11:40:00,14,1,shanelynn.ie,General Reference & Learning,1
+2019-07-10T11:40:00,14,1,realpython.com,Engineering & Technology,1
+2019-07-10T11:40:00,10,1,Xcode,Editing & IDEs,2
+2019-07-10T11:40:00,9,1,google.com,Search,2
+2019-07-10T11:40:00,5,1,rescuetime.com,Intelligence,0
+2019-07-10T11:40:00,2,1,Finder,General Utilities,0
+2019-07-10T11:40:00,1,1,github.com,General Software Development,2
+2019-07-10T11:40:00,1,1,jira.braze.com,Design & Planning,2
+2019-07-10T11:45:00,157,1,sublime text,Editing & IDEs,2
+2019-07-10T11:45:00,23,1,pandas.pydata.org,Engineering & Technology,1
+2019-07-10T12:25:00,138,1,sublime text,Editing & IDEs,2
+2019-07-10T12:35:00,152,1,Gmail,Email,2
+2019-07-10T12:35:00,2,1,sublime text,Editing & IDEs,2
+2019-07-10T12:40:00,146,1,screensaverengine,General Utilities,0
+2019-07-10T12:40:00,112,1,Slack,Instant Message,2
+2019-07-10T12:40:00,42,1,Gmail,Email,2
+2019-07-10T12:45:00,129,1,Slack,Instant Message,2
+2019-07-10T12:45:00,92,1,9to5mac.com,General News & Opinion,-2
+2019-07-10T12:45:00,63,1,google.com,Search,2
+2019-07-10T12:45:00,7,1,usr56.dayforcehcm.com,General Business,2
+2019-07-10T12:45:00,5,1,stackoverflow.com,General Software Development,2
+2019-07-10T12:45:00,2,1,apple.com,Engineering & Technology,-1
+2019-07-10T12:45:00,1,1,pandas.pydata.org,Engineering & Technology,1
+2019-07-10T12:45:00,1,1,github.com,General Software Development,2
+2019-07-10T12:50:00,142,1,Terminal,Systems Operations,2
+2019-07-10T12:50:00,81,1,sublime text,Editing & IDEs,2
+2019-07-10T12:50:00,24,1,google.com,Search,2
+2019-07-10T12:50:00,19,1,datatofish.com,Uncategorized,0
+2019-07-10T12:50:00,9,1,pandas.pydata.org,Engineering & Technology,1
+2019-07-10T12:50:00,8,1,jira.braze.com,Design & Planning,2
+2019-07-10T12:50:00,7,1,Finder,General Utilities,0
+2019-07-10T12:50:00,5,1,github.com,General Software Development,2
+2019-07-10T12:50:00,5,1,stackoverflow.com,General Software Development,2
+2019-07-10T12:55:00,139,1,sublime text,Editing & IDEs,2
+2019-07-10T12:55:00,78,1,Terminal,Systems Operations,2
+2019-07-10T12:55:00,34,1,Finder,General Utilities,0
+2019-07-10T12:55:00,16,1,stackoverflow.com,General Software Development,2
+2019-07-10T12:55:00,13,1,reddit.com,General News & Opinion,-2
+2019-07-10T12:55:00,8,1,google.com,Search,2
+2019-07-10T12:55:00,7,1,google.com/calendar,Calendars,2
+2019-07-10T12:55:00,3,1,github.com,General Software Development,2
+2019-07-10T13:00:00,146,1,sublime text,Editing & IDEs,2
+2019-07-10T13:00:00,73,1,Terminal,Systems Operations,2
+2019-07-10T13:00:00,46,1,pythonforbeginners.com,General Software Development,2
+2019-07-10T13:00:00,14,1,chrisalbon.com,General Reference & Learning,1
+2019-07-10T13:00:00,8,1,Finder,General Utilities,0
+2019-07-10T13:00:00,6,1,google.com,Search,2
+2019-07-10T13:00:00,4,1,newtab,Browsers,0
+2019-07-10T13:00:00,2,1,Xcode,Editing & IDEs,2
+2019-07-10T13:00:00,1,1,google.com/calendar,Calendars,2
+2019-07-10T13:05:00,231,1,sublime text,Editing & IDEs,2
+2019-07-10T13:05:00,26,1,chrisalbon.com,General Reference & Learning,1
+2019-07-10T13:05:00,20,1,stackoverflow.com,General Software Development,2
+2019-07-10T13:05:00,15,1,google.com,Search,2
+2019-07-10T13:05:00,7,1,pandas.pydata.org,Engineering & Technology,1
+2019-07-10T13:05:00,1,1,Terminal,Systems Operations,2
+2019-07-10T13:10:00,281,1,sublime text,Editing & IDEs,2
+2019-07-10T13:10:00,11,1,screensaverengine,General Utilities,0
+2019-07-10T13:10:00,7,1,app store,General Shopping,-2
+2019-07-10T13:15:00,120,1,sublime text,Editing & IDEs,2
+2019-07-10T13:25:00,53,1,chrisalbon.com,General Reference & Learning,1
+2019-07-10T13:25:00,53,1,Terminal,Systems Operations,2
+2019-07-10T13:25:00,39,1,sublime text,Editing & IDEs,2
+2019-07-10T13:25:00,10,1,stackoverflow.com,General Software Development,2
+2019-07-10T13:25:00,6,1,Finder,General Utilities,0
+2019-07-10T13:25:00,5,1,Xcode,Editing & IDEs,2
+2019-07-10T13:25:00,3,1,github.com,General Software Development,2
+2019-07-10T13:25:00,2,1,google.com,Search,2
