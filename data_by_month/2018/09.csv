@@ -1,0 +1,361 @@
+App,Time Spent (Hours),Category,Productivity
+Safari,6571,Browsers,2
+Mail,18786,Email,2
+loginwindow,820,General Utilities,0
+Terminal,12315,Systems Operations,2
+Finder,7237,General Utilities,0
+Preview,31441,General Reference & Learning,2
+microsoft word,9524,Writing,2
+font book,12,Presentation,2
+Notes,4858,Email,0
+calendar,7168,Calendars,1
+facetime,356,Voice Chat,-2
+sublime text,33817,Editing & IDEs,2
+microsoft autoupdate,63,General Utilities,1
+MS Excel,1601,General Business,2
+istat menus,45,General Utilities,1
+istat menus status,39,General Utilities,1
+backup and sync from google,182,Uncategorized,0
+wechat,16090,General Social Networking,-2
+messages,2048,General Social Networking,-2
+firehose.guide,841,General Communication & Scheduling,2
+microsoft onenote,3162,Intelligence,2
+microsoft error reporting,4,Science & Technology,-1
+messenger.com,22863,General Social Networking,-2
+learning-modules.mit.edu,3115,General Reference & Learning,1
+6004.mit.edu,12720,Engineering & Technology,1
+google.com,6531,Search,2
+9to5mac.com,7606,General News & Opinion,-2
+mobility.mit.edu,6,Presentation,2
+stellar.mit.edu,723,General Reference & Learning,1
+en.wikipedia.org,3078,General Reference & Learning,1
+introml.mit.edu,26715,Presentation,2
+piazza.com,1505,General Reference & Learning,2
+safari-resource:,234,Browsers,0
+courses.csail.mit.edu,6,General Reference & Learning,1
+eduapps.mit.edu,536,Presentation,2
+idp.mit.edu,625,General Reference & Learning,1
+creative cloud,14,General Design & Composition,2
+registration.mit.edu,4,Presentation,2
+nytimes.com,478,General News & Opinion,-2
+google.com/calendar,143,Calendars,2
+studentschedule.mit.edu,45,Presentation,2
+student.mit.edu,1440,General Reference & Learning,1
+websis.mit.edu,4,General Reference & Learning,1
+foxtrotalpha.jalopnik.com,106,Entertainment,-2
+riskmap.mit.edu,51,Presentation,2
+mathworld.wolfram.com,159,Search,0
+stackoverflow.com,2520,General Software Development,2
+clubsports.mit.edu,275,Presentation,2
+Dictionary,55,General Reference & Learning,1
+apple.com,3760,Engineering & Technology,-1
+thebeijinger.com,1603,General News & Opinion,-2
+residentadvisor.net,22,General Entertainment,-2
+facebook.com,7161,General Social Networking,-2
+Google Spreadsheets,1736,General Business,2
+beta.apple.com,86,Engineering & Technology,1
+imore.com,14,Science & Technology,-1
+amazon.com,2506,General Shopping,-1
+idmsa.apple.com,23,General Software Development,2
+app store,334,General Shopping,-2
+installer,233,General Utilities,1
+SecurityAgent,64,Systems Operations,0
+install macos mojave beta,13,Uncategorized,0
+expressvpn,12,General Utilities,1
+usernotificationcenter,92,General Utilities,0
+media.mit.edu,32,General Reference & Learning,1
+macworld.co.uk,79,General Reference & Learning,1
+iTunes,226,Music,0
+java updater,7,General Utilities,1
+youtube.com,43711,Video,-2
+system information,3,General Utilities,0
+controlpanel,1,General Utilities,1
+System Preferences,524,General Utilities,0
+storeuid,6,General Utilities,1
+ebay.com,90,General Shopping,-2
+cs111.wellesley.edu,96,General Reference & Learning,1
+forums.autodesk.com,11,Engineering & Technology,1
+wayf.mit.edu,14,Presentation,2
+gaoloumi.com,1717,Regional,-2
+tomsguide.com,32,General News & Opinion,-2
+producthunt.com,25,Science & Technology,-1
+wellesley.edu,54,General Reference & Learning,1
+RescueTime,7,Intelligence,0
+Activity Monitor,22,General Utilities,0
+tripadvisor.com,224,Travel & Outdoors,-2
+bu.edu,53,General Reference & Learning,1
+bostonusa.com,43,Uncategorized,0
+timeout.com,88,Search,0
+messenger,2,General Social Networking,-2
+Google Earth Pro,303,Search,0
+bestusbpoweredmonitor.com,41,Uncategorized,0
+designernews.co,22,General Design & Composition,2
+dell.com,34,Employment,2
+tomshardware.com,123,Science & Technology,-1
+images-na.ssl-images-amazon.com,481,General Shopping,-2
+public.oed.com,27,General Reference & Learning,1
+com.apple.fontregistryuiagent,11,General Utilities,1
+oed.com,20,Search,0
+dictionary.com,71,General Business,2
+map.baidu.com,453,Maps & Regional,-2
+texshop,53709,Writing,2
+coreservicesuiagent,13,General Utilities,0
+tug.org,213,General Software Development,2
+pages.uoregon.edu,4,General Reference & Learning,1
+tex.stackexchange.com,130,Engineering & Technology,1
+wolframalpha.com,2317,Search,1
+BBC,111,International,2
+docs.python.org,275,General Software Development,2
+Dropbox,29,File Sharing,-2
+ist.mit.edu,65,Engineering & Technology,1
+listmaker.mit.edu,577,Presentation,2
+groups.mit.edu,335,Presentation,2
+kb.mit.edu,172,General Reference & Learning,1
+redbubble.com,29,General Shopping,-2
+sharelatex.com,63,Writing,2
+l.messenger.com,43,Instant Message,-1
+gradescope.com,2150,General Reference & Learning,1
+web.mit.edu,27,General Reference & Learning,2
+oidc.mit.edu,57,Presentation,2
+6004.mit.edu:4443,525,Uncategorized,0
+allaboutcircuits.com,78,General Reference & Learning,1
+catalog.mit.edu,527,Presentation,2
+courseroad.mit.edu,15,General Reference & Learning,1
+eecs.mit.edu,120,General Reference & Learning,1
+dusp.mit.edu,36,General Reference & Learning,1
+drive.google.com,522,General Business,2
+mit.dserec.com,1,Uncategorized,0
+medical.mit.edu,27,Presentation,2
+cernerhealth.com,13,Health & Medicine,1
+candidate.gradleaders.com,395,Uncategorized,0
+surveymonkey.com,44,Marketing,2
+docs.scipy.org,757,Engineering & Technology,1
+tutorialspoint.com,462,General Reference & Learning,1
+video.odl.mit.edu,7954,General Reference & Learning,1
+Google Forms,1535,General Business,2
+accounts.google.com,12,General Communication & Scheduling,0
+app.pipefy.com,882,General Business,2
+everymac.com,74,General News & Opinion,-2
+getsupport.apple.com,120,General Utilities,1
+support.apple.com,8,Search,0
+secure1.store.apple.com,100,Electronics,-2
+photoshop cc,2503,General Design & Composition,2
+projectimuse.github.io,229,General Software Development,2
+photo booth,3,General Entertainment,0
+cdi.mit.edu,53,Presentation,2
+imuse.org.cn,143,Uncategorized,0
+ac.hk.xmisp.net,32,Uncategorized,0
+aasiapp,15,Uncategorized,0
+adobe application manager,7,General Utilities,1
+virtualbox.org,110,General Utilities,1
+virtualbox,475,Virtualization,0
+diskimages ui agent,1,General Utilities,1
+reuters.com,103,General News & Opinion,-2
+cnbc.com,155,Business,-1
+smh.com.au,94,General News & Opinion,-2
+archive utility,58,General Utilities,1
+politico.com,102,General News & Opinion,-2
+tutorial.math.lamar.edu,140,General Reference & Learning,1
+dayof.hackmit.org,1027,Uncategorized,0
+q.hackmit.org,4,Uncategorized,0
+cut.com,184,Uncategorized,0
+eventbrite.com,261,Calendars,0
+virtualbox vm,34285,General Software Development,2
+universalaccessauthwarn,1,General Utilities,1
+certaid,62,Uncategorized,0
+ca.mit.edu,9,General Reference & Learning,1
+computationstructures.org,18,Uncategorized,0
+wsj.com,205,General News & Opinion,-2
+wiki.bluespec.com,61,Uncategorized,0
+pastebin.com,46,Engineering & Technology,1
+electronics.stackexchange.com,7,General Software Development,2
+electronics-tutorials.ws,337,Engineering & Technology,1
+geeksforgeeks.org,510,Operations,2
+chegg.com,5,General News & Opinion,-2
+bluespec.com,62,Uncategorized,0
+iWork Numbers,14,General Business,2
+aljazeera.com,11,General News & Opinion,-2
+nationalinterest.org,105,General News & Opinion,-2
+worldtribune.com,74,General News & Opinion,-2
+careers.google.com,472,Search,0
+medium.com,1182,General News & Opinion,-2
+dspguide.com,46,Engineering & Technology,1
+auth.uber.com,48,General Reference & Learning,1
+plus.uber.com,23,General Reference & Learning,1
+wiki.python.org,474,General Software Development,2
+cstheory.stackexchange.com,141,Engineering & Technology,1
+sciencedirect.com,8,Engineering & Technology,1
+dl.acm.org,4,Engineering & Technology,1
+when2meet.com,757,General Communication & Scheduling,0
+users,502,General Software Development,2
+theatlantic.com,618,General News & Opinion,-2
+quora.com,1043,General Reference & Learning,-1
+answers.microsoft.com,25,Engineering & Technology,1
+login.live.com,4,Email,0
+applymisti.mit.edu,2437,Presentation,2
+misti.mit.edu,30,Presentation,2
+Google Documents,37,Writing,2
+screensaverengine,2,General Utilities,0
+bhphotovideo.com,36,General Shopping,-2
+technologyreview.com,51,General Reference & Learning,1
+scmp.com,20,General News & Opinion,-2
+developer.rhino3d.com,29,Engineering & Technology,1
+python,4003,General Software Development,2
+money.cnn.com,56,General News & Opinion,-2
+icloud.com,2,General Software Development,2
+forbes.com,465,General News & Opinion,-2
+time.com,71,General News & Opinion,-2
+businessinsider.com,319,General News & Opinion,-2
+systemuiserver,93,General Utilities,1
+eaptlstrust,3,General Utilities,1
+secure2.store.apple.com,98,Electronics,-2
+secure.bankofamerica.com,176,Accounting,2
+macrumors.com,73,General News & Opinion,-2
+connect.intuit.com,59,Accounting,2
+bankofamerica.com,52,General Business,2
+keychain access,11,Systems Operations,2
+pyimagesearch.com,452,General Reference & Learning,1
+effbot.org,958,Search,0
+ftp.ntua.gr,24,Uncategorized,0
+c-sharpcorner.com,79,Search,0
+pythonware.com,2,Engineering & Technology,1
+uaap.mit.edu,89,Presentation,2
+registrar.mit.edu,23,Presentation,2
+herschel.com,1010,Uncategorized,0
+flightstats.com,13,Travel & Outdoors,-2
+hackerrank.com,1852,General Software Development,2
+TextEdit,2065,Writing,2
+jobs.apple.com,274,Employment,2
+yeet.codes,7,Uncategorized,0
+roblox.com,3,Games,-2
+codepen.io,51,General Software Development,2
+teamblind.com,17,Uncategorized,0
+finalexams.mit.edu,125,Presentation,2
+theverge.com,67,Science & Technology,-1
+photos,42,Photos,0
+microsoft powerpoint,340,Presentation,2
+dropbox.com,444,File Sharing,2
+lyft.com,42,General Business,2
+uber.com,285,General Reference & Learning,1
+linkedin.com,93,Professional Networking,1
+jobs.lever.co,62,Employment,2
+boards.greenhouse.io,331,Administration,2
+careers.tencent.com,94,Uncategorized,0
+amazon.jobs,32,Employment,2
+baidu.com,28,Search,2
+amazonuniversity.jobs,368,Uncategorized,0
+tencent.com,14,Uncategorized,0
+hr.tencent.com,10,General Reference & Learning,1
+mass.gov,97,General Business,2
+secure.rmv.state.ma.us,113,Uncategorized,0
+atlas-myrmv.massdot.state.ma.us,137,Uncategorized,0
+usa.baidu.com,87,Search,0
+cerebras.net,41,Uncategorized,0
+boeing.taleo.net,864,General Reference & Learning,1
+jobs.boeing.com,20,General News & Opinion,-2
+boeing.com,13,General Business,2
+github.com,91,General Software Development,2
+install command line developer tools,17,Systems Operations,2
+git-scm.com,14,General Software Development,2
+apple.stackexchange.com,7,Engineering & Technology,1
+sonos.com,74,Electronics,-2
+careers.sonos.com,452,Electronics,-2
+we.dji.com,107,General Shopping,-2
+sjobs.brassring.com,630,Employment,2
+corporate.ford.com,37,General Business,2
+web.lark.com,73,Uncategorized,0
+jobs.dell.com,143,Employment,2
+angel.co,2,General Business,2
+hire.withgoogle.com,44,Uncategorized,0
+dell.wd1.myworkdayjobs.com,350,Uncategorized,0
+braze.com,59,Uncategorized,0
+asana.com,25,General Reference & Learning,1
+careers.att.jobs,92,Employment,2
+att.jobs,97,Employment,2
+att.taleo.net,759,General Business,2
+chu.tbe.taleo.net,44,Search,0
+everbridge.com,7,Uncategorized,0
+sick.com,21,General Business,2
+npr.org,101,General News & Opinion,-2
+captive network assistant,10,General Utilities,1
+thestatesman.com,38,Uncategorized,0
+jiaotong.baidu.com,25,Search,0
+aqicn.org,101,General Reference & Learning,1
+tools.usps.com,10,General Business,2
+leetcode.com,499,Engineering & Technology,1
+eddmann.com,96,General Reference & Learning,1
+glassdoor.com,772,Employment,2
+raspberrypi.org,41,Engineering & Technology,1
+stackabuse.com,92,General Software Development,2
+programcreek.com,4,Engineering & Technology,1
+nikonusa.com,318,Search,-2
+na2.docusign.net,8,Administration,2
+alum.mit.edu,3501,General Reference & Learning,1
+alumsso.mit.edu,37,Presentation,2
+osisoft.com,56,Engineering & Technology,1
+keylimeinteractive.com,42,Uncategorized,0
+qs-2.com,8,Uncategorized,0
+arundo.com,15,Uncategorized,0
+9to5google.com,8,Science & Technology,-1
+goo.gl,7,Internet Utilities,1
+Keynote,1952,Presentation,2
+sciencing.com,28,Uncategorized,0
+bostonglobe.com,25,General News & Opinion,-2
+interviewbit.com,74,General Reference & Learning,1
+codelab.interviewbit.com,412,General Software Development,2
+skillroads.com,50,Uncategorized,0
+mobiledeviceupdater,51,General Utilities,1
+techlady.haus,46,Uncategorized,0
+zbt.mit.edu,113,Presentation,2
+Zoom,306,Meetings,1
+skype.com,86,General Communication & Scheduling,0
+oeis.org,77,General Reference & Learning,1
+Skype,1017,General Social Networking,-2
+about.att.com,31,General Business,2
+ucl.phonologist.org,6,Uncategorized,0
+cdn.fbsbx.com,13,General Reference & Learning,1
+stat.berkeley.edu,4,General Reference & Learning,1
+proofwiki.org,894,General Reference & Learning,1
+statisticshowto.datasciencecentral.com,445,Engineering & Technology,1
+overleaf.com,43,Writing,2
+history,12,Browsers,0
+app.remoteinterview.io,1771,Uncategorized,0
+w3schools.com,90,Engineering & Technology,1
+webtoolkitonline.com,99,Uncategorized,0
+jdoodle.com,148,Uncategorized,0
+js.do,128,General Software Development,2
+codiva.io,308,Uncategorized,0
+javaonlinecompiler.com,14,Uncategorized,0
+apple,5,Uncategorized,0
+ece.ucsb.edu,27,General Reference & Learning,1
+cs.cornell.edu,186,General Reference & Learning,1
+facebook.com/help,9,General Social Networking,-2
+bloomberg.com,11,Business,-1
+rapidtables.com,45,Engineering & Technology,1
+electronicshub.org,92,Engineering & Technology,1
+tams-www.informatik.uni-hamburg.de,6,Intelligence,2
+nandland.com,139,Uncategorized,0
+intel.com,20,Search,0
+news,3,General News & Opinion,-2
+sourceforge.net,31,General Software Development,2
+numpy.org,7,Uncategorized,0
+pypi.org,3,General Reference & Learning,1
+lagrange.univ-lyon1.fr,4,Uncategorized,0
+betterexplained.com,400,Search,0
+standardwisdom.com,203,Uncategorized,0
+math.stackexchange.com,306,General Reference & Learning,1
+brilliant.org,341,General Reference & Learning,1
+nzmaths.co.nz,5,Uncategorized,0
+www1.maths.leeds.ac.uk,7,Operations,2
+stat.yale.edu,21,General Reference & Learning,1
+ocw.mit.edu,6,General Reference & Learning,1
+onlinecourses.science.psu.edu,32,General Reference & Learning,1
+google.qualtrics.com,549,Internet Utilities,1
+math.arizona.edu,23,General Reference & Learning,1
+khanacademy.org,11,General Reference & Learning,2
+codingworksample.io,2956,General Software Development,2
+abc.net.au,96,General News & Opinion,-2
+theglobeandmail.com,138,General News & Opinion,-2
+stats.stackexchange.com,106,Engineering & Technology,1
+maths.tcd.ie,23,Engineering & Technology,1
+pillow.readthedocs.io,21,General Software Development,2
