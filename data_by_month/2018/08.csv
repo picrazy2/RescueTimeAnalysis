@@ -1,0 +1,398 @@
+App,Time Spent (Hours),Category,Productivity
+virtualbox vm,58696,General Software Development,2
+blog.golang.org,118,General Software Development,2
+stackoverflow.com,6176,General Software Development,2
+google.com,57274,Search,2
+medium.com,325,General News & Opinion,-2
+gobyexample.com,20,General Software Development,2
+Mail,10901,Email,2
+microsoft word,86,Writing,2
+sublime text,18685,Editing & IDEs,2
+Gmail,78,Email,2
+Finder,17845,General Utilities,0
+Terminal,15269,Systems Operations,2
+Keynote,1642,Presentation,2
+TextEdit,4957,Writing,2
+guru99.com,24,General Reference & Learning,1
+tutorialspoint.com,1797,General Reference & Learning,1
+rescuetime.com,2636,Intelligence,0
+Notes,3121,Email,0
+9to5mac.com,4580,General News & Opinion,-2
+gaoloumi.com,5080,Regional,-2
+en.wikipedia.org,28451,General Reference & Learning,1
+System Preferences,2576,General Utilities,0
+airplayuiagent,24,Uncategorized,0
+reddit.com,411,General News & Opinion,-2
+applications,57,General Business,2
+mon02.needham:3000,581,Uncategorized,0
+Safari,19445,Browsers,2
+geoguessr.com,34454,Games,-2
+wechat,11476,General Social Networking,-2
+messenger.com,6809,General Social Networking,-2
+loginwindow,790,General Utilities,0
+SecurityAgent,234,Systems Operations,0
+kundo.se,90,Uncategorized,0
+messages,933,General Social Networking,-2
+youtube.com,80679,Video,-2
+amazon.com,1876,General Shopping,-1
+facebook.com,69,General Social Networking,-2
+photo booth,11,General Entertainment,0
+photos,9507,Photos,0
+trips.furkot.com,36,Uncategorized,0
+folio.furkot.com,32,Uncategorized,0
+bhphotovideo.com,188,General Shopping,-2
+apple.com,1918,Engineering & Technology,-1
+virtualbox,73,Virtualization,0
+Dropbox,836,File Sharing,-2
+tour.golang.org,299,Engineering & Technology,1
+refinery29.com,99,General News & Opinion,-2
+ecns.cn,79,Uncategorized,0
+artsy.net,51,General Business,2
+atimes.com,40,General News & Opinion,-2
+reuters.com,506,General News & Opinion,-2
+broadwayworld.com,14,General Entertainment,-2
+financialexpress.com,5,Business,-1
+china.org.cn,35,General News & Opinion,0
+play.golang.org,815,General Software Development,2
+golang.org,795,Engineering & Technology,1
+asciitable.com,28,General Software Development,2
+socketloop.com,7,General Reference & Learning,1
+github.com,2520,General Software Development,2
+golang-book.com,80,Engineering & Technology,1
+Preview,4130,General Reference & Learning,2
+tex.stackexchange.com,18,Engineering & Technology,1
+Skype,1954,General Social Networking,-2
+Slack,1514,Instant Message,2
+wiki.musicbrainz.org,309,General Entertainment,-2
+up-buy.com,13,Uncategorized,0
+iTunes,121,Music,0
+theweek.com,232,General News & Opinion,-2
+secure.bankofamerica.com,2272,Accounting,2
+bankofamerica.com,102,General Business,2
+bwfworldchampionships.com,250,Uncategorized,0
+expressvpn.com,208,General Utilities,1
+expressvpn,459,General Utilities,1
+installer,155,General Utilities,1
+tripadvisor.com,209,Travel & Outdoors,-2
+bostonmagazine.com,95,Regional,-2
+newengland.com,101,Uncategorized,0
+visittheusa.com,15,Uncategorized,0
+facetime,94,Voice Chat,-2
+calendar,541,Calendars,1
+secure3.store.apple.com,302,Electronics,-2
+iWork Numbers,10119,General Business,2
+secure1.store.apple.com,20,Electronics,-2
+creative cloud installer,188,Graphic Design,2
+creative cloud,352,General Design & Composition,2
+diskimages ui agent,23,General Utilities,1
+coreservicesuiagent,15,General Utilities,0
+tmhelperagent,2,General Utilities,1
+adobeid-na1.services.adobe.com,244,General Design & Composition,2
+drive.google.com,2182,General Business,2
+system information,106,General Utilities,0
+RescueTime,107,Intelligence,0
+thebeijinger.com,3129,General News & Opinion,-2
+forbes.com,122,General News & Opinion,-2
+biculturalmama.com,453,Uncategorized,0
+quora.com,720,General Reference & Learning,-1
+wegene.com,95,General Reference & Learning,1
+23andme.com,74,Health & Medicine,1
+browser.geekbench.com,705,Uncategorized,0
+businessinsider.com,459,General News & Opinion,-2
+adobe lightroom cc,5105,General Design & Composition,2
+aasiapp,70,Uncategorized,0
+adobe application manager,9,General Utilities,1
+usernotificationcenter,35,General Utilities,0
+Dictionary,13,General Reference & Learning,1
+tutorialedge.net,57,Uncategorized,0
+godoc.org,211,Engineering & Technology,1
+Google Documents,129,Writing,2
+accounts.google.com,343,General Communication & Scheduling,0
+translate.google.com,250,Search,1
+foodeasygo.com,43,Uncategorized,0
+fedex.com,118,Employment,2
+store.apple.com,5,Electronics,-2
+justincalleja.com,11,Uncategorized,0
+yaml.org,420,General Software Development,2
+yamllint.com,54,General Software Development,2
+forums.docker.com,15,General Software Development,2
+codebeautify.org,35,Editing & IDEs,2
+tour-beijing.com,30,Uncategorized,0
+blog.chewxy.com,21,General News & Opinion,-2
+kunalkushwaha.github.io,19,General Software Development,2
+noeffclue.blogspot.com,36,General Business,2
+groups.google.com,129,General Communication & Scheduling,0
+gist.github.com,131,General Software Development,2
+map.baidu.com,16059,Maps & Regional,-2
+Google Spreadsheets,1017,General Business,2
+keychain access,218,Systems Operations,2
+screensaverengine,49,General Utilities,0
+towardsdatascience.com,271,Uncategorized,0
+pandas.pydata.org,2370,Engineering & Technology,1
+timeoutbeijing.com,95,Uncategorized,0
+mafengwo.cn,6,Travel & Outdoors,-2
+m.mafengwo.cn,1,Travel & Outdoors,-2
+canalys.com,64,Search,0
+idc.com,415,Intelligence,2
+theverge.com,152,Science & Technology,-1
+statista.com,146,Intelligence,2
+pcmag.com,71,Science & Technology,-1
+bloomberg.com,442,Business,-1
+telecomlead.com,107,Uncategorized,0
+firstpost.com,47,Regional,-2
+vanguardngr.com,170,General News & Opinion,-2
+teleanalysis.com,16,Uncategorized,0
+zbt.mit.edu,90,Presentation,2
+pages,59,Presentation,2
+icloud.com,6669,General Software Development,2
+support.google.com,27,General News & Opinion,2
+grafana-alpha1.needham,25,Uncategorized,0
+qa02.needham:9090,25,Uncategorized,0
+grafana-alpha2.needham,19,Uncategorized,0
+grafana.alpha1.needham,15,Uncategorized,0
+mon02.needham:5601,90,Uncategorized,0
+theibulletin.com,83,Uncategorized,0
+my.mit.edu,5,General Reference & Learning,1
+money.cnn.com,37,General News & Opinion,-2
+oneplus.com,63,Uncategorized,0
+adobe crash reporter,4,General Utilities,1
+bigbangtheory.wikia.com,204,Comedy,-2
+mon02.needham:9090,1235,Uncategorized,0
+communities.sas.com,16,General Reference & Learning,1
+cockroachlabs.com,185,General Reference & Learning,1
+rd.connexity.net,4,Uncategorized,0
+googleadservices.com,2,General Software Development,2
+helpx.adobe.com,36,General Software Development,2
+adobe.com,24,General Software Development,2
+creative.adobe.com,19,General Design & Composition,2
+idp.mit.edu,139,General Reference & Learning,1
+microsoft.com,93,Engineering & Technology,1
+account.microsoft.com,34,General Business,2
+login.live.com,22,Email,0
+login.microsoftonline.com,23,Email,0
+products.office.com,18,Administration,2
+office.com,51,General Business,2
+app store,210,General Shopping,-2
+bjango.com,16,General Utilities,1
+signup.microsoft.com,11,Engineering & Technology,1
+istat menus,424,General Utilities,1
+istat menus status,648,General Utilities,1
+wechat.com,4,Uncategorized,0
+itunes.apple.com,2,General Shopping,-2
+backup and sync from google,3959,Uncategorized,0
+v.qq.com,139,Video,-2
+cbs.com,47,General Entertainment,-2
+safari-resource:,85,Browsers,0
+imeiju.cc,157,Video,-2
+cnbc.com,331,Business,-1
+welcome,41,General News & Opinion,-2
+cfhdojbkjhnklbpkdaibdccddilifddb,4,Uncategorized,0
+systemuiserver,63,General Utilities,1
+apple.stackexchange.com,48,Engineering & Technology,1
+downloads,182,General Utilities,1
+help.apple.com,1,Search,0
+att.com,164,General Business,2
+dbrand.com,109,General Shopping,-2
+daisydisk,1854,General Utilities,0
+Activity Monitor,10,General Utilities,0
+daisydiskapp.com,93,Systems Operations,2
+archive utility,7,General Utilities,1
+lifehacker.com,45,General News & Opinion,-2
+howtogeek.com,36,General News & Opinion,-2
+techrepublic.com,18,Engineering & Technology,1
+macworld.co.uk,46,General Reference & Learning,1
+settings,198,General Utilities,1
+sublimetext.com,39,Writing,2
+download.cnet.com,28,Science & Technology,-1
+pages.uoregon.edu,18,General Reference & Learning,1
+lightroom,76,Presentation,2
+google chrome,1,Browsers,0
+beta.apple.com,46,Engineering & Technology,1
+idmsa.apple.com,9,General Software Development,2
+netflix.com,55016,Video,-2
+dominos.com,391,General News & Opinion,-2
+dronedj.com,404,Uncategorized,0
+asianmoviepulse.com,153,Uncategorized,0
+imdb.com,8,Video,-2
+purposegames.com,171,Games,-2
+sporcle.com,3136,Games,-2
+tv.sohu.com,51,Video,-2
+get.adobe.com,14,General News & Opinion,-2
+adobe flash player install manager,10,General Utilities,1
+video.foxnews.com,6,General News & Opinion,-2
+Google Forms,87,General Business,2
+downloads.mit.edu,3,Presentation,2
+cleanmymac 3 menu,1,General Utilities,1
+info.wasabi.com,112,Uncategorized,0
+americaninno.typeform.com,481,Customer Relations,2
+instagram.com,1265,General Social Networking,-2
+Google Maps,2,Maps & Regional,1
+ft.com,158,General News & Opinion,-2
+foxnews.com,55,General News & Opinion,-2
+nytimes.com,150,General News & Opinion,-2
+scmp.com,808,General News & Opinion,-2
+nationalinterest.org,337,General News & Opinion,-2
+eiu.com,86,Uncategorized,0
+cnn.com,374,General News & Opinion,2
+store.eiu.com,51,General Business,2
+grafana.com,579,Uncategorized,0
+guides.github.com,4,General Software Development,2
+prometheus.io,430,General Software Development,2
+MS Excel,21405,General Business,2
+managerewardsonline.com,5,Uncategorized,0
+managerewardsonline.bankofamerica.com,1,Accounting,2
+ebay.com,53,General Shopping,-2
+microsoft autoupdate,30,General Utilities,1
+registrar.mit.edu,121,Presentation,2
+uaap.mit.edu,2,Presentation,2
+meetways.com,28,Uncategorized,0
+flightcentre.com.au,11,Travel & Outdoors,-2
+expedia.com.au,9,Travel & Outdoors,-2
+baike.baidu.com,565,Search,0
+irs.gov,37,Legal & Gov't,1
+investopedia.com,19,Business & Finance,1
+manage.gusto.com,4722,Accounting,2
+techcrunch.com,255,Science & Technology,-1
+newyorker.com,214,General News & Opinion,-2
+foreignaffairs.com,630,International,-2
+mon01.beta1:9090,5,Uncategorized,0
+localhost,6,General Software Development,2
+airfarewatchdog.com,23,Search,0
+asiancorrespondent.com,17,General News & Opinion,-2
+landrum-brown.com,65,Uncategorized,0
+businesstraveller.com,128,Uncategorized,0
+efe.com,19,Uncategorized,0
+jingtravel.com,257,Uncategorized,0
+globalconstructionreview.com,38,Uncategorized,0
+steelguru.com,8,Uncategorized,0
+centreforaviation.com,1036,Uncategorized,0
+flightradar24.com,1750,General Entertainment,-2
+flightaware.com,4,Travel & Outdoors,-2
+aviationpros.com,14,Uncategorized,0
+tripsavvy.com,2,Travel & Outdoors,-2
+upload.wikimedia.org,290,Search,0
+Google Earth Pro,104,Search,0
+fas.org,10,General Reference & Learning,1
+caac.gov.cn,185,Legal & Gov't,1
+aci.aero,429,Uncategorized,0
+zh.wikipedia.org,106,Search,0
+photoshop cc,27410,General Design & Composition,2
+commons.wikimedia.org,596,Search,0
+mapas-mudos.blogspot.com,3,General Business,2
+app.hellosign.com,107,General Software Development,2
+goo.gl,1,Internet Utilities,1
+cargofacts.com,176,Intelligence,2
+themeparkinsider.com,962,General Reference & Learning,1
+stateair.net,655,Uncategorized,0
+airports-list.com,234,Uncategorized,0
+pilotnav.com,12,Uncategorized,0
+airlinequality.com,736,Travel & Outdoors,-2
+carnoc.com,42,Uncategorized,0
+news.carnoc.com,55,Uncategorized,0
+wiki.carnoc.com,35,Uncategorized,0
+baidu.com,72,Search,2
+sohu.com,19,General News & Opinion,-2
+tieba.baidu.com,114,Games,-2
+wenku.baidu.com,297,General Reference & Learning,1
+passport.baidu.com,52,Internet Utilities,1
+secure2.store.apple.com,37,Electronics,-2
+en.wiktionary.org,3,Search,0
+tianxun.com,7,General Reference & Learning,1
+baike.com,81,General Reference & Learning,1
+vectorstock.com,19,Graphic Design,2
+freepik.com,13,Graphic Design,2
+problem reporter,4,General News & Opinion,-2
+united.com,1201,Travel & Outdoors,-2
+googletraveladservices.com,4,Uncategorized,0
+flyertalk.com,9,Travel & Outdoors,-2
+young-0.com,119,Uncategorized,0
+aqicn.org,965,General Reference & Learning,1
+tomsguide.com,126,General News & Opinion,-2
+homedepot.com,8,General Shopping,-2
+airportsworld.keypublishing.com,37,Uncategorized,0
+xinhuanet.com,26,General News & Opinion,-2
+lead-8.com,33,Uncategorized,0
+airport-technology.com,49,Uncategorized,0
+internationalairportreview.com,54,Uncategorized,0
+web.archive.org,9,Search,0
+google.com/translate,2,General Reference & Learning,1
+history,66,Browsers,0
+zhidao.baidu.com,6,Science & Technology,-1
+airblissplus.com,119,Uncategorized,0
+lse.ac.uk,39,General Reference & Learning,1
+Zoom,665,Meetings,1
+zoomopener,2,Uncategorized,0
+wired.com,226,Science & Technology,-1
+economictimes.indiatimes.com,34,General News & Opinion,-2
+mnn.com,80,General Business,2
+airbnb.com,1096,Travel & Outdoors,-2
+twitter.com,1703,General Social Networking,-2
+datadriven.yale.edu,33,General Reference & Learning,1
+knightlab.northwestern.edu,32,General Reference & Learning,1
+china.usembassy-china.org.cn,12,Uncategorized,0
+medium.freecodecamp.org,17,Engineering & Technology,1
+data-blogger.com,88,Uncategorized,0
+install command line developer tools,286,Systems Operations,2
+python.org,21,General Software Development,2
+isidorsfugue.com,236,Uncategorized,0
+sciencemag.org,139,Search,0
+seattletimes.com,131,General News & Opinion,-2
+rspa.royalsocietypublishing.org,15,General Reference & Learning,1
+phys.org,105,Science & Technology,-1
+divephotoguide.com,69,Uncategorized,0
+dji.com,884,General Shopping,-2
+live.dji.com,256,General Shopping,-2
+link.dji.com,1,General Shopping,-2
+we.dji.com,103,General Shopping,-2
+enterprise.dji.com,117,General Shopping,-2
+taiwannews.com.tw,33,General News & Opinion,-2
+thediplomat.com,18,International,-2
+janes.com,7,General News & Opinion,-2
+ba.usembassy.gov,28,General Business,2
+pan.baidu.com,450,File Sharing,-2
+beijingair.sinaapp.com,1124,Uncategorized,0
+百度网盘,69,Uncategorized,0
+Calculator,17,General Utilities,1
+itg.ias.edu,55,General Reference & Learning,1
+bjmemc.com.cn,51,Uncategorized,0
+alexkras.com,299,Uncategorized,0
+realpython.com,65,Engineering & Technology,1
+docs.python.org,567,General Software Development,2
+pgbovine.net,29,Science & Technology,-1
+cyberciti.biz,61,Engineering & Technology,1
+datacamp.com,303,Engineering & Technology,1
+jpost.com,58,General News & Opinion,-2
+t.co,1,General Social Networking,-2
+click.dji.com,1,General Shopping,-2
+techradar.com,268,General News & Opinion,-2
+digitaltrends.com,342,Engineering & Technology,1
+gongchepu.net,52,Uncategorized,0
+aljazeera.com,121,General News & Opinion,-2
+vpnmentor.com,32,Uncategorized,0
+wallmama.com,24,Uncategorized,0
+indx.cc,1,Uncategorized,0
+travelchinacheaper.com,49,Uncategorized,0
+alibabacloud.com,47,Uncategorized,0
+account.alibabacloud.com,40,Uncategorized,0
+account.aliyun.com,38,General Software Development,2
+myaccount.alibabacloud.com,12,Uncategorized,0
+account-intl.aliyun.com,3,General Software Development,2
+cn.aliyun.com,2,General Software Development,2
+access.redhat.com,60,Engineering & Technology,1
+serverfault.com,15,General Software Development,2
+cmdlinetips.com,125,Uncategorized,0
+shanelynn.ie,360,General Reference & Learning,1
+chrisalbon.com,411,General Reference & Learning,1
+forums.databricks.com,8,General Reference & Learning,1
+airnow.gov,127,Legal & Gov't,1
+docs.scipy.org,849,Engineering & Technology,1
+numpy.org,4,Uncategorized,0
+python,1037,General Software Development,2
+docs.grafana.org,29,General Reference & Learning,1
+cnet.com,239,Science & Technology,-1
+gizmodo.com,392,Science & Technology,0
+wetalkuav.com,10,Uncategorized,0
+news.google.com,8,General News & Opinion,-2
+mitpe.mit.edu,7,Presentation,2
+ricepuritytest.com,417,Uncategorized,0
+microsoft error reporting,2,Science & Technology,-1
