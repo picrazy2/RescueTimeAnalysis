@@ -110,13 +110,21 @@ for i in points_in_cluster:
 
 f.close()
 
-f = open('kmeans_results.txt', 'w')
+f = open('index.txt', 'r')
+index = int(list(f)[0]) #next index to save to
+f.close()
+
+f = open('saved_results/' + str(index) + '.txt', 'w')
 for i in points_in_cluster:
 	f.write('Cluster ' + str(i+1) + '\n')
 	apps = list(points_in_cluster[i].keys())
 	for app in apps:
 		f.write(str(app) + '\n')
 f.close()
+
+f = open('index.txt', 'w')
+f.write(str(index+1))
+f.close
 
 plt.xlabel('Year-Month')
 plt.ylabel('Mean Time spent (seconds)')

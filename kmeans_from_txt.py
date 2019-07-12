@@ -12,7 +12,9 @@ for y in years:
 		timeseries.append(datetime.datetime(int(y), int(m), 1, 0, 0))
 timeseries = np.array(timeseries)
 
-f = open('saved_results/1.txt', 'r')
+file_index = input('Select saved results index: ')
+
+f = open('saved_results/' + file_index + '.txt', 'r')
 
 lines = list(f)
 

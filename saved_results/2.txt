@@ -1,12 +1,6 @@
 Cluster 1
 kongregate.com
-Adobe Photoshop
-google chrome
-MS Excel
-pages
-Keynote
 eclipse
-VLC Media Player
 minecraft
 final cut pro
 Cluster 2
@@ -3856,6 +3850,7 @@ muji.com
 muji.us
 peakdesign.com
 pekedesign.n.nu
+lightroom
 indesign cc
 imo-official.org
 wikiguga.com
@@ -4038,6 +4033,7 @@ wd my cloud ex2 setup
 setup.wd2go.com
 video.stackexchange.com
 core sync
+applicationframehost
 rescuetimeinstaller.tmp
 system idle process
 zweigmedia.com
@@ -6059,7 +6055,6 @@ beijing20.unwomen.org
 mit.edu
 hbs.edu
 wacomtouchdriver
-adobe premiere pro cc 2017
 soln-sr4056.movielink.net.au
 live.newsoft24safesystems.space
 digg.com
@@ -8286,6 +8281,7 @@ cmdlinetips.com
 shanelynn.ie
 chrisalbon.com
 forums.databricks.com
+6004.mit.edu
 foxtrotalpha.jalopnik.com
 riskmap.mit.edu
 install macos mojave beta
@@ -8677,48 +8673,52 @@ Cluster 3
 Finder
 microsoft word
 facebook.com
-Skype
+youtube.com
 adobe premiere pro cc 2015
 Cluster 4
 Preview
-youtube.com
+google.com
+en.wikipedia.org
 Mail
 Terminal
+messages
 virtualbox vm
 wechat
+netflix.com
+microsoft onenote
 messenger.com
 sublime text
 texshop
 Cluster 5
 loginwindow
+MS Excel
 amazon.com
 Safari
 quicktime player
-users
 drive.google.com
-tincta
+matlab
 bhphotovideo.com
 9to5mac.com
+facetime
+mathematica
+idle
+Google Documents
 map.baidu.com
-microsoft onenote
 Google Spreadsheets
 photoshop cc
-lightroom
-applicationframehost
-6004.mit.edu
-introml.mit.edu
-Cluster 6
-google.com
-en.wikipedia.org
-messages
-matlab
-netflix.com
-mathematica
-Google Documents
 gaoloumi.com
 quartus
-Cluster 7
-facetime
-idle
+adobe premiere pro cc 2017
 sixohone.mit.edu
 lms.mitx.mit.edu
+introml.mit.edu
+Cluster 6
+Adobe Photoshop
+pages
+Keynote
+users
+VLC Media Player
+tincta
+Cluster 7
+google chrome
+Skype

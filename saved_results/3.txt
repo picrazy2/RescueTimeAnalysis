@@ -1,13 +1,12 @@
 Cluster 1
 kongregate.com
+Finder
 Adobe Photoshop
-google chrome
-MS Excel
 pages
 Keynote
+Mail
 eclipse
 VLC Media Player
-minecraft
 final cut pro
 Cluster 2
 apple.com
@@ -15,6 +14,7 @@ elearning.isb.bj.edu.cn
 usernotificationcenter
 microsoft outlook
 System Preferences
+loginwindow
 rowmote helper
 ask.fm
 fc00.deviantart.net
@@ -315,6 +315,7 @@ enotes.com
 sat.collegeboard.org
 viewscore.collegeboard.org
 collegeboard.org
+users
 themillercircle.org
 media.tumblr.com
 bigfuture.collegeboard.org
@@ -684,6 +685,7 @@ steam.com
 ultracardgames.com
 freeminecraftaccountz.com
 translate.google.com
+drive.google.com
 Hosted Google Docs
 planetminecraft.com
 6minecraft.net
@@ -1569,6 +1571,7 @@ newton.dep.anl.gov
 googlevideo.com
 nature.com
 picrazy2.com
+tincta
 promise.com
 usa.philips.com
 superhexagon.com
@@ -1671,6 +1674,7 @@ audacity
 wiki.astrill.com
 forms.veracross.com
 gateway.applywithus.com
+bhphotovideo.com
 onlinelibrary.wiley.com
 clashofclans.wikia.com
 nanotech-now.com
@@ -2658,6 +2662,7 @@ airspacemag.com
 shotgun funfun
 python.org
 staff.howard.k12.md.us
+idle
 sophosuiserver
 nowbuzzing.com
 d2ir4eqhtll99a.cloudfront.net
@@ -3308,6 +3313,7 @@ scikit-image.org
 bjshy.gov.cn
 algebralab.org
 digitaslbi.com
+map.baidu.com
 volvocars.com
 us-west-2.console.aws.amazon.com
 wps.prenhall.com
@@ -3512,6 +3518,7 @@ a2zhomeschooling.com
 benchfly.com
 easyscienceforkids.com
 chompchomp.com
+Google Spreadsheets
 v.pps.tv
 vod.kankan.com
 inventors.about.com
@@ -3856,6 +3863,7 @@ muji.com
 muji.us
 peakdesign.com
 pekedesign.n.nu
+lightroom
 indesign cc
 imo-official.org
 wikiguga.com
@@ -4038,6 +4046,7 @@ wd my cloud ex2 setup
 setup.wd2go.com
 video.stackexchange.com
 core sync
+applicationframehost
 rescuetimeinstaller.tmp
 system idle process
 zweigmedia.com
@@ -6908,6 +6917,7 @@ stellar.mit.edu
 www3.ul.ie
 zbt.mit.edu
 learning-modules.mit.edu
+lms.mitx.mit.edu
 whereis.mit.edu
 startup.mit.edu
 whenisgood.net
@@ -8286,6 +8296,7 @@ cmdlinetips.com
 shanelynn.ie
 chrisalbon.com
 forums.databricks.com
+6004.mit.edu
 foxtrotalpha.jalopnik.com
 riskmap.mit.edu
 install macos mojave beta
@@ -8674,51 +8685,40 @@ tds-01.trackingpro.pro
 papapa77.com
 nekoxxx.com
 Cluster 3
-Finder
-microsoft word
-facebook.com
-Skype
-adobe premiere pro cc 2015
-Cluster 4
 Preview
-youtube.com
-Mail
 Terminal
 virtualbox vm
 wechat
 messenger.com
 sublime text
 texshop
+introml.mit.edu
+Cluster 4
+microsoft word
+Skype
 Cluster 5
-loginwindow
+google.com
+google chrome
+en.wikipedia.org
+MS Excel
 amazon.com
 Safari
 quicktime player
-users
-drive.google.com
-tincta
-bhphotovideo.com
-9to5mac.com
-map.baidu.com
-microsoft onenote
-Google Spreadsheets
-photoshop cc
-lightroom
-applicationframehost
-6004.mit.edu
-introml.mit.edu
-Cluster 6
-google.com
-en.wikipedia.org
 messages
 matlab
+9to5mac.com
+facetime
 netflix.com
 mathematica
 Google Documents
+microsoft onenote
+photoshop cc
 gaoloumi.com
 quartus
-Cluster 7
-facetime
-idle
 sixohone.mit.edu
-lms.mitx.mit.edu
+Cluster 6
+facebook.com
+youtube.com
+adobe premiere pro cc 2015
+Cluster 7
+minecraft
