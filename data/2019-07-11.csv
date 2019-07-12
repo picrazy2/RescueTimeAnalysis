@@ -45,9 +45,9 @@ Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
 2019-07-11T11:05:00,85,1,Terminal,Systems Operations,2
 2019-07-11T11:05:00,78,1,TextEdit,Writing,2
 2019-07-11T11:05:00,33,1,pandas.pydata.org,Engineering & Technology,1
-2019-07-11T11:05:00,1,1,usr56.dayforcehcm.com,General Business,2
 2019-07-11T11:05:00,1,1,stackoverflow.com,General Software Development,2
 2019-07-11T11:05:00,1,1,google.com/calendar,Calendars,2
+2019-07-11T11:05:00,1,1,usr56.dayforcehcm.com,General Business,2
 2019-07-11T11:10:00,267,1,Terminal,Systems Operations,2
 2019-07-11T11:10:00,32,1,screensaverengine,General Utilities,0
 2019-07-11T11:15:00,154,1,Terminal,Systems Operations,2
@@ -57,11 +57,11 @@ Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
 2019-07-11T11:15:00,2,1,Finder,General Utilities,0
 2019-07-11T11:20:00,110,1,TextEdit,Writing,2
 2019-07-11T11:20:00,97,1,sublime text,Editing & IDEs,2
-2019-07-11T11:20:00,50,1,Notes,Email,0
+2019-07-11T11:20:00,50,1,Notes,Writing,2
 2019-07-11T11:20:00,31,1,screensaverengine,General Utilities,0
 2019-07-11T11:20:00,8,1,Finder,General Utilities,0
 2019-07-11T11:20:00,3,1,loginwindow,General Utilities,0
-2019-07-11T11:25:00,191,1,Notes,Email,0
+2019-07-11T11:25:00,191,1,Notes,Writing,2
 2019-07-11T11:25:00,86,1,sublime text,Editing & IDEs,2
 2019-07-11T11:25:00,13,1,Terminal,Systems Operations,2
 2019-07-11T11:25:00,8,1,Finder,General Utilities,0
@@ -107,8 +107,8 @@ Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
 2019-07-11T12:15:00,56,1,stackoverflow.com,General Software Development,2
 2019-07-11T12:15:00,7,1,google.com,Search,2
 2019-07-11T12:20:00,78,1,stackoverflow.com,General Software Development,2
-2019-07-11T12:20:00,54,1,google.com,Search,2
 2019-07-11T12:20:00,54,1,sublime text,Editing & IDEs,2
+2019-07-11T12:20:00,54,1,google.com,Search,2
 2019-07-11T12:20:00,45,1,pandas.pydata.org,Engineering & Technology,1
 2019-07-11T12:20:00,37,1,Terminal,Systems Operations,2
 2019-07-11T12:20:00,23,1,history,Browsers,0
@@ -135,11 +135,11 @@ Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
 2019-07-11T12:45:00,41,1,stackoverflow.com,General Software Development,2
 2019-07-11T12:45:00,37,1,github.com,General Software Development,2
 2019-07-11T12:45:00,21,1,google.com,Search,2
-2019-07-11T12:45:00,7,1,Notes,Email,0
+2019-07-11T12:45:00,7,1,Notes,Writing,2
 2019-07-11T12:45:00,4,1,Slack,Instant Message,2
 2019-07-11T12:50:00,209,1,sublime text,Editing & IDEs,2
 2019-07-11T12:50:00,78,1,Terminal,Systems Operations,2
-2019-07-11T12:50:00,13,1,Notes,Email,0
+2019-07-11T12:50:00,13,1,Notes,Writing,2
 2019-07-11T12:55:00,259,1,sublime text,Editing & IDEs,2
 2019-07-11T12:55:00,41,1,Terminal,Systems Operations,2
 2019-07-11T13:00:00,227,1,sublime text,Editing & IDEs,2
@@ -163,8 +163,8 @@ Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
 2019-07-11T13:25:00,116,1,screensaverengine,General Utilities,0
 2019-07-11T13:25:00,31,1,pandas.pydata.org,Engineering & Technology,1
 2019-07-11T13:25:00,4,1,stackoverflow.com,General Software Development,2
-2019-07-11T13:25:00,1,1,Terminal,Systems Operations,2
 2019-07-11T13:25:00,1,1,google.com,Search,2
+2019-07-11T13:25:00,1,1,Terminal,Systems Operations,2
 2019-07-11T13:30:00,117,1,stackoverflow.com,General Software Development,2
 2019-07-11T13:30:00,95,1,sublime text,Editing & IDEs,2
 2019-07-11T13:30:00,42,1,Terminal,Systems Operations,2
@@ -202,7 +202,7 @@ Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
 2019-07-11T14:10:00,13,1,rescuetime.com,Intelligence,0
 2019-07-11T14:15:00,194,1,Terminal,Systems Operations,2
 2019-07-11T14:15:00,81,1,sublime text,Editing & IDEs,2
-2019-07-11T14:15:00,25,1,Notes,Email,0
+2019-07-11T14:15:00,25,1,Notes,Writing,2
 2019-07-11T14:20:00,217,1,sublime text,Editing & IDEs,2
 2019-07-11T14:20:00,83,1,Terminal,Systems Operations,2
 2019-07-11T14:25:00,219,1,Terminal,Systems Operations,2
@@ -225,7 +225,7 @@ Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
 2019-07-11T14:55:00,16,1,Terminal,Systems Operations,2
 2019-07-11T15:00:00,252,1,sublime text,Editing & IDEs,2
 2019-07-11T15:00:00,22,1,Terminal,Systems Operations,2
-2019-07-11T15:00:00,12,1,Notes,Email,0
+2019-07-11T15:00:00,12,1,Notes,Writing,2
 2019-07-11T15:00:00,11,1,google.com/calendar,Calendars,2
 2019-07-11T15:00:00,1,1,rescuetime.com,Intelligence,0
 2019-07-11T15:00:00,1,1,pandas.pydata.org,Engineering & Technology,1
@@ -249,7 +249,7 @@ Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
 2019-07-11T15:40:00,2,1,screensaverengine,General Utilities,0
 2019-07-11T15:45:00,126,1,sublime text,Editing & IDEs,2
 2019-07-11T15:45:00,76,1,Terminal,Systems Operations,2
-2019-07-11T15:45:00,41,1,Notes,Email,0
+2019-07-11T15:45:00,41,1,Notes,Writing,2
 2019-07-11T15:45:00,38,1,pandas.pydata.org,Engineering & Technology,1
 2019-07-11T15:45:00,10,1,newtab,Browsers,0
 2019-07-11T15:45:00,8,1,google.com,Search,2
@@ -275,5 +275,196 @@ Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
 2019-07-11T16:15:00,26,1,sublime text,Editing & IDEs,2
 2019-07-11T16:20:00,92,1,Terminal,Systems Operations,2
 2019-07-11T16:20:00,4,1,sublime text,Editing & IDEs,2
-2019-07-11T16:25:00,96,1,Terminal,Systems Operations,2
-2019-07-11T16:25:00,1,1,sublime text,Editing & IDEs,2
+2019-07-11T16:25:00,287,1,Terminal,Systems Operations,2
+2019-07-11T16:25:00,5,1,sublime text,Editing & IDEs,2
+2019-07-11T16:25:00,5,1,geeksforgeeks.org,Operations,2
+2019-07-11T16:25:00,3,1,rescuetime.com,Intelligence,0
+2019-07-11T16:30:00,224,1,sublime text,Editing & IDEs,2
+2019-07-11T16:30:00,76,1,Terminal,Systems Operations,2
+2019-07-11T16:35:00,255,1,sublime text,Editing & IDEs,2
+2019-07-11T16:35:00,32,1,Terminal,Systems Operations,2
+2019-07-11T16:35:00,13,1,screensaverengine,General Utilities,0
+2019-07-11T16:40:00,262,1,sublime text,Editing & IDEs,2
+2019-07-11T16:40:00,17,1,stackoverflow.com,General Software Development,2
+2019-07-11T16:40:00,14,1,google.com,Search,2
+2019-07-11T16:40:00,7,1,rescuetime.com,Intelligence,0
+2019-07-11T16:45:00,300,1,sublime text,Editing & IDEs,2
+2019-07-11T16:50:00,230,1,sublime text,Editing & IDEs,2
+2019-07-11T16:50:00,37,1,screensaverengine,General Utilities,0
+2019-07-11T16:50:00,33,1,Terminal,Systems Operations,2
+2019-07-11T16:55:00,246,1,Terminal,Systems Operations,2
+2019-07-11T16:55:00,42,1,sublime text,Editing & IDEs,2
+2019-07-11T16:55:00,7,1,rescuetime.com,Intelligence,0
+2019-07-11T16:55:00,4,1,stackoverflow.com,General Software Development,2
+2019-07-11T17:00:00,191,1,Terminal,Systems Operations,2
+2019-07-11T17:00:00,72,1,sublime text,Editing & IDEs,2
+2019-07-11T17:00:00,16,1,stackoverflow.com,General Software Development,2
+2019-07-11T17:00:00,10,1,rescuetime.com,Intelligence,0
+2019-07-11T17:00:00,5,1,newtab,Browsers,0
+2019-07-11T17:00:00,4,1,pandas.pydata.org,Engineering & Technology,1
+2019-07-11T17:00:00,2,1,google.com,Search,2
+2019-07-11T17:05:00,124,1,sublime text,Editing & IDEs,2
+2019-07-11T17:05:00,113,1,Terminal,Systems Operations,2
+2019-07-11T17:05:00,63,1,rescuetime.com,Intelligence,0
+2019-07-11T17:10:00,180,1,sublime text,Editing & IDEs,2
+2019-07-11T17:10:00,91,1,Terminal,Systems Operations,2
+2019-07-11T17:10:00,10,1,TextEdit,Writing,2
+2019-07-11T17:10:00,7,1,pandas.pydata.org,Engineering & Technology,1
+2019-07-11T17:10:00,6,1,rescuetime.com,Intelligence,0
+2019-07-11T17:10:00,3,1,google.com,Search,2
+2019-07-11T17:10:00,3,1,Finder,General Utilities,0
+2019-07-11T17:15:00,154,1,Terminal,Systems Operations,2
+2019-07-11T17:15:00,36,1,sublime text,Editing & IDEs,2
+2019-07-11T17:20:00,59,1,confluence.braze.com,Uncategorized,0
+2019-07-11T17:20:00,28,1,Terminal,Systems Operations,2
+2019-07-11T17:20:00,5,1,Google Documents,Writing,2
+2019-07-11T17:20:00,4,1,pandas.pydata.org,Engineering & Technology,1
+2019-07-11T17:20:00,3,1,accounts.google.com,General Communication & Scheduling,0
+2019-07-11T17:25:00,296,1,confluence.braze.com,Uncategorized,0
+2019-07-11T17:25:00,4,1,screensaverengine,General Utilities,0
+2019-07-11T17:30:00,112,1,screensaverengine,General Utilities,0
+2019-07-11T17:30:00,97,1,Terminal,Systems Operations,2
+2019-07-11T17:30:00,89,1,sublime text,Editing & IDEs,2
+2019-07-11T17:30:00,2,1,confluence.braze.com,Uncategorized,0
+2019-07-11T17:35:00,290,1,sublime text,Editing & IDEs,2
+2019-07-11T17:35:00,6,1,jaxenter.com,Science & Technology,-1
+2019-07-11T17:35:00,2,1,newtab,Browsers,0
+2019-07-11T17:35:00,2,1,google.com,Search,2
+2019-07-11T17:40:00,108,1,Notes,Writing,2
+2019-07-11T17:40:00,100,1,Slack,Instant Message,2
+2019-07-11T17:40:00,81,1,sublime text,Editing & IDEs,2
+2019-07-11T17:40:00,6,1,geeksforgeeks.org,Operations,2
+2019-07-11T17:40:00,3,1,google.com,Search,2
+2019-07-11T17:40:00,2,1,jaxenter.com,Science & Technology,-1
+2019-07-11T17:45:00,154,1,Slack,Instant Message,2
+2019-07-11T17:45:00,135,1,Notes,Writing,2
+2019-07-11T17:45:00,8,1,Terminal,Systems Operations,2
+2019-07-11T17:45:00,3,1,geeksforgeeks.org,Operations,2
+2019-07-11T17:50:00,137,1,sublime text,Editing & IDEs,2
+2019-07-11T17:50:00,126,1,Notes,Writing,2
+2019-07-11T17:50:00,24,1,messages,General Social Networking,-2
+2019-07-11T17:50:00,13,1,Slack,Instant Message,2
+2019-07-11T17:55:00,170,1,sublime text,Editing & IDEs,2
+2019-07-11T17:55:00,108,1,Slack,Instant Message,2
+2019-07-11T17:55:00,22,1,Terminal,Systems Operations,2
+2019-07-11T18:00:00,109,1,Terminal,Systems Operations,2
+2019-07-11T18:00:00,94,1,stackoverflow.com,General Software Development,2
+2019-07-11T18:00:00,74,1,sublime text,Editing & IDEs,2
+2019-07-11T18:00:00,13,1,geeksforgeeks.org,Operations,2
+2019-07-11T18:00:00,8,1,github.com,General Software Development,2
+2019-07-11T18:00:00,2,1,google.com,Search,2
+2019-07-11T18:05:00,188,1,sublime text,Editing & IDEs,2
+2019-07-11T18:05:00,68,1,stackoverflow.com,General Software Development,2
+2019-07-11T18:05:00,26,1,Terminal,Systems Operations,2
+2019-07-11T18:05:00,15,1,pandas.pydata.org,Engineering & Technology,1
+2019-07-11T18:05:00,3,1,google.com,Search,2
+2019-07-11T18:10:00,196,1,sublime text,Editing & IDEs,2
+2019-07-11T18:10:00,104,1,Terminal,Systems Operations,2
+2019-07-11T18:15:00,177,1,Terminal,Systems Operations,2
+2019-07-11T18:15:00,123,1,sublime text,Editing & IDEs,2
+2019-07-11T18:20:00,206,1,Terminal,Systems Operations,2
+2019-07-11T18:20:00,87,1,sublime text,Editing & IDEs,2
+2019-07-11T18:20:00,6,1,stackoverflow.com,General Software Development,2
+2019-07-11T18:20:00,1,1,google.com,Search,2
+2019-07-11T18:25:00,110,1,stackoverflow.com,General Software Development,2
+2019-07-11T18:25:00,97,1,Terminal,Systems Operations,2
+2019-07-11T18:25:00,88,1,sublime text,Editing & IDEs,2
+2019-07-11T18:25:00,5,1,google.com,Search,2
+2019-07-11T18:30:00,121,1,Terminal,Systems Operations,2
+2019-07-11T18:30:00,20,1,loginwindow,General Utilities,0
+2019-07-11T18:30:00,6,1,google.com,Search,2
+2019-07-11T18:30:00,5,1,newtab,Browsers,0
+2019-07-11T18:35:00,25,1,Terminal,Systems Operations,2
+2019-07-11T18:35:00,21,1,loginwindow,General Utilities,0
+2019-07-11T18:35:00,5,1,sublime text,Editing & IDEs,2
+2019-07-11T18:35:00,2,1,Xcode,Editing & IDEs,2
+2019-07-11T22:05:00,16,1,Mail,Email,2
+2019-07-11T22:05:00,11,1,github.com,General Software Development,2
+2019-07-11T22:05:00,6,1,messenger.com,General Social Networking,-2
+2019-07-11T22:05:00,3,1,registrar.mit.edu,Presentation,2
+2019-07-11T22:05:00,2,1,loginwindow,General Utilities,0
+2019-07-11T22:05:00,2,1,newtab,Browsers,0
+2019-07-11T22:10:00,151,1,github.com,General Software Development,2
+2019-07-11T22:10:00,54,1,stackoverflow.com,General Software Development,2
+2019-07-11T22:10:00,45,1,Terminal,Systems Operations,2
+2019-07-11T22:10:00,17,1,developer.github.com,General Software Development,2
+2019-07-11T22:10:00,17,1,messages,General Social Networking,-2
+2019-07-11T22:10:00,6,1,hdokiejnpimakedhajhdlcegeplioahd,General Utilities,1
+2019-07-11T22:10:00,5,1,wechat,General Social Networking,-2
+2019-07-11T22:10:00,3,1,newtab,Browsers,0
+2019-07-11T22:10:00,2,1,google.com,Search,2
+2019-07-11T22:15:00,81,1,Terminal,Systems Operations,2
+2019-07-11T22:15:00,68,1,wechat,General Social Networking,-2
+2019-07-11T22:15:00,19,1,Finder,General Utilities,0
+2019-07-11T22:15:00,9,1,stackoverflow.com,General Software Development,2
+2019-07-11T22:15:00,6,1,hdokiejnpimakedhajhdlcegeplioahd,General Utilities,1
+2019-07-11T22:15:00,6,1,github.com,General Software Development,2
+2019-07-11T22:20:00,13,1,sublime text,Editing & IDEs,2
+2019-07-11T22:20:00,12,1,Finder,General Utilities,0
+2019-07-11T22:20:00,3,1,Terminal,Systems Operations,2
+2019-07-11T22:25:00,129,1,sublime text,Editing & IDEs,2
+2019-07-11T22:25:00,126,1,Terminal,Systems Operations,2
+2019-07-11T22:25:00,43,1,wechat,General Social Networking,-2
+2019-07-11T22:30:00,202,1,sublime text,Editing & IDEs,2
+2019-07-11T22:30:00,60,1,Terminal,Systems Operations,2
+2019-07-11T22:30:00,19,1,stackoverflow.com,General Software Development,2
+2019-07-11T22:30:00,10,1,google.com,Search,2
+2019-07-11T22:30:00,9,1,github.com,General Software Development,2
+2019-07-11T22:35:00,75,1,stackoverflow.com,General Software Development,2
+2019-07-11T22:35:00,74,1,Terminal,Systems Operations,2
+2019-07-11T22:35:00,72,1,sublime text,Editing & IDEs,2
+2019-07-11T22:35:00,54,1,pandas.pydata.org,Engineering & Technology,1
+2019-07-11T22:35:00,24,1,google.com,Search,2
+2019-07-11T22:35:00,1,1,Finder,General Utilities,0
+2019-07-11T22:40:00,116,1,pandas.pydata.org,Engineering & Technology,1
+2019-07-11T22:40:00,109,1,sublime text,Editing & IDEs,2
+2019-07-11T22:40:00,68,1,Terminal,Systems Operations,2
+2019-07-11T22:40:00,6,1,google.com,Search,2
+2019-07-11T22:40:00,1,1,stackoverflow.com,General Software Development,2
+2019-07-11T22:45:00,163,1,sublime text,Editing & IDEs,2
+2019-07-11T22:45:00,71,1,Terminal,Systems Operations,2
+2019-07-11T22:45:00,49,1,stackoverflow.com,General Software Development,2
+2019-07-11T22:45:00,14,1,pandas.pydata.org,Engineering & Technology,1
+2019-07-11T22:45:00,2,1,google.com,Search,2
+2019-07-11T22:50:00,212,1,sublime text,Editing & IDEs,2
+2019-07-11T22:50:00,88,1,Terminal,Systems Operations,2
+2019-07-11T22:55:00,174,1,Terminal,Systems Operations,2
+2019-07-11T22:55:00,126,1,sublime text,Editing & IDEs,2
+2019-07-11T23:00:00,163,1,Terminal,Systems Operations,2
+2019-07-11T23:00:00,137,1,sublime text,Editing & IDEs,2
+2019-07-11T23:05:00,142,1,sublime text,Editing & IDEs,2
+2019-07-11T23:05:00,108,1,Terminal,Systems Operations,2
+2019-07-11T23:05:00,30,1,pandas.pydata.org,Engineering & Technology,1
+2019-07-11T23:05:00,9,1,wechat,General Social Networking,-2
+2019-07-11T23:05:00,6,1,stackoverflow.com,General Software Development,2
+2019-07-11T23:05:00,5,1,google.com,Search,2
+2019-07-11T23:10:00,173,1,sublime text,Editing & IDEs,2
+2019-07-11T23:10:00,71,1,Terminal,Systems Operations,2
+2019-07-11T23:10:00,31,1,stackoverflow.com,General Software Development,2
+2019-07-11T23:10:00,14,1,pandas.pydata.org,Engineering & Technology,1
+2019-07-11T23:10:00,11,1,google.com,Search,2
+2019-07-11T23:15:00,184,1,Terminal,Systems Operations,2
+2019-07-11T23:15:00,72,1,sublime text,Editing & IDEs,2
+2019-07-11T23:15:00,37,1,rescuetime.com,Intelligence,0
+2019-07-11T23:15:00,7,1,stackoverflow.com,General Software Development,2
+2019-07-11T23:20:00,141,1,Terminal,Systems Operations,2
+2019-07-11T23:20:00,79,1,stackoverflow.com,General Software Development,2
+2019-07-11T23:20:00,43,1,sublime text,Editing & IDEs,2
+2019-07-11T23:20:00,27,1,wechat,General Social Networking,-2
+2019-07-11T23:20:00,5,1,rescuetime.com,Intelligence,0
+2019-07-11T23:20:00,5,1,google.com,Search,2
+2019-07-11T23:25:00,300,1,Terminal,Systems Operations,2
+2019-07-11T23:30:00,288,1,Terminal,Systems Operations,2
+2019-07-11T23:30:00,11,1,wechat,General Social Networking,-2
+2019-07-11T23:30:00,1,1,Finder,General Utilities,0
+2019-07-11T23:35:00,200,1,sublime text,Editing & IDEs,2
+2019-07-11T23:35:00,100,1,Terminal,Systems Operations,2
+2019-07-11T23:40:00,246,1,sublime text,Editing & IDEs,2
+2019-07-11T23:40:00,54,1,Terminal,Systems Operations,2
+2019-07-11T23:45:00,194,1,sublime text,Editing & IDEs,2
+2019-07-11T23:45:00,106,1,Terminal,Systems Operations,2
+2019-07-11T23:50:00,262,1,sublime text,Editing & IDEs,2
+2019-07-11T23:50:00,38,1,Terminal,Systems Operations,2
+2019-07-11T23:55:00,170,1,sublime text,Editing & IDEs,2
+2019-07-11T23:55:00,97,1,Terminal,Systems Operations,2
+2019-07-11T23:55:00,33,1,Notes,Writing,2

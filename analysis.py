@@ -4,6 +4,8 @@ from datetime import datetime
 all_data_location = 'all_data.csv'
 cols = {'date': 'Date', 'dur': 'Time Spent (seconds)', 'people': 'Number of People', 'act': 'Activity', 'cat': 'Category', 'prod': 'Productivity'}
 pd.options.display.max_rows = 100
+pd.set_option('precision', 2)
+
 STATS = ['Min', '25th', 'Median', '75th', 'Max', 'Mean', 'STD']
 agg_func = {cols['dur']: 'sum', cols['cat']: 'first', cols['prod']: 'first'};
 time_periods = ['Year', 'Month', 'Y-M', 'Y-M-D', 'DOW', 'Hour', 'Min']
@@ -114,10 +116,10 @@ def analyze(df, all_data=False):
 		print(group_df.head(50))
 		print('\n\n')
 
-	print('TOP ACTIVITIES - ALL TIME')
+	print('TOP ACTIVITIES')
 	print(all_act.head(50))
 	print()
-	print('TOP CATEGORIES - ALL TIME')
+	print('TOP CATEGORIES')
 	print(all_cat[1].head(50))
 	print('Total time: ' + str(TOTAL_SECONDS) + ' seconds, or ' + TOTAL_HMS)
 	print('Analysis finished in ' + str(time.time() - start) + ' seconds' + '\n' * 20)
@@ -136,7 +138,7 @@ def time_period():
 		try:
 			begin, end = inp.split(' ')[0], inp.split(' ')[1]
 			begin_date = datetime.strptime(begin, '%Y-%m-%d').date() # inclusive 
-			end_date = datetime.strptime(begin, '%Y-%m-%d').date() # inclusive 
+			end_date = datetime.strptime(end, '%Y-%m-%d').date() # inclusive 
 			if end_date < begin_date:
 				return None
 			begin_ymd = [int(x) for x in begin.split('-')]
@@ -145,47 +147,97 @@ def time_period():
 		except:
 			return None
 
-	inp = input('Enter a specific time period (format: YYYY-MM-DD YYYY-MM-DD (start and end dates, inclusive)). Type EXIT to exit.\n> ')
+	inp = input('Enter a specific time period (format: YYYY-MM-DD YYYY-MM-DD (start and end dates, inclusive)). Type BACK to go back.\n> ')
+	if inp == 'BACK':
+		return
 	dates = parse_input(inp)
 	if dates is None:
 		print('Invalid entry.')
 		time_period()
 	begin, end = dates[0], dates[1]
-	df = df.loc[df['Year'].isin(range(begin[0], end[0] + 1))]
-	df = df.loc[df['Month'].isin(range(begin[1], end[1] + 1))]
-	df = df.loc[df['Day'].isin(range(begin[2], end[2] + 1))]
-	if df.empty:
+	df_t = df.loc[df['Year'].isin(range(begin[0], end[0] + 1))]
+	df_t = df_t.loc[df['Month'].isin(range(begin[1], end[1] + 1))]
+	df_t = df_t.loc[df['Day'].isin(range(begin[2], end[2] + 1))]
+	if df_t.empty:
 		print('No data for this time')
 		time_period()
-	analyze(df)
+	analyze(df_t)
 
 
-def activity_analysis():
+def actcat_analysis(actcat, aggfunc):
 
-	activity = input('Enter an activity\n> ')
-	for period in ['Y-M-D']:
-		df2 = df.groupby([period, cols['act']]).agg(agg_func).sort_values(by=cols['dur'], ascending=False)
+	thing = input('Enter a(n) ' + actcat + '. Type BACK to go back.\n> ')
+	if thing == 'BACK':
+		return
+	for period in time_periods:
+		# group by period and thing, add ranking
+		df2 = df.groupby([period, actcat]).agg(aggfunc).sort_values(by=cols['dur'], ascending=False)
 		df2['Period rank'] = df2.groupby(level=0)[cols['dur']].rank(ascending=False)
-		print(df2.head(50))
+		df2 = df2.reset_index()
 
-		df2['Total time'] = df2.groupby(level=0).sum(axis=1)
-		df2['% Period'] = 100 * df2[cols['dur']] / df2['Total time']
-		#df2['Total time'] = df2.apply(lambda row: s2hms(row['Total time']), axis=1)
-		df2 = df2.xs(activity, level=cols['act'], axis=0, drop_level=True)
-		df2['Activity time'] = df2.apply(lambda row: s2hms(row[cols['dur']]), axis=1)
-		df2 = df2[['Total time', 'Activity time', '% Period', 'Period rank']]
+		total_time = df2.groupby(period).agg({cols['dur']: 'sum'})
+		df2 = df2.loc[df2[actcat] == thing]
+		if df2.empty:
+			print('Does not exist.')
+			actcat_analysis(actcat, aggfunc)
+
+		if actcat == cols['cat']:
+			top_act = df.groupby([period, cols['act']]).agg(agg_func).sort_values(by=cols['dur'], ascending=False)
+			top_act = top_act.loc[top_act[cols['cat']] == thing]
+			if top_act.empty:
+				print('Does not exist.')
+				actcat_analysis(actcat, aggfunc)
+			top_act = top_act.reset_index()
+			top_act = top_act.groupby([period, cols['cat']]).agg({cols['dur']: [first, second, third], cols['act']: [first, second, third]})
+
+			top_act.columns = top_act.columns.get_level_values(0)
+			top_act.columns = ['Top HMS', '2nd HMS', '3rd HMS', 'Top Activity', '2nd Activity', '3rd Activity']
+			for col in ['Top HMS', '2nd HMS', '3rd HMS']:
+				top_act[col] = top_act.apply(lambda row: s2hms(row[col]), axis=1)
+			top_act = top_act[['Top Activity', 'Top HMS', '2nd Activity', '2nd HMS', '3rd Activity', '3rd HMS']]
+
+			df2 = df2.rename({cols['dur']: 'Category time'}, axis=1)
+			df2 = pd.merge(df2, top_act, on=period)
+
+		else:
+			df2 = df2.rename({cols['dur']: 'Activity time'}, axis=1)
+		
+		df2 = pd.merge(df2, total_time, on=period)
+
+		# add % period, sort
+		df2['% Period'] = 100 * df2[actcat + ' time'] / df2[cols['dur']]
+		df2 = df2.sort_values(by=actcat + ' time', ascending=False)
+
+		# convert to hms
+		df2['Total period'] = df2.apply(lambda row: s2hms(row[cols['dur']]), axis=1)
+		df2[actcat + ' time'] = df2.apply(lambda row: s2hms(row[actcat + ' time']), axis=1)
+
+		# move columns, set index, change type
+		if actcat == cols['cat']:
+			df2 = df2[[period, actcat + ' time', 'Total period', '% Period', 'Period rank', 'Top Activity', 'Top HMS', '2nd Activity', '2nd HMS', '3rd Activity', '3rd HMS']]
+		elif actcat == cols['act']:
+			df2 = df2[[period, actcat + ' time', 'Total period', '% Period', 'Period rank']]
+		df2 = df2.set_index(period)
+		df2 = df2.astype({"Period rank": int})
+
+		print('Time period: ' + period)
 		print(df2.head(50))
+		print()
 
 def category_analysis():
 	print('hello')
 
-inp = input('Type 1 for time period analysis.\nType 2 for activity analysis.\nType 3 for category analysis\n> ')
-while(inp != 'EXIT'):
-	if inp == '1': time_period()
-	elif inp == '2': activity_analysis()
-	elif inp == '3': category_analysis()
-	inp = input('Type 1 for time period analysis.\nType 2 for activity analysis.\nType 3 for category analysis\n> ')
 
+def get_inputs():
+	inp = input('Type 1 for time period analysis.\nType 2 for activity analysis.\nType 3 for category analysis\n> ')
+	while(inp != 'EXIT'):
+		if inp == '1': time_period()
+		elif inp == '2': actcat_analysis(cols['act'], agg_func)
+		elif inp == '3': actcat_analysis(cols['cat'], {cols['dur']: 'sum'})
+		print('\n'*20)
+		inp = input('Type 1 for time period analysis.\nType 2 for activity analysis.\nType 3 for category analysis\n> ')
+
+get_inputs()
 
 
 

@@ -1,0 +1,50 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2019-07-12T00:00:00,151,1,Terminal,Systems Operations,2
+2019-07-12T00:00:00,149,1,sublime text,Editing & IDEs,2
+2019-07-12T00:05:00,184,1,sublime text,Editing & IDEs,2
+2019-07-12T00:05:00,116,1,Terminal,Systems Operations,2
+2019-07-12T00:10:00,248,1,sublime text,Editing & IDEs,2
+2019-07-12T00:10:00,52,1,Terminal,Systems Operations,2
+2019-07-12T00:15:00,138,1,Terminal,Systems Operations,2
+2019-07-12T00:15:00,127,1,sublime text,Editing & IDEs,2
+2019-07-12T00:15:00,34,1,stackoverflow.com,General Software Development,2
+2019-07-12T00:15:00,1,1,google.com,Search,2
+2019-07-12T00:20:00,212,1,Terminal,Systems Operations,2
+2019-07-12T00:20:00,88,1,sublime text,Editing & IDEs,2
+2019-07-12T00:25:00,240,1,Terminal,Systems Operations,2
+2019-07-12T00:25:00,60,1,sublime text,Editing & IDEs,2
+2019-07-12T00:30:00,188,1,sublime text,Editing & IDEs,2
+2019-07-12T00:30:00,57,1,wechat,General Social Networking,-2
+2019-07-12T00:30:00,54,1,Terminal,Systems Operations,2
+2019-07-12T00:35:00,208,1,sublime text,Editing & IDEs,2
+2019-07-12T00:35:00,79,1,Terminal,Systems Operations,2
+2019-07-12T00:35:00,13,1,wechat,General Social Networking,-2
+2019-07-12T00:40:00,160,1,sublime text,Editing & IDEs,2
+2019-07-12T00:40:00,120,1,Terminal,Systems Operations,2
+2019-07-12T00:40:00,19,1,wechat,General Social Networking,-2
+2019-07-12T00:45:00,201,1,Terminal,Systems Operations,2
+2019-07-12T00:45:00,92,1,sublime text,Editing & IDEs,2
+2019-07-12T00:45:00,7,1,Notes,Writing,2
+2019-07-12T00:50:00,212,1,sublime text,Editing & IDEs,2
+2019-07-12T00:50:00,62,1,Terminal,Systems Operations,2
+2019-07-12T00:50:00,11,1,Notes,Writing,2
+2019-07-12T00:50:00,8,1,stackoverflow.com,General Software Development,2
+2019-07-12T00:50:00,6,1,wechat,General Social Networking,-2
+2019-07-12T00:55:00,177,1,sublime text,Editing & IDEs,2
+2019-07-12T00:55:00,86,1,stackoverflow.com,General Software Development,2
+2019-07-12T00:55:00,32,1,Terminal,Systems Operations,2
+2019-07-12T00:55:00,5,1,google.com,Search,2
+2019-07-12T01:00:00,166,1,sublime text,Editing & IDEs,2
+2019-07-12T01:00:00,133,1,Terminal,Systems Operations,2
+2019-07-12T01:05:00,214,1,sublime text,Editing & IDEs,2
+2019-07-12T01:05:00,86,1,Terminal,Systems Operations,2
+2019-07-12T01:10:00,166,1,Terminal,Systems Operations,2
+2019-07-12T01:10:00,120,1,sublime text,Editing & IDEs,2
+2019-07-12T01:10:00,14,1,Notes,Writing,2
+2019-07-12T01:15:00,182,1,Terminal,Systems Operations,2
+2019-07-12T01:15:00,118,1,sublime text,Editing & IDEs,2
+2019-07-12T01:20:00,152,1,Terminal,Systems Operations,2
+2019-07-12T01:20:00,147,1,sublime text,Editing & IDEs,2
+2019-07-12T01:25:00,161,1,Terminal,Systems Operations,2
+2019-07-12T01:25:00,12,1,sublime text,Editing & IDEs,2
+2019-07-12T01:25:00,4,1,Notes,Writing,2
