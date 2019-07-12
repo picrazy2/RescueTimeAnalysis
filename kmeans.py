@@ -14,7 +14,7 @@ for y in years:
 		timeseries.append(datetime.datetime(int(y), int(m), 1, 0, 0))
 timeseries = np.array(timeseries)
 
-NUM_CLUSTERS = prompt('Number of clusters? ')
+NUM_CLUSTERS = int(input('Number of clusters? '))
 
 def kmeans(p):
 	length = len(points)
