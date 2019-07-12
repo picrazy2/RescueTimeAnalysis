@@ -1,13 +1,20 @@
 import csv
 import numpy as np
-from mpl_toolkits.mplot3d import Axes3D
 import matplotlib.pyplot as plt
+import datetime
 
 partial_path = 'data_by_month/'
-years = ["2013", "2014", "2015", "2016", "2017", "2018", "2019"]
+years = ["2013", "2014", "2015", "2016", "2017", "2018"]
 months = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
 
-NUM_CLUSTERS = 5
+timeseries = []
+
+for y in years:
+	for m in months:
+		timeseries.append(datetime.datetime(int(y), int(m), 1, 0, 0))
+timeseries = np.array(timeseries)
+
+NUM_CLUSTERS = 4
 
 def kmeans(p):
 	length = len(points)
@@ -49,41 +56,57 @@ def kmeans(p):
 
 	return means, clusters
 
-# for year in years:
-with open(partial_path + '2018/05.csv') as csvfile:
-	reader = csv.reader(csvfile, delimiter=',')
+# main
+app_data_by_year_month = {}
 
-	points = [] #(productivity, time spent)
-	apps = []
-	for row in reader:
-		if row[0] == 'App':
-			continue
-		points.append(np.array([int(row[3]), float(row[1]/3600)]))
-		apps.append(row[0])
-	means, labels = kmeans(points)
+for y in years:
+	for m in months:
+		with open(partial_path + y + '/' + m + '.csv') as csvfile:
+			reader = csv.reader(csvfile, delimiter=',')
+			for row in reader:
+				if row[0] == 'App':
+					continue
+				app = row[0]
+				time_spent = row[1]
 
-	points_in_cluster = {}
-	for i in range(len(labels)):
-		if labels[i] not in points_in_cluster:
-			points_in_cluster[labels[i]] = {}
-		points_in_cluster[labels[i]][apps[i]] = True
+				if app not in app_data_by_year_month:
+					app_data_by_year_month[app] = {}
+				app_data_by_year_month[app][y+m] = int(time_spent)/3600.0
 
-	for i in points_in_cluster:
-		print('Cluster ' + str(i) + ': ')
-		print('Average time spent in hours: ' + str(means[i][1]))
-		print('Average productivity: ' + str(means[i][0]))
-		print(list(points_in_cluster[i].keys()))
+points = []
+apps = []
+for app in app_data_by_year_month:
+	point = []
+	for y in years:
+		for m in months:
+			point.append(app_data_by_year_month[app].get(y+m, 0))
+	points.append(point)
+	apps.append(app)
 
+means, labels = kmeans(points)
 
-	# fig = plt.figure()
-	# ax = fig.add_subplot(111, projection='3d')
+points_in_cluster = {}
+for i in range(len(labels)):
+	if labels[i] not in points_in_cluster:
+		points_in_cluster[labels[i]] = {}
+	points_in_cluster[labels[i]][apps[i]] = True
 
-	# ax.scatter(np.take(points, 0, 1), np.take(points, 1, 1), np.take(points, 2, 1), c=labels)
+for i in points_in_cluster:
+	print('Cluster ' + str(i) + ': ')
+	print("----------------------------------------------------------------------------")
+	print("Related Apps:")
+	print(list(points_in_cluster[i].keys()))
+	print("Mean time spent across time in hours:")
+	print(means[i].astype(int))
+	print('\n')
 
-	# ax.set_xlabel('Month')
-	# ax.set_ylabel('Productivity')
-	# ax.set_zlabel("Time Spent (Hours)")
-	# plt.show()
+	plt.plot(timeseries, means[i], label="Cluster " + str(i))
+
+plt.xlabel('Year-Month')
+plt.ylabel('Mean Time spent (hours)')
+plt.legend()
+plt.show()
+
 
 
 
