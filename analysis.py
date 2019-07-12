@@ -1,5 +1,6 @@
-import pandas as pd, time
-from datetime import datetime
+import pandas as pd, time, os
+import datetime
+import matplotlib.pyplot as plt
 
 all_data_location = 'all_data.csv'
 cols = {'date': 'Date', 'dur': 'Time Spent (seconds)', 'people': 'Number of People', 'act': 'Activity', 'cat': 'Category', 'prod': 'Productivity'}
@@ -8,7 +9,7 @@ pd.set_option('precision', 2)
 
 STATS = ['Min', '25th', 'Median', '75th', 'Max', 'Mean', 'STD']
 agg_func = {cols['dur']: 'sum', cols['cat']: 'first', cols['prod']: 'first'};
-time_periods = ['Year', 'Month', 'Y-M', 'Y-M-D', 'DOW', 'Hour', 'Min']
+time_periods = ['Year', 'Month', 'Y-M', 'Y-W', 'Y-M-D', 'DOW', 'Hour', 'Min']
 
 def s2hms(seconds):
 	try:
@@ -22,8 +23,10 @@ def parse_date(date):
 	spl = date.split('T')
 	ymd = spl[0].split('-')
 	ym = ymd[0] + '-' + ymd[1]
-	dow = datetime(int(ymd[0]), int(ymd[1]), int(ymd[2])).weekday()
-	return ([int(x) for x in ymd] + [ym, spl[0], DOW[dow]] + spl[1].split(':'))[:-1] #format is [Y, M, D, Y-M, Y-M-D, DOW, H, M]
+	week = datetime.date(int(ymd[0]), int(ymd[1]), int(ymd[2])).isocalendar()[1]
+	yw = ymd[0] + 'w' + str(week).zfill(2)
+	dow = datetime.datetime(int(ymd[0]), int(ymd[1]), int(ymd[2])).weekday()
+	return ([int(x) for x in ymd] + [ym, yw, spl[0], DOW[dow]] + spl[1].split(':'))[:-1] #format is [Y, M, D, Y-M, Y-W, Y-M-D, DOW, H, M]
 	
 def get_time_rank_for_year_act(act):
 	ret = []
@@ -44,15 +47,29 @@ df = pd.read_csv(all_data_location)
 
 
 # make year, month, day, hour, min columns
-df['Year'], df['Month'], df['Day'], df['Y-M'], df['Y-M-D'], df['DOW'], df['Hour'], df['Min'] = zip(*df[cols['date']].map(parse_date))
-df = df[['Year', 'Month', 'Y-M', 'Y-M-D', 'DOW', 'Day', 'Hour', 'Min', cols['dur'], cols['act'], cols['cat'], cols['prod']]]
+times = ['Year', 'Month', 'Y-M', 'Y-W', 'Y-M-D', 'DOW', 'Day', 'Hour', 'Min']
+df['Year'], df['Month'], df['Day'], df['Y-M'], df['Y-W'], df['Y-M-D'], df['DOW'], df['Hour'], df['Min'] = zip(*df[cols['date']].map(parse_date))
+df = df[times + [cols['dur'], cols['act'], cols['cat'], cols['prod']]]
 years = df['Year'].unique()
+
+# make folders
+if not os.path.exists('queries/'): os.makedirs('queries/')
+folder_name = 'queries/runtime_' + str(time.time()) + '/'
+time_period_dir = folder_name + 'time_period/'
+activity_dir = folder_name + 'activity/'
+category_dir = folder_name + 'category/'
+if not os.path.exists(folder_name): os.makedirs(folder_name)
+if not os.path.exists(time_period_dir): os.makedirs(time_period_dir)
+if not os.path.exists(activity_dir): os.makedirs(activity_dir)
+if not os.path.exists(category_dir): os.makedirs(category_dir)
 
 '''
 Provide all analysis given a dataframe slice (time period)
 '''
-def analyze(df, all_data=False):
+def analyze(df, s, e, num_days, all_data=False):
 	start = time.time()
+	spec_dir = time_period_dir + s + '_' + e + '/' if not all_data else time_period_dir + 'ALL_DATA/'
+	if not os.path.exists(spec_dir): os.makedirs(spec_dir)
 
 	TOTAL_SECONDS = df[cols['dur']].sum()
 	TOTAL_HMS = s2hms(TOTAL_SECONDS)
@@ -62,6 +79,30 @@ def analyze(df, all_data=False):
 	all_act.index += 1
 	all_act['H:M:S'] = all_act.apply(lambda row: s2hms(row[cols['dur']]), axis=1)
 	all_act = all_act[[cols['act'], cols['dur'], 'H:M:S', cols['cat'], cols['prod']]]
+
+	# plot top 20
+	TOP_NUM = 20
+	if num_days > 366: group = 'Y-M' 
+	elif num_days > 60: group = 'Y-W'
+	else: group = 'Y-M-D'
+	#window = 3 if num_days > 366 else 7
+	trend = df.groupby([group, cols['act']]).agg({cols['dur']: 'sum'})
+	trend[cols['dur']] = trend[cols['dur']] / 3600
+	trend = trend.unstack(level=-1)
+	trend.columns = trend.columns.droplevel()
+	top_x = df.groupby(cols['act']).agg(agg_func).sort_values(by=cols['dur'], ascending=False).head(TOP_NUM).index.tolist()
+	trend['Total'] = trend.sum(axis=1)
+	trend['Other'] = trend['Total'] - trend[top_x].sum(axis=1)
+	trend = trend[(top_x + ['Other'])[::-1]]
+	# roll here
+	#trend = trend.rolling(window=window).mean()
+	#print(trend)
+	ax = trend.plot.area(title='Top ' + str(TOP_NUM) + ' Activities For Date Range ' + str(s) + ' ' + str(e), figsize=(20, 10))
+	handles, labels = ax.get_legend_handles_labels()
+	ax.legend(reversed(handles), reversed(labels))
+	ax.set_ylabel("# Hours")
+	plt.savefig(spec_dir + 'activity_trend.png')
+	#plt.show(block=False)
 
 	# if all_data:
 	# 	get trends of years for each activity (slow)
@@ -110,11 +151,16 @@ def analyze(df, all_data=False):
 	all_cat = get_top_times(cols['cat'], aggfunc={cols['dur']: 'sum', cols['prod']: 'first'})
 	for group in time_periods:
 		stats, group_df = get_top_times(group)
+		stats.to_csv(spec_dir + group + '_stats.csv', encoding='utf-8')
+		group_df.to_csv(spec_dir + group + '.csv', encoding='utf-8')
 		print('Group: ' + group)
 		print(stats)
 		print()
 		print(group_df.head(50))
 		print('\n\n')
+
+	all_act.to_csv(spec_dir + 'TOP_ACTIVITIES.csv', encoding='utf-8')
+	all_cat[1].to_csv(spec_dir + 'TOP_CATEGORIES.csv', encoding='utf-8')
 
 	print('TOP ACTIVITIES')
 	print(all_act.head(50))
@@ -127,23 +173,21 @@ def analyze(df, all_data=False):
 
 
 
-######
+###### ANALYSIS STARTS HERE #######
 
 # analyze on all data first
-analyze(df, all_data=True)
+analyze(df, '2013-01-01', '2019-07-12', 999999, all_data=True)
 
 def time_period():
 
 	def parse_input(inp):
 		try:
 			begin, end = inp.split(' ')[0], inp.split(' ')[1]
-			begin_date = datetime.strptime(begin, '%Y-%m-%d').date() # inclusive 
-			end_date = datetime.strptime(end, '%Y-%m-%d').date() # inclusive 
+			begin_date = datetime.datetime.strptime(begin, '%Y-%m-%d').date() # inclusive 
+			end_date = datetime.datetime.strptime(end, '%Y-%m-%d').date() # inclusive 
 			if end_date < begin_date:
 				return None
-			begin_ymd = [int(x) for x in begin.split('-')]
-			end_ymd = [int(x) for x in end.split('-')]
-			return [begin_ymd, end_ymd]
+			return [begin, end]
 		except:
 			return None
 
@@ -155,13 +199,12 @@ def time_period():
 		print('Invalid entry.')
 		time_period()
 	begin, end = dates[0], dates[1]
-	df_t = df.loc[df['Year'].isin(range(begin[0], end[0] + 1))]
-	df_t = df_t.loc[df['Month'].isin(range(begin[1], end[1] + 1))]
-	df_t = df_t.loc[df['Day'].isin(range(begin[2], end[2] + 1))]
+	days = pd.Series(pd.date_range(begin, end).format()).tolist()
+	df_t = df.loc[df['Y-M-D'].isin(days)]
 	if df_t.empty:
 		print('No data for this time')
 		time_period()
-	analyze(df_t)
+	analyze(df_t, begin, end, len(days))
 
 
 def actcat_analysis(actcat, aggfunc):
@@ -181,7 +224,9 @@ def actcat_analysis(actcat, aggfunc):
 			print('Does not exist.')
 			actcat_analysis(actcat, aggfunc)
 
+		spec_dir = ''
 		if actcat == cols['cat']:
+			spec_dir = category_dir + thing + '/'
 			top_act = df.groupby([period, cols['act']]).agg(agg_func).sort_values(by=cols['dur'], ascending=False)
 			top_act = top_act.loc[top_act[cols['cat']] == thing]
 			if top_act.empty:
@@ -200,15 +245,34 @@ def actcat_analysis(actcat, aggfunc):
 			df2 = pd.merge(df2, top_act, on=period)
 
 		else:
+			spec_dir = activity_dir + thing + '/'
 			df2 = df2.rename({cols['dur']: 'Activity time'}, axis=1)
 		
+		if not os.path.exists(spec_dir): os.makedirs(spec_dir)
+
 		df2 = pd.merge(df2, total_time, on=period)
-
-		# add % period, sort
 		df2['% Period'] = 100 * df2[actcat + ' time'] / df2[cols['dur']]
-		df2 = df2.sort_values(by=actcat + ' time', ascending=False)
 
-		# convert to hms
+		# plotting!!!
+		df2 = df2.sort_values(by=period)
+		new = df2.copy()
+		new[actcat + ' time'] = new[actcat + ' time'] / 3600
+		new['Total time'] = new[cols['dur']] / 3600
+		plt.cla()
+		ax = plt.gca()
+		new.plot(kind='line', x=period, y=actcat + ' time', ax=ax)
+		new.plot(kind='line', x=period, y='Total time', ax=ax)
+		#ax2 = ax.twinx()
+		#new.plot(kind='line', x=period, y='% Period', ax=ax2)
+		ax.set_ylabel("# Hours")
+		ax.set_ylim(bottom=0)
+		#ax.set_ylabel("% Period")
+		#ax.set_ylim(bottom=0)
+		plt.savefig(spec_dir + period + '_trend.png')
+
+
+		# sort, convert to hms
+		df2 = df2.sort_values(by=actcat + ' time', ascending=False)
 		df2['Total period'] = df2.apply(lambda row: s2hms(row[cols['dur']]), axis=1)
 		df2[actcat + ' time'] = df2.apply(lambda row: s2hms(row[actcat + ' time']), axis=1)
 
@@ -220,25 +284,30 @@ def actcat_analysis(actcat, aggfunc):
 		df2 = df2.set_index(period)
 		df2 = df2.astype({"Period rank": int})
 
+		# save to file
+		if actcat == cols['act']: 
+			df2.to_csv(activity_dir + thing + '/' + period + '.csv', encoding='utf-8')
+		elif actcat == cols['cat']: 
+			df2.to_csv(category_dir + thing + '/' + period + '.csv', encoding='utf-8')
+
 		print('Time period: ' + period)
 		print(df2.head(50))
 		print()
-
-def category_analysis():
-	print('hello')
 
 
 def get_inputs():
 	inp = input('Type 1 for time period analysis.\nType 2 for activity analysis.\nType 3 for category analysis\n> ')
 	while(inp != 'EXIT'):
-		if inp == '1': time_period()
-		elif inp == '2': actcat_analysis(cols['act'], agg_func)
-		elif inp == '3': actcat_analysis(cols['cat'], {cols['dur']: 'sum'})
+		if inp == '1': 
+			time_period()
+		elif inp == '2': 
+			actcat_analysis(cols['act'], agg_func)
+		elif inp == '3': 
+			actcat_analysis(cols['cat'], {cols['dur']: 'sum'})
 		print('\n'*20)
 		inp = input('Type 1 for time period analysis.\nType 2 for activity analysis.\nType 3 for category analysis\n> ')
 
 get_inputs()
-
 
 
 

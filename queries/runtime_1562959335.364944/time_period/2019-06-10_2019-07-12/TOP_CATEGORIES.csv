@@ -1,0 +1,46 @@
+Category,Time Spent (seconds),H:M:S,Top Activity,Top HMS,2nd Activity,2nd HMS,3rd Activity,3rd HMS,Cum Prod
+Editing & IDEs,104423,29:0:23,Xcode,21:53:54,sublime text,7:6:29,,0:0:0,1.0
+Video,71165,19:46:5,youtube.com,12:35:24,tw.iqiyi.com,5:22:16,iqiyi.com,1:13:54,0.0
+General Software Development,49382,13:43:2,github.com,7:48:11,stackoverflow.com,1:59:3,sweeney.braze.com,1:38:19,1.0
+Systems Operations,42592,11:49:52,Terminal,11:43:15,help.github.com,0:3:40,keychain access,0:1:17,0.9994717317806161
+General Social Networking,38288,10:38:8,wechat,7:3:15,messenger.com,2:8:21,messages,1:13:29,0.0
+Instant Message,34999,9:43:19,Slack,9:42:28,brazetechnology.slack.com,0:0:35,slack.com,0:0:12,0.9989071116317609
+General Reference & Learning,26081,7:14:41,en.wikipedia.org,3:30:42,braze.exceedlms.com,1:20:42,Preview,0:31:45,0.81068593995629
+General Business,25289,7:1:29,Google Spreadsheets,3:49:25,usr56.dayforcehcm.com,1:19:25,Google Forms,0:44:55,1.0
+Search,25050,6:57:30,google.com,5:49:49,yelp.com,0:23:29,baike.baidu.com,0:14:33,0.9262375249500998
+Uncategorized,24029,6:40:29,mbvans.com,0:40:44,ditiezu.com,0:32:20,airbnb.com.sg,0:23:20,0.5
+General News & Opinion,22446,6:14:6,thebeijinger.com,1:12:28,9to5mac.com,1:11:4,gaoloumi.cc,0:33:57,0.05212510024057737
+General Utilities,19483,5:24:43,screensaverengine,3:10:28,loginwindow,0:39:55,Finder,0:35:8,0.5366088384745675
+Email,18813,5:13:33,Gmail,3:26:6,Notes,0:58:25,Mail,0:48:53,0.9066071333652261
+Design & Planning,13060,3:37:40,jira.braze.com,3:37:40,,0:0:0,,0:0:0,1.0
+Travel & Outdoors,11324,3:8:44,united.com,0:53:35,aa.com,0:33:28,tripadvisor.com,0:27:38,0.0
+General Shopping,10916,3:1:56,amazon.com,2:28:55,casper.com,0:12:57,cargurus.com,0:4:3,0.2046308171491389
+Voice Chat,9625,2:40:25,facetime,2:40:25,,0:0:0,,0:0:0,0.0
+Writing,8886,2:28:6,Google Documents,1:30:37,notability,0:21:5,TextEdit,0:19:23,1.0
+Engineering & Technology,7211,2:0:11,developer.apple.com,1:19:58,pandas.pydata.org,0:14:13,apple.com,0:11:23,0.702641797254195
+Calendars,7050,1:57:30,google.com/calendar,1:52:25,calendar,0:5:5,,0:0:0,0.9891843971631206
+Intelligence,5301,1:28:21,rescuetime.com,1:21:7,publishersweekly.com,0:5:55,blog.rescuetime.com,0:0:32,0.5386719486889266
+Games,3327,0:55:27,geoguessr.com,0:55:27,,0:0:0,,0:0:0,0.0
+Accounting,2770,0:46:10,secure.bankofamerica.com,0:42:51,creditcards.chase.com,0:2:38,applynow.chase.com,0:0:41,1.0
+Photos,2583,0:43:3,photos,0:43:3,,0:0:0,,0:0:0,0.5
+Maps & Regional,2346,0:39:6,map.baidu.com,0:33:18,maps,0:5:41,forum.skyscraperpage.com,0:0:6,0.11125319693094632
+General Communication & Scheduling,1933,0:32:13,firehose.guide,0:27:52,accounts.google.com,0:3:15,groups.google.com,0:1:6,0.9324883600620797
+Browsers,1680,0:28:0,newtab,0:20:10,history,0:5:1,Safari,0:1:29,0.5264880952380953
+Professional Networking,1060,0:17:40,linkedin.com,0:15:41,researchgate.net,0:1:41,coderwall.com,0:0:18,0.75
+Business,920,0:15:20,cnbc.com,0:7:45,bloomberg.com,0:6:7,deadline.com,0:1:28,0.25
+General Entertainment,789,0:13:9,vice.com,0:10:2,strandbooks.com,0:2:9,boston.eater.com,0:0:43,0.0
+Presentation,780,0:13:0,registrar.mit.edu,0:6:5,catalog.mit.edu,0:3:59,eduapps.mit.edu,0:1:15,1.0
+Sales,759,0:12:39,register.ymcanyc.org,0:9:49,ymcanyc.org,0:2:50,,0:0:0,1.0
+General Design & Composition,635,0:10:35,alexanderguo.com,0:7:33,creative cloud,0:3:2,,0:0:0,1.0
+Sports,439,0:7:19,espn.com,0:5:11,fifa.com,0:2:8,,0:0:0,0.25
+Science & Technology,411,0:6:51,techcrunch.com,0:3:36,macworld.com,0:1:48,pcmag.com,0:1:9,0.25
+Operations,378,0:6:18,geeksforgeeks.org,0:6:18,,0:0:0,,0:0:0,1.0
+Music,279,0:4:39,iTunes,0:4:39,,0:0:0,,0:0:0,0.5
+Regional,189,0:3:9,bakersfield.com,0:3:2,nypl.org,0:0:4,gaoloumi.com,0:0:3,0.0
+Entertainment,180,0:3:0,foxtrotalpha.jalopnik.com,0:3:0,,0:0:0,,0:0:0,0.0
+Business & Finance,153,0:2:33,cosmopolitan.com,0:2:33,,0:0:0,,0:0:0,0.75
+Home & Garden,130,0:2:10,streeteasy.com,0:2:5,realtor.com,0:0:5,,0:0:0,0.5
+Internet Utilities,119,0:1:59,myaccount.google.com,0:1:6,s3.amazonaws.com,0:0:32,Blank Web Browser,0:0:21,0.7058823529411764
+Electronics,37,0:0:37,mi.com,0:0:37,,0:0:0,,0:0:0,0.0
+Health & Medicine,6,0:0:6,thelancet.com,0:0:6,,0:0:0,,0:0:0,0.75
+International,1,0:0:1,BBC,0:0:1,,0:0:0,,0:0:0,1.0
