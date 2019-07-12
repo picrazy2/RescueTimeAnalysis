@@ -12,7 +12,7 @@ for y in years:
 		timeseries.append(datetime.datetime(int(y), int(m), 1, 0, 0))
 timeseries = np.array(timeseries)
 
-f = open('kmeans_results.txt', 'r')
+f = open('saved_results/1.txt', 'r')
 
 lines = list(f)
 
@@ -54,8 +54,17 @@ for c in clusters:
 	mean = []
 	for y in years:
 		for m in months:
-			mean.append(cluster_data[c].get((y+m), 0) * 1.0 / size)
+			mean.append(cluster_data[c].get((y+m), 0)/ size)
 	plt.plot(timeseries, mean, label='Cluster ' + str(c))
+	print('Cluster ' + str(c) + ': ')
+	print("----------------------------------------------------------------------------")
+	apps = cluster_apps[c]
+	print("Related Apps:")
+	print(apps)
+	print("Cluster Average (seconds):")
+	print(mean)
+	print('\n')
+
 
 plt.xlabel('Year-Month')
 plt.ylabel('Mean Time spent (seconds)')
