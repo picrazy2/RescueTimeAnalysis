@@ -17,9 +17,9 @@ timeseries = np.array(timeseries)
 app_data_in_log_seconds = {}
 app_data_in_seconds = {}
 
-rank = 4 #num clusters
+rank = prompt('Number of clusters?')
 
-top = 10 #num apps to look at in each cluster
+top = prompt("Top number of apps to view in each clusters?") #num apps to look at in each cluster
 
 for y in years:
 	for m in months:
