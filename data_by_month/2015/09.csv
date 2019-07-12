@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 apple.com,5291,Engineering & Technology,-1
 macrumors.com,481,General News & Opinion,-2
 Finder,28427,General Utilities,0
@@ -6,7 +6,7 @@ pages,18379,Presentation,2
 Mail,18405,Email,2
 tv.cntv.cn,1224,General Entertainment,-2
 Skype,11628,General Social Networking,-2
-Notes,17,Email,0
+Notes,17,Writing,2
 google.com,4315,Search,2
 flash player (safari internet plug-in),984,Video,-2
 loginwindow,1929,General Utilities,0

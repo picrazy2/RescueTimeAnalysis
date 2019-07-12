@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 youtube.com,37777,Video,-2
 netflix.com,23533,Video,-2
 Safari,483,Browsers,2
@@ -35,7 +35,7 @@ drive.google.com,1664,General Business,2
 gaoloumi.com,2080,Regional,-2
 rescuetime.com,454,Intelligence,0
 map.baidu.com,6374,Maps & Regional,-2
-Notes,2069,Email,0
+Notes,2069,Writing,2
 Mail,10914,Email,2
 firehose.guide,3465,General Communication & Scheduling,2
 student.mit.edu,596,General Reference & Learning,1

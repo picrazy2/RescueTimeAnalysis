@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 virtualbox vm,58696,General Software Development,2
 blog.golang.org,118,General Software Development,2
 stackoverflow.com,6176,General Software Development,2
@@ -16,7 +16,7 @@ TextEdit,4957,Writing,2
 guru99.com,24,General Reference & Learning,1
 tutorialspoint.com,1797,General Reference & Learning,1
 rescuetime.com,2636,Intelligence,0
-Notes,3121,Email,0
+Notes,3121,Writing,2
 9to5mac.com,4580,General News & Opinion,-2
 gaoloumi.com,5080,Regional,-2
 en.wikipedia.org,28451,General Reference & Learning,1

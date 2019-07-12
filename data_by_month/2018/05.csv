@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 theverge.com,362,Science & Technology,-1
 spacenews.com,53,Science & Technology,-1
 thestar.com.my,79,General News & Opinion,-2
@@ -48,7 +48,7 @@ microsoft word,14655,Writing,2
 drive.google.com,1036,General Business,2
 Google Documents,5698,Writing,2
 Google Forms,328,General Business,2
-Notes,1391,Email,0
+Notes,1391,Writing,2
 map.baidu.com,6315,Maps & Regional,-2
 tools.wmflabs.org,6,Uncategorized,0
 trains.ctrip.com,26,Travel & Outdoors,-2

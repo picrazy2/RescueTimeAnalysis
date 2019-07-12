@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 wechat,44995,General Social Networking,-2
 web.groupme.com,2088,Instant Message,-1
 stellar.mit.edu,2560,General Reference & Learning,1
@@ -67,7 +67,7 @@ answers.yahoo.com,48,Search,0
 accounts.youtube.com,2,Video,-2
 support.pornhubpremium.com,155,Video,-2
 Blank Web Browser,6,Internet Utilities,0
-Notes,661,Email,0
+Notes,661,Writing,2
 Google Forms,122,General Business,2
 calendar,849,Calendars,1
 reddit.com,241,General News & Opinion,-2

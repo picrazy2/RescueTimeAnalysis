@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 web.mit.edu,31976,General Reference & Learning,2
 9to5mac.com,4333,General News & Opinion,-2
 Finder,5854,General Utilities,0
@@ -26,7 +26,7 @@ clicker.csail.mit.edu,2742,General Reference & Learning,1
 constellation.csail.mit.edu,223,General Reference & Learning,1
 guru99.com,9,General Reference & Learning,1
 photos.google.com,163,Photos,-2
-Notes,5633,Email,0
+Notes,5633,Writing,2
 drive.google.com,2193,General Business,2
 Google Spreadsheets,5767,General Business,2
 omni.csail.mit.edu,1769,General Reference & Learning,1

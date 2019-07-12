@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 youtube.com,112114,Video,-2
 captive network assistant,119,General Utilities,1
 photos,821,Photos,0
@@ -126,7 +126,7 @@ newscientist.com,48,Science & Technology,-1
 atimes.com,155,General News & Opinion,-2
 rt.com,71,General News & Opinion,-2
 ndpr.nd.edu,6,General Reference & Learning,1
-Notes,445,Email,0
+Notes,445,Writing,2
 carlgene.com,178,Uncategorized,0
 dict.cn,86,Search,0
 snapchat.com,23,General Social Networking,-2

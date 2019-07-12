@@ -1,42 +1,42 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 samchui.com,474,Uncategorized,0
 johnnyjet.com,16,Travel & Outdoors,-2
-google.com,4864,Search,2
-en.wikipedia.org,4218,General Reference & Learning,1
-youtube.com,16936,Video,-2
-loginwindow,645,General Utilities,0
-rescuetime.com,1910,Intelligence,0
-Gmail,4375,Email,2
+google.com,5694,Search,2
+en.wikipedia.org,4485,General Reference & Learning,1
+youtube.com,24253,Video,-2
+loginwindow,777,General Utilities,0
+rescuetime.com,2537,Intelligence,0
+Gmail,4389,Email,2
 RescueTime,12,Intelligence,0
-github.com,11614,General Software Development,2
+github.com,12245,General Software Development,2
 dashboard.buddybuild.com,410,General Software Development,2
-stackoverflow.com,2333,General Software Development,2
-Xcode,29497,Editing & IDEs,2
+stackoverflow.com,5060,General Software Development,2
+Xcode,30174,Editing & IDEs,2
 developer.apple.com,328,Engineering & Technology,1
-Terminal,6802,Systems Operations,2
-screensaverengine,3312,General Utilities,0
-Slack,12225,Instant Message,2
+Terminal,28719,Systems Operations,2
+screensaverengine,4096,General Utilities,0
+Slack,13421,Instant Message,2
 alexanderguo.com,374,General Design & Composition,2
-Finder,708,General Utilities,0
+Finder,964,General Utilities,0
 wordcounter.net,52,Writing,2
-google.com/calendar,1714,Calendars,2
-9to5mac.com,1290,General News & Opinion,-2
+google.com/calendar,1744,Calendars,2
+9to5mac.com,1292,General News & Opinion,-2
 simulator,308,General Software Development,2
 bankofamerica.com,32,General Business,2
-Google Spreadsheets,983,General Business,2
-messenger.com,1092,General Social Networking,-2
+Google Spreadsheets,1153,General Business,2
+messenger.com,2120,General Social Networking,-2
 storeuid,30,General Utilities,1
 expressvpn,2,General Utilities,1
-Google Documents,931,Writing,2
-drive.google.com,928,General Business,2
-Mail,491,Email,2
-registrar.mit.edu,174,Presentation,2
-calendar,62,Calendars,1
+Google Documents,2329,Writing,2
+drive.google.com,1027,General Business,2
+Mail,532,Email,2
+registrar.mit.edu,298,Presentation,2
+calendar,102,Calendars,1
 baike.baidu.com,14,Search,0
-wechat,5006,General Social Networking,-2
-messages,519,General Social Networking,-2
+wechat,7751,General Social Networking,-2
+messages,1074,General Social Networking,-2
 womansday.com,156,General News & Opinion,-2
-amazon.com,7494,General Shopping,-1
+amazon.com,8830,General Shopping,-1
 uncommongoods.com,219,General Shopping,-2
 askmen.com,123,Search,0
 etsy.com,35,General Shopping,-2
@@ -67,7 +67,7 @@ highya.com,3,General Reference & Learning,1
 researchgate.net,101,Professional Networking,1
 ncbi.nlm.nih.gov,34,Engineering & Technology,1
 thelancet.com,6,Health & Medicine,1
-history,122,Browsers,0
+history,301,Browsers,0
 quora.com,30,General Reference & Learning,-1
 myactivity.google.com,26,General Business,2
 easeus.com,32,General Utilities,1
@@ -91,10 +91,10 @@ anniversarygift.org,11,Uncategorized,0
 bookbub.com,16,General Shopping,-2
 bloomberg.com,63,Business,-1
 publishersweekly.com,355,Intelligence,2
-Notes,318,Email,0
+Notes,1095,Writing,2
 meet.google.com,124,Search,0
-jira.braze.com,1691,Design & Planning,2
-accounts.google.com,56,General Communication & Scheduling,0
+jira.braze.com,1890,Design & Planning,2
+accounts.google.com,59,General Communication & Scheduling,0
 vice.com,152,General Entertainment,-2
 cnn.com,342,General News & Opinion,2
 washingtonpost.com,12,General News & Opinion,-2
@@ -108,8 +108,8 @@ latimes.com,107,General News & Opinion,-2
 code.likeagirl.io,28,Uncategorized,0
 cyberciti.biz,13,Engineering & Technology,1
 secure.bankofamerica.com,1201,Accounting,2
-Google Forms,1146,General Business,2
-usr56.dayforcehcm.com,868,General Business,2
+Google Forms,1147,General Business,2
+usr56.dayforcehcm.com,869,General Business,2
 support.google.com,52,General News & Opinion,2
 ads.trafficjunky.net,1,General Business,2
 webcamreports.com,19,Uncategorized,0
@@ -143,11 +143,11 @@ lifehacker.com,59,General News & Opinion,-2
 staples.com,32,General Business,2
 boltbus.com,107,Travel & Outdoors,-2
 nypost.com,82,General News & Opinion,-2
-google chrome,46,Browsers,0
+google chrome,47,Browsers,0
 seattletimes.com,49,General News & Opinion,-2
 thekrazycouponlady.com,36,General Shopping,-2
 systemuiserver,25,General Utilities,1
-usernotificationcenter,5,General Utilities,0
+usernotificationcenter,8,General Utilities,0
 login.wellesley.edu,9,General Reference & Learning,1
 2fa.wellesley.edu,1,General Reference & Learning,1
 geoguessr.com,3327,Games,-2
@@ -155,7 +155,7 @@ linkedin.com,68,Professional Networking,1
 thepointsguy.com,49,Travel & Outdoors,-2
 jetsetter.com,37,General Shopping,-2
 newengland.com,43,Uncategorized,0
-hdokiejnpimakedhajhdlcegeplioahd,133,General Utilities,1
+hdokiejnpimakedhajhdlcegeplioahd,145,General Utilities,1
 open.weixin.qq.com,3,General Software Development,2
 casper.com,646,General Shopping,-2
 stores.casper.com,69,General Shopping,-2
@@ -171,7 +171,7 @@ BBC,1,International,2
 rt.com,65,General News & Opinion,-2
 theguardian.com,242,General News & Opinion,-2
 foreignpolicy.com,55,General News & Opinion,-2
-confluence.braze.com,265,Uncategorized,0
+confluence.braze.com,622,Uncategorized,0
 techcrunch.com,57,Science & Technology,-1
 foxnews.com,31,General News & Opinion,-2
 cointelegraph.com,85,Uncategorized,0
@@ -191,52 +191,74 @@ notability,1253,Writing,2
 trailkitchens.com,160,Uncategorized,0
 outsidevan.com,116,Uncategorized,0
 mytourig.com,222,Uncategorized,0
-gnomadhome.com,341,Uncategorized,0
-roadslesstraveled.us,176,Uncategorized,0
-sprinter-source.com,552,General Reference & Learning,1
-mbvans.com,2011,Uncategorized,0
+gnomadhome.com,540,Uncategorized,0
+roadslesstraveled.us,178,Uncategorized,0
+sprinter-source.com,755,General Reference & Learning,1
+mbvans.com,2444,Uncategorized,0
 custom-car-wraps.com,43,Uncategorized,0
 carwrapsolutions.com,23,Uncategorized,0
 eurocampers.com,34,Uncategorized,0
-livelikepete.com,23,Uncategorized,0
+livelikepete.com,35,Uncategorized,0
 tkographix.com,4,Uncategorized,0
 Preview,100,General Reference & Learning,2
-TextEdit,424,Writing,2
-sublime text,4017,Editing & IDEs,2
+TextEdit,1102,Writing,2
+sublime text,25500,Editing & IDEs,2
 installer,42,General Utilities,1
 python.org,11,General Software Development,2
 thispointer.com,12,Uncategorized,0
 w3schools.com,30,Engineering & Technology,1
 effbot.org,11,Search,0
 applerepairstation.co.uk,3,Uncategorized,0
-geeksforgeeks.org,11,Operations,2
+geeksforgeeks.org,378,Operations,2
 educba.com,60,General Reference & Learning,1
 realpython.com,142,Engineering & Technology,1
 stanford.edu,10,General Reference & Learning,1
 arstechnica.com,3,Science & Technology,-1
-docs.python.org,22,General Software Development,2
+docs.python.org,26,General Software Development,2
 pythonforbeginners.com,53,General Software Development,2
 help.rescuetime.com,352,General Reference & Learning,0
-apple.com,55,Engineering & Technology,-1
-flarespace.com,741,Uncategorized,0
+apple.com,59,Engineering & Technology,-1
+flarespace.com,745,Uncategorized,0
 rbcomponents.com,8,Uncategorized,0
-mattressfirm.com,86,General Shopping,-2
+mattressfirm.com,87,General Shopping,-2
 assets.mbvans.com,162,Uncategorized,0
-campervan-hq.com,480,Uncategorized,0
+campervan-hq.com,536,Uncategorized,0
 grechmotors.com,83,Uncategorized,0
-amzn.to,2,General Shopping,-2
+amzn.to,4,General Shopping,-2
 greenmatch.co.uk,139,Uncategorized,0
-usautoauthority.com,12,Uncategorized,0
 eberspacher.com,12,Uncategorized,0
+usautoauthority.com,12,Uncategorized,0
 heatso.com,5,Uncategorized,0
 dometic.com,41,General Reference & Learning,1
-cargurus.com,211,General Shopping,-2
-flexfits.com,2,Uncategorized,0
+cargurus.com,243,General Shopping,-2
+flexfits.com,104,Uncategorized,0
 brazetechnology.slack.com,14,Instant Message,-1
 splinter.com.au,46,Engineering & Technology,1
 system information,7,General Utilities,0
-pandas.pydata.org,55,Engineering & Technology,1
-shanelynn.ie,14,General Reference & Learning,1
-datatofish.com,19,Uncategorized,0
-chrisalbon.com,93,General Reference & Learning,1
+pandas.pydata.org,853,Engineering & Technology,1
+shanelynn.ie,16,General Reference & Learning,1
+datatofish.com,22,Uncategorized,0
+chrisalbon.com,186,General Reference & Learning,1
 app store,7,General Shopping,-2
+Google Drive - Google Apps,7,General Business,2
+programiz.com,34,Uncategorized,0
+techwalla.com,8,Uncategorized,0
+datacamp.com,34,Engineering & Technology,1
+cluechase.com,73,Uncategorized,0
+keychain access,12,Systems Operations,2
+outboundliving.com,62,Uncategorized,0
+apps,2,General Utilities,1
+reductionrevolution.com.au,53,Uncategorized,0
+MS Excel,20,General Business,2
+thewanderingrv.com,101,Uncategorized,0
+campergrid.com,28,Uncategorized,0
+rvservices.koa.com,14,Travel & Outdoors,-2
+turbodieselregister.com,12,Uncategorized,0
+parkedinparadise.com,132,Uncategorized,0
+esparparts.com,16,Uncategorized,0
+crlaurence.com,7,General Reference & Learning,1
+dimensions.guide,238,Uncategorized,0
+medium.com,94,General News & Opinion,-2
+datasciencemadesimple.com,19,Uncategorized,0
+jaxenter.com,8,Science & Technology,-1
+developer.github.com,17,General Software Development,2

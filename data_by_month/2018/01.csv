@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 lightroom,923,Presentation,2
 safari-resource:,254,Browsers,0
 Safari,2011,Browsers,2
@@ -115,7 +115,7 @@ syndication.exdynsrv.com,1,Uncategorized,0
 m4ufree.tv,9,Video,-2
 wwznqib.com,6,Uncategorized,0
 yelp.com,213,Search,0
-Notes,146,Email,0
+Notes,146,Writing,2
 discussions.apple.com,73,Science & Technology,-1
 forbes.com,167,General News & Opinion,-2
 nytimes.com,303,General News & Opinion,-2

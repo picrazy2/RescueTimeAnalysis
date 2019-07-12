@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 microsoft word,32074,Writing,2
 Finder,39070,General Utilities,0
 Skype,103291,General Social Networking,-2
@@ -76,7 +76,7 @@ Amazon AWS Console,2,General Software Development,2
 aiseesoft mxf converter for mac,817,Uncategorized,0
 chinese - simplified,10,Uncategorized,0
 calendar,2111,Calendars,1
-Notes,215,Email,0
+Notes,215,Writing,2
 usernotificationcenter,568,General Utilities,0
 bluetoothuiserver,116,General Utilities,1
 discussions.apple.com,302,Science & Technology,-1

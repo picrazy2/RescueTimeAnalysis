@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 microsoft word,88183,Writing,2
 Finder,14193,General Utilities,0
 aqi converter v1.0,701,General Reference & Learning,1
@@ -136,7 +136,7 @@ coconutbattery.wordpress.com,50,General News & Opinion,-2
 kongregate.com,58326,Games,-2
 Mail,6967,Email,2
 item.taobao.com,644,General Shopping,-1
-Notes,504,Email,0
+Notes,504,Writing,2
 flexxion.tumblr.com,497,General News & Opinion,-2
 rhadioactive.tumblr.com,32,General News & Opinion,-2
 Dictionary,1194,General Reference & Learning,1

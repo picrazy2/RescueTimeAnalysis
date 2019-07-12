@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 Mail,13989,Email,2
 loginwindow,3248,General Utilities,0
 dalearn.deerfield.edu,5307,General Reference & Learning,2
@@ -223,7 +223,7 @@ shawnblanc.net,414,General News & Opinion,-2
 flash player (safari internet plug-in),594,Video,-2
 arithmetic.zetamac.com,1405,General Reference & Learning,1
 musictechteacher.com,30,Uncategorized,0
-Notes,235,Email,0
+Notes,235,Writing,2
 plants vs. zombies,60,Games,-2
 Gmail,49,Email,2
 sports.yahoo.com,18,Sports,-1

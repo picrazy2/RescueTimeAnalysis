@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 virtualbox vm,12788,General Software Development,2
 6004.mit.edu,15499,Engineering & Technology,1
 introml.mit.edu,27839,Presentation,2
@@ -130,7 +130,7 @@ cookstr.com,39,Food,1
 microsoft word,774,Writing,2
 backup and sync from google,513,Uncategorized,0
 law360.com,47,Legal & Gov't,1
-Notes,2180,Email,0
+Notes,2180,Writing,2
 vote.org,40,Uncategorized,0
 sec.state.ma.us,9,General Business,2
 open-public-records.com,11,Uncategorized,0

@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 map.baidu.com,10404,Maps & Regional,-2
 messages,743,General Social Networking,-2
 wechat,8545,General Social Networking,-2
@@ -20,7 +20,7 @@ accounts.snapchat.com,84,General Social Networking,-2
 usernotificationcenter,156,General Utilities,0
 google.com.hk,39,Search,2
 google.com,4260,Search,2
-Notes,387,Email,0
+Notes,387,Writing,2
 Mail,685,Email,2
 photos,733,Photos,0
 skyscrapercenter.com,1494,General Reference & Learning,-2

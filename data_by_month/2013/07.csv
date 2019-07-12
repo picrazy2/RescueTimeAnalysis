@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 store.steampowered.com,1511,Games,-2
 google.com,9704,Search,2
 Finder,2946,General Utilities,0
@@ -36,7 +36,7 @@ epgy.stanford.edu,26,General Reference & Learning,1
 tf2outpost.com,6478,Games,-2
 adobe flash player install manager,7,General Utilities,1
 whitepages.com,201,Search,0
-Notes,55,Email,0
+Notes,55,Writing,2
 battlefield.play4free.com,739,Games,-2
 origin.com,260,Games,-2
 techvour.com,55,Uncategorized,0

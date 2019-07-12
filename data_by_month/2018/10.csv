@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 6004.mit.edu,48079,Engineering & Technology,1
 virtualbox vm,54171,General Software Development,2
 messenger.com,26659,General Social Networking,-2
@@ -6,7 +6,7 @@ wechat,28844,General Social Networking,-2
 introml.mit.edu,63682,Presentation,2
 Preview,63730,General Reference & Learning,2
 google.com/calendar,271,Calendars,2
-Notes,2506,Email,0
+Notes,2506,Writing,2
 texshop,44138,Writing,2
 Finder,6311,General Utilities,0
 9to5mac.com,7308,General News & Opinion,-2

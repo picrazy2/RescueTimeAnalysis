@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 MS Excel,1579,General Business,2
 Mail,13685,Email,2
 Skype,12470,General Social Networking,-2
@@ -176,7 +176,7 @@ store.apple.com,277,Electronics,-2
 inventors.about.com,196,Engineering & Technology,1
 nolo.com,51,General News & Opinion,-2
 thekitchn.com,2,Home & Garden,0
-Notes,281,Email,0
+Notes,281,Writing,2
 amc-reg.maa.org,93,General Reference & Learning,1
 badmintoncentral.com,82,Uncategorized,0
 yonexusa.com,292,Uncategorized,0

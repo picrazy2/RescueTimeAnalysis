@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 sinodefence.com,764,Uncategorized,0
 en.wikipedia.org,2538,General Reference & Learning,1
 content.time.com,84,General News & Opinion,-2
@@ -221,7 +221,7 @@ matlab,8403,General Software Development,2
 portabrace.com,165,Uncategorized,0
 system information,129,General Utilities,0
 usps.com,1,General Shopping,-2
-Notes,52,Email,0
+Notes,52,Writing,2
 literarydevices.net,37,General Reference & Learning,1
 princeton.edu,39,Operations,2
 red.com,74,Internet Utilities,1

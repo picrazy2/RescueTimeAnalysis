@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 SecurityAgent,39,Systems Operations,0
 keychain access,33,Systems Operations,2
 System Preferences,456,General Utilities,0
@@ -8,7 +8,7 @@ loginwindow,756,General Utilities,0
 Finder,6996,General Utilities,0
 thebeijinger.com,2708,General News & Opinion,-2
 Preview,83,General Reference & Learning,2
-Notes,535,Email,0
+Notes,535,Writing,2
 Safari,744,Browsers,2
 Mail,1800,Email,2
 usa.canon.com,7,Video Editing,-2

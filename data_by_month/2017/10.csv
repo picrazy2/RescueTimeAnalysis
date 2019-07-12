@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 messenger.com,17654,General Social Networking,-2
 wechat,47605,General Social Networking,-2
 united.com,4788,Travel & Outdoors,-2
@@ -16,7 +16,7 @@ Finder,13937,General Utilities,0
 avalon.law.yale.edu,26,Legal & Gov't,1
 idp.mit.edu,550,General Reference & Learning,1
 drive.google.com,852,General Business,2
-Notes,74,Email,0
+Notes,74,Writing,2
 aqicn.org,278,General Reference & Learning,1
 weather.com,221,Travel & Outdoors,-2
 en.wikipedia.org,7859,General Reference & Learning,1

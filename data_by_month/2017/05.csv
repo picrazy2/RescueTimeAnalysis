@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 Preview,9541,General Reference & Learning,2
 deerfield.instructure.com,2485,General Reference & Learning,1
 Dropbox,526,File Sharing,-2
@@ -21,7 +21,7 @@ Safari,3958,Browsers,2
 snapchat.com,132,General Social Networking,-2
 geofilters.snapchat.com,4885,Marketing,2
 offbeatchina.com,3,Uncategorized,0
-Notes,2018,Email,0
+Notes,2018,Writing,2
 huffingtonpost.com,59,General News & Opinion,-2
 drive.google.com,9810,General Business,2
 accounts.google.com,93,General Communication & Scheduling,0

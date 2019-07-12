@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 facebook.com,25282,General Social Networking,-2
 Skype,106523,General Social Networking,-2
 9gag.com,17968,Comedy,-2
@@ -106,7 +106,7 @@ creator.zoho.com,233,General Software Development,2
 asphalt 6,435,Games,-2
 reportpanic,3,Uncategorized,0
 twitter.com,2,General Social Networking,-2
-Notes,953,Email,0
+Notes,953,Writing,2
 wikihow.com,609,Search,0
 pog.com,38,Games,-2
 miniclip.com,232,Games,-2

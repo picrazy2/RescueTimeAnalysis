@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 applications,750,General Business,2
 google.com,5894,Search,2
 System Preferences,2385,General Utilities,0
@@ -175,7 +175,7 @@ lizardpoint.com,215,General Reference & Learning,1
 jetpunk.com,10,Games,-2
 app.groupme.com,78,Instant Message,-1
 shanghaiist.com,93,International,-2
-Notes,324,Email,0
+Notes,324,Writing,2
 rescuetime.com,499,Intelligence,0
 Dictionary,224,General Reference & Learning,1
 com.apple.fontregistryuiagent,3,General Utilities,1

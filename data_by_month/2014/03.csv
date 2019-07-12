@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 arduino,2878,Intelligence,2
 processing,8060,Intelligence,2
 glover,859,Uncategorized,0
@@ -189,7 +189,7 @@ forums.adobe.com,2,General Business,2
 blue08.cn,11,Uncategorized,0
 igor pro,7526,Engineering & Technology,1
 adobe premiere pro cs6,43,Video Editing,2
-Notes,2431,Email,0
+Notes,2431,Writing,2
 wacom.com,547,General News & Opinion,-2
 Steam,93,Games,-2
 store.apple.com,4357,Electronics,-2

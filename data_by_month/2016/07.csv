@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 loginwindow,4840,General Utilities,0
 en.wikipedia.org,11306,General Reference & Learning,1
 Skype,2244,General Social Networking,-2
@@ -38,7 +38,7 @@ facebook.com,3481,General Social Networking,-2
 microsoft word,94342,Writing,2
 microsoft autoupdate,14,General Utilities,1
 governor.collegeboard.org,48,General Reference & Learning,1
-Notes,10633,Email,0
+Notes,10633,Writing,2
 9to5mac.com,2573,General News & Opinion,-2
 usa.canon.com,45,Video Editing,-2
 get.adobe.com,80,General News & Opinion,-2

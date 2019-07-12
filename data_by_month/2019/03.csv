@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 messenger.com,45300,General Social Networking,-2
 Google Spreadsheets,6629,General Business,2
 Preview,10582,General Reference & Learning,2
@@ -103,7 +103,7 @@ airbnb.com,1750,Travel & Outdoors,-2
 cnn.com,952,General News & Opinion,2
 united.com,1202,Travel & Outdoors,-2
 thepointsguy.com,15,Travel & Outdoors,-2
-Notes,2546,Email,0
+Notes,2546,Writing,2
 forbes.com,522,General News & Opinion,-2
 Dictionary,323,General Reference & Learning,1
 top-100-baby-names-search.com,7,General Reference & Learning,1

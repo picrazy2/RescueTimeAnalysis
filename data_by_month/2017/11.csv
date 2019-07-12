@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 lms.mitx.mit.edu,13396,General Reference & Learning,2
 stellar.mit.edu,5133,General Reference & Learning,1
 facetime,3900,Voice Chat,-2
@@ -295,7 +295,7 @@ smartertravel.com,48,Travel & Outdoors,-2
 lifehacker.com,347,General News & Opinion,-2
 josbank.com,115,Clothes & Personal,-2
 pcmag.com,159,Science & Technology,-1
-Notes,43,Email,0
+Notes,43,Writing,2
 contacts,28,Customer Relations,2
 getsupport.apple.com,69,General Utilities,1
 ebay.com,70,General Shopping,-2

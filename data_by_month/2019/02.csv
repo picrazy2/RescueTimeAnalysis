@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 united.com,913,Travel & Outdoors,-2
 loginwindow,669,General Utilities,0
 java updater,6,General Utilities,1
@@ -172,7 +172,7 @@ bgr.com,101,Science & Technology,-1
 imdb.com,31,Video,-2
 xinhuanet.com,42,General News & Opinion,-2
 hkcinemagic.com,8,Uncategorized,0
-Notes,508,Email,0
+Notes,508,Writing,2
 daisydisk,92,General Utilities,0
 mobile - brassrat2021.mit.edu,1110,Uncategorized,0
 google.com/calendar,190,Calendars,2

@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 messages,41047,General Social Networking,-2
 facebook.com,27863,General Social Networking,-2
 Activity Monitor,101,General Utilities,0
@@ -16,7 +16,7 @@ google.com,7395,Search,2
 Safari,2949,Browsers,2
 gaoloumi.com,10504,Regional,-2
 deerfieldscroll.com,12,Uncategorized,0
-Notes,350,Email,0
+Notes,350,Writing,2
 youtube.com,27619,Video,-2
 thestallionstyle.com,37,Uncategorized,0
 adobe premiere pro cc 2015,4918,Video Editing,2

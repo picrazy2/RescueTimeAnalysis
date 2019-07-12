@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 messages,75644,General Social Networking,-2
 usernotificationcenter,3852,General Utilities,0
 adobe premiere pro cc 2015,41753,Video Editing,2
@@ -106,7 +106,7 @@ bloomberg.com,419,Business,-1
 forbes.com,203,General News & Opinion,-2
 bostonglobe.com,656,General News & Opinion,-2
 independent.co.uk,3,General News & Opinion,-2
-Notes,1048,Email,0
+Notes,1048,Writing,2
 rt.com,260,General News & Opinion,-2
 wsj.com,21,General News & Opinion,-2
 latimes.com,444,General News & Opinion,-2

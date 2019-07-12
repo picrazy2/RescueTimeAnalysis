@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 microsoft word,74327,Writing,2
 local-ntp,37,General Utilities,1
 elearning.isb.bj.edu.cn,10158,General Reference & Learning,2
@@ -63,7 +63,7 @@ Google Docs,320,Writing,2
 ed.edim.co,170,Uncategorized,0
 enotes.com,1023,General Reference & Learning,1
 wiki.answers.com,279,Search,0
-Notes,529,Email,0
+Notes,529,Writing,2
 app store,4678,General Shopping,-2
 MS Excel,28074,General Business,2
 evernote,5199,Intelligence,2

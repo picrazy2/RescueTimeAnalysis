@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 adobe premiere pro cc 2015,57903,Video Editing,2
 Mail,19749,Email,2
 microsoft onenote,5254,Intelligence,2
@@ -194,7 +194,7 @@ collegeboard.org,10,General Reference & Learning,1
 macrumors.com,1609,General News & Opinion,-2
 hainanairlines.com,381,Uncategorized,0
 ffp.hnair.com,564,General News & Opinion,-2
-Notes,1414,Email,0
+Notes,1414,Writing,2
 aa.com,10,Travel & Outdoors,-2
 prokerala.com,17,Uncategorized,0
 mystatus.united.com,163,Travel & Outdoors,-2

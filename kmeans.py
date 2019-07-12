@@ -14,7 +14,7 @@ for y in years:
 		timeseries.append(datetime.datetime(int(y), int(m), 1, 0, 0))
 timeseries = np.array(timeseries)
 
-NUM_CLUSTERS = 4
+NUM_CLUSTERS = 7
 
 def kmeans(p):
 	length = len(points)
@@ -71,7 +71,7 @@ for y in years:
 
 				if app not in app_data_by_year_month:
 					app_data_by_year_month[app] = {}
-				app_data_by_year_month[app][y+m] = int(time_spent)/3600.0
+				app_data_by_year_month[app][y+m] = int(time_spent)
 
 points = []
 apps = []
@@ -91,21 +91,38 @@ for i in range(len(labels)):
 		points_in_cluster[labels[i]] = {}
 	points_in_cluster[labels[i]][apps[i]] = True
 
+f = open('clusters.txt', 'w')
+
 for i in points_in_cluster:
-	print('Cluster ' + str(i) + ': ')
+	print('Cluster ' + str(i+1) + ': ')
+	f.write("Cluster " + str(i+1) + '\n')
 	print("----------------------------------------------------------------------------")
+	apps = list(points_in_cluster[i].keys())
+	for app in apps:
+		f.write(str(app) + '\n')
 	print("Related Apps:")
-	print(list(points_in_cluster[i].keys()))
-	print("Mean time spent across time in hours:")
+	print(apps)
+	print("Cluster Average (seconds):")
 	print(means[i].astype(int))
 	print('\n')
 
-	plt.plot(timeseries, means[i], label="Cluster " + str(i))
+	plt.plot(timeseries, means[i], label="Cluster " + str(i+1))
+
+f.close()
+
+f = open('kmeans_results.txt', 'w')
+for i in points_in_cluster:
+	f.write('Cluster ' + str(i+1) + '\n')
+	apps = list(points_in_cluster[i].keys())
+	for app in apps:
+		f.write(str(app) + '\n')
+f.close()
 
 plt.xlabel('Year-Month')
-plt.ylabel('Mean Time spent (hours)')
-plt.legend()
+plt.ylabel('Mean Time spent (seconds)')
+plt.legend(bbox_to_anchor=(1, 1.125))
 plt.show()
+
 
 
 

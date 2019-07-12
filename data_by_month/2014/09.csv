@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 Skype,50512,General Social Networking,-2
 ehow.com,102,Search,0
 messages,2186,General Social Networking,-2
@@ -34,7 +34,7 @@ bhfti.ca.gov,51,General Reference & Learning,1
 ikea.com,49,General Shopping,-2
 ca133.com,32,Uncategorized,0
 facebook.com,24588,General Social Networking,-2
-Notes,709,Email,0
+Notes,709,Writing,2
 pages,131,Presentation,2
 wechat,314,General Social Networking,-2
 iTunes,3362,Music,0

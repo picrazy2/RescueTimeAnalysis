@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 Mail,13017,Email,2
 microsoft word,60955,Writing,2
 Skype,12554,General Social Networking,-2
@@ -237,7 +237,7 @@ mezzoguild.com,287,General Reference & Learning,1
 italki.com,47,General Reference & Learning,1
 secure.rosettastone.com,1362,Engineering & Technology,1
 totale.rosettastone.com,2599,General Reference & Learning,1
-Notes,23,Email,0
+Notes,23,Writing,2
 launch.rosettastone.com,18,General Reference & Learning,1
 pinterest.com,2,General Social Networking,-2
 help.apple.com,223,Search,0

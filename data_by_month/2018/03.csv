@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 texshop,39897,Writing,2
 messenger,3194,General Social Networking,-2
 calendar,3054,Calendars,1
@@ -25,7 +25,7 @@ Preview,15637,General Reference & Learning,2
 messenger.com,32952,General Social Networking,-2
 stellar.mit.edu,2600,General Reference & Learning,1
 idp.mit.edu,414,General Reference & Learning,1
-Notes,1560,Email,0
+Notes,1560,Writing,2
 gaoloumi.com,3689,Regional,-2
 ripplematch.com,150,Uncategorized,0
 web.mit.edu,278,General Reference & Learning,2

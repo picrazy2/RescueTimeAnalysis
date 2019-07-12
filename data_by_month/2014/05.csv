@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 final cut pro,91037,Video Editing,2
 Skype,162645,General Social Networking,-2
 Finder,52438,General Utilities,0
@@ -48,7 +48,7 @@ RescueTime,21,Intelligence,0
 quicktime player,8753,General Entertainment,-1
 screensaverengine,1901,General Utilities,0
 Dictionary,454,General Reference & Learning,1
-Notes,3549,Email,0
+Notes,3549,Writing,2
 www4.clustrmaps.com,58,Maps & Regional,1
 clustrmaps.com,84,Maps & Regional,1
 edmodo.com,6681,General Reference & Learning,1

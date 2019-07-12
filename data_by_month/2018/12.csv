@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 Google Spreadsheets,10675,General Business,2
 drive.google.com,623,General Business,2
 9to5mac.com,6651,General News & Opinion,-2
@@ -42,7 +42,7 @@ concursolutions.com,268,General Business,2
 macrumors.com,1,General News & Opinion,-2
 Safari,22,Browsers,2
 6004.mit.edu,9382,Engineering & Technology,1
-Notes,3314,Email,0
+Notes,3314,Writing,2
 wsj.com,76,General News & Opinion,-2
 encompass.alum.mit.edu,2,General Reference & Learning,1
 ksl.com,55,Sales,2

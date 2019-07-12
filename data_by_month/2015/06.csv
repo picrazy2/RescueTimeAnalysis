@@ -1,8 +1,8 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 netflix.com,18442,Video,-2
 Mail,16833,Email,2
 Finder,4925,General Utilities,0
-Notes,1198,Email,0
+Notes,1198,Writing,2
 loginwindow,1642,General Utilities,0
 services.actstudent.org,593,Operations,2
 actstudent.org,63,Administration,2

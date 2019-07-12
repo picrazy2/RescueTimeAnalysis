@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 sublime text,80168,Editing & IDEs,2
 Terminal,33217,Systems Operations,2
 Preview,2267,General Reference & Learning,2
@@ -80,7 +80,7 @@ virtualbox,993,Virtualization,0
 adobe premiere pro cc 2015,6,Video Editing,2
 jetbrains.com,147,Search,0
 system information,298,General Utilities,0
-Notes,3438,Email,0
+Notes,3438,Writing,2
 sofrep.com,100,Uncategorized,0
 skypefeedback.com,12,Uncategorized,0
 reddit.com,158,General News & Opinion,-2

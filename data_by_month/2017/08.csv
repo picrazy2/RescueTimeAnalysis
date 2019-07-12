@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 youtube.com,124670,Video,-2
 wechat,33000,General Social Networking,-2
 microsoft word,12860,Writing,2
@@ -103,7 +103,7 @@ diskimages ui agent,8,General Utilities,1
 Dictionary,1126,General Reference & Learning,1
 systemuiserver,301,General Utilities,1
 netauthagent,152,Accounting,2
-Notes,584,Email,0
+Notes,584,Writing,2
 microsoft error reporting,3,Science & Technology,-1
 handbrake,218,Video Editing,2
 macrumors.com,9,General News & Opinion,-2

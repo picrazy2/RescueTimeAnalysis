@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 rescuetime.com,1029,Intelligence,0
 usa.canon.com,14,Video Editing,-2
 pages,7987,Presentation,2
@@ -24,7 +24,7 @@ iTunes,178,Music,0
 google drive,806,General Business,2
 tincta,37,General Software Development,2
 Dictionary,73,General Reference & Learning,1
-Notes,468,Email,0
+Notes,468,Writing,2
 coursera.org,17,General Reference & Learning,1
 keychain access,13,Systems Operations,2
 SecurityAgent,10,Systems Operations,0

@@ -30,7 +30,7 @@ for y in by_year:
 		filename = 'data_by_month/' + y + '/' + m + '.csv'
 		with open(filename, 'w') as csvfile:
 			writer = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-			writer.writerow(['App', 'Time Spent (Hours)', 'Category', 'Productivity'])
+			writer.writerow(['App', 'Time Spent (Seconds)', 'Category', 'Productivity'])
 			month = year[m]
 			for app in month:
 				writer.writerow([app, month[app], category[app], productivity[app]])

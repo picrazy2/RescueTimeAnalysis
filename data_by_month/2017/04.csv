@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 loginwindow,4225,General Utilities,0
 wechat,692,General Social Networking,-2
 google.com,12254,Search,2
@@ -32,7 +32,7 @@ weather.com,96,Travel & Outdoors,-2
 hotels.com,1001,Travel & Outdoors,-2
 hotelandcarawards.mileageplus.com,1282,Uncategorized,0
 starwoodhotels.com,663,Travel & Outdoors,-2
-Notes,301,Email,0
+Notes,301,Writing,2
 airbnb.com,243,Travel & Outdoors,-2
 youtube.com,85275,Video,-2
 dainfo.deerfield.edu,8803,General Reference & Learning,1

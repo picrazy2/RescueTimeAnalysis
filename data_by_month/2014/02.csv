@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 Steam,148,Games,-2
 canon mx518,265,Uncategorized,0
 Finder,24135,General Utilities,0
@@ -108,7 +108,7 @@ pretendertothepower.com,11,Uncategorized,0
 ehow.co.uk,70,General Reference & Learning,1
 colormatters.com,101,Uncategorized,0
 painting.about.com,20,General Reference & Learning,1
-Notes,1536,Email,0
+Notes,1536,Writing,2
 surveymonkey.com,3514,Marketing,2
 v.youku.com,860,Video,-2
 youku.com,34,General Entertainment,-2

@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 microsoft powerpoint,2694,Presentation,2
 Mail,15697,Email,2
 en.wikipedia.org,40359,General Reference & Learning,1
@@ -167,7 +167,7 @@ handbrake,3122,Video Editing,2
 ask.mitadmissions.org,25,Science & Technology,-1
 washingtonpost.com,382,General News & Opinion,-2
 bhphotovideo.com,1495,General Shopping,-2
-Notes,1078,Email,0
+Notes,1078,Writing,2
 skyscrapercenter.com,216,General Reference & Learning,-2
 stateair.net,39,Uncategorized,0
 mathworks.com,335,Engineering & Technology,1

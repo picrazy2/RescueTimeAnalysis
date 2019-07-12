@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 Finder,11452,General Utilities,0
 Dropbox,14,File Sharing,-2
 adobe premiere pro cc 2018,601,Uncategorized,0
@@ -132,7 +132,7 @@ hangzhou.zjol.com.cn,42,Uncategorized,0
 baidu.com,159,Search,2
 hz.bendibao.com,16,Uncategorized,0
 zju.edu.cn,10,General Reference & Learning,1
-Notes,5090,Email,0
+Notes,5090,Writing,2
 airbnb.com,375,Travel & Outdoors,-2
 thebeijinger.com,758,General News & Opinion,-2
 maps,4,Maps & Regional,1

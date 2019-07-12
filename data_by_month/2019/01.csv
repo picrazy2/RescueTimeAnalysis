@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 Terminal,4691,Systems Operations,2
 Mail,4145,Email,2
 loginwindow,224,General Utilities,0
@@ -9,7 +9,7 @@ thebeijinger.com,172,General News & Opinion,-2
 youtube.com,51286,Video,-2
 hsia-acentic.com,13,Uncategorized,0
 sublime text,1503,Editing & IDEs,2
-Notes,5258,Email,0
+Notes,5258,Writing,2
 google.com,3238,Search,2
 Finder,900,General Utilities,0
 calendar,290,Calendars,1

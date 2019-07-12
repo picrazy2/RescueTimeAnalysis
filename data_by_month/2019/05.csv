@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 youtube.com,47792,Video,-2
 loginwindow,399,General Utilities,0
 messenger.com,31395,General Social Networking,-2
@@ -44,7 +44,7 @@ forms.gle,3,Uncategorized,0
 thediplomat.com,649,International,-2
 globalsecurity.org,210,General News & Opinion,0
 chinadaily.com.cn,487,General News & Opinion,2
-Notes,2393,Email,0
+Notes,2393,Writing,2
 economictimes.indiatimes.com,22,General News & Opinion,-2
 drive.google.com,1972,General Business,2
 trapologyboston.com,650,Uncategorized,0

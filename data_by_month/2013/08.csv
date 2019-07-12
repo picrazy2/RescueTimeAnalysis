@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 Finder,12924,General Utilities,0
 System Preferences,650,General Utilities,0
 google chrome,81,Browsers,0
@@ -96,7 +96,7 @@ sketchpad,8,General Design & Composition,2
 airinfonow.org,352,Uncategorized,0
 gzaqi.info,132,Uncategorized,0
 cdaqi.info,116,Uncategorized,0
-Notes,152,Email,0
+Notes,152,Writing,2
 casadata.org,85,Uncategorized,0
 english.mep.gov.cn,12,Uncategorized,0
 datacenter.mep.gov.cn,57,Uncategorized,0

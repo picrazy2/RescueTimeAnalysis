@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 matlab,27276,General Software Development,2
 microsoft word,94627,Writing,2
 Finder,10460,General Utilities,0
@@ -17,7 +17,7 @@ photoshop cc,12702,General Design & Composition,2
 MS Excel,23498,General Business,2
 RescueTime,37,Intelligence,0
 Preview,4040,General Reference & Learning,2
-Notes,2012,Email,0
+Notes,2012,Writing,2
 techconnect.com,1130,Uncategorized,0
 facebook.com,1769,General Social Networking,-2
 youtube.com,47560,Video,-2

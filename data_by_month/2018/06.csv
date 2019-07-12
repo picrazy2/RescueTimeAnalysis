@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 flights.ctrip.com,2482,General Business,2
 ctrip.com,93,Travel & Outdoors,-2
 google.com,8650,Search,2
@@ -138,7 +138,7 @@ madrau.com,47,General Utilities,1
 dictionary.com,37,General Business,2
 alternativeto.net,75,Engineering & Technology,1
 robustperception.io,58,Uncategorized,0
-Notes,2450,Email,0
+Notes,2450,Writing,2
 training.robustperception.io,14,Uncategorized,0
 opentracing.io,786,General Software Development,2
 medium.com,24,General News & Opinion,-2

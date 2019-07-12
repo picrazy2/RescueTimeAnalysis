@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 loginwindow,5032,General Utilities,0
 drive.google.com,6129,General Business,2
 Finder,16831,General Utilities,0
@@ -195,7 +195,7 @@ banangolit.com,319,Uncategorized,0
 research.nd.edu,83,General Reference & Learning,1
 library.newpaltz.edu,69,General Reference & Learning,1
 TextEdit,53,Writing,2
-Notes,68,Email,0
+Notes,68,Writing,2
 keychain access,15,Systems Operations,2
 setup assistant,41,General Utilities,1
 microsoft autoupdate,7,General Utilities,1

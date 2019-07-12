@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 wolframalpha.com,2481,Search,1
 Safari,3968,Browsers,2
 education.wolfram.com,4,Intelligence,2
@@ -80,7 +80,7 @@ taylorstavernandrestaurant.com,674,Uncategorized,0
 dummies.com,401,General News & Opinion,-2
 livescience.com,18,General News & Opinion,-2
 reddit.com,4,General News & Opinion,-2
-Notes,2553,Email,0
+Notes,2553,Writing,2
 resources.woodlands-junior.kent.sch.uk,62,General Reference & Learning,1
 netflix.com,10016,Video,-2
 System Preferences,869,General Utilities,0

@@ -1,4 +1,4 @@
-App,Time Spent (Hours),Category,Productivity
+App,Time Spent (Seconds),Category,Productivity
 microsoft word,80549,Writing,2
 wolframalpha.com,226,Search,1
 Skype,90403,General Social Networking,-2
@@ -148,7 +148,7 @@ media.tumblr.com,7,General Entertainment,-2
 accessexcellence.org,149,General Reference & Learning,1
 media.liveauctiongroup.net,7,Uncategorized,0
 contacts,596,Customer Relations,2
-Notes,516,Email,0
+Notes,516,Writing,2
 apple.com,13248,Engineering & Technology,-1
 microsoft powerpoint,1548,Presentation,2
 super hexagon,18493,Games,-2
