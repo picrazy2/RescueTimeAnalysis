@@ -11,6 +11,7 @@
 - Then run `python3 combine_data.py` to combine all data from all files into one csv, `all_data.csv`.
 
 ### Directions for analysis
+- Run `python3 analysis.py`. All data will be analyzed first, and specific data (e.g. specific time periods, categories, actvities) can be analyzed by following the instructions in the command prompt.
 
 ### Directions for kmeans
 
