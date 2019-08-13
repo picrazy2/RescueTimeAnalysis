@@ -28,15 +28,11 @@ def run():
 	plt.ylabel('Mean Time spent (seconds)')
 	plt.ylim(0, 200000)
 
-	f = open('clusters.txt', 'w')
 	f2 = plt.figure(2)
 	for i in sorted(points_in_cluster.keys()):
 		print('Cluster ' + str(i+1) + ': ')
-		f.write("Cluster " + str(i+1) + '\n')
 		print("----------------------------------------------------------------------------")
 		apps = points_in_cluster[i]
-		for app in apps:
-			f.write(str(app) + '\n')
 		print("Related Apps:")
 		print(apps)
 		print("Cluster Average (seconds):")
@@ -51,23 +47,22 @@ def run():
 	plt.ylabel('Mean Time spent (seconds)')
 	plt.ylim(0, 200000)
 	plt.legend(handles=handles)
-	f.close()
 
 	f = open('index.txt', 'r')
 	index = int(list(f)[0]) #next index to save to
 	f.close()
 
-	f = open('saved_results/' + str(index) + '.txt', 'w')
-	for i in points_in_cluster:
-		f.write('Cluster ' + str(i+1) + '\n')
-		apps = points_in_cluster[i]
-		for app in apps:
-			f.write(str(app) + '\n')
-	f.close()
+	save_file = input('Save to file? (y/n)')
+	if save_file == 'y':
+		save_filename = input('Save file as? (include full dir path)')
 
-	f = open('index.txt', 'w')
-	f.write(str(index+1))
-	f.close()
+		f = open(save_filename, 'w')
+		for i in points_in_cluster:
+			f.write('Cluster ' + str(i+1) + '\n')
+			apps = points_in_cluster[i]
+			for app in apps:
+				f.write(str(app) + '\n')
+		f.close()
 
 	plt.show()
 

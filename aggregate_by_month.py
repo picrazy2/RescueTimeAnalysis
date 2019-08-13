@@ -1,4 +1,5 @@
 import csv
+import os
 
 by_year = {}
 
@@ -26,6 +27,10 @@ with open('all_data.csv') as csvfile:
 
 for y in by_year:
 	year = by_year[y]
+	try:
+		os.makedirs('data_by_month/' + y, exist_ok=True)
+	except FileExistsError:
+		pass
 	for m in year:
 		filename = 'data_by_month/' + y + '/' + m + '.csv'
 		with open(filename, 'w') as csvfile:
