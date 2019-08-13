@@ -1,7 +1,44 @@
 Cluster 1
 kongregate.com
-apple.com
 Preview
+google.com
+Adobe Photoshop
+google chrome
+en.wikipedia.org
+MS Excel
+pages
+Keynote
+amazon.com
+Safari
+Terminal
+quicktime player
+users
+eclipse
+VLC Media Player
+minecraft
+final cut pro
+matlab
+tincta
+9to5mac.com
+virtualbox vm
+facetime
+wechat
+netflix.com
+mathematica
+idle
+Google Documents
+map.baidu.com
+microsoft onenote
+photoshop cc
+messenger.com
+sublime text
+gaoloumi.com
+sixohone.mit.edu
+lms.mitx.mit.edu
+texshop
+introml.mit.edu
+Cluster 2
+apple.com
 elearning.isb.bj.edu.cn
 usernotificationcenter
 microsoft outlook
@@ -9,19 +46,15 @@ System Preferences
 loginwindow
 rowmote helper
 ask.fm
-google.com
 fc00.deviantart.net
 dragoart.com
 pz-c-es.blogspot.com
-Adobe Photoshop
 blogs.isb.bj.edu.cn
 quickcounter
 Activity Monitor
 photo booth
 system information
 mkis.edu.my
-google chrome
-en.wikipedia.org
 Wikipedia
 mun2012.epad.isb.bj.edu.cn
 easybib.com
@@ -38,7 +71,6 @@ SecurityAgent
 self service
 liveupdate
 jamfhelper
-MS Excel
 netauthagent
 ajax4hire.com
 sciencespot.net
@@ -65,7 +97,6 @@ accounts.google.com
 rescuetime.com
 quicktime plug-in 7.7.1 (chrome plug-in host)
 wisegeek.com
-pages
 scholarscup.org
 blueprintreview.co.uk
 cutehotguys.com
@@ -77,7 +108,6 @@ richoldpeople.epad.isb.bj.edu.cn
 lynda.com
 cadtutor.net
 docs.autodesk.com
-Keynote
 science.howstuffworks.com
 iprocrastinate
 wikihow.com
@@ -113,7 +143,6 @@ microsoft error reporting
 chemistry.about.com
 i48.tinypic.com
 tinypic.com
-amazon.com
 s.taobao.com
 taobao.com
 item.taobao.com
@@ -269,15 +298,12 @@ humanitiesaff.epad.isb.bj.edu.cn
 safarimontage.com
 safari.isb.bj.edu.cn
 quicktime player 7
-Safari
-Terminal
 quicktime plugin (safari internet plug-in)
 medialit.org
 media_debate.epad.isb.bj.edu.cn
 isb.bj.edu.cn
 s1mplel0ve.tumblr.com
 RescueTime
-quicktime player
 3.141592653589793238462643383279502884197169399375105820974944592.com
 signsetcweb.com
 zhidao.baidu.com
@@ -318,7 +344,6 @@ enotes.com
 sat.collegeboard.org
 viewscore.collegeboard.org
 collegeboard.org
-users
 themillercircle.org
 media.tumblr.com
 bigfuture.collegeboard.org
@@ -392,7 +417,6 @@ danielapaiva10.files.wordpress.com
 googlesciencefair.com
 srai.org
 eclipse.org
-eclipse
 coetail.com
 box.com
 guoman.epad.isb.bj.edu.cn
@@ -625,7 +649,6 @@ secure35.ibahn.com
 nhl.com
 marriott.com
 captive network assistant
-VLC Media Player
 dvd player
 store.steampowered.com
 diskimages ui agent
@@ -658,7 +681,6 @@ viooz.co
 ad.directrev.com
 apstudent.collegeboard.org
 apscore.org
-minecraft
 minecraft.net
 ww2.bugnmenot.com
 diskimagemounter
@@ -1110,7 +1132,6 @@ personalitypage.com
 personalitytype.com
 plainthemes.tumblr.com
 en.shanghairolexmasters.com
-messages
 news.sohu.com
 book.knowsky.com
 badminton-information.com
@@ -1398,7 +1419,6 @@ benq.com
 islamicartdb.com
 1.s3.envato.com
 images.google.com.hk
-final cut pro
 macaulay.cuny.edu
 groovypost.com
 answers.microsoft.com
@@ -1559,7 +1579,6 @@ install matlab
 mathworks.com
 GarageBand
 activate matlab
-matlab
 fitbit.com
 support.microsoft.com
 system events
@@ -1580,7 +1599,6 @@ newton.dep.anl.gov
 googlevideo.com
 nature.com
 picrazy2.com
-tincta
 promise.com
 usa.philips.com
 superhexagon.com
@@ -2123,7 +2141,6 @@ multi-science.co.uk
 mseas.mit.edu
 blog.parrot.com
 parrot.com
-9to5mac.com
 humansofshunyi.tumblr.com
 societyforscience.org
 cs.cmu.edu
@@ -2159,7 +2176,6 @@ virtualbox.org
 wiki.ros.org
 mbusa.com
 virtualbox
-virtualbox vm
 login.ubuntu.com
 ubuntu.com
 bmwusa.com
@@ -2181,7 +2197,6 @@ readwrite.com
 install os x 10.10 developer preview
 download java components
 plants vs. zombies
-facetime
 chinese - simplified
 science.opposingviews.com
 cloudkeychainproxy
@@ -2208,7 +2223,6 @@ macstories.net
 tv.youku.com
 kies
 kiescrashreporter
-wechat
 unix.com
 staff.washington.edu
 codeproject.com
@@ -2532,13 +2546,11 @@ public-domain-image.com
 incredibleart.org
 feedback.photoshop.com
 auth.deerfield.edu
-netflix.com
 revenuehits.com
 bwfcontent.tournamentsoftware.com
 picrazy2.com.s3-website-ap-northeast-1.amazonaws.com
 designlike.com
 da.edu
-mathematica
 crumplepop.com
 goprouser.freeforums.org
 beimun.net
@@ -2677,7 +2689,6 @@ airspacemag.com
 shotgun funfun
 python.org
 staff.howard.k12.md.us
-idle
 sophosuiserver
 nowbuzzing.com
 d2ir4eqhtll99a.cloudfront.net
@@ -3304,7 +3315,6 @@ fortune.com
 knoema.com
 beijing.china.org.cn
 daycounter.com
-Google Documents
 investopedia.com
 hsfilmfest.com
 movies.amctv.com
@@ -3329,7 +3339,6 @@ scikit-image.org
 bjshy.gov.cn
 algebralab.org
 digitaslbi.com
-map.baidu.com
 volvocars.com
 us-west-2.console.aws.amazon.com
 wps.prenhall.com
@@ -3382,7 +3391,6 @@ publishingperspectives.com
 kanunu8.com
 help.easybib.com
 public_koch_its
-microsoft onenote
 Microsoft OneDrive
 login.live.com
 account.microsoft.com
@@ -3871,7 +3879,6 @@ ccmdls.adobe.com
 account.live.com
 stores.office.com
 support.office.microsoft.com
-photoshop cc
 adobe illustrator cc 2015
 shakespeare-online.com
 secure.netflix.com
@@ -4114,7 +4121,6 @@ assets.adobe.com
 laurashoe.com
 whitehouse.gov
 boom
-messenger.com
 s-media-cache-ak0.pinimg.com
 googledrivesync
 pickerhost
@@ -4750,7 +4756,6 @@ knowyourmeme.com
 images.google.com
 cpanel.sctf.michaelz.xyz
 futureboy.us
-sublime text
 sublimetext.com
 binaryhexconverter.com
 ethackal.github.io
@@ -5107,7 +5112,6 @@ governor.collegeboard.org
 osghcinemas.com
 railjournal.com
 businesstraveller.com
-gaoloumi.com
 gov.163.com
 tieba.baidu.com
 skyscrapercity.com
@@ -6935,12 +6939,10 @@ mojim.com
 huetips.com
 getambify.com
 eduapps.mit.edu
-sixohone.mit.edu
 stellar.mit.edu
 www3.ul.ie
 zbt.mit.edu
 learning-modules.mit.edu
-lms.mitx.mit.edu
 whereis.mit.edu
 startup.mit.edu
 whenisgood.net
@@ -7476,7 +7478,6 @@ firehose.mit.edu
 tug.org
 detexify.kirelabs.org
 maths.tcd.ie
-texshop
 sharelatex.com
 web.ift.uib.no
 garsia.math.yorku.ca
@@ -8321,7 +8322,6 @@ shanelynn.ie
 chrisalbon.com
 forums.databricks.com
 6004.mit.edu
-introml.mit.edu
 foxtrotalpha.jalopnik.com
 riskmap.mit.edu
 install macos mojave beta
@@ -8709,11 +8709,13 @@ avcome.com
 tds-01.trackingpro.pro
 papapa77.com
 nekoxxx.com
-Cluster 2
+Cluster 3
 Finder
-microsoft word
 facebook.com
-Skype
 youtube.com
 Mail
+messages
 adobe premiere pro cc 2015
+Cluster 4
+microsoft word
+Skype
