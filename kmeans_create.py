@@ -48,13 +48,9 @@ def run():
 	plt.ylim(0, 200000)
 	plt.legend(handles=handles)
 
-	f = open('index.txt', 'r')
-	index = int(list(f)[0]) #next index to save to
-	f.close()
-
-	save_file = input('Save to file? (y/n)')
+	save_file = input('Save to file? (y/n) ')
 	if save_file == 'y':
-		save_filename = input('Save file as? (include full dir path)')
+		save_filename = input('Save file as? (include full dir path) ')
 
 		f = open(save_filename, 'w')
 		for i in points_in_cluster:
@@ -63,7 +59,8 @@ def run():
 			for app in apps:
 				f.write(str(app) + '\n')
 		f.close()
-
+	else: 
+		print('File not saved.')
 	plt.show()
 
 if __name__ == '__main__':
